@@ -1,2 +1,0 @@
-# ryanstraits.github.io
-Blog
