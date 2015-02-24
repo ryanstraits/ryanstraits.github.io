@@ -3,48 +3,63 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Ryan Straits"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Blog v1.0
 
-email: a-mail@mail.mail
+email: ryanstraits@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/RMS-head-large.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Ryan Straits'
+author: 'Ryan Straits'
+author_image: "/assets/images/RMS-large.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://blog.ryanstraits.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
+#- icon:	twitter
+#   url: https://twitter.com/ryanstraits
+#   desc: You should follow me on Twitter
+#   share_url: http://twitter.com/share
+#   share_title: ?text=
+#   share_link: "&amp;url="
+#
+# - icon:	fa-medium
+#   url:	https://medium.com/@ryanstraits
+#   desc: Other thoughts
+#   share_url: 
+#   share_title:
+#   share_link:
+#
+#- icon:	sitemap
+#   url: https://www.ryanstraits.com
+#   desc: ryanstraits.com
+#   share_url: 
+#   share_title:
+#   share_link:
+#
+#
 #  - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: //www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
+#
+#  - icon:	github
+#    url:	https://github.com/ryanstraits
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+#
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
