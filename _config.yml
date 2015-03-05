@@ -3,13 +3,13 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Ryan Straits"
+title: "Sinner/Saint"
 description: > # this means to ignore newlines until "email:"
-   Blog v1.0
+   "Every saint has a past and every sinner has a future" - Oscar Wilde
 
 email: ryanstraits@gmail.com
 #blog logo
-logo: "/assets/images/RMS-head-large.jpg"
+logo: "/assets/images/RMS-large.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
@@ -24,8 +24,8 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-#- icon:	twitter
-#   url: https://twitter.com/ryanstraits
+   - title:	twitter
+      url: https://twitter.com/ryanstraits
 #   desc: You should follow me on Twitter
 #   share_url: http://twitter.com/share
 #   share_title: ?text=
