@@ -4,7 +4,6 @@ title: Simplification Can Be Complicated
 date: 2008-04-11 03:05
 author: ryanstraits
 comments: true
-categories: [serious bid-ness]
 ---
 <p><span lang="EN">well, at least it has been for me. </span></p>
 <p><span lang="EN">lately i&rsquo;ve been intentionally going out of my way to detangle the complex interweavings of what has become my life. it's not an easy thing to do, i'll tell you that. alot of times it requires that you have to say no to many good, yea, even great things. and i, myself, have a hard time doing just that. unfortunately, it's taken me 25+ years to figure that out. </span></p>
