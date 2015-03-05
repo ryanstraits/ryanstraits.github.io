@@ -4,7 +4,6 @@ title: On Leaving And Lebron
 date: 2011-07-12 03:58
 author: ryanstraits
 comments: true
-categories: [hopes, dreams &amp; in-betweens]
 ---
 It's been a year now.
 
