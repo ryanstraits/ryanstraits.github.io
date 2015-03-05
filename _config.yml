@@ -17,7 +17,7 @@ name: 'Ryan Straits'
 author: 'Ryan Straits'
 author_image: "/assets/images/RMS-large.jpg"
 
-paginate:	7
+paginate:	5
 
 url: "http://blog.ryanstraits.com" # the base hostname & protocol for your site
 baseurl: ""
@@ -37,6 +37,6 @@ social:
    
   - title: home
     icon: home
-    url: https://www.ryanstraits.com
+    url: http://www.ryanstraits.com
     desc: Home
 
