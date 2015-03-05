@@ -27,43 +27,16 @@ social:
   - title: twitter
     icon: twitter
     url: https://twitter.com/ryanstraits
-#   desc: You should follow me on Twitter
-#   share_url: http://twitter.com/share
-#   share_title: ?text=
-#   share_link: "&amp;url="
-#
-# - icon:	fa-medium
-#   url:	https://medium.com/@ryanstraits
-#   desc: Other thoughts
-#   share_url: 
-#   share_title:
-#   share_link:
-#
-#- icon:	sitemap
-#   url: https://www.ryanstraits.com
-#   desc: ryanstraits.com
-#   share_url: 
-#   share_title:
-#   share_link:
-#
-#
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-#
-#  - icon:	github
-#    url:	https://github.com/ryanstraits
-#    desc:	Fork me on github
-#    share_url:
-#    share_title:
-#    share_link:
-#
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+    desc: You should follow me on Twitter
+    share_url: http://twitter.com/share
+
+  - title: medium
+    icon: fa-medium
+    url: https://medium.com/ryanstraits
+    desc: Sometimes I write here too
+   
+  - title: home
+    icon: sitemap
+    url: https://ryanstraits.com
+    desc: Home
+
