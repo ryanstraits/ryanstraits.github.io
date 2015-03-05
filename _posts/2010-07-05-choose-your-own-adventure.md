@@ -4,7 +4,6 @@ title: Choose Your Own Adventure
 date: 2010-07-05 06:51
 author: ryanstraits
 comments: true
-categories: [hopes, dreams &amp; in-betweens]
 ---
 <p>or, "leaving/staying pt. 2"</p>
 <p>---</p>
