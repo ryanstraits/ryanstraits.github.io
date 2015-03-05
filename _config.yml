@@ -29,11 +29,6 @@ social:
     url: https://twitter.com/ryanstraits
     desc: You should follow me on Twitter
     share_url: http://twitter.com/share
-
-  - title: medium
-    icon: medium
-    url: https://medium.com/ryanstraits
-    desc: Sometimes I write here too
    
   - title: home
     icon: home
