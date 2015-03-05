@@ -17,7 +17,7 @@ name: 'Ryan Straits'
 author: 'Ryan Straits'
 author_image: "/assets/images/RMS-large.jpg"
 
-paginate:	5
+paginate:	7
 
 url: "http://blog.ryanstraits.com" # the base hostname & protocol for your site
 baseurl: ""
@@ -25,7 +25,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - title: twitter
-    icon: twitter
+    icon: fa-twitter
     url: https://twitter.com/ryanstraits
 #   desc: You should follow me on Twitter
 #   share_url: http://twitter.com/share
