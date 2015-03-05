@@ -4,7 +4,6 @@ title: Less Net/More Gross
 date: 2009-10-30 03:54
 author: ryanstraits
 comments: true
-categories: [serious bid-ness]
 ---
 <p>there just aren't enough hours in the day.</p>
 <p>if i have learned one lesson in this my 27th year of life it is that the older i get, the shorter the days become.</p>
