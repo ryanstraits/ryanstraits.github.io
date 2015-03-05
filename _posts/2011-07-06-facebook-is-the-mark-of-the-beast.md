@@ -4,7 +4,6 @@ title: Facebook Is The Mark Of The Beast
 date: 2011-07-06 02:04
 author: ryanstraits
 comments: true
-categories: [that sad &amp; holy glow]
 ---
 <p>I mean, is there really any doubt?</p>
 <p>I know one thing, I used to write things on the internet. Sometimes they were interesting, sometimes they were complete drivel. But the key was, I wrote them. I sat down at my computer, I opened a blog post window and I wrote.</p>
