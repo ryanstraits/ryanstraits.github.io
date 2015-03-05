@@ -25,7 +25,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - title: twitter
-    icon: fa-twitter
+    icon: twitter
     url: https://twitter.com/ryanstraits
 #   desc: You should follow me on Twitter
 #   share_url: http://twitter.com/share
