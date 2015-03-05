@@ -4,7 +4,6 @@ title: Leaving/Staying
 date: 2009-05-27 23:26
 author: ryanstraits
 comments: true
-categories: [hopes, dreams &amp; in-betweens]
 ---
 <p>sometimes you just need to go where nobody knows your name.</p>
 <p>recently for me, that place was southern california.</p>
