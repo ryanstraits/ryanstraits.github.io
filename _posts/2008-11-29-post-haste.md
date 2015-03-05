@@ -4,7 +4,6 @@ title: Post Haste
 date: 2008-11-29 05:04
 author: ryanstraits
 comments: true
-categories: [tomfoolery]
 ---
 <p>i decided to censor myself and unpublish my previous entry. judging by the glut of comments and influx of traffic i received in response to it, i'm sure it's removal will widely go unnoticed.</p>
 <p>i decided to delete it mainly because of it's bearing on my professional career. unfortunately (or perhaps, fortunately) this site pops up when you google my name. future (or current) employers could just as easily do the same thing. i'm hearing many more are doing just that these days. i'd rather them hear my thoughts on their workplace in person and not from some remote corner of the interweb.</p>
