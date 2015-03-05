@@ -4,7 +4,6 @@ title: Wee Bit O' Catchup
 date: 2008-03-22 04:12
 author: ryanstraits
 comments: true
-categories: [tomfoolery]
 ---
 <p>before i [re]kick this thing back off, a few orders of business:</p>
 <ol>
