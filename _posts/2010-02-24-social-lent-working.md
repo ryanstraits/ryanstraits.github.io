@@ -4,7 +4,6 @@ title: Social Lent-working
 date: 2010-02-24 02:38
 author: ryanstraits
 comments: true
-categories: [serious bid-ness]
 ---
 <p>it's time.</p>
 <p>i'm preceding to phase two of my plan to redesign how i view my time. in what i'll call "phase one" (covered in my previous post), i talked about wanting to get out and actually live a life i'm proud of rather than wasting time on the internet. i feel i've done a fairly decent job. i biked as much as i could last fall (and am dying to get back out there at the first hint of spring), <a href="http://www.myspace.com/sinner-saint">i recorded a song</a>, i spent a lot of time with my family and am making plans for as much travelling this year as possible.</p>
