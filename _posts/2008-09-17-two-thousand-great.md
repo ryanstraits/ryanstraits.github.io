@@ -4,7 +4,6 @@ title: Two-Thousand Great
 date: 2008-09-17 02:25
 author: ryanstraits
 comments: true
-categories: [tomfoolery]
 ---
 <p>p[re].s. - many apologies for the increasing lengths of time between blog posts. in my defense, i had a blog nearly typed up a few weeks ago but somehow it vanished into the digital ooze.</p>
 <p>---</p>
