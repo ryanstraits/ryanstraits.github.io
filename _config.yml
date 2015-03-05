@@ -31,12 +31,12 @@ social:
     share_url: http://twitter.com/share
 
   - title: medium
-    icon: fa-medium
+    icon: medium
     url: https://medium.com/ryanstraits
     desc: Sometimes I write here too
    
   - title: home
-    icon: sitemap
-    url: https://ryanstraits.com
+    icon: home
+    url: https://www.ryanstraits.com
     desc: Home
 
