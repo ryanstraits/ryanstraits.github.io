@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Sinner/Saint"
 description: > # this means to ignore newlines until "email:"
-   "Every saint has a past and every sinner has a future" - Oscar Wilde
+   "Every saint has a past and every sinner has a future." - Oscar Wilde
 
 email: ryanstraits@gmail.com
 #blog logo
@@ -29,6 +29,8 @@ social:
     url: https://twitter.com/ryanstraits
     desc: You should follow me on Twitter
     share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
    
   - title: home
     icon: home
