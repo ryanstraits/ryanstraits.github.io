@@ -4,7 +4,6 @@ title: The Adventure Continues...
 date: 2010-09-03 16:21
 author: ryanstraits
 comments: true
-categories: [Uncategorized]
 ---
 <p>it's been nearly 2 months since i moved to kansas city. much has happened. i hope to bring you a full-featured update in the shape of a long-form post within the next few days.</p>
 <p>until then, here is a glimpse of a few of the things i've been working on while i'm still unemployed:</p>
