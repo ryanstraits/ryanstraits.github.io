@@ -4,7 +4,6 @@ title: A New Carbon Footprint
 date: 2009-07-01 01:57
 author: ryanstraits
 comments: true
-categories: [serious bid-ness]
 ---
 <p>confession: i'm one of those wierdies who goes grocery shopping once every week.</p>
 <p>what can i say? i like my fruit and milk fresh. so sue me.</p>
