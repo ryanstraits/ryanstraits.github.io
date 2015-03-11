@@ -4,7 +4,6 @@ title: Former Thoughts On A Latter Subject...
 date: 2008-04-16 01:49
 author: ryanstraits
 comments: true
-categories: [serious bid-ness]
 ---
 <p>about two years ago i began a journey.</p>
 <p>i guess i didn't realize it then but now i've never been more confident of it. it's been a strange two years since that solitary winter when i finally began to feel the full presence of God in my life (which i'll talk more on in future posts). i can't begin to explain that time in my life but i feel i did it best in a post i wrote on my old xanga site in february '06. here it is in it's entirety:</p>

@@ -4,7 +4,6 @@ title: The Push/Pull Of Give/Take
 date: 2008-07-26 05:08
 author: ryanstraits
 comments: true
-categories: [serious bid-ness]
 ---
 <p>so, i've been reevaluating. reevaluating alot of things. it's something new i've been trying, ya know. something that i guess i was pseudo-taught to never do. "only accept the things you've been told", they say. i suppose that was never a phrase that was actually stated to me (thus the use of the prefix "pseudo") but it was more or less inferred.</p>
 <p>i say, however, challenge the things you've been told. the things you've just come to accept (this is a theme that you may see quite a bit on this blog). then, if they stand up to the test, they truly are worth holding on to. and God forbid you should ever let them go.</p>

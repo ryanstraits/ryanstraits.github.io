@@ -4,7 +4,6 @@ title: Motivation/Hesitation
 date: 2010-03-27 03:10
 author: ryanstraits
 comments: true
-categories: [hopes, dreams &amp; in-betweens]
 ---
 <p>i know i <a href="/blog/2010/2/23/social-lent-working.html" target="_blank">promised to write more</a>. and i haven't. but i fall back on my <a href="/blog/2009/10/29/less-netmore-gross.html" target="_blank">previous promise</a> to not spend as much time on the internet as my sole defense.</p>
 <p>so there.</p>

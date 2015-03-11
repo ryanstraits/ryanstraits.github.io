@@ -4,7 +4,6 @@ title: In Addendum
 date: 2009-03-03 03:25
 author: ryanstraits
 comments: true
-categories: [hopes, dreams &amp; in-betweens]
 ---
 <p>in the interest of promoting beatiful music, i'm going to spread the reach of my previous post a little wider. instead of just friends, i'm including a few loose aquaintances as well:</p>
 <ul>

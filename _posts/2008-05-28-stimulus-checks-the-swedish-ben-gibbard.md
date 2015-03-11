@@ -4,7 +4,6 @@ title: Stimulus Checks & The Swedish Ben Gibbard
 date: 2008-05-28 01:37
 author: ryanstraits
 comments: true
-categories: [tomfoolery]
 ---
 <p>booyah...and i'm back.</p>
 <p>so between work, general indifference to blogging and a 10 day break from all things normal (aka vacation), i haven't had two minutes to rub together to update this page. but alas, no time for excuses, i'm a busy guy.</p>
