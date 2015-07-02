@@ -22,11 +22,6 @@ paginate:	5
 url: "http://blog.ryanstraits.com" # the base hostname & protocol for your site
 baseurl: ""
 
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-48029211-3'
-
 # social icons and sharing options
 social:
   - title: twitter

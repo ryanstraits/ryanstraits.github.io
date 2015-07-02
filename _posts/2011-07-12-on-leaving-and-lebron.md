@@ -3,7 +3,6 @@ layout: post
 title: On Leaving And Lebron
 date: 2011-07-12 03:58
 author: ryanstraits
-comments: true
 ---
 It's been a year now.
 
@@ -19,7 +18,7 @@ This was our time.
 
 We grew up with you. I, personally, saw you play three of your high school championship games at the state tournaments. I was never a particularly big basketball fan, but you had a way of igniting a passion for the game out of indifference. You turned arenas electric. We were all witnesses. And then, the impossible happened: the lowly Cavaliers lucked into taking you 1st in the draft. A once-in-a-generation talent <em>from our area</em> coming back to <em>represent </em><em>our area</em> to the rest of the country? Northeast Ohio was abuzz. It was too good to be true.
 
-<a href="http://ryanstraits.files.wordpress.com/2011/07/news_poster-witness-3.jpg"><img class="alignnone size-medium wp-image-59" alt="news_poster-witness-3" src="http://ryanstraits.files.wordpress.com/2011/07/news_poster-witness-3.jpg?w=300" width="300" height="153" /></a>
+<a href="http://ryanstraits.files.wordpress.com/2011/07/news_poster-witness-3.jpg"><img class="alignnone size-medium wp-image-59" src="http://ryanstraits.files.wordpress.com/2011/07/news_poster-witness-3.jpg?w=300" width="300" height="153" /></a>
 
 And boy, you sure knew how to put on a show. My dad bought season tickets to your games even though we lived an hour and a half away. My parents, especially, loved going to watch you play. You turned <em>my mom</em> into a basketball fan. The games she actually let me go to with my dad will be remembered as some of the best sports experiences of my life. You turned 20,562 screaming fans into a close-knit community every night. There just wasn't anything like it. With the game on the line, we looked to you. We knew you could "turn it on" whenever you wanted and take over the game. The rest of the team just stood and watched you work your magic.
 
@@ -41,7 +40,7 @@ I gave my "decision" to my parents in their kitchen after one of my mom's regula
 
 There weren't any TV cameras, or captive audiences, or charities, or cheesy flannel shirts (well, maybe a few flannel shirts). I didn't have the luxury of playing soft-toss with Jim Gray at some remote location in Greenwich, Connecticut (I mean, c'mon...New England?). No, there wasn't a whole wide world of sports waiting to hear what I had decided.
 
-<a href="http://ryanstraits.files.wordpress.com/2011/07/lebron-james-espn.jpg"><img class="alignnone size-medium wp-image-58" alt="Tommy Hunter" src="http://ryanstraits.files.wordpress.com/2011/07/lebron-james-espn.jpg?w=300" width="300" height="180" /></a>
+<a href="http://ryanstraits.files.wordpress.com/2011/07/lebron-james-espn.jpg"><img class="alignnone size-medium wp-image-58" src="http://ryanstraits.files.wordpress.com/2011/07/lebron-james-espn.jpg?w=300" width="300" height="180" /></a>
 
 But at <em>least</em> there was heartache. It broke my heart to leave Ohio. It broke my heart to feel like I was letting my family down by moving away. It broke my heart to know that I wouldn't be living life beside these people anymore. That I wouldn't be able to just drop by after work to talk and eat dinner with my parents. That I wouldn't be going to Grandma's after church on Sundays anymore. God had knit our hearts so close together for so many years and now our relationship would only exist on the other end of a telephone or computer screen. <em>That</em> is heartbreaking.
 
@@ -49,7 +48,7 @@ I know it's standard to write about all the favorite places that you'll miss in 
 
 ---
 
-You know what else was heartbreaking? Watching your so-called "Decision" from the bar of a seafood restaurant on the outskirts of Kansas City. Feeling the hope of an entire region fade away on national television from 800 miles away is heartbreaking. I knew right then what the reaction would be. And I, for one, was glad I wasn't in Ohio to see it firsthand.
+You know what else was heartbreaking? Watching your so-called "Decision" from the bar of a seafood restaurant on the outskirts of Kansas City. Feeling the hope of an entire region fade away on national television from 800 miles away is heartbreaking. I knew right then what the reaction would be. And I, for one, was glad I wasn't in Ohio to see it first-hand.
 
 "Here we go again."
 
@@ -57,15 +56,15 @@ Being out here for the aftermath has made me realize that no one outside of Ohio
 
 <em> </em>Or at least we thought you were.
 
-<em><a href="http://ryanstraits.files.wordpress.com/2011/07/65911_1582777042256_1020604903_1647210_5966055_n.jpg"><img class="alignnone size-medium wp-image-57" alt="65911_1582777042256_1020604903_1647210_5966055_n" src="http://ryanstraits.files.wordpress.com/2011/07/65911_1582777042256_1020604903_1647210_5966055_n.jpg?w=300" width="300" height="224" /></a></em>
+<em><a href="http://ryanstraits.files.wordpress.com/2011/07/65911_1582777042256_1020604903_1647210_5966055_n.jpg"><img class="alignnone size-medium wp-image-57" src="http://ryanstraits.files.wordpress.com/2011/07/65911_1582777042256_1020604903_1647210_5966055_n.jpg?w=300" width="300" height="224" /></a></em>
 
 I think Dan Wetzel of Yahoo Sports put the whole thing in <a href="http://sports.yahoo.com/nba/news;_ylt=AoWfdJHNo5Q7zT3ZweCYfDW8vLYF?slug=dw-wetzel_cleveland_laughs_at_lebron_james_061211" target="_blank">perspective</a> best:
 <blockquote>No city has lost like this one, not a single major professional sports championship since 1964, when the Browns won a pre-Super Bowl NFL title. You’d have to be in your mid-50s to remember it. Cleveland’s modern sports memories are defined in short terms, as if elaborating is just too painful: The Drive, The Fumble, The Shot, The Move and, of course, The Decision.
 
 You want collapses? The 1997 World Series is as bad as anything the Cubs or Red Sox ever dealt with. It’s just this city doesn’t have the media poets to chronicle it like Chicago or Boston. You want the true gut punch? Their beloved Browns moved to Baltimore only to finally get their act together and win a Super Bowl.
-<p id="yui_3_3_0_1_130797841408819">And then there was this, LeBron James, the local kid from Akron, the one who claimed he understood your heartache, the one you defended for years, the one that was finally going to deliver sporting glory. He bails for some fair-weather sports town and an arena full of white-covered chairs with pretty people who can’t even be bothered to watch the game while it’s going on.</p>
+And then there was this, LeBron James, the local kid from Akron, the one who claimed he understood your heartache, the one you defended for years, the one that was finally going to deliver sporting glory. He bails for some fair-weather sports town and an arena full of white-covered chairs with pretty people who can’t even be bothered to watch the game while it’s going on.
 </blockquote>
-Did it break your heart to leave Ohio? I know it didn't break your heart to leave Cleveland. The way you left tells us that much. Your big Lithuanian friend <em>who didn't even grow up in America</em>, let alone Cleveland,<em> </em><a href="http://www.waitingfornextyear.com/2010/08/zydrunas-ilgauskas-thanks-fans-in-sunday-morning-ad/" target="_blank">showed everyone</a> how you leave a beloved city with class: "I...hope you realize that Cleveland will always be home to me." You'd do well to take notes.
+Did it break your heart to leave Ohio? I know it didn't break your heart to leave Cleveland. The way you left tells us that much. Your big Lithuanian friend <em>who didn't even grow up in America</em>, let alone Cleveland, <a href="http://www.waitingfornextyear.com/2010/08/zydrunas-ilgauskas-thanks-fans-in-sunday-morning-ad/" target="_blank">showed everyone</a> how you leave a beloved city with class: "I...hope you realize that Cleveland will always be home to me." You'd do well to take notes.
 
 The truth is, we glossed over your arrogance. The showboating, the posturing, the egotism, the chalk toss. It was downplayed because you were a "hometown" boy. We saw it and just laughed it off. And that's on us. But now, it's on you. We've grieved, but we're <a href="http://www.youtube.com/watch?v=P3pbLyHCOCo" target="_blank">moving on</a>. Akron might take you back, but Ohio never will. You've taken your place in the long list of dark spots in Cleveland's sports history. Did you really envision it turning out any differently? If you really were ashamed of claiming Ohio as your home, you wouldn't have to worry about it anymore.
 
@@ -83,9 +82,9 @@ Believe me, I wanted to leave all that negativity behind too. But leaving has gi
 
 ---
 
-Thirteen hours on the road by yourself gives you just enough time to get excited about what you're doing, then doubt what you're doing, and then get excited all over again. My mood swings on that neverending drive through the Plains were most likely dictated by the ups and downs of the wide array of music I had put into playlists for the long journey out. Luckily, it kept me distracted just long enough from thinking about how I honestly didn't know where I would be staying when I got out to Kansas City. I just knew that it's where I needed to be. A few rather kind folks decided to take me in. I stayed on my best friend's couch for a night. And then transferred my meager belongings into the den of a house that belonged to three guys I barely knew. They graciously allowed me to stay there until I landed a job in my new home city. That stay would last for just under three months.
+Thirteen hours on the road by yourself gives you just enough time to get excited about what you're doing, then doubt what you're doing, and then get excited all over again. My mood swings on that never-ending drive through the Plains were most likely dictated by the ups and downs of the wide array of music I had put into playlists for the long journey out. Luckily, it kept me distracted just long enough from thinking about how I honestly didn't know where I would be staying when I got out to Kansas City. I just knew that it's where I needed to be. A few rather kind folks decided to take me in. I stayed on my best friend's couch for a night. And then transferred my meager belongings into the den of a house that belonged to three guys I barely knew. They graciously allowed me to stay there until I landed a job in my new home city. That stay would last for just under three months.
 
-I didn't know it then, but I had just happened into one of the most amazing group of friends that I've ever been apart of. Yes, I had to make the heartrending decision to leave my family and friends back in Ohio. But I met, dated, and am going to marry the girl of my dreams out here in KC in three months. She wound up being a pretty good reason to leave Ohio. The price was steep, but I'd say it was a fairly even trade.
+I didn't know it then, but I had just happened into one of the most amazing group of friends that I've ever been apart of. Yes, I had to make the heart-rending decision to leave my family and friends back in Ohio. But I met, dated, and am going to marry the girl of my dreams out here in KC in three months. She wound up being a pretty good reason to leave Ohio. The price was steep, but I'd say it was a fairly even trade.
 
 So, can you say the same thing? Was it worth it? I'll be honest, I rooted for you to lose. And just about all of Ohio was darn happy when you did. Even if you would have pulled out some late-game magic like you always seemed to do for us, would it have been as fulfilling? Wouldn't it have been <em>that much sweeter</em> if you were winning it all for Cleveland? Wouldn't that be a much greater cause? It sure looks like the <a href="http://www.huffingtonpost.com/2011/07/11/lebron-james-popularity-all-time-low_n_894819.html">rest of America</a> <a href="http://sports.espn.go.com/nba/news/story?id=5575810" target="_blank">thinks so</a>. But hey, you made your choice. And I made mine.
 
