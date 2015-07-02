@@ -1,6 +1,6 @@
 ---
 layout: post
-title: norfolk & virginia beach, va
+title: Norfolk & Virginia Beach, VA
 date: 2007-07-04 18:56
 author: ryanstraits
 image: /assets/images/tour/norfolk-va.jpg

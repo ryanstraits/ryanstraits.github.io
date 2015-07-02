@@ -5,6 +5,8 @@ date: 2008-03-28 21:29
 author: ryanstraits
 image:
 ---
+*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
 There, I've admitted it.
 
 Basically, I'm all but addicted to the act of archiving. Maybe i should have become a librarian or some form of historian tasked with the strict keeping of records and the timely submission of important data into the ol' trusty vault.

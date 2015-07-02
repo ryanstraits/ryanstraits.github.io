@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pensacola, fl
+title: Pensacola, FL
 date: 2007-07-10 22:32
 author: ryanstraits
 image: /assets/images/tour/pensacola-fl.jpg

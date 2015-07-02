@@ -1,6 +1,6 @@
 ---
 layout: post
-title: niceville, fl
+title: Niceville, FL
 date: 2007-07-09 21:17
 author: ryanstraits
 image: /assets/images/tour/niceville-fl.jpg

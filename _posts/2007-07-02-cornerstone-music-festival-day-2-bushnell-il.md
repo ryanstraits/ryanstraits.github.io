@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cornerstone music festival (day 2) - bushnell, il
+title: Cornerstone Music Festival (Day 2) - Bushnell, IL
 date: 2007-07-02 19:16
 author: ryanstraits
 image: /assets/images/tour/cornerstone-il2.jpg

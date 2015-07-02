@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kansas city, mo
+title: Kansas City, MO
 date: 2007-06-28 02:00
 author: ryanstraits
 image: /assets/images/tour/kansascity-mo.jpg

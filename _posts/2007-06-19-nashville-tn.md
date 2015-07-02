@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nashville, tn
+title: Nashville, TN
 date: 2007-06-19 13:01
 author: ryanstraits
 image: /assets/images/tour/nashville-tn.jpg

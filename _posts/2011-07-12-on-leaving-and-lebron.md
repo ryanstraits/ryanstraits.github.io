@@ -3,7 +3,11 @@ layout: post
 title: On Leaving And Lebron
 date: 2011-07-12 03:58
 author: ryanstraits
+image:
 ---
+*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
+
 It's been a year now.
 
 One year ago last Wednesday, I packed up everything I could fit into a little, blue Mazda and headed west. It was one of the hardest things I'll probably ever do in my life. Leaving my family, my friends and the only life I had known for the last 28 and half years wasn't an easy call. But there I was, on July 6th, 2010, watching my parents fade away in my rearview as I set a course for the great unknown.

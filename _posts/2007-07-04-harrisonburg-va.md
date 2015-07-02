@@ -1,6 +1,6 @@
 ---
 layout: post
-title: harrisonburg, va
+title: Harrisonburg, VA
 date: 2007-07-04 00:26
 author: ryanstraits
 image: /assets/images/tour/harrisonburg-va.jpg

@@ -3,13 +3,22 @@ layout: post
 title: The Adventure Continues...
 date: 2010-09-03 16:21
 author: ryanstraits
-comments: true
+image: 
 ---
-<p>it's been nearly 2 months since i moved to kansas city. much has happened. i hope to bring you a full-featured update in the shape of a long-form post within the next few days.</p>
-<p>until then, here is a glimpse of a few of the things i've been working on while i'm still unemployed:</p>
-<p><span style="text-decoration:line-through;"><a href="http://www.yeameneither.com/" target="_blank">yeameneither.com</a> - a fun, little website based on a twitter trend (#yeameneither) that my friend <a href="http://travisgeary.com/" target="_blank">travis</a> and i started for the heck of it.</span></p>
-<p><a href="http://twitter.com/dctalkraps" target="_blank">DCTalkRaps</a> - what, you haven't heard of DC Talk Raps yet? oh, you will. a DC Talk rap in your twitter feed everyday? are you kidding me? life just doesn't get better than that.</p>
-<p><span style="text-decoration:line-through;"><a href="http://godateventide.tumblr.com/" target="_blank">God at Eventide</a> - i bought this old devotional book from 1965 from a thrift store here in kc after the note scribbled on the first page intrigued me: "to my sweetheart of 30 years who is making my life one of thrills and joys together as we walk upward toward our eternal home - your sweetheart". i decided to start posting each day's devotion as i read them.</span></p>
-<p>oh yes. and i've also found myself a lady friend. the coolest girl i know on either side of the mississippi. so far, kc, you've done well.&nbsp;</p>
-<p>more to come soon, friends!</p>
+*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
+
+It's been nearly 2 months since I moved to Kansas City. Much has happened. I hope to bring you a full-featured update in the shape of a long-form post within the next few days.
+
+Until then, here is a glimpse of a few of the things I've been working on while I'm still unemployed:
+
++ <a href="http://www.yeameneither.com/" target="_blank">yeameneither.com</a> - A fun, little website based on a Twitter trend (#yeameneither) that my friend <a href="http://travisgeary.com/" target="_blank">Travis</a> and I started for the heck of it.
+
++ <a href="http://twitter.Com/dctalkraps" target="_blank">DCTalk Raps</a> - What, you haven't heard of DC Talk Raps yet? Oh, you will. A DC Talk rap in your Twitter feed everyday? Are you kidding me? Life just doesn't get better than that.
+
++ <a href="http://godateventide.Tumblr.Com/" target="_blank">God At Eventide</a> - I bought this old devotional book from 1965 from a thrift store here in KC after the note scribbled on the first page intrigued me: "To my sweetheart of 30 years who is making my life one of thrills and joys together as we walk upward toward our eternal home. - Your Sweetheart". I decided to start posting each day's devotion as I read them.
+
+Oh yes. And I've also found myself a lady friend. The coolest girl I know on either side of the Mississippi. So far, KC, you've done well.
+
+More to come soon, friends!
 

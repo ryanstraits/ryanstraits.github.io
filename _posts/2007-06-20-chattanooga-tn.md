@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chattanooga, tn
+title: Chattanooga, TN
 date: 2007-06-20 20:30
 author: ryanstraits
 image: /assets/images/tour/chattanooga-tn.jpg

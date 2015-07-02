@@ -1,6 +1,6 @@
 ---
 layout: post
-title: savannah, ga
+title: Savannah, GA
 date: 2007-07-07 18:28
 author: ryanstraits
 image: /assets/images/tour/savannah-ga.jpg

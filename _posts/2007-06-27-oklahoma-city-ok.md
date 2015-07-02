@@ -1,6 +1,6 @@
 ---
 layout: post
-title: oklahoma city, ok
+title: Oklahoma City, OK
 date: 2007-06-28 00:58
 author: ryanstraits
 image: /assets/images/tour/okc-ok.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lexington, ky
+title: Lexington, KY
 date: 2007-06-18 16:10
 author: ryanstraits
 image: /assets/images/tour/lexington-ky.jpg

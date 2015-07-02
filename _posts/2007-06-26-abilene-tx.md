@@ -1,6 +1,6 @@
 ---
 layout: post
-title: abilene, tx
+title: Abilene, TX
 date: 2007-06-26 11:04
 author: ryanstraits
 image: /assets/images/tour/abilene-tx.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jackson, ms
+title: Jackson, MS
 date: 2007-06-21 19:18
 author: ryanstraits
 image: /assets/images/tour/jackson-ms.jpg
