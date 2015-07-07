@@ -3,7 +3,7 @@ layout: post
 title: Motivation/Hesitation
 date: 2010-03-27 03:10
 author: ryanstraits
-image: 
+image: /assets/images/squarespace/motivation-hesitation.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 

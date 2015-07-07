@@ -7,6 +7,7 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+
 In the interest of promoting beautiful music, I'm going to spread the reach of my previous post a little wider. Instead of just friends, I'm including a few loose acquaintances as well:
 
 + <a href="http://www.myspace.com/perhapsy">Perhapsy</a> - I just started listening to this today and am a big fan already. **Relation:** I spent a few weeks on the road with Derek while he was with the Winston Jazz Routine and I with State Bird.

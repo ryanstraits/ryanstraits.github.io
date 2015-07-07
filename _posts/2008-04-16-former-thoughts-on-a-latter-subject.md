@@ -7,6 +7,7 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+
 About two years ago I began a journey.
 
 I guess I didn't realize it then but now I've never been more confident of it. It's been a strange two years since that solitary winter when I finally began to feel the full presence of God in my life (which I'll talk more on in future posts). I can't begin to explain that time in my life but I feel I did it best in a post I wrote on my old Xanga site in February '06. Here it is in it's entirety:

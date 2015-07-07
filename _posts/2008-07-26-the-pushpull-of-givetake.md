@@ -3,9 +3,10 @@ layout: post
 title: The Push/Pull Of Give/Take
 date: 2008-07-26 05:08
 author: ryanstraits
-image:
+image: /assets/images/squarespace/push-pull.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
 
 So, I've been re-evaluating. Re-evaluating a lot of things. It's something new I've been trying, ya know. Something that I guess I was pseudo-taught to never do. "only accept the things you've been told", they say. I suppose that was never a phrase that was actually stated to me (thus the use of the prefix "pseudo"), but it was more or less inferred.
 

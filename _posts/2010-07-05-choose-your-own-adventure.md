@@ -9,6 +9,7 @@ image: /assets/images/squarespace/adventure.jpg
 
 
 Or, "Leaving/Staying Pt. 2"
+
 ---
 These are words I've been meaning to write for a little over three months now. Unfortunately, they haven't formed themselves into complete sentences until tonight.
 

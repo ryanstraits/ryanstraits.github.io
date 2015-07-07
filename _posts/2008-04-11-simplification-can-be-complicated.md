@@ -7,6 +7,7 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+
 Well, at least it has been for me.
 
 Lately I've been intentionally going out of my way to de-tangle the complex interweavings of what has become my life. It's not an easy thing to do, I'll tell you that. A lot of times it requires that you have to say no to many good, yea, even great things. And I, myself, have a hard time doing just that. Unfortunately, it's taken me 25+ years to figure that out. 

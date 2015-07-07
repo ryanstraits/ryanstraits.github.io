@@ -3,9 +3,10 @@ layout: post
 title: We Are Not Christians...
 date: 2008-06-25 03:12
 author: ryanstraits
-image: 
+image: /assets/images/squarespace/christians.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
 
 ...If we are not like Christ.
 
@@ -26,3 +27,4 @@ So then when I look at what "Christianity" has become and what it has been built
 So, are we really "Christians"? It's really not for us to decide. I mean, sure we've accepted His atonement for our sins, i.e. "got saved", and we all strive to die to ourselves and live for Him each day (or at least we claim to), but as far as this life goes, we won't be the ones who ultimately decide if we are truly like Him or not.
 
 Our neighbors will.
+

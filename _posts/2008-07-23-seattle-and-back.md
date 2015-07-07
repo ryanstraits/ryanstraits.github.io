@@ -7,6 +7,7 @@ image: /assets/images/squarespace/seattle-trip.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+
 A bigger blog will be shortly coming. I've got to at least get one a month to justify having this site. You may be thinking: that doesn't justify you having this site. And you'd also be correct. But still, I continue to humor myself.
 
 This past weekend I humored myself by flying out to the Pacific Northwest to visit a few good old friends. It was short but most infinitely sweet. I had a blast and a half to say the least and a full two blasts to say the most.
