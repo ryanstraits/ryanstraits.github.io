@@ -5,8 +5,6 @@ date: 2011-07-12 03:58
 author: ryanstraits
 image: /assets/images/squarespace/lebron-witness.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
 
 It's been a year now.
 
@@ -97,6 +95,7 @@ So, can you say the same thing? Was it worth it? I'll be honest, I rooted for yo
 And it turned out to be the best one I've ever made.
 
 ---
+
 > “All the people that was rooting on me to fail, at the end of the day they have to wake up tomorrow and have the same life that they had before they woke up today,” James said. “They have the same personal problems they had today. I’m going to continue to live the way I want to live and continue to do the things that I want to do with me and my family and be happy with that.
 
 > “They can get a few days or a few months or whatever the case may be on being happy about not only myself, but the Miami Heat not accomplishing their goal. But they have to get back to the real world at some point.”
@@ -106,3 +105,4 @@ No, now *you* have to get back to the real world. We already live here. The real
 But whatever you have to say to help you sleep at night. You've made your bed. You chose and you lost. But hey, coming from Ohio you should be pretty familiar with that empty feeling.
 
 And, well, there's always next year.
+

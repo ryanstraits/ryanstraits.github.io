@@ -3,9 +3,11 @@ layout: post
 title: Social Lent-working
 date: 2010-02-24 02:38
 author: ryanstraits
-image: 
+image: /assets/images/squarespace/lentworking.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
+---
 
 
 It's time.
@@ -36,5 +38,4 @@ And this will be that place. I'll upload pictures, update everyone on life (if y
 In related news: I just received my fully licensed (a.k.a legal) version of Cubase 5 in the mail today and plan to begin recording almost immediately. I have to make a quick detour to the wonderful, friend-filled land of Missouri for a few days. But after, music-making to it's fullest.
 
 It's just time.
-
 

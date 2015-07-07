@@ -7,6 +7,8 @@ image: /assets/images/squarespace/seattle-trip.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 A bigger blog will be shortly coming. I've got to at least get one a month to justify having this site. You may be thinking: that doesn't justify you having this site. And you'd also be correct. But still, I continue to humor myself.
 

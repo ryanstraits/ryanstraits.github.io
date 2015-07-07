@@ -7,6 +7,8 @@ image: /assets/images/squarespace/radiohead.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 P[re].S. - many apologies for the increasing lengths of time between blog posts. In my defense, I had a blog nearly typed up a few weeks ago but somehow it vanished into the digital ooze.
 

@@ -7,10 +7,12 @@ image: /assets/images/squarespace/adventure.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
 
 Or, "Leaving/Staying Pt. 2"
 
 ---
+
 These are words I've been meaning to write for a little over three months now. Unfortunately, they haven't formed themselves into complete sentences until tonight.
 
 Some of my fondest memories as a child revolved around the regular trips my mom took my sisters and I on to the quaint, local library of our little town. The reason for the trips were usually school-based in nature, but the undoubted highlight for my pre-adolescent mind was picking up the latest offering from the keenly-titled "<a href="http://en.wikipedia.org/wiki/Choose_Your_Own_Adventure">Choose Your Own Adventure</a>" series of books. I devoured every copy I came across within mere hours. I became engrossed in every turn of every story and was incredibly curious about <a href="http://flowingdata.com/2009/08/11/choose-your-own-adventure-most-likely-youll-die/">every possible conclusion</a> that the book could lead me to. So much so, that I think my ardent wonder might have developed into something of a character flaw.

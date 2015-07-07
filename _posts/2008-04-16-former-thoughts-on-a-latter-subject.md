@@ -7,6 +7,8 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 About two years ago I began a journey.
 

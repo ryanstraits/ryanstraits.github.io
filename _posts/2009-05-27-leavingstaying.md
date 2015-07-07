@@ -7,6 +7,7 @@ image: /assets/images/squarespace/california-trip.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
 
 Sometimes you just need to go where nobody knows your name.
 

@@ -7,6 +7,8 @@ image: /assets/images/squarespace/footprint.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 Confession: I'm one of those wierdies who goes grocery shopping once every week.
 
@@ -39,3 +41,4 @@ To live unto yourself is to not really live at all. So then, what are we doing i
 Sometimes I wonder if recycling my plastic bottles and using my new little grocery bags really makes that much of a difference in such a big, big world. But then I think about that high school kid.
 
 And then I think about footprints.
+

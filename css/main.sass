@@ -56,7 +56,14 @@ body
     width: $rs*2
     height: $rs*2
     background-size: cover
-    background-repeat: no-repeat
+    border-radius: 50%
+    z-index: 99
+    text-indent: -9999px
+    border: 1px solid #fff
+    background-color: #fff
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+    -box-shadow: 0 1px 1px rgba(0,0,0,0.3)
 
 .teaserimage
   height: 450px
@@ -98,7 +105,7 @@ body
     background-color: #fff
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
-    box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+    -box-shadow: 0 1px 1px rgba(0,0,0,0.3)
   .blog-title
     margin: 0
     padding: $rs*5.25 $rs $rs/2
@@ -351,7 +358,7 @@ body
       letter-spacing: -0.02em
       font-weight: 700
       font-style: normal
-      font-size: 24px
+      font-size: 22px
       line-height: 1.3
       margin: 0
       font-family: $font-sans
@@ -360,14 +367,14 @@ body
       letter-spacing: -0.02em
       font-weight: 700
       font-style: normal
-      font-size: 32px
+      font-size: 30px
       line-height: 1.2
       padding-top: 31px
       margin-bottom: 4px
     p
       font-weight: 400
       font-style: normal
-      font-size: 22px
+      font-size: 20px
       line-height: 30px
       margin: 0
       padding-bottom: 30px
@@ -380,7 +387,9 @@ body
       text-decoration: underline
     img
       max-width: 100%
-      margin: 0 auto
+      display: block
+      margin-left: auto
+      margin-right: auto
     figure
       margin: 0
       padding: 0 0 30px
@@ -421,7 +430,7 @@ body
       padding: 0
       font-weight: 400
       font-style: normal
-      font-size: 23px
+      font-size: 20px
       line-height: 30px
       margin-left: 30px
       margin-bottom: 12px

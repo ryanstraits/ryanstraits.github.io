@@ -7,6 +7,8 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 I decided to censor myself and un-publish my previous entry. Judging by the glut of comments and influx of traffic I received in response to it, I'm sure it's removal will widely go unnoticed.
 

@@ -7,6 +7,8 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 In the hopes of keeping things fresh(er) on this site, I'm launching a new little page on here I'm calling "Notes-To-Self" (see top bar for the page conveniently titled, "Notes").
 
@@ -14,5 +16,5 @@ In it will be short blurbs that I think of throughout the day that aren't quite 
 
 Until my next ridiculously long entry...
 
-*Editor's note: These are lost to antiquity. Please try again.
+*Editor's note: These are lost to antiquity. Nothing to see here anymore.*
 

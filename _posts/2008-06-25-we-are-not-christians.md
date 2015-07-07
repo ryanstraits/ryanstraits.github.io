@@ -7,6 +7,8 @@ image: /assets/images/squarespace/christians.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 ...If we are not like Christ.
 

@@ -7,6 +7,8 @@ image: /assets/images/squarespace/lessnet-moregross.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 There just aren't enough hours in the day.
 
@@ -44,5 +46,4 @@ Of course, winter is coming. And with it, not much cycling. But I've started mak
 I suppose if I've learned one thing in my 27 years, it's that I still have a whole lot left to learn.
 
 Maybe I'm not so old after all.
-
 

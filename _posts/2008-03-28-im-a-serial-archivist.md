@@ -7,6 +7,8 @@ image: assets/images/squarespace/archive.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 There, I've admitted it.
 

@@ -3,9 +3,11 @@ layout: post
 title: Simplification Can Be Complicated
 date: 2008-04-11 03:05
 author: ryanstraits
-image:
+image: /assets/images/squarespace/simplification.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
+---
 
 
 Well, at least it has been for me.

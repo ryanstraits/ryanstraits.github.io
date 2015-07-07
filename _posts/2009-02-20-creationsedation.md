@@ -3,9 +3,11 @@ layout: post
 title: Creation/Sedation
 date: 2009-02-20 23:43
 author: ryanstraits
-image: 
+image: /assets/images/squarespace/creation.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
+
+---
 
 
 A few days ago, I just so happened to stumble across an <a href="http://www.xanga.com/home.aspx?user=bluestarmorning">old blog of mine</a>. It always makes for an entertaining read whenever I remember that demonstrations of my past inner ramblings are still publicly viewable. I started it in the winter of '03 when I was just a spry and naive 21 years old. Xanga was really taking off in those days and was pretty much the hub of all my pre-Myspace and Facebook online activity (side note: it's funny how the internet goes through different "movements", isn't it?). I dutifully continued my blogging from then until sometime in the early summer of '06 which, thankfully, was a summer I'm particularly glad I didn't recount.

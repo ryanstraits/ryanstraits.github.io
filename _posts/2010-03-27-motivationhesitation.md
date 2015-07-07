@@ -7,6 +7,8 @@ image: /assets/images/squarespace/motivation-hesitation.jpg
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 I know I promised to write more. And I haven't. But I fall back on my previous promise to not spend as much time on the internet as my sole defense.
 

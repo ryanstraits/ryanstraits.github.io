@@ -7,6 +7,8 @@ image:
 ---
 *A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
 
+---
+
 
 So, while I've had a blog post idea in my head for running on 3 months now, the urge to sit down and actually write it out just hasn't been able to crack my air-tight schedule these last few months. I'm sad that this blog has gone by the wayside, but working 55-hour weeks at my new job, spending time w/ my girlfriend, flying home to Ohio for holidays, and working on the project that is the subject of this post has taken up the lion's share of my time recently.
 
