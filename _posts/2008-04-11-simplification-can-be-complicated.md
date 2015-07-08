@@ -5,10 +5,6 @@ date: 2008-04-11 03:05
 author: ryanstraits
 image: /assets/images/squarespace/simplification.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 Well, at least it has been for me.
 
@@ -19,4 +15,8 @@ I once heard a story about the philosopher <a href="http://en.Wikipedia.Org/wiki
 The funny thing is, there's some truth to Voltaire's statement. Think of how much we cram into our lives now that we can zip around town at the push of a pedal and can get our work done at the click of a button. How much more stuff do we tack on to our schedules just because we can fit it in? I'm beginning to be of the mindset that our human bodies and minds just weren't meant to handle such a toll. Maybe that Voltaire fellow wasn't so crazy after all.
 
 In fact, wouldn't our lives be so much fuller if we worked more on sharing our time and spent it less?
+
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
 

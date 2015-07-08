@@ -5,10 +5,6 @@ date: 2009-10-30 03:54
 author: ryanstraits
 image: /assets/images/squarespace/lessnet-moregross.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 There just aren't enough hours in the day.
 
@@ -47,3 +43,6 @@ I suppose if I've learned one thing in my 27 years, it's that I still have a wh
 
 Maybe I'm not so old after all.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

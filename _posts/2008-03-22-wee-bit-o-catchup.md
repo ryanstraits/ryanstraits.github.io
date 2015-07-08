@@ -5,10 +5,6 @@ date: 2008-03-22 04:12
 author: ryanstraits
 image: 
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 Before I [re]kick this thing back off, a few orders of business:
 
@@ -20,4 +16,8 @@ Before I [re]kick this thing back off, a few orders of business:
 In addition, I'm also keenly aware that there's a high probability that I will be the only one reading this anyways.
 
 So there's that.
+
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
 

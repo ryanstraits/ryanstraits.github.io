@@ -5,10 +5,6 @@ date: 2010-03-27 03:10
 author: ryanstraits
 image: /assets/images/squarespace/motivation-hesitation.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 I know I promised to write more. And I haven't. But I fall back on my previous promise to not spend as much time on the internet as my sole defense.
 
@@ -40,3 +36,6 @@ Next up on my reading list:<a href="http://www.amazon.com/Freakonomics-Economist
 
 And thank you very much for stopping by and reading this latest winding entry of mine. May the next post make its way to your screen much speedier than the last.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

@@ -5,9 +5,6 @@ date: 2009-05-27 23:26
 author: ryanstraits
 image: /assets/images/squarespace/california-trip.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
 
 Sometimes you just need to go where nobody knows your name.
 
@@ -28,3 +25,7 @@ I've found that I need these little retrospectives now and again. It re-establis
 I think we could all use a good trip up the coast when we start to feel ourselves losing grip on things. Just a simple excursion where you don't give a thought to where you're going or when you get there. A chance to just appreciate the journey for what it is and let the destination figure itself out.
 
 Just don't get any funny ideas about actually staying there.
+
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

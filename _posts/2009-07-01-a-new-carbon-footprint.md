@@ -5,10 +5,6 @@ date: 2009-07-01 01:57
 author: ryanstraits
 image: /assets/images/squarespace/footprint.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 Confession: I'm one of those wierdies who goes grocery shopping once every week.
 
@@ -24,9 +20,9 @@ A high schooler.
 
 Wow, so apparently this generation really is different. I'm still evaluating whether I am actually included in the same generation as that kid. But he was right, our parents really don't seem to get it. And the unfortunate truth is, we are going to pay for their mistakes, just as they paid for their parent's mistakes, and their parents before them. Right now we are dealing with the consequences of the decisions our parents' and grandparents' generations have made. Decisions that are ultimately harming this planet. And now we will be accountable to our children--and even to God, I believe--for how we will live while we we've been given this short span of time here on earth.
 
-Alright, well that's not even the main point of this post, lest you think I am careening into tree-hugging territory. Maybe another day. This whole business of our carbon footprint, though, got me thinking in another direction. See, when you make an actual footprint in the dirt, you are displacing the earth around you. The ground moves out of the way until it has successfully equalled your weight (or density, I suppose) and pushes back. It's like <a href="http://en.wikipedia.org/wiki/Buoyancy">buoyancy</a>, if something floats it's because the water has put enough force on the object it's surrounding that it essentially allows that object to "carve out it's space" within it. If something sinks, it's because the water doesn't have a significant enough reciprocating force to even out the object's weight. Follow?
+Alright, well that's not even the main point of this post, lest you think I am careening into tree-hugging territory. Maybe another day. This whole business of our carbon footprint, though, got me thinking in another direction. See, when you make an actual footprint in the dirt, you are displacing the earth around you. The ground moves out of the way until it has successfully equalled your weight (or density, I suppose) and pushes back. It's like <a href="http://en.wikipedia.org/wiki/Buoyancy" target="_blank">buoyancy</a>, if something floats it's because the water has put enough force on the object it's surrounding that it essentially allows that object to "carve out it's space" within it. If something sinks, it's because the water doesn't have a significant enough reciprocating force to even out the object's weight. Follow?
 
-Since we humans are "carbon-based" (<a href="http://wiki.answers.com/Q/What_percent_of_human_body_is_carbon_based">18.5% carbon</a>, to be exact), I began to think about how each one of us has the ability to leave impressions in those around us (to complete my little analogy). Some are positive, some negative. Which made me realize, it's not just an ability. It's actually a responsibility.
+Since we humans are "carbon-based" (<a href="http://wiki.answers.com/Q/What_percent_of_human_body_is_carbon_based" target="_blank">18.5% carbon</a>, to be exact), I began to think about how each one of us has the ability to leave impressions in those around us (to complete my little analogy). Some are positive, some negative. Which made me realize, it's not just an ability. It's actually a responsibility.
 
 And so, this is where I probably need to make another confession: lately I've felt like I've been a fairly significant non-force on those people around me. It started a few years ago, I suppose. I had this nice little string of setbacks that I felt like God could have handled a little better. So, layer by layer, I started to remove myself from responsibility. I was burnt out and needed a break, and I didn't feel that worthy to be displacing any part of myself into other people anyways. I felt like I didn't have any significant forces lifting me up, so how could I reciprocate that in someone else?
 
@@ -42,3 +38,6 @@ Sometimes I wonder if recycling my plastic bottles and using my new little groce
 
 And then I think about footprints.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

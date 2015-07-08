@@ -5,10 +5,6 @@ date: 2008-11-29 05:04
 author: ryanstraits
 image:
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 I decided to censor myself and un-publish my previous entry. Judging by the glut of comments and influx of traffic I received in response to it, I'm sure it's removal will widely go unnoticed.
 
@@ -20,3 +16,6 @@ So, why in the world is my name on a patent? About 3 years ago I helped design a
 
 Hooray.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

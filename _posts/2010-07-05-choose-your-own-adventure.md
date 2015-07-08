@@ -5,13 +5,8 @@ date: 2010-07-05 06:51
 author: ryanstraits
 image: /assets/images/squarespace/adventure.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
 
 Or, "Leaving/Staying Pt. 2"
-
----
 
 These are words I've been meaning to write for a little over three months now. Unfortunately, they haven't formed themselves into complete sentences until tonight.
 
@@ -83,3 +78,6 @@ Or will you choose to get up and live? Turn to page 73.
 
 > It's interesting how you sometimes have to leave home before you can ask difficult questions, how the questions never come up in the room you grew up in, in the town in which you were born. It's funny how you can't ask difficult questions in a familiar place, how you have to stand back a few feet and see things in a new way before you realize nothing that is happening to you is normal. - Donald Miller
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

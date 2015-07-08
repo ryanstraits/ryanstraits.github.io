@@ -5,10 +5,6 @@ date: 2008-06-25 03:12
 author: ryanstraits
 image: /assets/images/squarespace/christians.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 ...If we are not like Christ.
 
@@ -30,3 +26,6 @@ So, are we really "Christians"? It's really not for us to decide. I mean, sure w
 
 Our neighbors will.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

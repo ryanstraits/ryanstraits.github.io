@@ -20,11 +20,11 @@ This was our time.
 
 We grew up with you. I, personally, saw you play three of your high school championship games at the state tournaments. I was never a particularly big basketball fan, but you had a way of igniting a passion for the game out of indifference. You turned arenas electric. We were all witnesses. And then, the impossible happened: the lowly Cavaliers lucked into taking you 1st in the draft. A once-in-a-generation talent *from our area* coming back to *represent our area* to the rest of the country? Northeast Ohio was abuzz. It was too good to be true.
 
-![We were once witnesses](/assets/images/squarespace/news_poster-witness-3.jpg)
+![](/assets/images/squarespace/news_poster-witness-3.jpg)
 
 And boy, you sure knew how to put on a show. My dad bought season tickets to your games even though we lived an hour and a half away. My parents, especially, loved going to watch you play. You turned *my mom* into a basketball fan. The games she actually let me go to with my dad will be remembered as some of the best sports experiences of my life. You turned 20,562 screaming fans into a close-knit community every night. There just wasn't anything like it. With the game on the line, we looked to you. We knew you could "turn it on" whenever you wanted and take over the game. The rest of the team just stood and watched you work your magic.
 
-![Courtside](/assets/images/squarespace/cavs-fam.jpg)
+![](/assets/images/squarespace/cavs-fam.jpg)
 
 That was, until, they started talking about New York. The playoff losses started mounting. The pressure on you to win now started growing. We expected you to stay, to keep fighting for your city. You <a href="http://www.fannation.com/truth_and_rumors/view/174990-lebrons-goal-bring-title-to-cleveland" target="_blank">said it yourself</a>, you weren't going to stop until you brought home a championship to the city of Cleveland. Let ESPN talk all they want, we'd say, you wouldn't <em>actually</em> leave Ohio before you did, would you?
 
@@ -42,7 +42,7 @@ I gave my "decision" to my parents in their kitchen after one of my mom's regula
 
 There weren't any TV cameras, or captive audiences, or charities, or cheesy flannel shirts (well, maybe a few flannel shirts). I didn't have the luxury of playing soft-toss with Jim Gray at some remote location in Greenwich, Connecticut (I mean, c'mon...New England?). No, there wasn't a whole wide world of sports waiting to hear what I had decided.
 
-![The Decision](/assets/images/squarespace/lebron-decision.jpg)
+![](/assets/images/squarespace/lebron-decision.jpg)
 
 But at *least* there was heartache. It broke my heart to leave Ohio. It broke my heart to feel like I was letting my family down by moving away. It broke my heart to know that I wouldn't be living life beside these people anymore. That I wouldn't be able to just drop by after work to talk and eat dinner with my parents. That I wouldn't be going to Grandma's after church on Sundays anymore. God had knit our hearts so close together for so many years and now our relationship would only exist on the other end of a telephone or computer screen. *That* is heartbreaking.
 
@@ -58,7 +58,7 @@ Being out here for the aftermath has made me realize that no one outside of Ohio
 
 Or at least we *thought* you were.
 
-![STILL Heated](/assets/images/squarespace/lebron-heated.jpg)
+![](/assets/images/squarespace/lebron-heated.jpg)
 
 I think Dan Wetzel of Yahoo Sports put the whole thing in <a href="http://sports.yahoo.com/nba/news;_ylt=AoWfdJHNo5Q7zT3ZweCYfDW8vLYF?slug=dw-wetzel_cleveland_laughs_at_lebron_james_061211" target="_blank">perspective</a> best:
 
@@ -90,7 +90,7 @@ Thirteen hours on the road by yourself gives you just enough time to get excited
 
 I didn't know it then, but I had just happened into one of the most amazing group of friends that I've ever been apart of. Yes, I had to make the heart-rending decision to leave my family and friends back in Ohio. But I met, dated, and am going to marry the girl of my dreams out here in KC in three months. She wound up being a pretty good reason to leave Ohio. The price was steep, but I'd say it was a fairly even trade.
 
-So, can you say the same thing? Was it worth it? I'll be honest, I rooted for you to lose. And just about all of Ohio was darn happy when you did. Even if you would have pulled out some late-game magic like you always seemed to do for us, would it have been as fulfilling? Wouldn't it have been *that much sweeter* if you were winning it all for Cleveland? Wouldn't that be a much greater cause? It sure looks like the <a href="http://www.huffingtonpost.com/2011/07/11/lebron-james-popularity-all-time-low_n_894819.html">rest of America</a> <a href="http://sports.espn.go.com/nba/news/story?id=5575810" target="_blank">thinks so</a>. But hey, you made your choice. And I made mine.
+So, can you say the same thing? Was it worth it? I'll be honest, I rooted for you to lose. And just about all of Ohio was darn happy when you did. Even if you would have pulled out some late-game magic like you always seemed to do for us, would it have been as fulfilling? Wouldn't it have been *that much sweeter* if you were winning it all for Cleveland? Wouldn't that be a much greater cause? It sure looks like the <a href="http://www.huffingtonpost.com/2011/07/11/lebron-james-popularity-all-time-low_n_894819.html" target="_blank">rest of America</a> <a href="http://sports.espn.go.com/nba/news/story?id=5575810" target="_blank">thinks so</a>. But hey, you made your choice. And I made mine.
 
 And it turned out to be the best one I've ever made.
 

@@ -5,10 +5,6 @@ date: 2008-04-16 01:49
 author: ryanstraits
 image: 
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 About two years ago I began a journey.
 
@@ -28,3 +24,6 @@ I guess I didn't realize it then but now I've never been more confident of it. I
 
 Much more on this to come.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

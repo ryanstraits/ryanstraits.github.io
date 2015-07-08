@@ -5,10 +5,6 @@ date: 2008-09-17 02:25
 author: ryanstraits
 image: /assets/images/squarespace/radiohead.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 P[re].S. - many apologies for the increasing lengths of time between blog posts. In my defense, I had a blog nearly typed up a few weeks ago but somehow it vanished into the digital ooze.
 
@@ -36,3 +32,6 @@ My comments pertaining to each concert are henceforth submitted for your perusal
  
 If the year ended today I think I could officially brand it as a success. And we still have all of fall, most of football and *the* Festival left to go.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

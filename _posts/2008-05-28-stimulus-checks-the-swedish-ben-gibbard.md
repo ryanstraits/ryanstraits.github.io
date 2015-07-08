@@ -5,10 +5,6 @@ date: 2008-05-28 01:37
 author: ryanstraits
 image: /assets/images/squarespace/ben-gibbard.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 Booyah...And I'm back.
 
@@ -30,3 +26,6 @@ That is all the blogging I can muster for this evening. I hope to touch on a few
 
 I'm sure you can hardly wait. 
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

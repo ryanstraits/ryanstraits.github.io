@@ -5,10 +5,6 @@ date: 2010-09-03 16:21
 author: ryanstraits
 image: 
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 It's been nearly 2 months since I moved to Kansas City. Much has happened. I hope to bring you a full-featured update in the shape of a long-form post within the next few days.
 
@@ -24,3 +20,6 @@ Oh yes. And I've also found myself a lady friend. The coolest girl I know on eit
 
 More to come soon, friends!
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*

@@ -16,7 +16,7 @@ It's nine years later, and I've been living in Kansas City for over two years. B
 
 So here goes, make sure to read this knowing the love behind which it was crafted. Also, read it with humility. Cuz it's all preeeeeeetty much true.
 
-###You know you're from Kansas City if...
+###You know you're from Kansas City if...<br>
 
 1. You think KU vs. MU is one of the most storied rivalries in college sports.
 2. You can't wait to take out-of-town guests to see the spectacle that is The Plaza.

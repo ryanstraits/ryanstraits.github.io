@@ -5,10 +5,6 @@ date: 2010-02-24 02:38
 author: ryanstraits
 image: /assets/images/squarespace/lentworking.jpg
 ---
-*A word of caution: This was originally posted on a previous blog of mine. Some references and links may be broken. The jokes certainly will be.*
-
----
-
 
 It's time.
 
@@ -39,3 +35,6 @@ In related news: I just received my fully licensed (a.k.a legal) version of Cuba
 
 It's just time.
 
+---
+
+*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
