@@ -32,5 +32,5 @@ And that my friends, is something worth holding on to.
 
 ---
 
-*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
+######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
 

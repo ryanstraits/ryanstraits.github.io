@@ -16,5 +16,5 @@ I hope you enjoy, and that you and yours had yourself a merry, little Christmas!
 
 ---
 
-*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
+######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
 

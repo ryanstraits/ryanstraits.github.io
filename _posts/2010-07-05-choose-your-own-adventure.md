@@ -73,11 +73,11 @@ And there is no turning back.
 
 ---
 
-Will you choose to sit here until you die? Turn to page 54.
-Or will you choose to get up and live? Turn to page 73.
+Will you choose to sit here until you die? Turn to page 54.<br>
+Or will you choose to get up and live? Turn to page 73.<br>
 
 > It's interesting how you sometimes have to leave home before you can ask difficult questions, how the questions never come up in the room you grew up in, in the town in which you were born. It's funny how you can't ask difficult questions in a familiar place, how you have to stand back a few feet and see things in a new way before you realize nothing that is happening to you is normal. - Donald Miller
 
 ---
 
-*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
+######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.

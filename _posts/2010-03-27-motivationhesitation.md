@@ -38,4 +38,4 @@ And thank you very much for stopping by and reading this latest winding entry of
 
 ---
 
-*Note: This was originally posted on a old blog of mine. Most of the references, links and jokes are probably dead.*
+######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
