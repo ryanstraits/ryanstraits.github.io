@@ -80,4 +80,4 @@ Or will you choose to get up and live? Turn to page 73.<br>
 
 ---
 
-######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
+######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*

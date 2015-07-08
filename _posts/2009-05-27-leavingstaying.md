@@ -28,4 +28,4 @@ Just don't get any funny ideas about actually staying there.
 
 ---
 
-######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
+######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*

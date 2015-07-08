@@ -37,5 +37,5 @@ P.S. - In this same online writing vein, a few friends and I have started an onl
 
 ---
 
-######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
+######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
 

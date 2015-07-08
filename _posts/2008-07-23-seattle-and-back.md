@@ -16,5 +16,5 @@ Lastly, I cheated once again and did not design the layout to this site. But it 
 
 ---
 
-######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
+######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
 

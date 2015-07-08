@@ -19,5 +19,4 @@ So there's that.
 
 ---
 
-######Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.
-
+######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
