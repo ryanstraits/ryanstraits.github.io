@@ -19,7 +19,7 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-              tagged in {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}
+              <!--tagged in {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}-->
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -54,7 +54,7 @@
           <section class="share">
             {% for social in site.social %}
               {% if social.share_url != null %}
-                <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}&by=ryanstraits"
+                <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
                   onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
                 <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
                 </a>
