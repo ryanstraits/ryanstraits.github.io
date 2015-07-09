@@ -37,7 +37,12 @@ social:
     url: http://www.ryanstraits.com
     desc: Home
 
- # - title: medium
- #   icon: medium
- #   url: https://medium.com/@ryanstraits
- #   desc: Medium
+  - title: instagram
+    icon: instagram
+    url: https://instagram.com/ryanstraits/
+    desc: Instagram
+
+  - title: Medium
+    icon: medium
+    url: https://medium.com/@ryanstraits
+    desc: Medium
