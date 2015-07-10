@@ -3,6 +3,9 @@ layout: post
 title: Creation/Sedation
 date: 2009-02-20 23:43
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/creation.jpg
 ---
 

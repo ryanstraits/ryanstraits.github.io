@@ -3,6 +3,9 @@ layout: post
 title: In Addendum
 date: 2009-03-03 03:25
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image:
 ---
 

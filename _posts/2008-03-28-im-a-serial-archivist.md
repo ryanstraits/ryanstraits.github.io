@@ -3,6 +3,9 @@ layout: post
 title: I'm A Serial Archivist
 date: 2008-03-28 21:29
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: assets/images/squarespace/archive.jpg
 ---
 

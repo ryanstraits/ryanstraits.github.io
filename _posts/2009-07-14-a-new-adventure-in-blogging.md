@@ -3,6 +3,9 @@ layout: post
 title: A New Adventure In Blogging
 date: 2009-07-14 02:21
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image:
 ---
 

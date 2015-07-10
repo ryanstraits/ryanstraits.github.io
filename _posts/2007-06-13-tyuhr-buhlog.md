@@ -3,6 +3,9 @@ layout: post
 title: Tyuhr Buhlog
 date: 2007-06-13 23:20
 author: ryanstraits
+categories: blogger
+tags: tour-blog
+comments: true
 image: /assets/images/tour/tuscaloosa-al.jpg
 ---
 oh no, here we go...

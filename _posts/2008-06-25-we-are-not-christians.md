@@ -3,6 +3,9 @@ layout: post
 title: We Are Not Christians...
 date: 2008-06-25 03:12
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/christians.jpg
 ---
 

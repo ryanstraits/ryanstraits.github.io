@@ -3,6 +3,9 @@ layout: post
 title: On Leaving And Lebron
 date: 2011-07-12 03:58
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/lebron-witness.jpg
 ---
 

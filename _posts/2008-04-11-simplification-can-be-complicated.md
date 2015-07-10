@@ -3,6 +3,9 @@ layout: post
 title: Simplification Can Be Complicated
 date: 2008-04-11 03:05
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/simplification.jpg
 ---
 

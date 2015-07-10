@@ -462,7 +462,7 @@ body
       list-style-type: decimal
 
   .bottom-teaser
-    padding: 50px 0
+    padding: 20px 0 0
     font-family: $font-sans
     hr
       border: 0
@@ -475,12 +475,13 @@ body
     .isLeft
       float: left
       width: 47%
+      padding-bottom: 16px
       @include box-sizing(border-box)
       @include respond-to(800)
         width: 100%
-        padding-bottom: $rs*2
+        padding-bottom: 16px
       .index-headline
-        padding-bottom: 32px
+        padding-bottom: 26px
       a
         color: #000
         text-decoration: none
@@ -511,14 +512,23 @@ body
         padding-left: 100px
         &.published
           color: #999
-    .isRight
-      float: right
-      width: 47%
+    .isCenter
+      width: 100%
+      padding-bottom: 0px
       @include box-sizing(border-box)
       @include respond-to(800)
         width: 100%
       .index-headline
-        padding-bottom: 32px
+        padding-bottom: 16px
+    .isRight
+      float: right
+      width: 47%
+      padding-bottom: 16px
+      @include box-sizing(border-box)
+      @include respond-to(800)
+        width: 100%
+      .index-headline
+        padding-bottom: 26px
       .site-footer
         margin: 0
         padding: 0
@@ -539,7 +549,7 @@ body
           color: #333
 .share
   text-align: center
-  padding: 20px 0 0
+  padding: 20px 0 12px
   a
     text-decoration: none
     color: #bbb
@@ -567,7 +577,7 @@ body
     position: relative
     z-index: 99
     max-width: 800px
-    padding: 120px 0 90px
+    padding: 90px 0 90px
     text-align: center
     margin: 0 auto
     .blog-title
@@ -612,8 +622,9 @@ body
       line-height: 36px
       padding: 0 18px
 
-#disqus_thread
-  margin-top: 50px
+disqus_thread
+  margin-top: 12px
+  margin-bottom: 12px
 .post-tag-articleimage
   display: none
 

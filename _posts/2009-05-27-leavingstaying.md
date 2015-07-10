@@ -3,6 +3,9 @@ layout: post
 title: Leaving/Staying
 date: 2009-05-27 23:26
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/california-trip.jpg
 ---
 

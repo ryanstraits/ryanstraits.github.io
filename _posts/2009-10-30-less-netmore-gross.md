@@ -3,6 +3,9 @@ layout: post
 title: Less Net/More Gross
 date: 2009-10-30 03:54
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/lessnet-moregross.jpg
 ---
 

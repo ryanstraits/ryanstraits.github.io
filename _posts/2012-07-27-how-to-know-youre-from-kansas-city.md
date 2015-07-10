@@ -3,6 +3,9 @@ layout: post
 title: How To Know You're From Kansas City
 date: 2012-07-27 02:14
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/kansas-city.jpg
 ---
 

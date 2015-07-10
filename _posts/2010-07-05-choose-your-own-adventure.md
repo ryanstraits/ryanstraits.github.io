@@ -3,6 +3,9 @@ layout: post
 title: Choose Your Own Adventure
 date: 2010-07-05 06:51
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/adventure.jpg
 ---
 

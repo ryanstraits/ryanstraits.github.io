@@ -3,6 +3,9 @@ layout: post
 title: Social Lent-working
 date: 2010-02-24 02:38
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/lentworking.jpg
 ---
 

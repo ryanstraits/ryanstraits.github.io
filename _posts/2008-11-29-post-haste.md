@@ -3,6 +3,9 @@ layout: post
 title: Post Haste
 date: 2008-11-29 05:04
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image:
 ---
 

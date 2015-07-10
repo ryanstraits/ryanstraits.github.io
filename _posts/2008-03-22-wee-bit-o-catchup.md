@@ -3,6 +3,9 @@ layout: post
 title: Wee Bit O' Catchup
 date: 2008-03-22 04:12
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: 
 ---
 

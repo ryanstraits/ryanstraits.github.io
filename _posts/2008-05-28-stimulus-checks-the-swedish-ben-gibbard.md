@@ -3,6 +3,9 @@ layout: post
 title: Stimulus Checks & The Swedish Ben Gibbard
 date: 2008-05-28 01:37
 author: ryanstraits
+categories: squarespace
+tags: squarespace
+comments: true
 image: /assets/images/squarespace/ben-gibbard.jpg
 ---
 
