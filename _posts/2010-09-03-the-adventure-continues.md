@@ -3,8 +3,7 @@ layout: post
 title: The Adventure Continues...
 date: 2010-09-03 16:21
 author: ryanstraits
-categories: squarespace
-tags: squarespace
+categories:
 comments: true
 image: 
 ---

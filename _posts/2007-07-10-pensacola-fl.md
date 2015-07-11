@@ -3,7 +3,7 @@ layout: post
 title: Pensacola, FL
 date: 2007-07-10 22:32
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/pensacola-fl.jpg

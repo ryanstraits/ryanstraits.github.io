@@ -3,7 +3,7 @@ layout: post
 title: A New Carbon Footprint
 date: 2009-07-01 01:57
 author: ryanstraits
-categories: squarespace
+categories:
 tags: squarespace
 comments: true
 image: /assets/images/squarespace/footprint.jpg

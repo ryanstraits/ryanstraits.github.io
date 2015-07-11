@@ -3,7 +3,7 @@ layout: post
 title: Oklahoma City, OK
 date: 2007-06-28 00:58
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/okc-ok.jpg

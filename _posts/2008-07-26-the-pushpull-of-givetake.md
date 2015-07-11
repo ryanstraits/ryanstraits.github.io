@@ -3,7 +3,7 @@ layout: post
 title: The Push/Pull Of Give/Take
 date: 2008-07-26 05:08
 author: ryanstraits
-categories: squarespace
+categories: 
 tags: squarespace
 comments: true
 image: /assets/images/squarespace/push-pull.jpg

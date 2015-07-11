@@ -3,7 +3,7 @@ layout: post
 title: Abilene, TX
 date: 2007-06-26 11:04
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/abilene-tx.jpg

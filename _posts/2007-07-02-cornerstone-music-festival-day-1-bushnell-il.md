@@ -3,7 +3,7 @@ layout: post
 title: Cornerstone Music Festival (Day 1) - Bushnell, IL
 date: 2007-07-02 18:13
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/cornerstone-il.jpg

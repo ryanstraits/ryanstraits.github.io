@@ -3,7 +3,7 @@ layout: post
 title: Seattle And Back
 date: 2008-07-23 03:57
 author: ryanstraits
-categories: squarespace
+categories: 
 tags: squarespace
 comments: true
 image: /assets/images/squarespace/seattle-trip.jpg

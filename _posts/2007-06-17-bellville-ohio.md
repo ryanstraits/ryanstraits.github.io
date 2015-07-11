@@ -3,7 +3,7 @@ layout: post
 title: Bellville, OH
 date: 2007-06-17 01:48
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/bellville-oh.jpg

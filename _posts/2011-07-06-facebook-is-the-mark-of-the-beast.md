@@ -3,7 +3,7 @@ layout: post
 title: Facebook Is The Mark Of The Beast
 date: 2011-07-06 02:04
 author: ryanstraits
-categories: squarespace
+categories:
 tags: squarespace
 comments: true
 image: /assets/images/squarespace/facebook.jpg

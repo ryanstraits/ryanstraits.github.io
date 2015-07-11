@@ -3,7 +3,7 @@ layout: post
 title: Kansas City, MO (Off Day)
 date: 2007-06-28 02:22
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/kansascity-mo2.jpg

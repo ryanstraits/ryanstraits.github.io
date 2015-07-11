@@ -3,7 +3,7 @@ layout: post
 title: Ugly Christmas Sweater
 date: 2010-12-27 02:49
 author: ryanstraits
-categories: squarespace
+categories:
 tags: squarespace
 comments: true
 image: 

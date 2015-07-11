@@ -3,7 +3,7 @@ layout: post
 title: Harrisonburg, VA
 date: 2007-07-04 00:26
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/harrisonburg-va.jpg

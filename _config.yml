@@ -45,8 +45,12 @@ social:
 
   - icon: instagram
     url: https://instagram.com/ryanstraits/
-    desc: Connect with me Instagram
+    desc: Connect with me on Instagram
 
-  - icon: medium
-    url: https://medium.com/@ryanstraits
-    desc: Medium
+  - icon: tumblr
+    url: http://blipsontheradar.tumblr.com/
+    desc: Follow me on Tumblr
+    # share_url: https://www.tumblr.com/widgets/share/tool
+    # share_title: "&name?="
+    # share_link: link?url=
+

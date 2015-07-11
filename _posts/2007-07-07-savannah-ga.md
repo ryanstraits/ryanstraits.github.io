@@ -3,7 +3,7 @@ layout: post
 title: Savannah, GA
 date: 2007-07-07 18:28
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/savannah-ga.jpg

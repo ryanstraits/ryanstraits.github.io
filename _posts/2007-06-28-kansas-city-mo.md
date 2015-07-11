@@ -3,7 +3,7 @@ layout: post
 title: Kansas City, MO
 date: 2007-06-28 02:00
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/kansascity-mo.jpg

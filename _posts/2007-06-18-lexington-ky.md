@@ -3,7 +3,7 @@ layout: post
 title: Lexington, KY
 date: 2007-06-18 16:10
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/lexington-ky.jpg

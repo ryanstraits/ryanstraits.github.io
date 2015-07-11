@@ -3,7 +3,7 @@ layout: post
 title: Well, Here We All Are
 date: 2008-03-21 02:49
 author: ryanstraits
-categories: squarespace
+categories: 
 tags: squarespace
 comments: true
 image: 

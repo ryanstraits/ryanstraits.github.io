@@ -3,7 +3,7 @@ layout: post
 title: Former Thoughts On A Latter Subject...
 date: 2008-04-16 01:49
 author: ryanstraits
-categories: squarespace
+categories: 
 tags: squarespace
 comments: true
 image: 

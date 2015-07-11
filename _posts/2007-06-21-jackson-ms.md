@@ -3,7 +3,7 @@ layout: post
 title: Jackson, MS
 date: 2007-06-21 19:18
 author: ryanstraits
-categories: blogger
+categories: 
 tags: tour-blog
 comments: true
 image: /assets/images/tour/jackson-ms.jpg
