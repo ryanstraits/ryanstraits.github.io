@@ -50,7 +50,13 @@
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
-        <a href="/" class="btn">Back to Overview</a>
+		{% if page.previous.url %} 
+		   <a class="btn" href="{{page.previous.url}}"><i class="fa fa-angle-left fa-lg"></i>&nbsp;&nbsp;&nbsp;{{page.previous.title}}</a> 
+		{% endif %} 
+        <a href="/" class="btn">Home</a>
+		{% if page.next.url %} 
+		   <a class="btn" href="{{page.next.url}}">{{page.next.title}}&nbsp;&nbsp;&nbsp;<i class="fa fa-angle-right fa-lg"></i></a> 
+		{% endif %} 
       </div>
     </div>
     {% include javascripts.html %}
