@@ -15,6 +15,8 @@ P[re].S. - many apologies for the increasing lengths of time between blog posts.
 
 So I finally saw Bruce Springsteen.
 
+<!-- break -->
+
 It's been a dream of mine for about a year. Yes, a full year. I'm not one of those long-time Boss fans, mind you, but I've liked him pretty strongly for about a year and a half. Pretty lame as far as fanatics go, I know. But have you seen him in concert? That's what I thought. (Note: if you have, you've laid down some major coin.)
 
 Let me just say: he's the real deal. Oh, and don't forget the E-Street band. I feel like they've been given a raw deal throughout their storied partnership. They were phenomenal live and supremely talented. Troy and I said afterwards that such talented people finding each other and making fantastic music that reaches the world is truly proof that God indeed exists. I don't think fate and/or fortune is up to that task.

@@ -8,6 +8,9 @@ tags: tour-blog
 comments: true
 image: /assets/images/tour/tuscaloosa-al.jpg
 ---
+
+<!-- break -->
+
 oh no, here we go...
 
 ---

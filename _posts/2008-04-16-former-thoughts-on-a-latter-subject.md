@@ -11,6 +11,8 @@ image:
 
 About two years ago I began a journey.
 
+<!-- break -->
+
 I guess I didn't realize it then but now I've never been more confident of it. It's been a strange two years since that solitary winter when I finally began to feel the full presence of God in my life (which I'll talk more on in future posts). I can't begin to explain that time in my life but I feel I did it best in a post I wrote on my old Xanga site in February '06. Here it is in it's entirety:
 
 > I'm at a place I can't say I've ever been at before in my short twenty four years of life. I mean nothing revolutionary has taken place. No blinding light coming down from the clouds or anything. I don't think true change comes like that, actually. It's just a slow and steady plucking here and there. A low-pitched hum or a barely audible whisper somewhere out of frame. And I can't begin to describe it, but I've been feeling God faithfully and gently retuning my heart to his.

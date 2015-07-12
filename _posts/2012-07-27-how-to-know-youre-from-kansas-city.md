@@ -11,6 +11,8 @@ image: /assets/images/squarespace/kansas-city.jpg
 
 About nine years ago when I still lived in Ohio, two of my good friends at the time just so happened to be from Missouri &amp; Kansas. It's kind of a long story how they got there, but it could be said that they found a lot of our local idiosyncrasies hilarious. One day they decided to compile a fairly smarting list of these quirky traits and emailed it to all of their Ohio friends for a good laugh (it was 2003, we emailed a lot back then). They wrote it all under the moniker "The MO-KAN Connection".
 
+<!-- break -->
+
 I'll admit, I didn't take it as kindly then as I do looking back on it now. It was pretty darn funny. But sometimes it's not very much fun to listen to someone with an outside perspective make jokes about "your town" or "your upbringing". I was born and raised in T-County (Tuscarawas County for long, and yea they made fun of the name too), so sometimes I just didn't know any different. It's good every now and then to take a look at things from a different point of view (keep this in mind as you continue reading).
 
 Cuz now, the tables have turned.

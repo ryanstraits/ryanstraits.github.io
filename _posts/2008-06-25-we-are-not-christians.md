@@ -11,6 +11,8 @@ image: /assets/images/squarespace/christians.jpg
 
 ...If we are not like Christ.
 
+<!-- break -->
+
 I realize that it sounds like a pretty radical concept, but bear with me. A short while ago I began to take a step back from my life. I tried my best to take a good, hard look at myself and why I do the things I do (I believe they call it a "quarter-life crisis" these days). I think, at least for me, it's been a very necessary part of maturing and growing deeper in my relationship to and with God. I've grown to believe that we all need to question the very roots of our spirituality at some point or another in our lives. For me, it started with my own understanding of what a love for God truly is (which I've previously detailed in this space) and more recently it's come forth in relation to this thing called "church".
 
 Along with the majority of my generation, I began questioning it's viability in respect to our culture (bonus points to me for holding out the longest of most everyone I know, though, right?). Ultimately, I just got to the place where I was so exhausted with the whole song and dance. Growing up in church, I had done my fair share of singing and dancing but why or from where the whole rigmarole came from was never questioned. But then I realized that growing up in it actually gave me the right to question it. Maybe even more so than the people squeaking the loudest. As I've come to learn, questioning is not a bad thing (especially after you think you already have all the answers).

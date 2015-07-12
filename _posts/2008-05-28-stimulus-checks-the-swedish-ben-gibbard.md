@@ -15,6 +15,8 @@ So between work, general indifference to blogging and a 10 day break from all th
 
 Here's a funny story or two to kick things off:
 
+<!-- break -->
+
  1. On Sunday I bought a bicycle. I'd like to say that I bought it for environmentally conscious reasons. I really just bought it because I want to ride on some trails and get a lil exercise. Although, gas prices did factor in somewhat. I used my upcoming economic stimulus check as an incentive to buy a nicer bike than I probably would have bought under normal conditions.
 
   We then thought about the irony of the situation: gas prices are high so we're buying bicycles. We're buying them with money that we received from an economic stimulus check. We're getting a stimulus check because our economy is tanking. Our economy is tanking partly because of higher fuel costs (or vice versa). So although we thanked George Bush for our new bicycles we also had to say no thanks to him because he very well could be behind our economy going belly up. So [no] thank you, G-dub.

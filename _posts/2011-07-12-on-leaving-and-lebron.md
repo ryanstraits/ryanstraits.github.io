@@ -15,6 +15,8 @@ One year ago last Wednesday, I packed up everything I could fit into a little, b
 
 Or Kansas City, as the dot on my GPS map insisted on informing me.
 
+<!-- break -->
+
 ---
 
 Two days later, you decided it was time to leave Ohio too. But with much bigger fanfare, naturally. Hours of news-cycle time, rampant speculation, and a much-hyped TV special were all dedicated to your big "Decision". Most Ohioans weren't too worried. I mean, how could you leave your <em>home</em>? You were our "chosen one", after all. You were the savior of Cleveland sports. The one to finally bring a championship to our hard-luck city. Fate had finally shone down upon us.

@@ -17,9 +17,12 @@
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
-              on
-              <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-              <!--tagged in {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}-->
+              |
+              <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time>
+             {% for tag in page.tags %}
+			  |
+			 <a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a>
+			 {% endfor %} 
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -70,7 +73,7 @@
               <h4>{{ site.author }}</h4>
               <p class="bio">{{author.bio}}</p>
               <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+              <p class="published">Published <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time></p>
             </section>
           </div>
           {{/post}}

@@ -11,6 +11,8 @@ image: /assets/images/squarespace/facebook.jpg
 
 I mean, is there really any doubt?
 
+<!-- break -->
+
 I know one thing, I used to write things on the internet. Sometimes they were interesting, sometimes they were complete drivel. But the key was, I wrote them. I sat down at my computer, I opened a blog post window and I wrote.
 These days, I'm more likely to open a rapid succession of Facebook and Twitter windows and read things other people have written. Some of them interesting, some complete drivel. I still write, but it's more fragments and pieces of thoughts than what I would have otherwise have formed into complete phrases within a blog post a few years back.
 

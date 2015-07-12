@@ -11,6 +11,8 @@ image: /assets/images/squarespace/lentworking.jpg
 
 It's time.
 
+<!-- break -->
+
 I'm preceding to phase two of my plan to redesign how I view my time. In what I'll call "Phase One" (covered in my previous post), I talked about wanting to get out and actually live a life I'm proud of rather than wasting time on the internet. I feel I've done a fairly decent job. I biked as much as I could last fall (and am dying to get back out there at the first hint of spring), <a href="http://www.myspace.com/sinner-saint">I recorded a song</a>, I spent a lot of time with my family and am making plans for as much travelling this year as possible.
 
 "Phase Two", however, has more to do with how I am planning to constructively spend my time while actually on the net. And what that means for me is giving up Facebook for a little while.

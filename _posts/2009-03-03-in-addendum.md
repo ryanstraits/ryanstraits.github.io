@@ -11,6 +11,8 @@ image:
 
 In the interest of promoting beautiful music, I'm going to spread the reach of my previous post a little wider. Instead of just friends, I'm including a few loose acquaintances as well:
 
+<!-- break -->
+
 + <a href="http://www.myspace.com/perhapsy" target="_blank">Perhapsy</a> - I just started listening to this today and am a big fan already. **Relation:** I spent a few weeks on the road with Derek while he was with the Winston Jazz Routine and I with State Bird.
 
 + <a href="http://www.myspace.com/aaronroche" target="_blank">Aaron Roche</a> - I'm amazed at the honest and gentle music Aaron continues to make. He's a rare find. **Relation:** I once spent the night at his house in Nashville while on tour. He and his wife were most hospitable.

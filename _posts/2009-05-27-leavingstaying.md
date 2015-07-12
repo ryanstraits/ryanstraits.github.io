@@ -13,6 +13,8 @@ Sometimes you just need to go where nobody knows your name.
 
 Recently for me, that place was Southern California.
 
+<!-- break -->
+
 California, that lovely land where the humidity stays thin but the dreams are thick enough you can cut them with a knife. It's an enchanting place. Like a siren on the beach, drawing you in closer and closer only to leave you dashed across her shores.
 
 Los Angeles is a maddening city. This is my fourth trip to So-Cal and the only time I've rented a car. If the cost of living didn't keep me away from LA, the traffic definitely would. My main reason for braving the insanity this time was to visit my good friend <a href="http://joehartzler.com/" target="_blank">Joe</a>, who is trying to have a go of this whole "making it big" thing in Hollywood. We both agreed that if you weren't pursuing a dream in this crazy city, you'd be right mad to only subsist here.

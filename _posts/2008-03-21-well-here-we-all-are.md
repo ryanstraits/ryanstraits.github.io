@@ -13,6 +13,8 @@ About two years ago (or there round abouts) I gave up this whole blogging rigmar
 
 Or so I thought.
 
+<!-- break -->
+
 ---
 
 ######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*

@@ -13,6 +13,8 @@ There just aren't enough hours in the day.
 
 If I have learned one lesson in this my 27th year of life it is that the older I get, the shorter the days become.
 
+<!-- break -->
+
 I have so much in my head that I'd like to accomplish everyday. I make lists while I'm at work. I run them over and over in my mind. But when I finally have time to get to said lists, the sun has already fallen behind the hills. It's time to rest and reset. Time to do it all over again tomorrow.
 
 I'm coming up on 28 in a couple weeks. And I can't help but feel...well, old. I know, I know...I'm still young. I get it. But old is just around the corner. The reality that I'm not going to live forever is finally setting in. You know what I'm talking about, right? The fact that we all know that we're temporal creatures but we don't all believe it. That is, until we're staring at 30 from arm's length. 30! Geesh, I was supposed to have everything figured out by then.

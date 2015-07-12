@@ -13,6 +13,8 @@ Confession: I'm one of those wierdies who goes grocery shopping once every week.
 
 What can I say? I like my fruit and milk fresh. So sue me.
 
+<!-- break -->
+
 I usually go on a set day (Monday or Wednesday) and I normally get the same list of things. The folks at Buehlers probably think I'm a little off. And that's always what I'm thinking that they're thinking as I'm unloading those same few items onto the conveyor every week.
 
 One particular week, the particular high school guy bagging my particularly random food items remarked at the hip, enviro-friendly cloth grocery bags I had just so recently purchased. He asked if I got them for the environment. "Yeah," I said, "just trying to do my part, ya know." He gave me some props and I went on my merry way.

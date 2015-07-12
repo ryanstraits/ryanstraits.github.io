@@ -11,6 +11,8 @@ image:
 
 Before I [re]kick this thing back off, a few orders of business:
 
+<!-- break -->
+
 + First off, this hummingbird theme is a template. An original one should be coming shortly. But I do enjoy it's spring-y flavor in the meantime.
 + I'm not an everyday poster. However, I did pay some money for this so I'm hoping that encourages me to post what I will now refer to as "frequently".
 + The goal of this site is to inject some creativity back into my daily routine. I've lacked a creative outlet for several months now and I feel it's negatively affecting my q of l. That would be my quality of life, FYI. LOL BRB

@@ -11,6 +11,8 @@ image: /assets/images/squarespace/push-pull.jpg
 
 So, I've been re-evaluating. Re-evaluating a lot of things. It's something new I've been trying, ya know. Something that I guess I was pseudo-taught to never do. "only accept the things you've been told", they say. I suppose that was never a phrase that was actually stated to me (thus the use of the prefix "pseudo"), but it was more or less inferred.
 
+<!-- break -->
+
 I say, however, challenge the things you've been told. The things you've just come to accept (this is a theme that you may see quite a bit on this blog). Then, if they stand up to the test, they truly are worth holding on to. And God forbid you should ever let them go.
 
 [dismounts soapbox]

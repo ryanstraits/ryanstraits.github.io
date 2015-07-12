@@ -4,6 +4,7 @@ title: The Adventure Continues...
 date: 2010-09-03 16:21
 author: ryanstraits
 categories:
+tags: squarespace
 comments: true
 image: 
 ---
@@ -11,6 +12,8 @@ image:
 It's been nearly 2 months since I moved to Kansas City. Much has happened. I hope to bring you a full-featured update in the shape of a long-form post within the next few days.
 
 Until then, here is a glimpse of a few of the things I've been working on while I'm still unemployed:
+
+<!-- break -->
 
 + <a href="http://www.yeameneither.com/" target="_blank">yeameneither.com</a> - A fun, little website based on a Twitter trend (#yeameneither) that my friend <a href="http://travisgeary.com/" target="_blank">Travis</a> and I started for the heck of it.
 

@@ -13,6 +13,8 @@ I know I promised to write more. And I haven't. But I fall back on my previous p
 
 So there.
 
+<!-- break -->
+
 Speaking of wise uses of my time, I've been reading a few stellar books lately. Last fall, my interest was piqued on the topic of motivation and relatedly, of success, by a really superb <a href="http://www.ted.com/talks/dan_pink_on_motivation.html" target="_blank">TED Talk</a> I happened upon. So piqued was I, in fact, that I decided to fork over nearly $25 for a newly released hard-cover copy of the <a href="http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594488843/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1269310552&amp;sr=1-1" target="_blank">speaker's own book</a> on the subject while I was on vacation. I then spent additional monies on another book I had been hearing a lot of buzz about, <a href="http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1269309665&amp;sr=1-1" target="_blank">"Outliers"</a> by Malcolm Gladwell. Both were excellent, informative reads and I would highly recommend both to anyone as intrigued by these subjects as I am.
 
 In looking into all this, I was most interested in learning just what it is that seems to determine our success in life, specifically, is it more influenced by our own motivation/hard work/grit/determination/etc. (as we are all told growing up, i.e. The epitome of "The American Dream") or more by the amount, or lack, of opportunities we are afforded? As a person who believes wholeheartedly in the practice of temperance/moderation, I know the argument can be made that a healthy balance of both will undoubtedly get you where you want to be in life. I think it's a fair point, but I wanted to dive deeper.
