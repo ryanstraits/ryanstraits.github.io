@@ -2,8 +2,11 @@
 layout: default
 ---
 <main class="content" role="main">
-
-<h1 class="post-title">Posts in: {{page.tag | capitalize}}</h1>
+ {% assign counter = 0 %}
+ {% for post in site.tags[page.tag] %}
+   {% assign counter = counter | plus: 1 %}
+ {% endfor %}
+	<h1 class="post-title">All entries posted in: {{page.tag | capitalize}} ({{ counter }})</h1>
 
   <div class="cf frame">
    {% for post in site.tags[page.tag] %}
