@@ -4,7 +4,10 @@ title: Choose Your Own Adventure
 date: 2010-07-05 06:51
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- kansas-city
+- ohio
 comments: true
 image: /assets/images/squarespace/adventure.jpg
 ---

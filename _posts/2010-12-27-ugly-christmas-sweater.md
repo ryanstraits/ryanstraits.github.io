@@ -4,7 +4,9 @@ title: Ugly Christmas Sweater
 date: 2010-12-27 02:49
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- music
 comments: true
 image: 
 ---

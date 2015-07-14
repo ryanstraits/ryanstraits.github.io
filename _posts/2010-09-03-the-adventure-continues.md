@@ -4,7 +4,9 @@ title: The Adventure Continues...
 date: 2010-09-03 16:21
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- kansas-city
 comments: true
 image: 
 ---

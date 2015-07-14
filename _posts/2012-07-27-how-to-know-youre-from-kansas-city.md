@@ -4,7 +4,9 @@ title: How To Know You're From Kansas City
 date: 2012-07-27 02:14
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- kansas-city
 comments: true
 image: /assets/images/squarespace/kansas-city.jpg
 ---

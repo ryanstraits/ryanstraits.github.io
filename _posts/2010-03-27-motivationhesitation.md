@@ -4,7 +4,9 @@ title: Motivation/Hesitation
 date: 2010-03-27 03:10
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- work
 comments: true
 image: /assets/images/squarespace/motivation-hesitation.jpg
 ---

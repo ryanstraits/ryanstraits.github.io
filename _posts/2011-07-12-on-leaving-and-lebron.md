@@ -4,7 +4,11 @@ title: On Leaving And Lebron
 date: 2011-07-12 03:58
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- sports
+- ohio
+- kansas-city
 comments: true
 image: /assets/images/squarespace/lebron-witness.jpg
 ---
