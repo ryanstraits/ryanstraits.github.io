@@ -2,36 +2,36 @@
 layout: default
 ---
 <main class="content" role="main">
- {% assign counter = 0 %}
- {% for post in site.tags[page.tag] %}
-   {% assign counter = counter | plus: 1 %}
- {% endfor %}
-	<h1 class="post-title">All entries posted in: {{page.tag | capitalize}} ({{ counter }})</h1>
-	
- <div class="tag-list">
-    <strong>All Tags:</strong><br>
-    {% for tag in site.tags %}
-		<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a><br>
-	{% endfor %}
- </div>
-
-  <div class="cf frame">
-   {% for post in site.tags[page.tag] %}
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-             </header>
-              <section class="post-excerpt" itemprop="description">
-                <p>{{ post.content | split:'<!-- break -->' | first }}</p>
+  <article class="post">
+	 {% assign counter = 0 %}
+	 {% for post in site.tags[page.tag] %}
+	   {% assign counter = counter | plus: 1 %}
+	 {% endfor %}
+		<h1 class="post-title">All entries posted in: {{page.tag | capitalize}} ({{ counter }})</h1><br>
+	<div class="post-meta">
+		{% for tag in site.tags %}
+			<i class="fa fa-tag"></i>  
+			<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a>&nbsp;
+		{% endfor %}
+	</div>
+	<div class="cf frame">
+	{% for post in site.tags[page.tag] %}
+	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+		  <div class="article-item">
+			<header class="post-header">
+			  <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+			 </header>
+			  <section class="post-excerpt" itemprop="description">
+				<p>{{ post.content | split:'<!-- break -->' | first }}</p>
 				<a href="{{ post.url }}" itemprop="url">Continue reading...</a><br><br>
-              </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time> | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
-            </div>
-          </div>
-        </article>
-   {% endfor %}
-  </div>
+			  </section>
+			<div class="post-meta">
+			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time> | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
+			</div>
+		  </div>
+		</article>
+	{% endfor %}
+	</div>
+  </article>
 
 </main>
