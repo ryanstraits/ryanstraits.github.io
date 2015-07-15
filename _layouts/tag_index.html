@@ -7,7 +7,7 @@ layout: default
 	 {% for post in site.tags[page.tag] %}
 	   {% assign counter = counter | plus: 1 %}
 	 {% endfor %}
-		<h1 class="post-title">All entries posted in: {{page.tag | capitalize}} ({{ counter }})</h1><br>
+		<h1 class="post-title">All entries posted in: {{page.tag}} ({{ counter }})</h1><br>
 	<div class="post-meta">
 		{% for tag in site.tags %}
 			<i class="fa fa-tag"></i>  
@@ -21,10 +21,6 @@ layout: default
 			<header class="post-header">
 			  <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
 			 </header>
-			  <section class="post-excerpt" itemprop="description">
-				<p>{{ post.content | split:'<!-- break -->' | first }}</p>
-				<a href="{{ post.url }}" itemprop="url">Continue reading...</a><br><br>
-			  </section>
 			<div class="post-meta">
 			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time> | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
 			</div>
