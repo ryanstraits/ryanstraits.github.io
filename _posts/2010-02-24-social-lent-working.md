@@ -4,7 +4,10 @@ title: Social Lent-working
 date: 2010-02-24 02:38
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- squarespace
+- that-sad-and-holy-glow
+- social-media
 comments: true
 image: /assets/images/squarespace/lentworking.jpg
 ---

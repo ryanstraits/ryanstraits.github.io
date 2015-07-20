@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Blog 4.0
-date:   2015-07-08
+title:  Well, Here We All Are (Part 2)
+date:   2015-07-20 03:00
 author: ryanstraits
 categories: 
 tags:
+- tomfoolery
 comments: true
 image: 
 ---

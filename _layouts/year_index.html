@@ -3,31 +3,25 @@ layout: default
 ---
 <main class="content" role="main">
   <article class="post">
-	 {% assign counter = 0 %}
-	 {% for post in site.tags[page.tag] %}
-	   {% assign counter = counter | plus: 1 %}
-	 {% endfor %}
-		<h1 class="post-title">All entries posted in: {{page.tag}} ({{counter}})</h1><br>
-	<div class="post-meta">
-		{% for tag in site.tags %}
-			<i class="fa fa-tag"></i>  
-			<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a>&nbsp;
-		{% endfor %}
-	</div>
-	<div class="cf frame">
-	{% for post in site.tags[page.tag] %}
-	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-		  <div class="article-item">
-			<header class="post-header">
-			  <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-			 </header>
-			<div class="post-meta">
-			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time> | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
-			</div>
+	  <br><br>
+	    <h1 class="post-title">Archives</h1><br>
+		  <div class="cf frame">
+			  {%for post in site.posts %}
+				  {% unless post.next %}
+				   <h2 class="post-content" itemprop="name">{{ post.date | date: '%Y' }}</h2>
+				        <section class="post-excerpt" itemprop="description">
+						  {% else %}
+							   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+							   {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+							   {% if year != nyear %}
+						</section>
+				  <h2 class="post-content" itemprop="name">{{ post.date | date: '%Y' }}</h2>
+                         <section class="post-excerpt" itemprop="description">
+							  {% endif %}
+							  {% endunless %}
+								 <li><time>{{ post.date | date:"%b %d"}}</time> &nbsp;&nbsp;&nbsp; <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></li>
+							  {% endfor %}
+						 </section>
 		  </div>
-		</article>
-	{% endfor %}
-	</div>
-  </article>
-
+	</article>
 </main>

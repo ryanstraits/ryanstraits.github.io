@@ -38,7 +38,7 @@ social:
 
   - icon: facebook
     url: https://facebook.com/ryanstraits
-    desc: Connect with me Facebook
+    desc: Connect with me on Facebook
     share_url: //www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
@@ -57,4 +57,9 @@ social:
     # share_url: https://www.tumblr.com/widgets/share/tool
     # share_title: "&name?="
     # share_link: link?url=
+
+  - name: svbtle
+    icon: chevron-circle-down
+    url: http://ryanstraits.svbtle.com/
+    desc: Check out Svbtle
 

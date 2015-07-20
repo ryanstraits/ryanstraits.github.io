@@ -7,6 +7,7 @@ layout: default
 	 {% for post in site.tags[page.tag] %}
 	   {% assign counter = counter | plus: 1 %}
 	 {% endfor %}
+	    <br><br>
 		<h1 class="post-title">All entries posted in: {{page.tag}} ({{ counter }})</h1><br>
 	<div class="post-meta">
 		{% for tag in site.tags %}
@@ -19,10 +20,10 @@ layout: default
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 		  <div class="article-item">
 			<header class="post-header">
-			  <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+			  <h3 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h3>
 			 </header>
 			<div class="post-meta">
-			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time> | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
+			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;&nbsp;&#149;&nbsp;<a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
 			</div>
 		  </div>
 		</article>
