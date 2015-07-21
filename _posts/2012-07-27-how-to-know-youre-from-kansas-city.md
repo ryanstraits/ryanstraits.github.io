@@ -5,8 +5,8 @@ date: 2012-07-27 02:14
 author: ryanstraits
 categories:
 tags:
+- kc-accidental
 - squarespace
-- kansas-city
 comments: true
 image: /assets/images/squarespace/kansas-city.jpg
 ---

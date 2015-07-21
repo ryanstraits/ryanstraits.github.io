@@ -5,9 +5,10 @@ date: 2010-07-05 06:51
 author: ryanstraits
 categories:
 tags:
+- rehearsals-for-departure
+- kc-accidental
+- the-promised-land
 - squarespace
-- kansas-city
-- ohio
 comments: true
 image: /assets/images/squarespace/adventure.jpg
 ---
@@ -18,11 +19,11 @@ These are words I've been meaning to write for a little over three months now. U
 
 <!-- break -->
 
-Some of my fondest memories as a child revolved around the regular trips my mom took my sisters and I on to the quaint, local library of our little town. The reason for the trips were usually school-based in nature, but the undoubted highlight for my pre-adolescent mind was picking up the latest offering from the keenly-titled "<a href="http://en.wikipedia.org/wiki/Choose_Your_Own_Adventure">Choose Your Own Adventure</a>" series of books. I devoured every copy I came across within mere hours. I became engrossed in every turn of every story and was incredibly curious about <a href="http://flowingdata.com/2009/08/11/choose-your-own-adventure-most-likely-youll-die/">every possible conclusion</a> that the book could lead me to. So much so, that I think my ardent wonder might have developed into something of a character flaw.
+Some of my fondest memories as a child revolved around the regular trips my mom took my sisters and I on to the quaint, local library of our little town. The reason for the trips were usually school-based in nature, but the undoubted highlight for my pre-adolescent mind was picking up the latest offering from the keenly-titled "<a href="http://en.wikipedia.org/wiki/Choose_Your_Own_Adventure" target="_blank">Choose Your Own Adventure</a>" series of books. I devoured every copy I came across within mere hours. I became engrossed in every turn of every story and was incredibly curious about <a href="http://flowingdata.com/2009/08/11/choose-your-own-adventure-most-likely-youll-die/" target="_blank">every possible conclusion</a> that the book could lead me to. So much so, that I think my ardent wonder might have developed into something of a character flaw.
 
 Because somewhere along the line, I started bookmarking every decision I came to.
 
-That's right, I bookmarked every single decision and when that decision ultimately led to some grotesque demise, which it was <a href="http://flowingdata.com/2009/08/11/choose-your-own-adventure-most-likely-youll-die/">most likely to</a>, I retraced my steps back until I made the right decision. Now, i'm sure most of the kids reading "choose your own adventure" books along with me in the early 90's did something along the same lines. After all, to get the most bang for your buck (or my 2-week library checkout, rather) you had to go through quite a few redo's. I might have just taken those redo's a bit too far by redoing every single decision I made until I came across the best possible outcome. Those of you who are familiar with "choose your own adventure" know this was no easy task.
+That's right, I bookmarked every single decision and when that decision ultimately led to some grotesque demise, which it was <a href="http://flowingdata.com/2009/08/11/choose-your-own-adventure-most-likely-youll-die/" target="_blank">most likely to</a>, I retraced my steps back until I made the right decision. Now, i'm sure most of the kids reading "choose your own adventure" books along with me in the early 90's did something along the same lines. After all, to get the most bang for your buck (or my 2-week library checkout, rather) you had to go through quite a few redo's. I might have just taken those redo's a bit too far by redoing every single decision I made until I came across the best possible outcome. Those of you who are familiar with "choose your own adventure" know this was no easy task.
 
 ---
 
@@ -40,7 +41,7 @@ I guess I was waiting on something. Waiting on something to happen. Waiting on o
 
 And so, it was time for a drastic decision to be made. It was high time to awake out of sleep. Time to do something because now is the time to get something done.
 
-<a href="http://read.ly/2Kgs7.3.KJV">"Why sit we here til we die?"</a>
+<a href="http://read.ly/2Kgs7.3.KJV" target="_blank">"Why sit we here til we die?"</a>
 
 ---
 

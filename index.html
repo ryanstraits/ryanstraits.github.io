@@ -17,13 +17,16 @@ layout: default
     <div class="custom-links"> 
       {% for social in site.social %}
         {% if social.url %}
-			&nbsp;
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}" target="_blank">
+            <a class="icon-{{ social.icon }}" href="{{ social.url }}" target="_blank" title="{{ social.desc }}">
               <i class="fa fa-{{ social.icon }} fa-lg"></i>
             </a>
-			&nbsp;
+			&nbsp;&#149;&nbsp;
         {% endif %} 
       {% endfor %} 
+			<a class="fa-stack" href="http://ryanstraits.svbtle.com/" target="_blank" title="You should follow me on Svbtle">
+				<i class="fa fa-circle-o fa-stack-2x"></i>
+				<i class="fa fa-bolt fa-stack-1x"></i>
+			</a>
     </div>
 </header>
 

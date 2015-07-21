@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  33&#58; Growing Up/Growing Older (Part 1)
-date:   2015-07-20 04:00
+title:  Growing Up/Growing Older (Part 1)
+date:   2015-07-21 04:00
 categories: 
 tags:
-- middling-age
+- now-that-im-older
 - my-body-is-a-cage
 - fambly
 - jesus-etc
@@ -12,57 +12,9 @@ comments: true
 image: /assets/images/33.jpg
 ---
 
-
-Or, "A few thoughts on growing up and growing older.""
+I *feel* old.
 
 <!-- break -->
----
-
-## Preface
-
-> “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis 
-
-What follows is a tongue-in-cheek treatise, of sorts, on my experiences growing older and nearing middle age. It's part memoir, part advice column, part commentary, part confessional, part gag reel. With these posts I'm by no means claiming expertise on the subjects contained within, only sharing some of the things I've discovered along the way. 
-
-I had originally intended to publish a shorter version of this post around my 33rd birthday last fall. However, as my thoughts gained structure, the scope quickly expanded--as broad topics have a tendency of doing with me--and so I've broken this whole mess down into three more manageable posts. You're free to ingest any or all of them with however many grains of salt you require. Part 2 should be up in a month or two. And I hope to have Part 3 finished by my birthday in November.
- 
-This isn't meant to be a conversation starter, though you're more than welcome to chime in. It's more an exercise in collating and fastening down a few thoughts, realizations and revelations that have been jangling around in my head for a few years now. It's me attempting to make sense of my journey so far and looking forward to the journey ahead.
-
-But I also hope that you're encouraged by this sort of candor and honesty in the same way I am. I'm talking about those refreshing moments that hit you when someone speaks to a thought or an experience that you have also had at one point or another. To know that you're not alone in your oddities and idiosyncrasies, but that you instead share some basic sense of commonality and commiseration across the entire human race. I pray these posts give you at least one of those moments.
-
-Because in the end, we're all just growing old together.
-
----
-
-## Intro: The Age Of The Lord
-
-I turned 33 this past November. It's an age some of us can probably remember our parents turning but never dedicated much forethought to becoming ourselves. When you're young, it's just a far-off point on the horizon. It's Marty McFly watching his dorky-dad-self in the *distant* future of 2015. It's that boring mid-point between "younger" and "older".
-
-While there is some truth to that, I suppose hitting 33 was highlighted as a worthy age for reflection on my own calendar due to the permeation of Christianity throughout my childhood. Those of us who attended Sunday School will recall that 33 was the age that Jesus completed his earthly ministry and died on the cross. A somewhat random factoid about the life of Christ that despite all the significance tied to numbers in the Bible, doesn't seem to mean all that much.
-
-And then you actually reach the age of the Lord yourself, and you start to wonder: Umm. So just what was the deal with him only living 33 years? 
-
-If it was dying on the cross he wanted to do, he could've accomplished that after only, say, 18 or 20 years, to be humane. If he wanted to do all the miracles he could or make as many disciples as possible, why not live longer? What was so special about 33?
-
-I didn't do any deep diving into the scriptures on the significance of the age 33--sorry, this isn't going to be that kind of post--though many have postulated their own [theories](https://answers.yahoo.com/question/index?qid=20070406181925AA1nBWX) on the subject already. Even still, I feel this past birthday of mine has given me a little perspective on just what the Lord's holy reasoning might've been:
-
-Basically, things just start to suck around 33. 
-
-It actually starts to suck around 30, honestly, but most of us have the fortitude to deny it for a couple of years. 33 is just about when the full weight of middle age sets in. Take pro athletes, for example: when does the level of their game start it's steepest decline? [Pretty darn close to 33](http://deadspin.com/report-troy-polamalu-has-revelation-in-church-retires-1696917787). I'm guessing Jesus didn't feel so different, divinity and all.
-
-See, you're not quite at your mid-life crisis by 33 but you're starting to feel it slowly creep in. You feel it in your body. In your soul. And in your spirit. You are getting *old* and there is no going back.
-
-Of course, there are trade-offs to the downsides of getting older. I doubt any of us past 30 would give back the wisdom we've gained since our younger years. We may be quite alright giving back many of the mistakes we've made but we certainly wouldn't ask for a refund on all the valuable lessons we've learned from those mistakes. Those of us with kids wouldn't give them back. Well. Maybe some would. For most of us, though, these intangible areas of life only get richer the older you get.
-
-But you have to think Jesus knew what he was doing when he high-tailed it back to heaven at such a young age, right? "I'll just do my thing, save the world and then get the heck outta Dodge before I wind up with a wine gut."
-
-Take it from the Creator of the carbon-based life-forms we call bodies: it's pretty much all downhill from 33.
-
----
-
-## Part 1: Body
-
-I *feel* old.
 
 Though, you're always going to have those crazy outliers who are all too happy to exclaim, "I'm 33 and I feel great!" Compared to your pre-33-year-old self, however, you objectively feel like crap. You just don't know it because, well, that's the fun thing about aging: it slowly sneaks up on you.
 
@@ -105,8 +57,8 @@ For those without children: Basically, the birth of your first child is this una
 
 Over two years in, I'd like to say that my workout regimen has normalized since Audrey's birth, but that just isn't a reality:
 
->Bicycle rides in 2012 alone: 53.
->Rides since Audrey's birth in 2012: 30 and counting...
++ Bicycle rides in 2012 alone: 53.
++ Rides since Audrey's birth in 2012: 30 and counting...
 
 I'm getting back into it but I've had to adjust expectations. We got a gym membership recently at a local community center. Going as a family has helped. But there just isn't enough time in the day. Kids take up so much of it, and deservedly so. It's hard work but I doubt anyone with kids would trade them for anything. Even our fitness.
 
@@ -151,11 +103,13 @@ You're probably not going to be more "with it" mentally than you are in your 30'
 
 Now, I know there will be folks several years my senior that will no doubt scoff at a 33-year-old complaining--and writing so darn long--about feeling old. I get that. I know I have plenty of aging, aches and probably pounds left ahead of me.
 
-But I think if you polled a few individuals down the road a ways past 33, and asked them to recollect what age they first started to feel the full force of aging, I'm pretty certain the majority will agree that 33 is when they first started to feel it...
+But I think if you polled a few individuals down the road a ways past 33, and asked them to recollect around what birthday they first started to feel the full force of aging, I'm pretty certain the majority will agree:
 
-33 is about when they started to feel "old".
+33 is when you start to feel *old*.
 
 ---
 
-Thanks for reading, friends. "Part 2 - Soul" will be coming your way in roughly a month. Until then...
+Thanks for reading, friends.
+
+"Part 2: Soul" will be coming your way in a month or so. Until then feel free to dig into the [Archive](/archive).
 

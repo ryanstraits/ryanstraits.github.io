@@ -5,10 +5,10 @@ date: 2011-07-12 03:58
 author: ryanstraits
 categories:
 tags:
+- bloodbuzz-ohio
+- fambly
+- sportz
 - squarespace
-- sports
-- ohio
-- kansas-city
 comments: true
 image: /assets/images/squarespace/lebron-witness.jpg
 ---
@@ -29,11 +29,11 @@ This was our time.
 
 We grew up with you. I, personally, saw you play three of your high school championship games at the state tournaments. I was never a particularly big basketball fan, but you had a way of igniting a passion for the game out of indifference. You turned arenas electric. We were all witnesses. And then, the impossible happened: the lowly Cavaliers lucked into taking you 1st in the draft. A once-in-a-generation talent *from our area* coming back to *represent our area* to the rest of the country? Northeast Ohio was abuzz. It was too good to be true.
 
-![](/assets/images/squarespace/news_poster-witness-3.jpg)
+![Quitness](/assets/images/squarespace/news_poster-witness-3.jpg)
 
 And boy, you sure knew how to put on a show. My dad bought season tickets to your games even though we lived an hour and a half away. My parents, especially, loved going to watch you play. You turned *my mom* into a basketball fan. The games she actually let me go to with my dad will be remembered as some of the best sports experiences of my life. You turned 20,562 screaming fans into a close-knit community every night. There just wasn't anything like it. With the game on the line, we looked to you. We knew you could "turn it on" whenever you wanted and take over the game. The rest of the team just stood and watched you work your magic.
 
-![](/assets/images/squarespace/cavs-fam.jpg)
+![Cavs in my blood](/assets/images/squarespace/cavs-fam.jpg)
 
 That was, until, they started talking about New York. The playoff losses started mounting. The pressure on you to win now started growing. We expected you to stay, to keep fighting for your city. You <a href="http://www.fannation.com/truth_and_rumors/view/174990-lebrons-goal-bring-title-to-cleveland" target="_blank">said it yourself</a>, you weren't going to stop until you brought home a championship to the city of Cleveland. Let ESPN talk all they want, we'd say, you wouldn't <em>actually</em> leave Ohio before you did, would you?
 
@@ -41,9 +41,9 @@ I, however, called it all along. You were going to leave. This *is* Cleveland w
 
 ---
 
-I first got the inkling to leave in the winter of 2009. I had just moved out on my own for the first time. My own apartment, all to myself. I was honestly just hoping to find some peace in living alone. It never came. Instead, I grew more introverted as my friends all got married or moved away. I was 27 with the specter of 30 fast approaching. The pressure was mounting to grow up fast: get married, buy a house, in whatever order you'd like. But I had exhausted all my options in Ohio. I was <a href="/blog/2010/7/5/choose-your-own-adventure.html" target="_blank">spinning my wheels</a>. After a year of looking at possibilities: recording school in Florida, the always enticing idea of Californ-i-a, etc., I started working up the nerve it would take to actually move away.
+I first got the inkling to leave in the winter of 2009. I had just moved out on my own for the first time. My own apartment, all to myself. I was honestly just hoping to find some peace in living alone. It never came. Instead, I grew more introverted as my friends all got married or moved away. I was 27 with the specter of 30 fast approaching. The pressure was mounting to grow up fast: get married, buy a house, in whatever order you'd like. But I had exhausted all my options in Ohio. I was <a href="/2010/7/5/choose-your-own-adventure.html" target="_blank">spinning my wheels</a>. After a year of looking at possibilities: recording school in Florida, the always enticing idea of Californ-i-a, etc., I started working up the nerve it would take to actually move away.
 
-I had always said I'd one day break free of the captive orbit that Ohio kept us all in. She's an enchanter, though, and you need a darn fine reason for her to let you go. Luckily, mine drove to Ohio and met me at a youth rally I was leading praise at on New Year's Day 2010. And she just so happened to be from Kansas City. One very option I had <a href="/blog/2010/7/5/choose-your-own-adventure.html" target="_blank">already been considering</a>. She was my tipping point. It was then just a matter of time.
+I had always said I'd one day break free of the captive orbit that Ohio kept us all in. She's an enchanter, though, and you need a darn fine reason for her to let you go. Luckily, mine drove to Ohio and met me at a youth rally I was leading praise at on New Year's Day 2010. And she just so happened to be from Kansas City. One very option I had <a href="/2010/7/5/choose-your-own-adventure.html" target="_blank">already been considering</a>. She was my tipping point. It was then just a matter of time.
 
 Six months later, I was on the road to Kansas City with no job or place to stay ahead of me.
 
@@ -51,7 +51,7 @@ I gave my "decision" to my parents in their kitchen after one of my mom's regula
 
 There weren't any TV cameras, or captive audiences, or charities, or cheesy flannel shirts (well, maybe a few flannel shirts). I didn't have the luxury of playing soft-toss with Jim Gray at some remote location in Greenwich, Connecticut (I mean, c'mon...New England?). No, there wasn't a whole wide world of sports waiting to hear what I had decided.
 
-![](/assets/images/squarespace/lebron-decision.jpg)
+![Dat flannel tho...](/assets/images/squarespace/lebron-decision.jpg)
 
 But at *least* there was heartache. It broke my heart to leave Ohio. It broke my heart to feel like I was letting my family down by moving away. It broke my heart to know that I wouldn't be living life beside these people anymore. That I wouldn't be able to just drop by after work to talk and eat dinner with my parents. That I wouldn't be going to Grandma's after church on Sundays anymore. God had knit our hearts so close together for so many years and now our relationship would only exist on the other end of a telephone or computer screen. *That* is heartbreaking.
 
@@ -67,7 +67,7 @@ Being out here for the aftermath has made me realize that no one outside of Ohio
 
 Or at least we *thought* you were.
 
-![](/assets/images/squarespace/lebron-heated.jpg)
+![Heat check](/assets/images/squarespace/lebron-heated.jpg)
 
 I think Dan Wetzel of Yahoo Sports put the whole thing in <a href="http://sports.yahoo.com/nba/news;_ylt=AoWfdJHNo5Q7zT3ZweCYfDW8vLYF?slug=dw-wetzel_cleveland_laughs_at_lebron_james_061211" target="_blank">perspective</a> best:
 

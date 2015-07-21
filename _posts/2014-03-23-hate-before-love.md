@@ -4,8 +4,8 @@ title:  Hate Before Love
 date:   2014-03-23
 categories: 
 tags:
-- music
-- tech
+- dad-rock
+- that-sad-and-holy-glow
 - tomfoolery
 - svbtle
 comments: true

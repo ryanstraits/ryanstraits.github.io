@@ -5,8 +5,10 @@ date: 2010-12-27 02:49
 author: ryanstraits
 categories:
 tags:
+- dad-rock
+- its-hard-to-find-a-friend
+- soul-driver
 - squarespace
-- music
 comments: true
 image: 
 ---

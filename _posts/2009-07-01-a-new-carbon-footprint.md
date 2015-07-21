@@ -4,7 +4,11 @@ title: A New Carbon Footprint
 date: 2009-07-01 01:57
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- scenic-world
+- futures
+- jesus-etc
+- squarespace
 comments: true
 image: /assets/images/squarespace/footprint.jpg
 ---

@@ -4,7 +4,11 @@ title: Leaving/Staying
 date: 2009-05-27 23:26
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- rehearsals-for-departure
+- scenic-world
+- the-promised-land
+- squarespace
 comments: true
 image: /assets/images/squarespace/california-trip.jpg
 ---

@@ -5,8 +5,9 @@ date: 2010-09-03 16:21
 author: ryanstraits
 categories:
 tags:
+- kc-accidental
+- tomfoolery
 - squarespace
-- kansas-city
 comments: true
 image: 
 ---

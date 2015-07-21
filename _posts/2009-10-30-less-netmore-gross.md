@@ -4,7 +4,11 @@ title: Less Net/More Gross
 date: 2009-10-30 03:54
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- time-is-a-bird
+- my-body-is-a-cage
+- dad-rock
+- squarespace
 comments: true
 image: /assets/images/squarespace/lessnet-moregross.jpg
 ---

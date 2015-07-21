@@ -4,7 +4,10 @@ title: In Addendum
 date: 2009-03-03 03:25
 author: ryanstraits
 categories:
-tags: squarespace
+tags:
+- dad-rock
+- its-hard-to-find-a-friend
+- squarespace
 comments: true
 image:
 ---

@@ -39,17 +39,13 @@ social:
   - icon: facebook
     url: https://facebook.com/ryanstraits
     desc: Connect with me on Facebook
-    share_url: //www.facebook.com/sharer.php
+    share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
   - icon: instagram
     url: https://instagram.com/ryanstraits/
     desc: Connect with me on Instagram
-
-  - icon: medium
-    url: https://medium.com/@ryanstraits
-    desc: You should follow me on Medium
 
   - icon: tumblr
     url: http://blipsontheradar.tumblr.com/
@@ -58,8 +54,7 @@ social:
     # share_title: "&name?="
     # share_link: link?url=
 
-  - name: svbtle
-    icon: chevron-circle-down
-    url: http://ryanstraits.svbtle.com/
-    desc: Check out Svbtle
+  - icon: medium
+    url: https://medium.com/@ryanstraits
+    desc: You should follow me on Medium
 
