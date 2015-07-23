@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Growing Up/Getting Older, Intro
+title:  Growing Up/Getting Older&#58; Intro
 date:   2015-07-21 03:00
 categories: 
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Growing Up/Getting Older, Part 1
+title:  Growing Up/Getting Older&#58; Part 1
 date:   2015-07-21 04:00
 categories: 
 tags:

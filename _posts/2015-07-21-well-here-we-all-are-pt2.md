@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Well, Here We All Are, Part 2
+title:  Well, Here We All Are&#58; Part 2
 date:   2015-07-21 02:00
 author: ryanstraits
 categories: 
