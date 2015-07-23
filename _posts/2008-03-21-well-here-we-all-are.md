@@ -4,7 +4,9 @@ title: Well, Here We All Are
 date: 2008-03-21 02:49
 author: ryanstraits
 categories: 
-tags: squarespace
+tags:
+- anatomy-of-the-tongue-in-cheek
+- squarespace
 comments: true
 image: 
 ---

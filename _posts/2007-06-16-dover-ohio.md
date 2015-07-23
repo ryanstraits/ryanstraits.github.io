@@ -4,7 +4,11 @@ title: Dover, OH
 date: 2007-06-16 11:09
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- bloodbuzz-ohio
+- tour-blog
 comments: true
 image: /assets/images/tour/dover-oh.jpg
 ---

@@ -4,7 +4,10 @@ title: Chattanooga, TN
 date: 2007-06-20 20:30
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/chattanooga-tn.jpg
 ---

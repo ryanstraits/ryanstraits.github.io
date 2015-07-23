@@ -9,19 +9,21 @@ description: > # this means to ignore newlines until "email:"
 
 email: ryanstraits@gmail.com
 #blog logo
-logo: "/assets/images/RMS-large.jpg"
+logo: "/assets/images/RMS-large-ctr.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Ryan Straits'
 author: 'Ryan Straits'
-author_image: "/assets/images/RMS-large.jpg"
+author_image: "/assets/images/RMS-large-ctr.jpg"
 
 paginate:	7
 paginate_path: "/page:num"
 
 url: "http://blog.ryanstraits.com" # the base hostname & protocol for your site
 baseurl: ""
+
+encoding: utf-8
 
 # social icons and sharing options
 social:
@@ -31,7 +33,7 @@ social:
 
   - icon: twitter
     url: https://twitter.com/ryanstraits
-    desc: You should follow me on Twitter
+    desc: Connect with me on Twitter
     share_url: http://twitter.com/share
     share_title: ?via=ryanstraits&text=
     share_link: "&amp;url="
@@ -49,12 +51,12 @@ social:
 
   - icon: tumblr
     url: http://blipsontheradar.tumblr.com/
-    desc: You should follow me on Tumblr
+    desc: Connect with me on Tumblr
     # share_url: https://www.tumblr.com/widgets/share/tool
     # share_title: "&name?="
     # share_link: link?url=
 
   - icon: medium
     url: https://medium.com/@ryanstraits
-    desc: You should follow me on Medium
+    desc: Connect with me on Medium
 

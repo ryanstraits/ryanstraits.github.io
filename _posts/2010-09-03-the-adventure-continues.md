@@ -6,7 +6,7 @@ author: ryanstraits
 categories:
 tags:
 - kc-accidental
-- tomfoolery
+- anatomy-of-the-tongue-in-cheek
 - squarespace
 comments: true
 image: 

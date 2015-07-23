@@ -4,7 +4,10 @@ title: Cornerstone Music Festival (Day 2) - Bushnell, IL
 date: 2007-07-02 19:16
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/cornerstone-il2.jpg
 ---

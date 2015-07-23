@@ -4,7 +4,10 @@ title: Seattle And Back
 date: 2008-07-23 03:57
 author: ryanstraits
 categories: 
-tags: squarespace
+tags:
+- travelogue
+- its-hard-to-find-a-friend
+- squarespace
 comments: true
 image: /assets/images/squarespace/seattle-trip.jpg
 ---

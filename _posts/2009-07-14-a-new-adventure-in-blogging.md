@@ -5,7 +5,7 @@ date: 2009-07-14 02:21
 author: ryanstraits
 categories:
 tags:
-- tomfoolery
+- anatomy-of-the-tongue-in-cheek
 - squarespace
 comments: true
 image:

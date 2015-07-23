@@ -6,7 +6,7 @@ categories:
 tags:
 - dad-rock
 - that-sad-and-holy-glow
-- tomfoolery
+- anatomy-of-the-tongue-in-cheek
 - svbtle
 comments: true
 image: 

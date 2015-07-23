@@ -4,7 +4,10 @@ title: Norfolk & Virginia Beach, VA
 date: 2007-07-04 18:56
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/norfolk-va.jpg
 ---

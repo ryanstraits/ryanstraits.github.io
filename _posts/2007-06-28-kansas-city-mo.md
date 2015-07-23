@@ -4,7 +4,11 @@ title: Kansas City, MO
 date: 2007-06-28 02:00
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- kc-accidental
+- tour-blog
 comments: true
 image: /assets/images/tour/kansascity-mo.jpg
 ---

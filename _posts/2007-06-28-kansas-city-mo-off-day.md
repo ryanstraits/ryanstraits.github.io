@@ -4,7 +4,11 @@ title: Kansas City, MO (Off Day)
 date: 2007-06-28 02:22
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- kc-accidental
+- tour-blog
 comments: true
 image: /assets/images/tour/kansascity-mo2.jpg
 ---

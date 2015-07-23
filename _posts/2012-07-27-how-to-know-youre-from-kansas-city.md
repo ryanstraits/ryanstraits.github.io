@@ -6,12 +6,13 @@ author: ryanstraits
 categories:
 tags:
 - kc-accidental
+- anatomy-of-the-tongue-in-cheek
 - squarespace
 comments: true
 image: /assets/images/squarespace/kansas-city.jpg
 ---
 
-About nine years ago when I still lived in Ohio, two of my good friends at the time just so happened to be from Missouri &amp; Kansas. It's kind of a long story how they got there, but it could be said that they found a lot of our local idiosyncrasies hilarious. One day they decided to compile a fairly smarting list of these quirky traits and emailed it to all of their Ohio friends for a good laugh (it was 2003, we emailed a lot back then). They wrote it all under the moniker "The MO-KAN Connection".
+About nine years ago when I still lived in Ohio, two of my good friends at the time just so happened to be from Missouri and Kansas. It's kind of a long story how they got there, but it could be said that they found a lot of our local idiosyncrasies hilarious. One day they decided to compile a <a href="{% post_url %} 2005-08-22-108 %}" target="_blank">fairly smarting list</a> of these quirky traits and emailed it to all of their Ohio friends for a good laugh (it was 2003, we emailed a lot back then). They wrote it all under the moniker "The MO-KAN Connection".
 
 <!-- break -->
 

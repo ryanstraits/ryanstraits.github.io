@@ -7,7 +7,7 @@ categories:
 tags:
 - bloodbuzz-ohio
 - fambly
-- sportz
+- all-is-a-game
 - squarespace
 comments: true
 image: /assets/images/squarespace/lebron-witness.jpg

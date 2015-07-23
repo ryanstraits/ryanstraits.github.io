@@ -4,7 +4,10 @@ title: Tuscaloosa, AL & Little Rock, AR
 date: 2007-06-23 21:26
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/littlerock-ar.jpg
 ---

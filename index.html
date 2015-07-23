@@ -23,7 +23,7 @@ layout: default
 			&nbsp;&#149;&nbsp;
         {% endif %} 
       {% endfor %} 
-			<a class="fa-stack" href="http://ryanstraits.svbtle.com/" target="_blank" title="You should follow me on Svbtle">
+			<a class="fa-stack" href="http://ryanstraits.svbtle.com/" target="_blank" title="Connect with me on Svbtle">
 				<i class="fa fa-circle-o fa-stack-2x"></i>
 				<i class="fa fa-bolt fa-stack-1x"></i>
 			</a>
@@ -44,7 +44,7 @@ layout: default
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | split:'<!-- break -->' | first }}</p>
+              <p>{{ post.content | split:'<!-- break -->' | first | strip_html }}</p>
 			  <a href="{{ post.url }}" itemprop="url">Continue reading...</a><br><br>
             </section>	
             <div class="post-meta">
@@ -72,7 +72,7 @@ layout: default
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | split:'<!-- break -->' | first }}</p>
+              <p>{{ post.content | split:'<!-- break -->' | first | strip_html }}</p>
 			  <a href="{{ post.url }}" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">

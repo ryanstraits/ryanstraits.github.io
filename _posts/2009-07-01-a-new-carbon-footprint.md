@@ -6,7 +6,7 @@ author: ryanstraits
 categories:
 tags:
 - scenic-world
-- futures
+- its-hard-to-find-a-friend
 - jesus-etc
 - squarespace
 comments: true
@@ -31,7 +31,7 @@ Wow, so apparently this generation really is different. I'm still evaluating whe
 
 Alright, well that's not even the main point of this post, lest you think I am careening into tree-hugging territory. Maybe another day. This whole business of our carbon footprint, though, got me thinking in another direction. See, when you make an actual footprint in the dirt, you are displacing the earth around you. The ground moves out of the way until it has successfully equalled your weight (or density, I suppose) and pushes back. It's like <a href="http://en.wikipedia.org/wiki/Buoyancy" target="_blank">buoyancy</a>, if something floats it's because the water has put enough force on the object it's surrounding that it essentially allows that object to "carve out it's space" within it. If something sinks, it's because the water doesn't have a significant enough reciprocating force to even out the object's weight. Follow?
 
-Since we humans are "carbon-based" (<a href="http://wiki.answers.com/Q/What_percent_of_human_body_is_carbon_based" target="_blank">18.5% carbon</a>, to be exact), I began to think about how each one of us has the ability to leave impressions in those around us (to complete my little analogy). Some are positive, some negative. Which made me realize, it's not just an ability. It's actually a responsibility.
+Since we humans are "carbon-based", (<a href="http://wiki.answers.com/Q/What_percent_of_human_body_is_carbon_based" target="_blank">18.5% carbon</a> to be exact), I began to think about how each one of us has the ability to leave impressions in those around us (to complete my little analogy). Some are positive, some negative. Which made me realize, it's not just an ability. It's actually a responsibility.
 
 And so, this is where I probably need to make another confession: lately I've felt like I've been a fairly significant non-force on those people around me. It started a few years ago, I suppose. I had this nice little string of setbacks that I felt like God could have handled a little better. So, layer by layer, I started to remove myself from responsibility. I was burnt out and needed a break, and I didn't feel that worthy to be displacing any part of myself into other people anyways. I felt like I didn't have any significant forces lifting me up, so how could I reciprocate that in someone else?
 

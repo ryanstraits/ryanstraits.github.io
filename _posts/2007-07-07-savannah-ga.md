@@ -4,7 +4,10 @@ title: Savannah, GA
 date: 2007-07-07 18:28
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/savannah-ga.jpg
 ---

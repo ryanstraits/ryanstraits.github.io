@@ -4,7 +4,10 @@ title: Niceville, FL
 date: 2007-07-09 21:17
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/niceville-fl.jpg
 ---

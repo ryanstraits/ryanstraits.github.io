@@ -4,7 +4,11 @@ title: We Are Not Christians...
 date: 2008-06-25 03:12
 author: ryanstraits
 categories: 
-tags: squarespace
+tags:
+- jesus-etc
+- churches-under-the-stairs
+- wolf-am-i
+- squarespace
 comments: true
 image: /assets/images/squarespace/christians.jpg
 ---

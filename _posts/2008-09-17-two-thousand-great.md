@@ -4,7 +4,11 @@ title: Two-Thousand Great
 date: 2008-09-17 02:25
 author: ryanstraits
 categories: 
-tags: squarespace
+tags:
+- travelogue
+- exit-music-for-a-film
+- its-hard-to-find-a-friend
+- squarespace
 comments: true
 image: /assets/images/squarespace/radiohead.jpg
 ---

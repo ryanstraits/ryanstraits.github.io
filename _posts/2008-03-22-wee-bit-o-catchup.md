@@ -4,7 +4,10 @@ title: Wee Bit O' Catchup
 date: 2008-03-22 04:12
 author: ryanstraits
 categories: 
-tags: squarespace
+tags:
+- soul-driver
+- anatomy-of-the-tongue-in-cheek
+- squarespace
 comments: true
 image: 
 ---

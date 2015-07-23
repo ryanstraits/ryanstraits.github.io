@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Growing Up/Growing Older (Part 1)
+title:  Growing Up/Getting Older, Part 1
 date:   2015-07-21 04:00
 categories: 
 tags:
 - now-that-im-older
 - my-body-is-a-cage
+- ride-on-right-on
 - fambly
-- jesus-etc
 comments: true
 image: /assets/images/33.jpg
 ---
@@ -16,15 +16,15 @@ I *feel* old.
 
 <!-- break -->
 
-Though, you're always going to have those crazy outliers who are all too happy to exclaim, "I'm 33 and I feel great!" Compared to your pre-33-year-old self, however, you objectively feel like crap. You just don't know it because, well, that's the fun thing about aging: it slowly sneaks up on you.
+But you're always going to have those contrarian outliers that are all too happy to exclaim, "I'm 33 and I feel great!" Compared to your pre-33-year-old self, however, you objectively feel like crap. You just don't know it because, well, that's the fun thing about aging: it slowly sneaks up on you.
 
 Every year your body is going to suck just a little bit more. It's kind of a verifiable fact.
 
-Yes, by 33 your body has already started breaking down. They say that your [age 27 year](http://io9.com/5176536/your-brain-starts-deteriorating-by-age-27-say-neuroscientists
-) is [statistically](http://www.mindpowernews.com/BrainPeaks.htm) when your [mind's cognitive ability](http://news.bbc.co.uk/2/hi/health/7945569.stm
-) starts to trend downward. What MIT calls your ["fluid intelligence"](http://newsoffice.mit.edu/2015/brain-peaks-at-different-ages-0306?utm_content=buffer29268&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) actually peaks at little earlier...at age 20. In turn, your body's metabolism starts it's long arc of decline at [around age 24](http://www.mensfitness.com/weight-loss/burn-fat-fast/ask-mens-fitness-what-age-does-persons-metabolism-start-significantly-slow).
+Yes, by 33 your body has already started breaking down. They say that your <a href="http://io9.com/5176536/your-brain-starts-deteriorating-by-age-27-say-neuroscientists" target=_blank>age 27 year</a> is <a href="http://www.mindpowernews.com/BrainPeaks.htm" target="_blank">statistically</a> when your <a href="http://news.bbc.co.uk/2/hi/health/7945569.stm" target="_blank">mind's cognitive ability</a> starts to trend downward. What MIT calls your <a href="http://newsoffice.mit.edu/2015/brain-peaks-at-different-ages-0306?utm_content=buffer29268&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">"fluid intelligence"</a> actually peaks at little earlier...at age 20. In turn, your body's metabolism starts it's long arc of decline at <a href="http://www.mensfitness.com/weight-loss/burn-fat-fast/ask-mens-fitness-what-age-does-persons-metabolism-start-significantly-slow" target="_blank">around age 24</a>.
 
-"It's not fair," you might think, "20 is too young to start declining." But if you step back and look at the entire pantheon of human history, 20 is right at the cusp of our collective median age. 200 years ago the average lifespan was *barely* 40 years. In that respect, 20-year-olds should be having mid-life crises and buying red convertibles. And all before they can legally drink.
+"It's not fair," you might think, "20 is too young to start declining." And I think anyone over 20 would agree with you. But if you step back and look over the entire pantheon of human history, 20 is right at the cusp of our collective median age. 200 years ago the average lifespan was *barely* 40 years. In that respect, 20-year-olds should be having mid-life crises and buying red convertibles.
+
+And all before they can legally drink.
 
 The older I get the more apparent it is that 21st century bodies just haven't caught up to humanity's expanding life expectancies yet. 
 
@@ -79,13 +79,17 @@ Aging is weird.
 
 Your 30's reveal that--like some cruel plot twist early in the 2nd act--your body has just been out to betray you all along. It's slowly been switching from your side to the one of some unknowable, unrepentant force of evil. And no matter how hard you try to coax and convince it, it's just not coming back.
 
-Things that you used to enjoy--like sleeping in, eating, showering, and pick-up games of any sport--now become reflections on your fragility. I can't sleep-in past 8AM now without my back feeling like it's going to dislodge a vertebrae. Eating becomes a tally of how many pounds a meal will add to my waistline and how many miles are required to run/bike it off. Showering enters a whole new level of creepiness now as you horrifically gaze in the mirror at this saggier, hairier, alternate-reality version of your 20 year-old-self staring back at you. And this happens everyday.
+Things that you used to enjoy--like sleeping in, eating, showering, and pick-up games of any sport--now become reflections on your fragility. I can't sleep-in past 8AM now without my back feeling like it's going to dislodge a vertebrae. Eating becomes a tally of how many pounds a meal will add to my waistline and how many miles are required to run/bike them off. Showering enters a whole new level of creepiness now as you horrifically gaze in the mirror at this saggier, hairier, alternate-reality version of your 20 year-old-self staring back at you. And this happens everyday.
 
-And, well, you just *hurt* after any and all prolonged periods of activity now. You hurt a lot.
+And, well, you just *hurt* after any and all prolonged periods of activity now.
+
+You hurt a lot.
 
 But obviously, there is a richness to this stage of aging that I've been skirting. For all the fresh wrinkles, new aches and extra pounds, there's an airy plateau of transcendence that can only be reached once you crest that first hill of your 30's. A plateau that gives you a clearer view of your life and how little of it you actually have left.
 
-I've made it this far and my body is still intact. I have the majority of my hair, more brown than greys and still some bounce in my step. I managed to snag a wife before I hit 30, so really, there's no one left to impress. What do I have to worry about? Just squeezing every ounce of life out of this old thing that I can in the next 50 years or so, that's all.
+I've made it this far and my body is still intact. I have the majority of my hair, more brown than greys and still some bounce in my step. I managed to snag a wife before I hit 30, so really, there's no one left to impress (don't tell her that).
+
+What do I have to worry about? Just squeezing every ounce of life out of this old thing that I can in the next 50 years or so, that's all.
 
 It's not rosy but I think having a firm grasp on your finality is a good thing. It makes you try harder, push deeper, and commit more fully. You are much less likely to half-ass your way through life when you have an achy back or a creaky knee constantly reminding you that your body is trending in a downward direction. 
 
@@ -93,19 +97,21 @@ It's not rosy but I think having a firm grasp on your finality is a good thing. 
 
 Earlier I noted an MIT study that claimed our "fluid intelligence" peaked at age 20. If you actually clicked the link and read on from the first few paragraphs, you'd realize that I wasn't entirely truthful with what I reported back. Oops, creative license.
 
-Yes, some of our cognitive abilities peak when we're younger, but many more are still ascending upwards through our 30's and even into our 50's and 60's. Facial recognition and visual short term memory both peak in your early 30's, if we're to believe that MIT study. Our vocabulary and the mental skills needed to evaluate other's emotional states peak in our 40's and 50's. Well, that's certainly something to look forward to!
+Yes, some of our cognitive abilities peak when we're younger, but many more are still ascending upwards through our 30's and even into our 50's and 60's. Facial recognition and visual short term memory both peak in your early 30's, says the MIT study. Our vocabulary and the mental skills needed to evaluate other's emotional states peak in our 40's and 50's. Well, that's certainly something to look forward to!
 
-And really, it makes sense. My mind doesn't feel all that old. In fact, it's still on point. Our 30's are the years to take advantage of our superior mental acuity. Middle age is the unique period of life when you will actually know more than both your kids *and* your parents. 
+And really, it makes sense. My mind doesn't feel all that old. In fact, it's still on point. Our 30's are the years to take advantage of our superior mental acuity.
+
+Middle age is the unique period of life when you will actually know more than both your kids *and* your parents. 
 
 You're probably not going to be more "with it" mentally than you are in your 30's. This is a gift, and we would do well to take advantage.
 
 ---
 
-Now, I know there will be folks several years my senior that will no doubt scoff at a 33-year-old complaining--and writing so darn long--about feeling old. I get that. I know I have plenty of aging, aches and probably pounds left ahead of me.
+Now, I know there will be folks several years my senior that will no doubt scoff at a 33-year-old complaining--and writing so darn long--about feeling old. I get it. I know I have plenty of aging, aches and probably pounds left ahead of me.
 
-But I think if you polled a few individuals down the road a ways past 33, and asked them to recollect around what birthday they first started to feel the full force of aging, I'm pretty certain the majority will agree:
+But I think if you polled a few individuals down the road a ways, and asked them to recall what birthday they first started to feel the full force of aging, I'm pretty certain the majority would agree:
 
-33 is when you start to feel *old*.
+33 is definitely when you start to feel *old*.
 
 ---
 

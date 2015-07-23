@@ -4,7 +4,10 @@ title: Nashville, TN
 date: 2007-06-19 13:01
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- tour-blog
 comments: true
 image: /assets/images/tour/nashville-tn.jpg
 ---

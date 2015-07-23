@@ -4,7 +4,11 @@ title: Bellville, OH
 date: 2007-06-17 01:48
 author: ryanstraits
 categories: 
-tags: tour-blog
+tags:
+- dad-rock
+- travelogue
+- bloodbuzz-ohio
+- tour-blog
 comments: true
 image: /assets/images/tour/bellville-oh.jpg
 ---
