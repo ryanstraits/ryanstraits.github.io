@@ -60,4 +60,4 @@ Take it from the Creator of the carbon-based life-forms we call bodies: it's pre
 
 ---
 
-Continue on to [Part 1: Body]({% post_url 2015-07-21-growing-up-growing-older-part1 %}).
+Continue on to [Part 1: Body]({% post_url 2015-07-21-growing-up-getting-older-part1 %}).
