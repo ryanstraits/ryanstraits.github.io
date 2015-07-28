@@ -6,7 +6,7 @@ author: ryanstraits
 categories: 
 tags:
 - soul-driver
-- anatomy-of-the-tongue-in-cheek
+- we-laugh-indoors
 - squarespace
 comments: true
 image: 

@@ -14,18 +14,20 @@
           </div>
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
+            <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
-              &nbsp;&#149;&nbsp;
+                &nbsp;&#149;&nbsp;
               <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time>
              {% for tag in page.tags %}
-			 &nbsp;&#149;&nbsp;
-			 <i class="fa fa-tag"></i>  
-			 <a class="tag_list_link" href="/tag/{{ tag }}" itemprop="url">{{ tag }}</a>
-			 {% endfor %} 
+			         &nbsp;&#149;&nbsp;
+			         <i class="fa fa-tag"></i>  
+			         <a class="tag_list_link" href="/tag/{{ tag }}" itemprop="url">{{ tag }}</a>
+			       {% endfor %} 
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
             </div>
+          </div>
           </div>
         </div>
         {% else %}
@@ -35,9 +37,13 @@
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
-              on
+               &nbsp;&#149;&nbsp;
               <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-
+             {% for tag in page.tags %}
+               &nbsp;&#149;&nbsp;
+               <i class="fa fa-tag"></i>  
+               <a class="tag_list_link" href="/tag/{{ tag }}" itemprop="url">{{ tag }}</a>
+             {% endfor %} 
             </div>
           </div>
         </div>

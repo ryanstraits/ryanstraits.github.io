@@ -10,7 +10,7 @@ tags:
 - futures
 - squarespace
 comments: true
-image: assets/images/squarespace/archive.jpg
+image: /assets/images/squarespace/archive.jpg
 ---
 
 There, I've admitted it.

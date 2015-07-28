@@ -5,7 +5,7 @@ date: 2008-03-21 02:49
 author: ryanstraits
 categories: 
 tags:
-- anatomy-of-the-tongue-in-cheek
+- we-laugh-indoors
 - squarespace
 comments: true
 image: 

@@ -6,7 +6,7 @@ categories:
 tags:
 - dad-rock
 - that-sad-and-holy-glow
-- anatomy-of-the-tongue-in-cheek
+- we-laugh-indoors
 - svbtle
 comments: true
 image: 
