@@ -1,17 +1,18 @@
 ---
-layout: post
 title: How To Know You're From Kansas City
-date: 2012-07-27 02:14
+date: '2012-07-27 02:14:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - kc-accidental
 - we-laugh-indoors
 - squarespace
 comments: true
-image: /assets/images/squarespace/kansas-city.jpg
----
+image: "/assets/images/squarespace/kansas-city.jpg"
+slug: how-to-know-youre-from-kansas-city
 
+---
 About nine years ago when I still lived in Ohio, two of my good friends at the time just so happened to be from Missouri and Kansas. It's kind of a long story how they got there, but it could be said that they found a lot of our local idiosyncrasies hilarious. One day they decided to compile a  fairly smarting list of these quirky traits and emailed it to all of their Ohio friends for a good laugh (it was 2003, we emailed a lot back then). They wrote it all under the moniker "The MO-KAN Connection".
 
 <!-- <a href="2005-08-22-108" target="_blank">fairly smarting list</a> -->

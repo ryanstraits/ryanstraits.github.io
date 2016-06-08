@@ -1,16 +1,17 @@
 ---
-layout: post
 title: Post Haste
-date: 2008-11-29 05:04
+date: '2008-11-29 05:04:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - working-mans-blues
 - squarespace
 comments: true
-image:
----
+image: 
+slug: post-haste
 
+---
 I decided to censor myself and un-publish my previous entry. Judging by the glut of comments and influx of traffic I received in response to it, I'm sure it's removal will widely go unnoticed.
 
 <!-- break -->

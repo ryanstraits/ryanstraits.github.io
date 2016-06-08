@@ -1,18 +1,19 @@
 ---
-layout: post
 title: On Leaving And Lebron
-date: 2011-07-12 03:58
+date: '2011-07-12 03:58:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - bloodbuzz-ohio
 - fambly
 - all-is-a-game
 - squarespace
 comments: true
-image: /assets/images/squarespace/lebron-witness.jpg
----
+image: "/assets/images/squarespace/lebron-witness.jpg"
+slug: on-leaving-and-lebron
 
+---
 It's been a year now.
 
 <!-- break -->
@@ -29,11 +30,11 @@ This was our time.
 
 We grew up with you. I, personally, saw you play three of your high school championship games at the state tournaments. I was never a particularly big basketball fan, but you had a way of igniting a passion for the game out of indifference. You turned arenas electric. We were all witnesses. And then, the impossible happened: the lowly Cavaliers lucked into taking you 1st in the draft. A once-in-a-generation talent *from our area* coming back to *represent our area* to the rest of the country? Northeast Ohio was abuzz. It was too good to be true.
 
-![Quitness](/assets/images/squarespace/news_poster-witness-3.jpg)
+![Quitness]({{ site.baseurl }}/assets/images/squarespace/news_poster-witness-3.jpg)
 
 And boy, you sure knew how to put on a show. My dad bought season tickets to your games even though we lived an hour and a half away. My parents, especially, loved going to watch you play. You turned *my mom* into a basketball fan. The games she actually let me go to with my dad will be remembered as some of the best sports experiences of my life. You turned 20,562 screaming fans into a close-knit community every night. There just wasn't anything like it. With the game on the line, we looked to you. We knew you could "turn it on" whenever you wanted and take over the game. The rest of the team just stood and watched you work your magic.
 
-![Cavs in my blood](/assets/images/squarespace/cavs-fam.jpg)
+![Cavs in my blood]({{ site.baseurl }}/assets/images/squarespace/cavs-fam.jpg)
 
 That was, until, they started talking about New York. The playoff losses started mounting. The pressure on you to win now started growing. We expected you to stay, to keep fighting for your city. You <a href="http://www.fannation.com/truth_and_rumors/view/174990-lebrons-goal-bring-title-to-cleveland" target="_blank">said it yourself</a>, you weren't going to stop until you brought home a championship to the city of Cleveland. Let ESPN talk all they want, we'd say, you wouldn't <em>actually</em> leave Ohio before you did, would you?
 
@@ -51,7 +52,7 @@ I gave my "decision" to my parents in their kitchen after one of my mom's regula
 
 There weren't any TV cameras, or captive audiences, or charities, or cheesy flannel shirts (well, maybe a few flannel shirts). I didn't have the luxury of playing soft-toss with Jim Gray at some remote location in Greenwich, Connecticut (I mean, c'mon...New England?). No, there wasn't a whole wide world of sports waiting to hear what I had decided.
 
-![Dat flannel tho...](/assets/images/squarespace/lebron-decision.jpg)
+![Dat flannel tho...]({{ site.baseurl }}/assets/images/squarespace/lebron-decision.jpg)
 
 But at *least* there was heartache. It broke my heart to leave Ohio. It broke my heart to feel like I was letting my family down by moving away. It broke my heart to know that I wouldn't be living life beside these people anymore. That I wouldn't be able to just drop by after work to talk and eat dinner with my parents. That I wouldn't be going to Grandma's after church on Sundays anymore. God had knit our hearts so close together for so many years and now our relationship would only exist on the other end of a telephone or computer screen. *That* is heartbreaking.
 
@@ -67,7 +68,7 @@ Being out here for the aftermath has made me realize that no one outside of Ohio
 
 Or at least we *thought* you were.
 
-![Heat check](/assets/images/squarespace/lebron-heated.jpg)
+![Heat check]({{ site.baseurl }}/assets/images/squarespace/lebron-heated.jpg)
 
 I think Dan Wetzel of Yahoo Sports put the whole thing in <a href="http://sports.yahoo.com/nba/news;_ylt=AoWfdJHNo5Q7zT3ZweCYfDW8vLYF?slug=dw-wetzel_cleveland_laughs_at_lebron_james_061211" target="_blank">perspective</a> best:
 

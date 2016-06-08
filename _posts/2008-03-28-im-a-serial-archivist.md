@@ -1,18 +1,19 @@
 ---
-layout: post
 title: I'm A Serial Archivist
-date: 2008-03-28 21:29
+date: '2008-03-28 21:29:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - a-simple-answer
 - that-sad-and-holy-glow
 - futures
 - squarespace
 comments: true
-image: /assets/images/squarespace/archive.jpg
----
+image: "/assets/images/squarespace/archive.jpg"
+slug: im-a-serial-archivist
 
+---
 There, I've admitted it.
 
 <!-- break -->

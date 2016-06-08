@@ -1,17 +1,18 @@
 ---
-layout: post
 title: In Addendum
-date: 2009-03-03 03:25
+date: '2009-03-03 03:25:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - dad-rock
 - its-hard-to-find-a-friend
 - squarespace
 comments: true
-image:
----
+image: 
+slug: in-addendum
 
+---
 In the interest of promoting beautiful music, I'm going to spread the reach of my previous post a little wider. Instead of just friends, I'm including a few loose acquaintances as well:
 
 <!-- break -->

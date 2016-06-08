@@ -1,18 +1,19 @@
 ---
-layout: post
 title: We Are Not Christians...
-date: 2008-06-25 03:12
+date: '2008-06-25 03:12:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - jesus-etc
 - churches-under-the-stairs
 - wolf-am-i
 - squarespace
 comments: true
-image: /assets/images/squarespace/christians.jpg
----
+image: "/assets/images/squarespace/christians.jpg"
+slug: we-are-not-christians
 
+---
 ...If we are not like Christ.
 
 <!-- break -->

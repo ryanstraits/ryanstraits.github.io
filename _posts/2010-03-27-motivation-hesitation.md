@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Motivation/Hesitation
-date: 2010-03-27 03:10
+date: '2010-03-27 03:10:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - time-is-a-bird
 - soul-driver
 - land-of-hope-and-dreams
 - squarespace
 comments: true
-image: /assets/images/squarespace/motivation-hesitation.jpg
----
+image: "/assets/images/squarespace/motivation-hesitation.jpg"
+slug: motivation-hesitation
 
+---
 I know I promised to write more. And I haven't. But I fall back on my previous promise to not spend as much time on the internet as my sole defense.
 
 So there.

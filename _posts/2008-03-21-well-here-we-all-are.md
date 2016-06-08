@@ -1,16 +1,17 @@
 ---
-layout: post
 title: Well, Here We All Are
-date: 2008-03-21 02:49
+date: '2008-03-21 02:49:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - we-laugh-indoors
 - squarespace
 comments: true
 image: 
----
+slug: well-here-we-all-are
 
+---
 About two years ago (or there round abouts) I gave up this whole blogging rigmarole never to return again.
 
 Or so I thought.

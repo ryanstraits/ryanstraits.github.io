@@ -1,8 +1,8 @@
 ---
+title: Hate Before Love
+date: '2014-03-23 00:00:00'
+categories: []
 layout: post
-title:  Hate Before Love
-date:   2014-03-23
-categories: 
 tags:
 - dad-rock
 - that-sad-and-holy-glow
@@ -10,8 +10,9 @@ tags:
 - svbtle
 comments: true
 image: 
----
+slug: hate-before-love
 
+---
 I have this quirk. I tend to hate things that I wind up falling in love with.
 
 <!-- break -->

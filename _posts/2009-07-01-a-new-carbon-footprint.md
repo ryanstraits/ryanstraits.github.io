@@ -1,18 +1,19 @@
 ---
-layout: post
 title: A New Carbon Footprint
-date: 2009-07-01 01:57
+date: '2009-07-01 01:57:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - scenic-world
 - its-hard-to-find-a-friend
 - jesus-etc
 - squarespace
 comments: true
-image: /assets/images/squarespace/footprint.jpg
----
+image: "/assets/images/squarespace/footprint.jpg"
+slug: a-new-carbon-footprint
 
+---
 Confession: I'm one of those wierdies who goes grocery shopping once every week.
 
 What can I say? I like my fruit and milk fresh. So sue me.

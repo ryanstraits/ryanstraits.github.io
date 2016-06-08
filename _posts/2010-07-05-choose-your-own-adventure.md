@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Choose Your Own Adventure
-date: 2010-07-05 06:51
+date: '2010-07-05 06:51:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - rehearsals-for-departure
 - kc-accidental
 - the-promised-land
 - squarespace
 comments: true
-image: /assets/images/squarespace/adventure.jpg
----
+image: "/assets/images/squarespace/adventure.jpg"
+slug: choose-your-own-adventure
 
+---
 Or, "Leaving/Staying Pt. 2"
 
 These are words I've been meaning to write for a little over three months now. Unfortunately, they haven't formed themselves into complete sentences until tonight.

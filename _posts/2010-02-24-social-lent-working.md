@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Social Lent-working
-date: 2010-02-24 02:38
+date: '2010-02-24 02:38:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - that-sad-and-holy-glow
 - its-hard-to-find-a-friend
 - time-is-a-bird
 - squarespace
 comments: true
-image: /assets/images/squarespace/lentworking.jpg
----
+image: "/assets/images/squarespace/lentworking.jpg"
+slug: social-lent-working
 
+---
 It's time.
 
 <!-- break -->

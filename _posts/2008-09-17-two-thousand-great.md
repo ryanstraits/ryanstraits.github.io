@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Two-Thousand Great
-date: 2008-09-17 02:25
+date: '2008-09-17 02:25:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - travelogue
 - exit-music-for-a-film
 - its-hard-to-find-a-friend
 - squarespace
 comments: true
-image: /assets/images/squarespace/radiohead.jpg
----
+image: "/assets/images/squarespace/radiohead.jpg"
+slug: two-thousand-great
 
+---
 P[re].S. - many apologies for the increasing lengths of time between blog posts. In my defense, I had a blog nearly typed up a few weeks ago but somehow it vanished into the digital ooze.
 
 ---

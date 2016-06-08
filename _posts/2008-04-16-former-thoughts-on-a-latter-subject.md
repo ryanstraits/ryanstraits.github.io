@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Former Thoughts On A Latter Subject...
-date: 2008-04-16 01:49
+date: '2008-04-16 01:49:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - jesus-etc
 - spirit-in-the-night
@@ -11,8 +11,9 @@ tags:
 - squarespace
 comments: true
 image: 
----
+slug: former-thoughts-on-a-latter-subject
 
+---
 About two years ago I began a journey.
 
 <!-- break -->

@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Tyuhr Buhlog
-date: 2007-06-13 23:20
+date: '2007-06-13 23:20:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - dad-rock
 - travelogue
 - tour-blog
 comments: true
-image: /assets/images/tour/tuscaloosa-al.jpg
----
+image: "/assets/images/tour/tuscaloosa-al.jpg"
+slug: tyuhr-buhlog
 
+---
 <!-- break -->
 
 oh no, here we go...

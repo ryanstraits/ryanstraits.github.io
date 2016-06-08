@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Leaving/Staying
-date: 2009-05-27 23:26
+date: '2009-05-27 23:26:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - rehearsals-for-departure
 - scenic-world
 - the-promised-land
 - squarespace
 comments: true
-image: /assets/images/squarespace/california-trip.jpg
----
+image: "/assets/images/squarespace/california-trip.jpg"
+slug: leaving-staying
 
+---
 Sometimes you just need to go where nobody knows your name.
 
 Recently for me, that place was Southern California.

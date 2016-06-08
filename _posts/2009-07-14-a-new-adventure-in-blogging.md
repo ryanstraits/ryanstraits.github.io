@@ -1,16 +1,17 @@
 ---
-layout: post
 title: A New Adventure In Blogging
-date: 2009-07-14 02:21
+date: '2009-07-14 02:21:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - we-laugh-indoors
 - squarespace
 comments: true
-image:
----
+image: 
+slug: a-new-adventure-in-blogging
 
+---
 In the hopes of keeping things fresh(er) on this site, I'm launching a new little page on here I'm calling "Notes To Self" (see top bar for the page conveniently titled, "Notes").
 
 <!-- break -->

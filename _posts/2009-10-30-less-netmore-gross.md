@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Less Net/More Gross
-date: 2009-10-30 03:54
+date: '2009-10-30 03:54:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - time-is-a-bird
 - my-body-is-a-cage
 - dad-rock
 - squarespace
 comments: true
-image: /assets/images/squarespace/lessnet-moregross.jpg
----
+image: "/assets/images/squarespace/lessnet-moregross.jpg"
+slug: less-netmore-gross
 
+---
 There just aren't enough hours in the day.
 
 If I have learned one lesson in this my 27th year of life it is that the older I get, the shorter the days become.

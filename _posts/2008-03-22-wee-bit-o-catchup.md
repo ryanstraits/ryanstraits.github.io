@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Wee Bit O' Catchup
-date: 2008-03-22 04:12
+date: '2008-03-22 04:12:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - soul-driver
 - we-laugh-indoors
 - squarespace
 comments: true
 image: 
----
+slug: wee-bit-o-catchup
 
+---
 Before I [re]kick this thing back off, a few orders of business:
 
 <!-- break -->

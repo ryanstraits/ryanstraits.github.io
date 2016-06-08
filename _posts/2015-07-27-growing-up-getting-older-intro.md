@@ -1,16 +1,17 @@
 ---
+title: Growing Up/Getting Older&#58; Intro
+date: '2015-07-27 03:00:00'
+categories: []
 layout: post
-title:  Growing Up/Getting Older&#58; Intro
-date:   2015-07-27 03:00
-categories: 
 tags:
 - now-that-im-older
 - fambly
 - jesus-etc
 comments: true
-image: /assets/images/33.jpg
----
+image: "/assets/images/33.jpg"
+slug: growing-up-getting-older-intro
 
+---
 Or, a few thoughts on living in this very body, soul & spirit after a mere 33 years.
 
 <!-- break -->

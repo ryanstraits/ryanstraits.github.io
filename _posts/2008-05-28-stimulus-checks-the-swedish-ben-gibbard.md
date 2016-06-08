@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Stimulus Checks & The Swedish Ben Gibbard
-date: 2008-05-28 01:37
+date: '2008-05-28 01:37:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - exit-music-for-a-film
 - we-laugh-indoors
 - ride-on-right-on
 - squarespace
 comments: true
-image: /assets/images/squarespace/ben-gibbard.jpg
----
+image: "/assets/images/squarespace/ben-gibbard.jpg"
+slug: stimulus-checks-the-swedish-ben-gibbard
 
+---
 Booyah...And I'm back.
 
 So between work, general indifference to blogging and a 10 day break from all things normal (aka vacation), I haven't had two minutes to rub together to update this page. But alas, no time for excuses, I'm a busy guy.

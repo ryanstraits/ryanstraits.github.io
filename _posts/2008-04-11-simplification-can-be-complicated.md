@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Simplification Can Be Complicated
-date: 2008-04-11 03:05
+date: '2008-04-11 03:05:00'
+categories: []
+layout: post
 author: ryanstraits
-categories: 
 tags:
 - a-simple-answer
 - futures
 - squarespace
 comments: true
-image: /assets/images/squarespace/simplification.jpg
----
+image: "/assets/images/squarespace/simplification.jpg"
+slug: simplification-can-be-complicated
 
+---
 Well, at least it has been for me.
 
 <!-- break -->

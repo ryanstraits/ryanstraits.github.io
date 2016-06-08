@@ -1,17 +1,18 @@
 ---
-layout: post
 title: The Adventure Continues...
-date: 2010-09-03 16:21
+date: '2010-09-03 16:21:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - kc-accidental
 - we-laugh-indoors
 - squarespace
 comments: true
 image: 
----
+slug: the-adventure-continues
 
+---
 It's been nearly 2 months since I moved to Kansas City. Much has happened. I hope to bring you a full-featured update in the shape of a long-form post within the next few days.
 
 Until then, here is a glimpse of a few of the things I've been working on while I'm still unemployed:

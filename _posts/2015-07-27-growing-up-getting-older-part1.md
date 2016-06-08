@@ -1,17 +1,18 @@
 ---
+title: Growing Up/Getting Older&#58; Part 1
+date: '2015-07-27 04:00:00'
+categories: []
 layout: post
-title:  Growing Up/Getting Older&#58; Part 1
-date:   2015-07-27 04:00
-categories: 
 tags:
 - now-that-im-older
 - my-body-is-a-cage
 - ride-on-right-on
 - fambly
 comments: true
-image: /assets/images/33.jpg
----
+image: "/assets/images/33.jpg"
+slug: growing-up-getting-older-part1
 
+---
 I *feel* old.
 
 <!-- break -->
@@ -45,7 +46,7 @@ This sucks.
 
 I've always been pretty keen on working out and trying to at least maintain a healthy weight. I kept up pretty well with it through my 20's. There was safety in the routine of it. I also think I inherited an irrational--though maybe healthy?--fear of getting overweight. So, my thinking was that if I could just stay a step ahead, I'd be able to head off my metabolism before it completely dropped off the cliff. This really just meant that I flailed my arms & legs on an elliptical in my parents' basement roughly 3 times a week. It worked for me only because I didn't *completely* hate it.
 
-![Cycling + BBQ](/assets/images/TourDeBBQ1.jpg)
+![Cycling + BBQ]({{ site.baseurl }}/assets/images/TourDeBBQ1.jpg)
 
 A revelation occurred to me in the summer of 2009, however, when I got into cycling. I'm not much of a runner--or an athlete, for that matter--so the simplicity of biking was something I embraced wholeheartedly. It was something I was finally good at. I bought a nice bike and while getting fit for it, the trainer commented that I had a nice pedal stroke. A nice pedal stroke! Dammit, I was *made* for this.
 
@@ -55,7 +56,7 @@ And then my daughter was born.
 
 ---
 
-![Proud Papa](/assets/images/audrey-birth.jpg)
+![Proud Papa]({{ site.baseurl }}/assets/images/audrey-birth.jpg)
 
 For those without children: Basically, the birth of your first child is this unalterable, drastic upheaval in whatever form of a priority structure you once had. And one that you're pretty certain you'll never bounce back from. Up is down and down is less sleep. Oh, sleep. How you can't wait until they're asleep! (I'll talk more on this in Part 2).
 
@@ -72,7 +73,7 @@ When you break my day down now, the time I spend with my daughter overlaps nearl
 
 Really, when I get a chance to work out, I'm also working out for Audrey. The better shape I'm in today means I'm going to be much a happier and healthier dad tomorrow. And eventually, a happier and healthier grandpa for her to take care of somewhere down the line. All the more reason to hit the bike and the gym with whatever waning moments I have left in the day.
 
-![Goofballs](/assets/images/audrey-faces.jpg)
+![Goofballs]({{ site.baseurl }}/assets/images/audrey-faces.jpg)
 
 It's hard to admit this to teenager-me or 20-year-old-me, but an extra 10-15 pounds just isn't that big of a deal at this stage of the game. And you care less about those extra pounds the older you get. That's just life. There are plenty more important things to worry about.
 

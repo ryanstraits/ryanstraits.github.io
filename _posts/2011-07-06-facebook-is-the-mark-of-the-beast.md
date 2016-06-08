@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Facebook Is The Mark Of The Beast
-date: 2011-07-06 02:04
+date: '2011-07-06 02:04:00'
+categories: []
+layout: post
 author: ryanstraits
-categories:
 tags:
 - that-sad-and-holy-glow
 - wolf-am-i
 - squarespace
 comments: true
-image: /assets/images/squarespace/facebook.jpg
----
+image: "/assets/images/squarespace/facebook.jpg"
+slug: facebook-is-the-mark-of-the-beast
 
+---
 I mean, is there really any doubt?
 
 <!-- break -->
