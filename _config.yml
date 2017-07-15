@@ -17,6 +17,9 @@ name: 'Ryan Straits'
 author: 'Ryan Straits'
 author_image: "/assets/images/RMS-large-cntr.jpg"
 
+# plugins
+plugins: ['jekyll-paginate']
+
 paginate:	7
 paginate_path: "/page:num"
 
