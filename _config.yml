@@ -1,6 +1,6 @@
 # Build settings
-#markdown: redcarpet
-highlighter: rogue
+# markdown: redcarpet
+highlighter: rouge
 
 # Site settings
 title: "Sinner/Saint"
