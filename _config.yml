@@ -3,19 +3,19 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Sinner/Saint"
+title: "Ghost States"
 description: > # this means to ignore newlines until "email:"
-   "Every saint has a past and every sinner has a future." - Oscar Wilde
+   All Things Reconsidered
 
 email: ryanstraits@gmail.com
 #blog logo
-logo: "/assets/images/RMS-large-cntr.jpg"
+logo: "/assets/images/2017-07-20 square2.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/IMG_1249.jpg"
 
 name: 'Ryan Straits'
 author: 'Ryan Straits'
-author_image: "/assets/images/RMS-large-cntr.jpg"
+author_image: "/assets/images/2017-07-20 square2.jpg"
 
 # plugins
 plugins: ['jekyll-paginate']
