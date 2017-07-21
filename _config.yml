@@ -9,9 +9,9 @@ description: > # this means to ignore newlines until "email:"
 
 email: ryanstraits@gmail.com
 #blog logo
-logo: <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+logo: "/assets/images/2017-07-20 square2.jpg"
 # blog cover
-cover: "/assets/images/monolith-crop-flip.jpg"
+cover: "/assets/images/levi-saunders-71726.jpg"
 
 name: 'Ryan Straits'
 author: 'Ryan Straits'
