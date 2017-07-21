@@ -8,7 +8,7 @@ tags:
 - fambly
 - jesus-etc
 comments: true
-image: "/assets/images/33.jpg"
+image: "/assets/images/charlotte-coneybeer-108074.jpg"
 slug: growing-up-getting-older-intro
 
 ---
