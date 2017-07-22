@@ -15,7 +15,7 @@ cover: "/assets/images/monolith-crop-flip2.jpg"
 
 name: 'Ryan Straits'
 author: 'Ryan Straits'
-author_image: "/assets/images/2017-07-20 square2.jpg"
+author_image: "/assets/images/2017-07-20 square2-logo-small.jpg"
 
 # plugins
 plugins: ['jekyll-paginate']
