@@ -1,10 +1,10 @@
 ---
 title: New Year, New Blog Things
-date: 2018-01-15 00:00:00 +0000
+date: 2018-01-15 14:25:31 -0600
 categories: []
 layout: post
-tags:
-- my-body-is-a-cage
+tags: []
 comments: true
-slug: '001'
+slug: new-year-new-blog-things
+image: "/cliff-johnson-20686.jpg"
 ---
