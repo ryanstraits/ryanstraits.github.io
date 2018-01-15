@@ -1,0 +1,43 @@
+---
+hide_body: false
+fields:
+- name: title
+  default: Jan 19, 2003
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: 2003-01-19 16:53:00 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: categories
+  default: []
+  label: Categories
+  type: list
+  hidden: false
+- name: layout
+  default: post
+  label: Layout
+  type: text
+  hidden: false
+- name: tags
+  default: []
+  label: Tags
+  type: list
+  hidden: false
+- name: comments
+  default: true
+  label: Comments
+  type: boolean
+  hidden: false
+- name: image
+  default: ''
+  label: Image
+  type: file
+  hidden: false
+- name: slug
+  default: '001'
+  label: Slug
+  type: text
+  hidden: false

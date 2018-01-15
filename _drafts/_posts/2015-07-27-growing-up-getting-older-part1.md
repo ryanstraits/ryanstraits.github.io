@@ -1,6 +1,6 @@
 ---
 title: Growing Up/Getting Older&#58; Part 1
-date: '2015-07-27 04:00:00'
+date: 2015-07-27 00:00:00 +0000
 categories: []
 layout: post
 tags:
@@ -11,7 +11,6 @@ tags:
 comments: true
 image: "/assets/images/charlotte-coneybeer-108074.jpg"
 slug: growing-up-getting-older-part1
-
 ---
 I *feel* old.
 

@@ -1,0 +1,36 @@
+---
+pages:
+- _posts/2015-07-20-template.md
+hide_body: false
+fields:
+- name: layout
+  type: text
+  hidden: false
+  label: Layout
+  description: Type of post
+  default: post
+  config:
+    required: true
+- name: title
+  type: text
+  label: Title
+  description: Title of blog post
+  default: New post!
+  config:
+    required: true
+- name: date
+  type: datetime
+  label: Date
+  description: Date of post
+- name: tags
+  type: tag_list
+  label: Tags
+  description: Tag list
+- name: image
+  type: file
+  label: Image
+  description: Header image
+- name: comments
+  type: boolean
+  label: Comments
+  description: Comments on or off?
