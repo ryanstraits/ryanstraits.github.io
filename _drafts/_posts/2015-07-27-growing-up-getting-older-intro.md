@@ -1,6 +1,6 @@
 ---
 title: Growing Up/Getting Older&#58; Intro
-date: '2015-07-27 03:00:00'
+date: 2015-07-27 00:00:00 +0000
 categories: []
 layout: post
 tags:
@@ -10,7 +10,6 @@ tags:
 comments: true
 image: "/assets/images/charlotte-coneybeer-108074.jpg"
 slug: growing-up-getting-older-intro
-
 ---
 Or, a few thoughts on living in this very body, soul & spirit after a mere 33 years.
 
