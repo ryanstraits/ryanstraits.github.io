@@ -2,7 +2,7 @@
 upload_path: "/forestryio/images"
 frontmatter_file_url_template: ''
 body_file_url_template: 
-new_page_extension: html
+new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
