@@ -22,7 +22,8 @@ fields:
   type: text
   hidden: false
 - name: tags
-  default: []
+  default:
+  - my-body-is-a-cage
   label: Tags
   type: list
   hidden: false
