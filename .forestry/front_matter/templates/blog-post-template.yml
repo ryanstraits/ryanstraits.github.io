@@ -26,6 +26,11 @@ fields:
   label: Tags
   type: list
   hidden: false
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: pages
 - name: comments
   default: true
   label: Comments
