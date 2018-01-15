@@ -9,13 +9,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: ryanstraits@gmail.com
 #blog logo
-logo: "/assets/images/_DSC0931-sq.jpg"
+logo: "/assets/images/DSC0931-sq.jpg"
 # blog cover
 cover: "/assets/images/aleksandar-radovanovic-10295.jpg"
 
 name: 'Ryan Straits'
 author: 'Ryan Straits'
-author_image: "/assets/images/_DSC0931-sq.jpg"
+author_image: "/assets/images/DSC0931-sq.jpg"
 
 # plugins
 plugins: ['jekyll-paginate']
