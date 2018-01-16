@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Mid States"
+title: "Ghost States"
 description: > # this means to ignore newlines until "email:"
    <i>The art of the in-between</i>
 
