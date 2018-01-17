@@ -214,7 +214,7 @@ body {
       text-decoration: underline; }
 
 .teaserimage {
-  height: 550px;
+  height: 50vmin;
   position: relative;
   overflow: hidden;
   background-color: #000; }
@@ -284,7 +284,8 @@ body {
       text-decoration: none;
       color: #999; }
       .blog-header .custom-links a:hover {
-        color: #333; }
+        color: #999;
+        text-decoration: underline; }
 
 .content {
   width: 100%;
@@ -312,7 +313,7 @@ body {
       margin: 0 0; }
       .content article .post-title a {
         text-decoration: none;
-        color: #333332; }
+        color: #333333; }
         .content article .post-title a:hover {
           text-decoration: none; }
     .content article .post-excerpt {
@@ -324,15 +325,15 @@ body {
       color: #666665; }
       .content article .post-excerpt a {
         text-decoration: none;
-        color: #333332; }
+        color: #333; }
         .content article .post-excerpt a:hover {
           text-decoration: underline; }
     .content article .post-meta {
       font-size: 14px;
-      color: #b3b3b1;
+      color: #bbbbbb;
       line-height: 30px; }
       .content article .post-meta a {
-        color: #b3b3b1;
+        color: #bbbbbb;
         text-decoration: none; }
         .content article .post-meta a:hover {
           text-decoration: underline; }
@@ -362,10 +363,11 @@ body {
   padding: 42px 0 0;
   font-size: 14px; }
   .pagination a {
-    color: #999;
+    color: #333;
     text-decoration: none; }
     .pagination a:hover {
-      color: #333; }
+      color: #333;
+      text-decoration: underline; }
 
 .post-reading {
   position: absolute;
@@ -399,7 +401,8 @@ body {
     color: #666;
     text-decoration: none; }
     .site-footer a:hover {
-      color: #333; }
+      color: #666;
+      text-decoration: underline; }
 
 .post .article-image {
   position: absolute;
@@ -467,9 +470,8 @@ body {
     white-space: wrap;
     text-overflow: ellipsis; }
     .post .article-image .post-meta-text a {
-      color: rgba(255, 255, 255, 0.75); }
-      .post .article-image .post-meta-text a:hover {
-        color: white; }
+      color: rgba(255, 255, 255, 0.75);
+      color: white; }
   .post .article-image .fa-angle-down {
     font-size: 32px;
     margin: 64px auto 0;
@@ -652,7 +654,7 @@ body {
       color: #000;
       text-decoration: none; }
       .post .bottom-teaser .isLeft a:hover {
-        color: #333;
+        color: #000;
         text-decoration: underline; }
     .post .bottom-teaser .isLeft .author-image {
       display: block;
