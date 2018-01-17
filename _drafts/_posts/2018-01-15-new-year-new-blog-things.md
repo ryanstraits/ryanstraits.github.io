@@ -1,15 +1,15 @@
 ---
 title: New Year, New Blog Things
-date: 2018-01-15 14:25:31 -0600
+date: 2018-01-15 20:25:31 +0000
 categories:
-- Featured
+- featured
 layout: post
 tags:
 - that-sad-and-holy-glow
 - we-laugh-indoors
 comments: true
 slug: new-year-new-blog-things
-image: "/patrick-fore-381200.jpg"
+image: "/assets/images/patrick-fore-381200.jpg"
 ---
 If it's a year starting in "2", then it's a year that I am going to try to attempt a renewed blogging effort.
 
