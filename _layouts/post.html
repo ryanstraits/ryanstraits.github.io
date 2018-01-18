@@ -18,7 +18,7 @@
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
                 &nbsp;&#149;&nbsp;
-              <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time><br>
+              <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time>
              {% for tag in page.tags %}
 			         &nbsp;&#149;&nbsp;
 			         <i class="fa fa-tag"></i>  
