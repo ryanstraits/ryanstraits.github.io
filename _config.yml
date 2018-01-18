@@ -8,12 +8,21 @@ description: > # this means to ignore newlines until "email:"
    <i>The art of the in-between</i>
 
 email: ryanstraits@gmail.com
-#blog logo
+# blog logo
 logo: "/assets/images/DSC0931-sq.jpg"
 # blog cover
-cover: "/assets/images/radek-grzybowski-67609.jpg"
-
-#other images: tobias-tullius-225741, paper-beard-13807, radek-grzybowski-67609
+cover: "/assets/images/carmine-de-fazio-31543.jpg"
+# other images:
+# paper-beard-13807
+# carmine-de-fazio-31543
+# casey-horner-487085
+# clement-m-429812
+# daniel-peters-156464
+# sebastian-engler-65104
+# toby-wong-339120
+# valeriy-andrushko-465198
+# staffan-kjellvestad-38854
+# thomas-peham-468311
 
 name: 'Ryan Straits'
 author: 'Ryan Straits'
