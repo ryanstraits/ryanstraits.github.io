@@ -19,6 +19,7 @@ layout: default
 			<i class="fa fa-tag"></i>  
 			<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a>&nbsp;
 		{% endfor %}
+		<br><br>
 	</div>
 	<div class="cf frame">
 		<h1 class="post-title">All entries posted in: "{{page.tag}}" ({{ counter }}):</h1><br>
@@ -36,7 +37,7 @@ layout: default
 	{% endfor %}
 	</div>
 	<div class="post-content">
-		<h5><em>*All tag names are inspired by some of my favorite songs/artists.</em></h5>
+		<h6><em>*All tag names are inspired by some of my favorite songs/artists.</em></h6>
 	</div>
   </article>
 
