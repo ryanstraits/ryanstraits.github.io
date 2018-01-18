@@ -300,14 +300,15 @@ body
       position: absolute
       height: 50vmin
       bottom: $rs*5
+      margin-left: 30px
       left: 30%
       right: 30%
       z-index: 9
       font-family: $font-sans
       @include box-sizing(border-box)
       @include respond-to(800)
-        left: 40px
-        right: 40px
+        left: $rs*2
+        right: $rs*2
     .post-title
       font-weight: 700
       font-style: normal
