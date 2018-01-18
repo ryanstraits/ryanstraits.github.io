@@ -16,7 +16,7 @@ layout: default
 			<i class="fa fa-tag"></i>  
 			<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a>&nbsp;
 		{% endfor %}
-		<br><hr><br>
+		<br><br>
 	</div>
 	<div class="cf frame">
 		<h1>{{ page.title }}*</h1>
@@ -24,10 +24,7 @@ layout: default
 	{% for post in site.tags[page.tag] %}
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 		  <div class="article-item">
-			  <hr>
-			<header class="post-header">
 			  <h3 class="post-title" itemprop="name"><li><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></li></h3>
-			 </header>
 			<div class="post-meta">
 			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;&nbsp;&#149;&nbsp;<a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
 			</div>
