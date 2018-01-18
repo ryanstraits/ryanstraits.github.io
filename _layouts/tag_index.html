@@ -19,8 +19,7 @@ layout: default
 		<br><br>
 	</div>
 	<div class="cf frame">
-		<h1>Tag: {{ page.title }}*</h1>
-		<h2><em>All entries posted in: "{{page.tag}}" ({{ counter }}):</em></h2>
+		<h2>All entries posted in: "{{page.tag}}" ({{ counter }})*:</h2>
 	{% for post in site.tags[page.tag] %}
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 		  <h3 class="post-title" itemprop="name"><li><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></li></h3>
@@ -32,7 +31,7 @@ layout: default
 	{% endfor %}
 	</div>
 	<div class="post-content">
-		<br><h6><em>*All tag names are inspired by some of my favorite songs/artists.</em></h6>
+		<br><h6><em>*Tag name inspiration: {{ page.title }}</em></h6>
 	</div>
   </article>
 
