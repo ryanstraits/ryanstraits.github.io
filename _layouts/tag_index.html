@@ -5,15 +5,13 @@ layout: default
 {% include header.html %}
 <main class="content" role="main">
 	  <div class="post-title">
-	    <h1 class="post-title">{{ page.title }}</h1>
+	    <h1>{{ page.title }}</h1>
 	  </div>
   <article class="post">
 	 {% assign counter = 0 %}
 	 {% for post in site.tags[page.tag] %}
 	   {% assign counter = counter | plus: 1 %}
 	 {% endfor %}
-	    <br><br>
-
 
 	<div class="post-meta">
 	  <h3>All tags:</h3>
@@ -38,8 +36,8 @@ layout: default
 		</article>
 	{% endfor %}
 	</div>
-	<div class="post-meta">
-		<h5><em>FYI: All tag names are based on some of my favorite songs.</em></h5>
+	<div>
+		<h5><em>*All tag names are inspired by some of my favorite songs/artists.</em></h5>
 	</div>
   </article>
 
