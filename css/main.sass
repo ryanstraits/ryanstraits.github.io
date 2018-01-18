@@ -41,8 +41,8 @@ body
 
 .logo-readium
   position: fixed
-  left: 10px
-  top: 10px
+  left: 15px
+  top: 15px
   color: #666
   background-color: transparent
   overflow: hidden
@@ -110,7 +110,7 @@ body
 
 .blog-header
   width: 100%
-  max-width: 720px
+  max-width: 800px
   margin: 0 auto
   position: relative
   padding: 0
@@ -164,13 +164,13 @@ body
 
 .content
   width: 100%
-  max-width: 720px
+  max-width: 800px
   margin: 0 auto
   @include box-sizing(border-box)
   @include respond-to(800)
     padding: 0 $rs*2
   article
-    padding: 25px 0
+    padding: 40px 0
     padding-left: 20px
     border-bottom: 1px solid #f2f2f0
     &:last-child
@@ -191,6 +191,7 @@ body
           color: #222222
     .post-excerpt
       letter-spacing: -0.02em
+      font-family: $font-serif
       font-weight: 300
       font-style: normal
       font-size: 16px
@@ -215,7 +216,7 @@ body
   padding-top: 0px
 
 .post-template .content
-  max-width: 720px
+  max-width: 700px
 
 .index-headline
   border-top: 1px solid #dededc
@@ -244,12 +245,12 @@ body
 
 .post-reading
   position: absolute
-  top: 10px
-  right: 30px
+  top: 15px
+  right: 15px
   line-height: 44px
   display: inline-block
-  white-space: wrap
-  color: #b3b3b1
+  white-space: nowrap
+  color: rgba(0,0,0,0.25)
   font-size: 14px
   letter-spacing: -0.02em
   font-weight: 400
@@ -264,7 +265,7 @@ body
   margin: 0 auto
   padding: $rs*3 0
   width: 100%
-  max-width: 720px
+  max-width: 800px
   font-size: $rs/4*3
   text-align: center
   color: #999
@@ -297,14 +298,14 @@ body
     .post-meta
       position: absolute
       bottom: $rs*5
-      left: 20%
-      right: 20%
+      left: 30%
+      right: 30%
       z-index: 9
       font-family: $font-sans
       @include box-sizing(border-box)
       @include respond-to(800)
-        left: $rs*2
-        right: $rs*2
+        left: $rs
+        right: $rs
     .post-title
       font-weight: 700
       font-style: normal
@@ -336,7 +337,7 @@ body
       font-size: 14px
       overflow: visible
       font-family: $font-sans
-      white-space: wrap
+      white-space: nowrap
       text-overflow: ellipsis
       a
         color: rgba(255,255,255,0.75)
