@@ -12,6 +12,7 @@ layout: default
 	 {% endfor %}
 	<div class="blog-title">
 	   <h2>{{ page.title }}*</h2>
+		<hr>
 	</div>
 	<div class="post-meta">
 	  <h3>All tags:</h3>
@@ -19,7 +20,7 @@ layout: default
 			<i class="fa fa-tag"></i>  
 			<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a>&nbsp;
 		{% endfor %}
-		<br><br>
+		<br><hr><br>
 	</div>
 	<div class="cf frame">
 		<h2>All entries posted in: "{{page.tag}}" ({{ counter }}):</h2>
@@ -33,6 +34,7 @@ layout: default
 			  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;&nbsp;&#149;&nbsp;<a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
 			</div>
 		  </div>
+		  <hr>
 		</article>
 	{% endfor %}
 	</div>
