@@ -20,15 +20,17 @@ layout: default
 	</div>
 	<div class="cf frame">
 		<h2>All entries posted in: "{{page.tag}}" ({{ counter }})*:</h2>
-	<ul>{% for post in site.tags[page.tag] %}
+	<ul>
+	{% for post in site.tags[page.tag] %}
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 		<li><h3 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h3>
 		<div class="post-meta">
 		  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;
-		</li></div>
+		</div></li>
 
 	  </article>
-	{% endfor %}</ul>
+	{% endfor %}
+	</ul>
 	</div>
 	<div class="post-content">
 		<br><h6><em>*Tag name inspiration: {{ page.title }}</em></h6>
