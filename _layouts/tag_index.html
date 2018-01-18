@@ -10,10 +10,6 @@ layout: default
 	 {% for post in site.tags[page.tag] %}
 	   {% assign counter = counter | plus: 1 %}
 	 {% endfor %}
-	<div class="blog-title">
-	   <h2>{{ page.title }}*</h2>
-		<hr>
-	</div>
 	<div class="post-meta">
 	  <h3>All tags:</h3>
 		{% for tag in site.tags %}
@@ -23,6 +19,7 @@ layout: default
 		<br><hr><br>
 	</div>
 	<div class="cf frame">
+		<h1><em>Tag {{ page.title }}*</em></h1>
 		<h2>All entries posted in: "{{page.tag}}" ({{ counter }}):</h2>
 	{% for post in site.tags[page.tag] %}
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
