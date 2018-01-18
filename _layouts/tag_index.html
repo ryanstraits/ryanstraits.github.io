@@ -9,7 +9,8 @@ layout: default
 	   {% assign counter = counter | plus: 1 %}
 	 {% endfor %}
 	    <br><br>
-		<h2 class="post-title">All tags:</h2><br>
+	  <h1 class="post-title">{{page.title}}</h1><br>
+	  <h3>All tags:</h3><br>
 	<div class="post-meta">
 		{% for tag in site.tags %}
 			<i class="fa fa-tag"></i>  
@@ -17,7 +18,7 @@ layout: default
 		{% endfor %}
 	</div>
 	<br><br>
-	<h1 class="post-title">All entries posted in: {{page.tag}} ({{ counter }})</h1><br><br>
+	<h1 class="post-title">All entries posted in: "{{page.tag}}" ({{ counter }}):</h1><br>
 
 	<div class="cf frame">
 	{% for post in site.tags[page.tag] %}
