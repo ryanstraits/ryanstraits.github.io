@@ -24,7 +24,7 @@ layout: default
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 		<li><h3 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h3>
 		<div class="post-meta">
-		  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;&nbsp;&#149;&nbsp;<a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
+		  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;
 		</li></div>
 
 	  </article>
