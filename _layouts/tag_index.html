@@ -5,7 +5,7 @@ layout: default
 {% include header.html %}
 <main class="content" role="main">
 	  <div class="post-title">
-	    <h1>{{ page.title }}</h1>
+	    <h2>{{ page.title }}*</h2>
 	  </div>
   <article class="post">
 	 {% assign counter = 0 %}
@@ -20,7 +20,6 @@ layout: default
 			<a href="/tag/{{tag | first}}" itemprop="url">{{tag | first}} ({{tag | last | size}})</a>&nbsp;
 		{% endfor %}
 	</div>
-	<br><br>
 	<div class="cf frame">
 		<h1 class="post-title">All entries posted in: "{{page.tag}}" ({{ counter }}):</h1><br>
 	{% for post in site.tags[page.tag] %}
@@ -36,7 +35,7 @@ layout: default
 		</article>
 	{% endfor %}
 	</div>
-	<div>
+	<div class="post-content">
 		<h5><em>*All tag names are inspired by some of my favorite songs/artists.</em></h5>
 	</div>
   </article>
