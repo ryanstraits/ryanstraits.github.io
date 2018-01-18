@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-{% include head.html %}
+<head>
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	  <meta name="description" content="{{ site.description }}" />
+</head>
 {% include header.html %}
 <main class="content" role="main">
   <article class="post">
