@@ -20,15 +20,15 @@ layout: default
 	</div>
 	<div class="cf frame">
 		<h2>All entries posted in: "{{page.tag}}" ({{ counter }})*:</h2>
-	{% for post in site.tags[page.tag] %}
+	<ul>{% for post in site.tags[page.tag] %}
 	  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 		<div class="post-meta">
-		  <h3 class="post-title" itemprop="name"><li><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></li></h3>
+		  <h3 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h3>
 		  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>&nbsp;&nbsp;&#149;&nbsp;<a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">View Comments</a>
 		</div>
 
 	  </article>
-	{% endfor %}
+	{% endfor %}</ul>
 	</div>
 	<div class="post-content">
 		<br><h6><em>*Tag name inspiration: {{ page.title }}</em></h6>
