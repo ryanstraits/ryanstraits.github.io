@@ -63,6 +63,9 @@ body
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     -box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+   a
+    &:hover
+      color: #333
 
 .tag-list
   position: absolute
@@ -83,7 +86,6 @@ body
   right: 16px
   top: 80px
   max-width: 200px
-  font-family: $font-sans
   font-size: 14px
   color: #222
   line-height: 30px
@@ -171,7 +173,7 @@ body
   @include respond-to(800)
     padding: 0 $rs*2
   article
-    padding: 25px 0
+    padding: 40px 0
     border-bottom: 1px solid #f2f2f0
     &:last-child
       border-bottom: 0px
@@ -304,8 +306,8 @@ body
       font-family: $font-sans
       @include box-sizing(border-box)
       @include respond-to(800)
-        left: 30px
-        right: 30px
+        left: 40px
+        right: 40px
     .post-title
       font-weight: 700
       font-style: normal
@@ -442,8 +444,10 @@ body
       hyphens: auto
     a
       color: #999
+      text-decoration: none
       &:hover
         color: #333
+        text-decoration: none
 
     img
       max-width: 100%
