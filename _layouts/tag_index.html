@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include head.html %}
 {% include header.html %}
 <main class="content" role="main">
   <article class="post">
@@ -9,8 +10,8 @@ layout: default
 	   {% assign counter = counter | plus: 1 %}
 	 {% endfor %}
 	    <br><br>
-	  <h1 class="post-title">{{page.title}}</h1><br>
-	  <h3>All tags:</h3><br>
+	  <h1 class="post-title">{{post.title}}</h1><br>
+	  <h3>All tags:</h3>
 	<div class="post-meta">
 		{% for tag in site.tags %}
 			<i class="fa fa-tag"></i>  
