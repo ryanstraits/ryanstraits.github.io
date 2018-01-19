@@ -7,40 +7,42 @@
     {% include header.html %}
     <main class="content" role="main">
       <article class="post">
-        {% if page.image %}
-        <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
-            Article Image
-          </div>
-          <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.logo }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
-            </div>
-            <div style="text-align:center">
-              <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
-            </div>
-          </div>
-        </div>
-        {% else %}
         <div class="noarticleimage">
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ page.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+               &nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time></a>
+             {% for tag in page.tags %}
+               &nbsp;&#149;&nbsp;
+               <i class="fa fa-tag"></i>  
+               <a class="tag_list_link" href="/tag/{{ tag }}" itemprop="url">{{ tag }}</a>
+             {% endfor %} 
             </div>
           </div>
         </div>
         <br>
         <br>
         <br>
-        {% endif %}
+        <a class="page-up" href="#topofpage"><i class="fa fa-angle-up fa-2x" aria-hidden="true"></i></a>
         <section class="post-content">
-          <a name="topofpage"></a>
+           <a name="topofpage"></a>
           {{content}}
         </section>
+        <footer class="post-footer">
+          <section class="share">
+            {% for social in site.social %}
+              {% if social.share_url != null %}
+                <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
+                  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
+                <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
+                </a>
+              {% endif %}
+            {% endfor %}
+          </section>
+        </footer>
       </article>
     </main>
     <div class="bottom-closer">
@@ -62,13 +64,11 @@
     {% include javascripts.html %}
   </body>
   <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-48029211-3', 'auto');
-    ga('send', 'pageview');
-
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+   ga('create', 'UA-48029211-3', 'auto');
+   ga('send', 'pageview');
   </script>
 </html>
