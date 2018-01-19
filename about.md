@@ -5,12 +5,12 @@ categories: []
 layout: default
 tags: []
 comments: false
-slug: '001'
-image: ''
+slug: about
+image: "/DSC0933.jpg"
 ---
 # Hi, my name is Ryan.
 
-![](/DSC0933.jpg "Hey, it's me!")
+![](/DSC0933.jpg)
 
 Thanks for taking a moment to check out my blog. First, a bit about me.
 
