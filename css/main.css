@@ -443,7 +443,6 @@ body {
     position: absolute;
     height: 50vh;
     bottom: 56px;
-    margin-left: 25px;
     left: 30%;
     right: 30%;
     z-index: 9;
@@ -521,8 +520,7 @@ body {
     text-decoration: underline; }
 .post .noarticleimage .post-meta {
   font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
-  padding-top: 60px;
-  padding-left: 25px; }
+  padding-top: 60px; }
 .post .noarticleimage .post-title {
   font-weight: 700;
   font-style: normal;
