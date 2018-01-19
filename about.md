@@ -6,11 +6,9 @@ layout: default
 tags: []
 comments: false
 slug: about
-image: "/DSC0933.jpg"
+image: ''
 ---
 # Hi, my name is Ryan.
-
-![Hey, it's me!](assets/images/DSC0933.jpg)
 
 Thanks for taking a moment to check out my blog. First, a bit about me.
 
