@@ -14,17 +14,23 @@ image: ''
 
 ![](/assets/images/DSC0933-small.jpg "Hey, it's me!")
 
-First off, I have to let you in on a little secret.
+##### Right out of the gate, I have to let you in on a little secret.
 
 See the trendy glasses I'm wearing in that picture right up there? Well, here's the deal: they're kind of fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them. That's weird right? My friends that know this embarrassing fact about me have not been shy in telling me as much.
 
-So then, why start off a section called "About Me" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of my life, I have come to realize that for one, I'm not nearly as cool as I think myself to be
+So then, why start off a section called "About Me" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of my life, I have come to realize that for one, I'm not nearly as cool as I think I am , and that one of the most valuable things I have to offer you as a reader is transparency.
 
-Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium or something similar. Well, 
+Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium or somewhere similar. Well, because I think that transparency requires a level of intimacy that might get steamrolled in a more "public" platform. And I also 
 
 ---
 
-##### Here's a bit more about me and where we go from here. 
+##### What's up with the spooky name, dude?
+
+No, this doesn't have anything to do with states of the US that are haunted. 
+
+---
+
+##### Ok, so where we go from here?
 
 I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. This is evidenced by the fact that I am indeed writing to you right now in blog form and not through Snapchat. I consider myself on the sufficiently and properly bandaged side of the bleeding edge.  
 I'm a dad and a husband, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.  
