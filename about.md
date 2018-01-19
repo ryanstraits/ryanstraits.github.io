@@ -12,7 +12,7 @@ image: ''
 
 # Hi, my name is Ryan.
 
-### Here's a bit more about me.
+### And here's a bit more about me and why I'm writing this blog.
 
 ![](/assets/images/DSC0933-small.jpg "Hey, it's me!")
 
