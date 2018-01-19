@@ -1,5 +1,6 @@
 ---
 pages:
+- about.html
 - _posts/2015-07-20-template.md
 hide_body: false
 fields:
