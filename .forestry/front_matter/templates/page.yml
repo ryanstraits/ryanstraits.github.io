@@ -22,3 +22,6 @@ fields:
   config:
     required: true
   description: Time
+- type: text
+  name: slug
+  label: Slug
