@@ -16,3 +16,9 @@ fields:
   description: Page title
   config:
     required: true
+- type: datetime
+  label: Date
+  name: date
+  config:
+    required: true
+  description: Time
