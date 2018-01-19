@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -136,7 +136,7 @@
 			  <a href="/2014/03/23/hate-before-love.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="23 March 2014">23 March 2014</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="23 March 2014">23 March 2014</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -171,7 +171,7 @@
 			  <a href="/2013/02/18/how-i-work.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="18 February 2013">18 February 2013</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="18 February 2013">18 February 2013</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/futures">futures</a>
@@ -207,7 +207,7 @@
 			  <a href="/2012/07/27/how-to-know-youre-from-kansas-city.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="27 July 2012">27 July 2012</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="27 July 2012">27 July 2012</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/kc-accidental">kc-accidental</a>
@@ -238,7 +238,7 @@
 			  <a href="/2011/07/12/on-leaving-and-lebron.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="12 July 2011">12 July 2011</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="12 July 2011">12 July 2011</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/bloodbuzz-ohio">bloodbuzz-ohio</a>
@@ -273,7 +273,7 @@
 			  <a href="/2011/07/06/facebook-is-the-mark-of-the-beast.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="06 July 2011">06 July 2011</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="06 July 2011">06 July 2011</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/that-sad-and-holy-glow">that-sad-and-holy-glow</a>
@@ -306,7 +306,7 @@ This year, thankfully, I did.
 			  <a href="/2010/12/29/top-10-of-10.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="29 December 2010">29 December 2010</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="29 December 2010">29 December 2010</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -337,7 +337,7 @@ This year, thankfully, I did.
 			  <a href="/2010/12/27/ugly-christmas-sweater.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="27 December 2010">27 December 2010</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="27 December 2010">27 December 2010</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -408,8 +408,11 @@ This year, thankfully, I did.
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

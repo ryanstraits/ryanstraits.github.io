@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -136,7 +136,7 @@
 			  <a href="/2005/08/15/198.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="15 August 2005">15 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="15 August 2005">15 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -161,7 +161,7 @@ i’m actually looking forward to the fall…
 			  <a href="/2005/08/14/197.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="14 August 2005">14 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="14 August 2005">14 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -184,7 +184,7 @@ i’m actually looking forward to the fall…
 			  <a href="/2005/08/11/196.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="11 August 2005">11 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="11 August 2005">11 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -207,7 +207,7 @@ i’m actually looking forward to the fall…
 			  <a href="/2005/08/08/195.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="08 August 2005">08 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="08 August 2005">08 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -230,7 +230,7 @@ i’m actually looking forward to the fall…
 			  <a href="/2005/08/04/194.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="04 August 2005">04 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="04 August 2005">04 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -253,7 +253,7 @@ i’m actually looking forward to the fall…
 			  <a href="/2005/07/27/193.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="27 July 2005">27 July 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="27 July 2005">27 July 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -276,7 +276,7 @@ i’m actually looking forward to the fall…
 			  <a href="/2005/07/22/192.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="22 July 2005">22 July 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="22 July 2005">22 July 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -339,8 +339,11 @@ i’m actually looking forward to the fall…
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

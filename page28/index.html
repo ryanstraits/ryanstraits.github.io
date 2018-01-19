@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -136,7 +136,7 @@
 			  <a href="/2004/04/21/100.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="21 April 2004">21 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="21 April 2004">21 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -159,7 +159,7 @@
 			  <a href="/2004/04/19/099.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="19 April 2004">19 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="19 April 2004">19 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -182,7 +182,7 @@
 			  <a href="/2004/04/16/098.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="16 April 2004">16 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="16 April 2004">16 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -205,7 +205,7 @@
 			  <a href="/2004/04/15/097.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="15 April 2004">15 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="15 April 2004">15 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -228,7 +228,7 @@
 			  <a href="/2004/04/14/096.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="14 April 2004">14 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="14 April 2004">14 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -251,7 +251,7 @@
 			  <a href="/2004/04/13/095.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="13 April 2004">13 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="13 April 2004">13 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -274,7 +274,7 @@
 			  <a href="/2004/04/01/094.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="01 April 2004">01 April 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="01 April 2004">01 April 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -337,8 +337,11 @@
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

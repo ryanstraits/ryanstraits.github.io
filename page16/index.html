@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -138,7 +138,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/25/184.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="25 June 2005">25 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="25 June 2005">25 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -161,7 +161,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/16/183.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="16 June 2005">16 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="16 June 2005">16 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -184,7 +184,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/14/182.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="14 June 2005">14 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="14 June 2005">14 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -207,7 +207,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/13/181.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="13 June 2005">13 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="13 June 2005">13 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -230,7 +230,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/09/180.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="09 June 2005">09 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="09 June 2005">09 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -253,7 +253,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/07/179.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="07 June 2005">07 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="07 June 2005">07 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -276,7 +276,7 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
 			  <a href="/2005/06/06/177.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="06 June 2005">06 June 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="06 June 2005">06 June 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -339,8 +339,11 @@ i’ll be back in ohio tomorrow…let the masses rejoice…
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

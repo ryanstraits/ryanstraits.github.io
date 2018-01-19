@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -138,7 +138,7 @@ Recently for me, that place was Southern California.
 			  <a href="/2009/05/27/leaving-staying.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="27 May 2009">27 May 2009</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="27 May 2009">27 May 2009</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/rehearsals-for-departure">rehearsals-for-departure</a>
@@ -173,7 +173,7 @@ Recently for me, that place was Southern California.
 			  <a href="/2009/04/17/im-a-mac.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="17 April 2009">17 April 2009</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="17 April 2009">17 April 2009</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/that-sad-and-holy-glow">that-sad-and-holy-glow</a>
@@ -204,7 +204,7 @@ Recently for me, that place was Southern California.
 			  <a href="/2009/03/03/in-addendum.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="03 March 2009">03 March 2009</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="03 March 2009">03 March 2009</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -235,7 +235,7 @@ Recently for me, that place was Southern California.
 			  <a href="/2009/02/20/creation-sedation.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="20 February 2009">20 February 2009</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="20 February 2009">20 February 2009</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/its-hard-to-find-a-friend">its-hard-to-find-a-friend</a>
@@ -272,7 +272,7 @@ Recently for me, that place was Southern California.
 			  <a href="/2008/12/31/movin-out.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="31 December 2008">31 December 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="31 December 2008">31 December 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/rehearsals-for-departure">rehearsals-for-departure</a>
@@ -307,7 +307,7 @@ Recently for me, that place was Southern California.
 			  <a href="/2008/11/29/post-haste.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="29 November 2008">29 November 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="29 November 2008">29 November 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/working-mans-blues">working-mans-blues</a>
@@ -338,7 +338,7 @@ So I finally saw Bruce Springsteen.
 			  <a href="/2008/09/17/two-thousand-great.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="17 September 2008">17 September 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="17 September 2008">17 September 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/travelogue">travelogue</a>
@@ -413,8 +413,11 @@ So I finally saw Bruce Springsteen.
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

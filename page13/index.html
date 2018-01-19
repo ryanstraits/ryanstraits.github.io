@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -136,7 +136,7 @@
 			  <a href="/2005/09/16/205.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="16 September 2005">16 September 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="16 September 2005">16 September 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -161,7 +161,7 @@ so school was just the thing to do it…
 			  <a href="/2005/09/12/204.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="12 September 2005">12 September 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="12 September 2005">12 September 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -186,7 +186,7 @@ ok so it’s been a while…
 			  <a href="/2005/09/02/203.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="02 September 2005">02 September 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="02 September 2005">02 September 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -210,7 +210,7 @@ and now back by popular demand...more wise words from "boy meets world":
 			  <a href="/2005/08/29/202.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="29 August 2005">29 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="29 August 2005">29 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -233,7 +233,7 @@ and now back by popular demand...more wise words from "boy meets world":
 			  <a href="/2005/08/25/201.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="25 August 2005">25 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="25 August 2005">25 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -256,7 +256,7 @@ and now back by popular demand...more wise words from "boy meets world":
 			  <a href="/2005/08/22/200.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="22 August 2005">22 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="22 August 2005">22 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -281,7 +281,7 @@ ok…a quick entry before the weekend because it’s sure to be a busy one…
 			  <a href="/2005/08/19/199.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="19 August 2005">19 August 2005</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="19 August 2005">19 August 2005</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -344,8 +344,11 @@ ok…a quick entry before the weekend because it’s sure to be a busy one…
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -145,7 +145,7 @@ so judging by the flurry of comments i’ve been getting lately from my most rec
 			  <a href="/2003/03/16/016.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="16 March 2003">16 March 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="16 March 2003">16 March 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -178,7 +178,7 @@ quote of the day:
 			  <a href="/2003/03/03/015.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="03 March 2003">03 March 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="03 March 2003">03 March 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -203,7 +203,7 @@ You know you’re from Tuscarawas County if…
 			  <a href="/2003/02/21/014.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="21 February 2003">21 February 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="21 February 2003">21 February 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -226,7 +226,7 @@ You know you’re from Tuscarawas County if…
 			  <a href="/2003/02/21/013.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="21 February 2003">21 February 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="21 February 2003">21 February 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -251,7 +251,7 @@ eating: choc. chip cookie dough ice cream [while my cat sits patiently waiting t
 			  <a href="/2003/02/15/012.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="15 February 2003">15 February 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="15 February 2003">15 February 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -291,7 +291,7 @@ hasta luego and the comeback…maybe?
 			  <a href="/2003/02/07/011.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="07 February 2003">07 February 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="07 February 2003">07 February 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -314,7 +314,7 @@ hasta luego and the comeback…maybe?
 			  <a href="/2003/02/04/010.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="04 February 2003">04 February 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="04 February 2003">04 February 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -377,8 +377,11 @@ hasta luego and the comeback…maybe?
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

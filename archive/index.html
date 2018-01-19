@@ -62,11 +62,12 @@
       <div class="wrapper">
         <!-- header start -->
 
-<a class="logo-readium" href="/"><i class="fa fa-chevron-circle-left fa-2x" aria-hidden="true"></i></a>
+<a class="logo-readium" href="/"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a>
 
 <!-- header end -->
 
 <main class="content" role="main">
+  <a name="topofpage"></a>
   <article class="post">
 	  <br><br>
 	    <h1 class="post-title">Archive</h1><br>
@@ -2141,6 +2142,7 @@
 						 </section>
 		  </div>
 	</article>
+	<a class="page-up" href="#topofpage"><i class="fa fa-angle-up fa-2x" aria-hidden="true"></i></a>
 </main>
 
       </div>
@@ -2180,8 +2182,11 @@
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -140,7 +140,7 @@ tomorrow: albania
 			  <a href="/2004/03/30/093.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="30 March 2004">30 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="30 March 2004">30 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -163,7 +163,7 @@ tomorrow: albania
 			  <a href="/2004/03/26/092.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="26 March 2004">26 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="26 March 2004">26 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -186,7 +186,7 @@ tomorrow: albania
 			  <a href="/2004/03/22/091.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="22 March 2004">22 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="22 March 2004">22 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -209,7 +209,7 @@ tomorrow: albania
 			  <a href="/2004/03/16/090.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="16 March 2004">16 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="16 March 2004">16 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -232,7 +232,7 @@ tomorrow: albania
 			  <a href="/2004/03/10/089.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="10 March 2004">10 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="10 March 2004">10 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -255,7 +255,7 @@ tomorrow: albania
 			  <a href="/2004/03/07/088.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="07 March 2004">07 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="07 March 2004">07 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -278,7 +278,7 @@ tomorrow: albania
 			  <a href="/2004/03/03/087.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="03 March 2004">03 March 2004</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="03 March 2004">03 March 2004</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -341,8 +341,11 @@ tomorrow: albania
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

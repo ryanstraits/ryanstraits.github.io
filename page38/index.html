@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -136,7 +136,7 @@
 			  <a href="/2003/06/01/030.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="01 June 2003">01 June 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="01 June 2003">01 June 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -159,7 +159,7 @@
 			  <a href="/2003/05/27/029.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="27 May 2003">27 May 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="27 May 2003">27 May 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -193,7 +193,7 @@ i cannot take this digital silence…it’s 1:39am and all that is left of me is
 			  <a href="/2003/05/23/028.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="23 May 2003">23 May 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="23 May 2003">23 May 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -216,7 +216,7 @@ i cannot take this digital silence…it’s 1:39am and all that is left of me is
 			  <a href="/2003/05/18/027.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="18 May 2003">18 May 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="18 May 2003">18 May 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -239,7 +239,7 @@ i cannot take this digital silence…it’s 1:39am and all that is left of me is
 			  <a href="/2003/05/17/026.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="17 May 2003">17 May 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="17 May 2003">17 May 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -262,7 +262,7 @@ i cannot take this digital silence…it’s 1:39am and all that is left of me is
 			  <a href="/2003/05/15/025.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="15 May 2003">15 May 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="15 May 2003">15 May 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -285,7 +285,7 @@ i cannot take this digital silence…it’s 1:39am and all that is left of me is
 			  <a href="/2003/05/12/024.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="12 May 2003">12 May 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="12 May 2003">12 May 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -348,8 +348,11 @@ i cannot take this digital silence…it’s 1:39am and all that is left of me is
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

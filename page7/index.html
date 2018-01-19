@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -134,7 +134,7 @@
 			  <a href="/2007/06/28/oklahoma-city-ok.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="28 June 2007">28 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="28 June 2007">28 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -163,7 +163,7 @@
 			  <a href="/2007/06/26/abilene-tx.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="26 June 2007">26 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="26 June 2007">26 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -192,7 +192,7 @@
 			  <a href="/2007/06/26/denton-tx.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="26 June 2007">26 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="26 June 2007">26 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -221,7 +221,7 @@
 			  <a href="/2007/06/23/tuscaloosa-al-little-rock-ar.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="23 June 2007">23 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="23 June 2007">23 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -250,7 +250,7 @@
 			  <a href="/2007/06/21/jackson-ms.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="21 June 2007">21 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="21 June 2007">21 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -279,7 +279,7 @@
 			  <a href="/2007/06/20/chattanooga-tn.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="20 June 2007">20 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="20 June 2007">20 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -308,7 +308,7 @@
 			  <a href="/2007/06/19/nashville-tn.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="19 June 2007">19 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="19 June 2007">19 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -379,8 +379,11 @@
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -136,7 +136,7 @@
 			  <a href="/2008/07/26/the-pushpull-of-givetake.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="26 July 2008">26 July 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="26 July 2008">26 July 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/its-hard-to-find-a-friend">its-hard-to-find-a-friend</a>
@@ -169,7 +169,7 @@ This past weekend I humored myself by flying out to the Pacific Northwest to vis
 			  <a href="/2008/07/23/seattle-and-back.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="23 July 2008">23 July 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="23 July 2008">23 July 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/travelogue">travelogue</a>
@@ -200,7 +200,7 @@ This past weekend I humored myself by flying out to the Pacific Northwest to vis
 			  <a href="/2008/06/25/we-are-not-christians.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="25 June 2008">25 June 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="25 June 2008">25 June 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/jesus-etc">jesus-etc</a>
@@ -239,7 +239,7 @@ Here’s a funny story or two to kick things off:
 			  <a href="/2008/05/28/stimulus-checks-the-swedish-ben-gibbard.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="28 May 2008">28 May 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="28 May 2008">28 May 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/exit-music-for-a-film">exit-music-for-a-film</a>
@@ -274,7 +274,7 @@ Here’s a funny story or two to kick things off:
 			  <a href="/2008/04/16/former-thoughts-on-a-latter-subject.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="16 April 2008">16 April 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="16 April 2008">16 April 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/jesus-etc">jesus-etc</a>
@@ -309,7 +309,7 @@ Here’s a funny story or two to kick things off:
 			  <a href="/2008/04/11/simplification-can-be-complicated.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="11 April 2008">11 April 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="11 April 2008">11 April 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/a-simple-answer">a-simple-answer</a>
@@ -340,7 +340,7 @@ Here’s a funny story or two to kick things off:
 			  <a href="/2008/03/28/im-a-serial-archivist.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="28 March 2008">28 March 2008</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="28 March 2008">28 March 2008</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/a-simple-answer">a-simple-answer</a>
@@ -415,8 +415,11 @@ Here’s a funny story or two to kick things off:
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

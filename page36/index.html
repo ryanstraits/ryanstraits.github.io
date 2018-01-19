@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -138,7 +138,7 @@ i guess xanga blew up over the weekend…sucks to be them…that being said, i w
 			  <a href="/2003/08/14/044.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="14 August 2003">14 August 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="14 August 2003">14 August 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -167,7 +167,7 @@ she’s my kinda rain…”
 			  <a href="/2003/08/03/043.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="03 August 2003">03 August 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="03 August 2003">03 August 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -198,7 +198,7 @@ digging themselves out
 			  <a href="/2003/07/30/042.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="30 July 2003">30 July 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="30 July 2003">30 July 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -221,7 +221,7 @@ digging themselves out
 			  <a href="/2003/07/23/040.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="23 July 2003">23 July 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="23 July 2003">23 July 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -244,7 +244,7 @@ digging themselves out
 			  <a href="/2003/07/23/041.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="23 July 2003">23 July 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="23 July 2003">23 July 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -267,7 +267,7 @@ digging themselves out
 			  <a href="/2003/07/20/039.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="20 July 2003">20 July 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="20 July 2003">20 July 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -290,7 +290,7 @@ digging themselves out
 			  <a href="/2003/07/11/038.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="11 July 2003">11 July 2003</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="11 July 2003">11 July 2003</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/xanga">xanga</a>
@@ -353,8 +353,11 @@ digging themselves out
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

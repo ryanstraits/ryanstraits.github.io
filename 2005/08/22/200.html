@@ -55,7 +55,7 @@
   <body itemscope itemtype="http://schema.org/Article">
     <!-- header start -->
 
-<a class="logo-readium" href="/"><i class="fa fa-chevron-circle-left fa-2x" aria-hidden="true"></i></a>
+<a class="logo-readium" href="/"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a>
 
 <!-- header end -->
 
@@ -72,7 +72,7 @@
               <div class="author-image" style="background-image: url(/assets/images/DSC0931-sq.jpg)">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">Ryan Straits</h4>
                 &nbsp;&#149;&nbsp;
-              <time datetime="2005-08-22 16:32">22 Aug 2005</time>
+              <a href="/archive"><time datetime="2005-08-22 16:32">22 Aug 2005</time></a>
              
 			         &nbsp;&#149;&nbsp;
 			         <i class="fa fa-tag"></i>  
@@ -85,6 +85,7 @@
           </div>
         </div>
         
+        <a class="page-up" href="#topofpage"><i class="fa fa-angle-up fa-2x" aria-hidden="true"></i></a>
         <section class="post-content">
           <div class="post-reading">
             <span class="post-reading-time"></span> read
@@ -198,7 +199,7 @@
       </article>
     </main>
     <div class="bottom-closer">
-      <div class="background-closer-image"  style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Image
       </div>
       <div class="inner">
@@ -235,8 +236,11 @@
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

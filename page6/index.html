@@ -61,7 +61,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/paper-beard-13807.jpg)">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/casey-horner-505913.jpg)">
         Teaser Image
     </div>
 </div>
@@ -134,7 +134,7 @@
 			  <a href="/2007/07/04/harrisonburg-va.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="04 July 2007">04 July 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="04 July 2007">04 July 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -163,7 +163,7 @@
 			  <a href="/2007/07/02/marion-in.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="02 July 2007">02 July 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="02 July 2007">02 July 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -192,7 +192,7 @@
 			  <a href="/2007/07/02/cornerstone-music-festival-day-2-bushnell-il.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="02 July 2007">02 July 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="02 July 2007">02 July 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -221,7 +221,7 @@
 			  <a href="/2007/07/02/cornerstone-music-festival-day-1-bushnell-il.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="02 July 2007">02 July 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="02 July 2007">02 July 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -250,7 +250,7 @@
 			  <a href="/2007/07/02/sorry.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="02 July 2007">02 July 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="02 July 2007">02 July 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -279,7 +279,7 @@
 			  <a href="/2007/06/28/kansas-city-mo-off-day.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="28 June 2007">28 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="28 June 2007">28 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -312,7 +312,7 @@
 			  <a href="/2007/06/28/kansas-city-mo.html" itemprop="url">Continue reading...</a><br><br>
             </section>			
             <div class="post-meta">
-              <time datetime="28 June 2007">28 June 2007</time>&nbsp;&nbsp;&#149;&nbsp;
+              <a href="/archive"><time datetime="28 June 2007">28 June 2007</time></a>&nbsp;&nbsp;&#149;&nbsp;
              
 			 <i class="fa fa-tag"></i> 
 			 <a class="tag_list_link" href="/tag/dad-rock">dad-rock</a>
@@ -387,8 +387,11 @@
     });
     $window.trigger('scroll');
 
-    var height = $('.article-image').height();
-    $('.post-content').css('padding-top', height + 'px');
+    $window.on('resize', function() {
+        var height = $('.article-image').height();
+        $('.post-content').css('padding-top', height + 'px');
+    });
+    $window.trigger('resize');
 
     $('a[href*=#]:not([href=#])').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
