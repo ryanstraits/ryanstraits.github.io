@@ -1,9 +1,12 @@
 ---
 layout: page
-title:  About Me
+title: About Me
 date: 
 categories: 
-tags:
-comments:
-image:
+tags: 
+comments: 
+image: ''
 ---
+![](/DSC0933.jpg)
+
+Hey, it me.
