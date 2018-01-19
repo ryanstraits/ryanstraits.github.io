@@ -1,0 +1,20 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Layout
+  name: layout
+  description: Page layout
+  config:
+    required: true
+- type: text
+  default: Title
+  label: Title
+  name: title
+  description: Page title
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+  description: Page banner image
