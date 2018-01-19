@@ -1,5 +1,6 @@
 ---
 pages:
+- about.md
 - _posts/2018-01-15-new-year-new-blog-things.md
 hide_body: false
 fields:
