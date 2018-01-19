@@ -10,8 +10,8 @@ image: ''
 ---
 # Hi, my name is Ryan.
 
-![](/DSC0933.jpg "It's me!")
+![](/DSC0933.jpg "Hey, it's me!")
 
 Thanks for taking a moment to check out my blog. First, a bit about me.
 
-I'm a millenial, but just barely. I made the cut on the front end of the generation by a year or two and this is evidenced by the fact that I'm writing to you right now in a blog and now
+I'm a millenial, but just barely. I made the cut on the front end of the generation by a year or two and this is evidenced by the fact that I'm writing to you right now in a blog and not on Snapchat.
