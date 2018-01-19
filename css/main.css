@@ -452,6 +452,7 @@ body {
     box-sizing: border-box; }
     @media only screen and (max-width: 800px) {
       .post .article-image .post-meta {
+        padding-left: 40px;
         left: 28px;
         right: 28px; } }
   .post .article-image .post-title {
