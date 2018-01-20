@@ -24,7 +24,9 @@ Ok, so why start off an "About" section" with such an odd, revealing factoid abo
 
 ##### Why are you choosing to bare your soul in blog form in the year 2018 instead of say, on Medium, or Facebook, or somewhere similar.
 
-Well, I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. So thus, blog form makes just a little bit more sense to me than Snapchat. I consider myself on the "adequately bandaged" side of the bleeding edge. I'm also choosing this particular personal blog site because I think that the transparency I'm aiming for requires a level of intimacy that might get steamrolled in a more "public" platform.
+Well, I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. So thus, blog form makes just a little bit more sense to me than Snapchat. I consider myself on the "adequately bandaged" side of the bleeding edge.
+
+I'm also choosing this particular personal blog site because I think that the transparency I'm aiming for requires a level of intimacy that might get steamrolled in a more "public" platform. Oh, and I coded much of this site by myself. At this point, I'll take all the cool I can get.
 
 ---
 
