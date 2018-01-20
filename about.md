@@ -44,4 +44,4 @@ You can read more about this concept by Googling the "Heisenberg principle" or d
 
 Well, if you're new to this blog, the best place to start is probably with my series, "A Midlife Guide To Growing Up". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
 
-Next, if you're truly feeling crazy you can scroll through my 40+ pages of archives. Because here's another weird thing about me. I am a serial archivist and with this blog, I've collated nearly every single blog post that I've ever published, going way back to the Xanga blog I _regularly_ posted on from 2003 to 2008. There are some real
+Next, if you're feeling truly crazy you can scroll through my 40+ pages of archived posts, but I wouldn't recommend it. Because here's another weird thing about me: I'm a serial archivist and with this blog, I've collated nearly every single blog post that I've ever published, going way back to the Xanga blog I _regularly_ posted on from 2003 to 2008. There are some real gems back there if you're game.
