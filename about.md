@@ -8,7 +8,7 @@ comments: false
 slug: about
 image: ''
 ---
-# Hi, my name is Ryan.
+# Hi. My name is Ryan.
 
 ---
 
@@ -18,9 +18,9 @@ image: ''
 
 See the trendy glasses I'm wearing in that picture right up there? Well, here's the deal: they're kind of fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them. That's weird right? My friends that know this embarrassing fact about me have not been shy in telling me as much.
 
-So then, why start off a section called "About Me" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of my life, I have come to realize that for one, I'm not nearly as cool as I think I am , and that one of the most valuable things I have to offer you as a reader is transparency.
+So then, why start off an "About" section" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that for one, I'm not nearly as cool as I think I am, and two, one of the most valuable things I have to offer you as a reader is transparency.
 
-Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium or somewhere similar. Well, because I think that transparency requires a level of intimacy that might get steamrolled in a more "public" platform. And I also 
+Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium, or Facebook, or somewhere similar. Well, because I think that transparency requires a level of intimacy that might get steamrolled in a more "public" platform. And I also 
 
 ---
 
