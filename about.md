@@ -16,29 +16,29 @@ image: ''
 
 ##### Right out of the gate, I have to let you in on a little secret.
 
-See the trendy glasses I'm wearing in that picture right up there? Well, here's the deal: they're kind of fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them. That's weird right? My friends that know this embarrassing fact about me have not been shy in telling me as much.
+See the trendy glasses I'm wearing in that picture right up there? Well, here's the deal: they're kind of fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them. How silly, right? Friends of mine that I've let in on this secret have not been shy in telling me as much.
 
-So then, why start off an "About" section" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that for one, I'm not nearly as cool as I think I am, and two, one of the most valuable things I have to offer you as a reader is transparency.
+Ok, so why start off an "About" section" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that I'm not nearly as cool as I think  myself to be. And that one of the most valuable things I have to offer you as a reader is transparency.
 
-Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium, or Facebook, or somewhere similar. Well, because I think that transparency requires a level of intimacy that might get steamrolled in a more "public" platform. And I also 
-
----
-
-##### What's up with the spooky name, dude?
-
-No, this doesn't have anything to do with states of the US that are haunted. 
-
----
-
-##### Ok, so where we go from here?
+Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium, or Facebook, or somewhere similar. Well, because I think that transparency requires a level of intimacy that might get steamrolled in a more "public" platform. And I also, I coded a lot of this site by myself and honestly, that makes it much more fun for me.
 
 I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. This is evidenced by the fact that I am indeed writing to you right now in blog form and not through Snapchat. I consider myself on the sufficiently and properly bandaged side of the bleeding edge.  
 I'm a dad and a husband, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.  
 Besides wearing no-prescription Warby Parker's, here are a few other random tidbits about me. My favorite TV show is and always will be MacGyver. My favorite musician is Bruce Springsteen. I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886). Chocolate chip cookies > donuts. By day, I'm a Project Manager and deal with far more important matters
 
-Lastly, I wear the glasses because I like them and I damn well want to.
+Lastly, I wear the glasses because my wife likes them and I damn well want to.
 
 ---
+
+##### So what's up with the spooky blog title, dude?
+
+No, this doesn't have anything to do with states of the U.S. of A. that are haunted by spectral beings. But it might just be as esoteric as that.
+
+The title of this blog references a"pseudopotentials"
+
+---
+
+##### Ok, so where we go from here?
 
 If you're new to this blog, the best place to start is on my series on growing up & getting older, I call it "A Midlife Guide To Growing Up" and it encompasses just about everything I'm trying to do with this blog. Establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
 
