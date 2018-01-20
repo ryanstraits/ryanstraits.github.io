@@ -1,6 +1,6 @@
 ---
 title: How To Know You're From Kansas City
-date: '2012-07-27 02:14:00'
+date: 2012-07-27 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -11,11 +11,8 @@ tags:
 comments: true
 image: "/assets/images/squarespace/kansas-city.jpg"
 slug: how-to-know-youre-from-kansas-city
-
 ---
 About nine years ago when I still lived in Ohio, two of my good friends at the time just so happened to be from Missouri and Kansas. It's kind of a long story how they got there, but it could be said that they found a lot of our local idiosyncrasies hilarious. One day they decided to compile a  fairly smarting list of these quirky traits and emailed it to all of their Ohio friends for a good laugh (it was 2003, we emailed a lot back then). They wrote it all under the moniker "The MO-KAN Connection".
-
-<!-- <a href="2005-08-22-108" target="_blank">fairly smarting list</a> -->
 <!-- break -->
 
 I'll admit, I didn't take it as kindly then as I do looking back on it now. It was pretty darn funny. But sometimes it's not very much fun to listen to someone with an outside perspective make jokes about "your town" or "your upbringing". I was born and raised in T-County (Tuscarawas County for long, and yea they made fun of the name too), so sometimes I just didn't know any different. It's good every now and then to take a look at things from a different point of view (keep this in mind as you continue reading).
@@ -26,17 +23,17 @@ It's nine years later, and I've been living in Kansas City for over two years. B
 
 So here goes, make sure to read this knowing the love behind which it was crafted. Also, read it with humility. Cuz it's all preeeeeeetty much true.
 
-###You know you're from Kansas City if...<br>
+### You know you're from Kansas City if...
 
-1. You think KU vs. MU is one of the most storied rivalries in college sports.
-2. You can't wait to take out-of-town guests to see the spectacle that is The Plaza.
-3. You call two slabs of meat on a plain piece of white bread with a dollop of BBQ sauce and a pickle on the side "good BBQ".
-4. You think people from Johnson County can drive.
-5. You call a trip to the Ozarks "a vacation".
-6. You don't think it's weird that the "University of Kansas" and the "University of Missouri" are abbreviated KU & MU instead of UK & UM.
-7. You don't understand why the previous statement was included in this list.
-8. You're considering moving from the suburbs to the city just so you'll be assured of getting Google Fiber.
-9. You actually enjoy the ketchup & mustard color scheme that the Chiefs have employed since that combination of colors actually looked good together back in nineteen-NEVER.
+ 1. You think KU vs. MU is one of the most storied rivalries in college sports.
+ 2. You can't wait to take out-of-town guests to see the spectacle that is The Plaza.
+ 3. You call two slabs of meat on a plain piece of white bread with a dollop of BBQ sauce and a pickle on the side "good BBQ".
+ 4. You think people from Johnson County can drive.
+ 5. You call a trip to the Ozarks "a vacation".
+ 6. You don't think it's weird that the "University of Kansas" and the "University of Missouri" are abbreviated KU & MU instead of UK & UM.
+ 7. You don't understand why the previous statement was included in this list.
+ 8. You're considering moving from the suburbs to the city just so you'll be assured of getting Google Fiber.
+ 9. You actually enjoy the ketchup & mustard color scheme that the Chiefs have employed since that combination of colors actually looked good together back in nineteen-NEVER.
 10. You really did think it was "Our Time".
 11. You place the word "highway" after the road it is referring to instead of before like the rest of America, e.g. "71 highway", "69 highway", etc.
 12. You've never heard of a drive-thru liquor store.
@@ -79,10 +76,10 @@ So here goes, make sure to read this knowing the love behind which it was crafte
 49. When you go out of town you tell people the name of the suburb you're from (instead of just saying you're from "Kansas City"), as if they've ever heard of it!
 50. You're not really offended by this list because you've found yourself agreeing with so much of it!
 
-With love,<br>
+With love,
+
 The T-County connection
 
 ---
 
-You can find a copy of my buddies' list, **"You Know You're From T-County If..."** <a href="http://bluestarmorning.xanga.com/11899865/item/">here</a>, on my old Xanga site. 
-
+You can find a copy of my buddies' list, **"You Know You're From T-County If..."** <a href="/2003/02/21/014.html">here</a>, on my old Xanga site.
