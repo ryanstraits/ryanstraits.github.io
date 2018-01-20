@@ -20,11 +20,11 @@ See the trendy glasses I'm wearing in that picture right up there? Well, here's 
 
 Ok, so why start off an "About" section" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that I'm not nearly as cool as I think  myself to be. And that one of the most valuable things I have to offer you as a reader is transparency.
 
-Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium, or Facebook, or somewhere similar. Well, because I think that transparency requires a level of intimacy that might get steamrolled in a more "public" platform. And I also, I coded a lot of this site by myself and honestly, that makes it much more fun for me.
+Now, why am I choosing to bare my soul in blog form in the year 2018 (and beyond) instead of say, on Medium, or Facebook, or somewhere similar. Well, I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. So thus, blog form makes just a little bit more sense to me than Snapchat. I consider myself on the sufficiently and properly bandaged side of the bleeding edge. Well, because I think that the transparency I'm aiming for requires a level of intimacy that might get steamrolled in a more "public" platform. And also, I coded a lot of this site by myself and honestly, I need all the cool I can get at this point.
 
-I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. This is evidenced by the fact that I am indeed writing to you right now in blog form and not through Snapchat. I consider myself on the sufficiently and properly bandaged side of the bleeding edge.  
-I'm a dad and a husband, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.  
-Besides wearing no-prescription Warby Parker's, here are a few other random tidbits about me. My favorite TV show is and always will be MacGyver. My favorite musician is Bruce Springsteen. I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886). Chocolate chip cookies > donuts. By day, I'm a Project Manager and deal with far more important matters
+Besides wearing zero-prescription Warby Parker's far after I had corrective eye surgery, here are a few other random tidbits about me. I was born in Northeast Ohio but now live in Kansas City. My favorite TV show is and always will be MacGyver. My favorite musician is Bruce Springsteen and there ain't no one bigger or badder than The Boss. I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886). I'll take a chocolate chip cookie over a donut any day. By trade, I'm an Engineer but as of 2017, have moved in the Project Management realm. 
+
+I'm husband to an amazing girl and a doting dad to two of the coolest kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
 Lastly, I wear the glasses because my wife likes them and I damn well want to.
 
@@ -32,14 +32,16 @@ Lastly, I wear the glasses because my wife likes them and I damn well want to.
 
 ##### So what's up with the spooky blog title, dude?
 
-No, this doesn't have anything to do with states of the U.S. of A. that are haunted by spectral beings. But it might just be as esoteric as that.
+No, this doesn't have anything to do with states of the U.S. of A. that are haunted by spectral beings. But really, that's not _too_ far off.
 
-The title of this blog references a"pseudopotentials"
+The name _Ghost States_ references a phenomenon in particle physics where an electron is said to travel all possible routes between point A to point B, that is, until it is observed. Up until that point, they can literally be "everywhere and nowhere" at the same time. That in-between state, before the electron is observed and has revealed the direction it has taken, is called a "ghost state".
+
+You can read more about this concept by Googling the "Heisenberg principle" or diving into the complex world of "pseudopotentials". You can also read a more simplistic take in Chapter 2 of Rob Bell's 2013 book, _What We Talk About When We Talk About God_.
 
 ---
 
 ##### Ok, so where we go from here?
 
-If you're new to this blog, the best place to start is on my series on growing up & getting older, I call it "A Midlife Guide To Growing Up" and it encompasses just about everything I'm trying to do with this blog. Establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
+Well, if you're new to this blog, the best place to start is probably with my series, "A Midlife Guide To Growing Up". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
 
 Next, if you're truly feeling crazy you can scroll through my 40+ pages of archives. Because here's another weird thing about me. I am a serial archivist and with this blog, I've collated nearly every single blog post that I've ever published, going way back to the Xanga blog I _regularly_ posted on from 2003 to 2008. There are some real
