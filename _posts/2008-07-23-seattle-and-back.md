@@ -1,6 +1,6 @@
 ---
 title: Seattle And Back
-date: '2008-07-23 03:57:00'
+date: 2008-07-23 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -11,7 +11,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/seattle-trip.jpg"
 slug: seattle-and-back
-
 ---
 A bigger blog will be shortly coming. I've got to at least get one a month to justify having this site. You may be thinking: that doesn't justify you having this site. And you'd also be correct. But still, I continue to humor myself.
 
@@ -25,5 +24,4 @@ Lastly, I cheated once again and did not design the layout to this site. But it 
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
-
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
