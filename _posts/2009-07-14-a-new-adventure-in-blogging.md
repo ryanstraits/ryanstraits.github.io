@@ -19,9 +19,8 @@ In it will be short blurbs that I think of throughout the day that aren't quite 
 
 Until my next ridiculously long entry...
 
-*Editor's note: Unfortunately, "Notes To Self" are lost to antiquity. Nothing to see here anymore.*
+> _Editor's note: Unfortunately, "Notes To Self" are lost to antiquity. Nothing to see here anymore._
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
-
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
