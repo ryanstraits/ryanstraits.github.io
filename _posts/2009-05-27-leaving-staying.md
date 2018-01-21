@@ -1,6 +1,6 @@
 ---
-title: Leaving/Staying
-date: '2009-05-27 23:26:00'
+title: Leaving / Staying
+date: 2009-05-27 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/california-trip.jpg"
 slug: leaving-staying
-
 ---
 Sometimes you just need to go where nobody knows your name.
 
