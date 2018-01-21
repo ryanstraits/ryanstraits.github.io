@@ -1,6 +1,6 @@
 ---
 title: Social Lent-working
-date: '2010-02-24 02:38:00'
+date: 2010-02-24 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/lentworking.jpg"
 slug: social-lent-working
-
 ---
 It's time.
 
@@ -47,4 +46,4 @@ It's just time.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
