@@ -1,6 +1,6 @@
 ---
 title: Facebook Is The Mark Of The Beast
-date: '2011-07-06 02:04:00'
+date: 2011-07-06 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -11,7 +11,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/facebook.jpg"
 slug: facebook-is-the-mark-of-the-beast
-
 ---
 I mean, is there really any doubt?
 
