@@ -10,7 +10,7 @@ tags:
 - dad-rock
 - squarespace
 comments: true
-image: "/assets/images/squarespace/lessnet-moregross.jpg"
+image: "/assets/images/squarespace/lessnet-moregross.JPG"
 slug: less-netmore-gross
 ---
 There just aren't enough hours in the day.
