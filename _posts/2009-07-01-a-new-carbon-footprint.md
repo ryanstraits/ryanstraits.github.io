@@ -1,6 +1,6 @@
 ---
 title: A New Carbon Footprint
-date: '2009-07-01 01:57:00'
+date: 2009-07-01 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/footprint.jpg"
 slug: a-new-carbon-footprint
-
 ---
 Confession: I'm one of those wierdies who goes grocery shopping once every week.
 
@@ -50,4 +49,4 @@ And then I think about footprints.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
