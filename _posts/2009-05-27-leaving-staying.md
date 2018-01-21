@@ -10,7 +10,7 @@ tags:
 - the-promised-land
 - squarespace
 comments: true
-image: "/assets/images/squarespace/california-trip.JPG"
+image: "/assets/images/squarespace/california-trip.jpg"
 slug: leaving-staying
 ---
 Sometimes you just need to go where nobody knows your name.
