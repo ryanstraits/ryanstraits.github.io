@@ -1,6 +1,6 @@
 ---
 title: I'm A Serial Archivist
-date: '2008-03-28 21:29:00'
+date: 2008-03-28 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/archive.jpg"
 slug: im-a-serial-archivist
-
 ---
 There, I've admitted it.
 
@@ -28,4 +27,4 @@ Maybe pathological is a better adjective.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
