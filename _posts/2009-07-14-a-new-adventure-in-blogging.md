@@ -1,6 +1,6 @@
 ---
 title: A New Adventure In Blogging
-date: '2009-07-14 02:21:00'
+date: 2009-07-14 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -10,7 +10,6 @@ tags:
 comments: true
 image: 
 slug: a-new-adventure-in-blogging
-
 ---
 In the hopes of keeping things fresh(er) on this site, I'm launching a new little page on here I'm calling "Notes To Self" (see top bar for the page conveniently titled, "Notes").
 
