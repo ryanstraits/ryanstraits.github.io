@@ -1,6 +1,6 @@
 ---
 title: We Are Not Christians...
-date: '2008-06-25 03:12:00'
+date: 2008-06-25 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/christians.jpg"
 slug: we-are-not-christians
-
 ---
 ...If we are not like Christ.
 
@@ -38,4 +37,4 @@ Our neighbors will.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
