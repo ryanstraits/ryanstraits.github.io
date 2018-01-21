@@ -1,5 +1,5 @@
 ---
-title: Less Net/More Gross
+title: Less Net / More Gross
 date: 2009-10-30 00:00:00 +0000
 categories: []
 layout: post
@@ -10,7 +10,7 @@ tags:
 - dad-rock
 - squarespace
 comments: true
-image: "/assets/images/squarespace/lessnet-moregross.JPG"
+image: "/assets/images/squarespace/lessnet-moregross.jpg"
 slug: less-netmore-gross
 ---
 There just aren't enough hours in the day.
@@ -39,14 +39,14 @@ Next, I bought a helmet and some gloves. Then some pedals. And then a tire pump.
 
 Of course, winter is coming. And with it, not much cycling. But I've started making more lists of things that I can do to budget my time wisely. Here are a few:
 
-+ Get back to writing & recording music
-+ Learn how to actually play guitar (instead of cleverly guessing every week)
-+ Spend more time reading/less time surfing
-+ Write thought-provoking things (maybe in a blog post now & again)
-+ Spend quality time with quality people
-+ Become my niece's favorite uncle
-+ Always find time to help friends (and strangers)
-+ Figure out what the heck I'm doing with my life before 30
+* Get back to writing & recording music
+* Learn how to actually play guitar (instead of cleverly guessing every week)
+* Spend more time reading/less time surfing
+* Write thought-provoking things (maybe in a blog post now & again)
+* Spend quality time with quality people
+* Become my niece's favorite uncle
+* Always find time to help friends (and strangers)
+* Figure out what the heck I'm doing with my life before 30
 
 I suppose if I've learned one thing in my 27 years, it's that I still have a whole lot left to learn.
 
@@ -54,4 +54,4 @@ Maybe I'm not so old after all.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
