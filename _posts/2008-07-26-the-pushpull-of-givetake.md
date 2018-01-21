@@ -1,6 +1,6 @@
 ---
 title: The Push/Pull Of Give/Take
-date: '2008-07-26 05:08:00'
+date: 2008-07-26 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -11,7 +11,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/push-pull.jpg"
 slug: the-pushpull-of-givetake
-
 ---
 So, I've been re-evaluating. Re-evaluating a lot of things. It's something new I've been trying, ya know. Something that I guess I was pseudo-taught to never do. "Only accept the things you've been told", they say. I suppose that was never a phrase that was actually stated to me (thus the use of the prefix "pseudo"), but it was more or less inferred.
 
