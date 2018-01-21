@@ -1,6 +1,6 @@
 ---
 title: The Adventure Continues...
-date: '2010-09-03 16:21:00'
+date: 2010-09-03 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -11,7 +11,6 @@ tags:
 comments: true
 image: 
 slug: the-adventure-continues
-
 ---
 It's been nearly 2 months since I moved to Kansas City. Much has happened. I hope to bring you a full-featured update in the shape of a long-form post within the next few days.
 
