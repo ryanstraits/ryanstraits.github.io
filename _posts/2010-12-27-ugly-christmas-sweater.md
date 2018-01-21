@@ -1,6 +1,6 @@
 ---
 title: Ugly Christmas Sweater
-date: '2010-12-27 02:49:00'
+date: 2010-12-27 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: 
 slug: ugly-christmas-sweater
-
 ---
 So, while I've had a blog post idea in my head for running on 3 months now, the urge to sit down and actually write it out just hasn't been able to crack my air-tight schedule these last few months. I'm sad that this blog has gone by the wayside, but working 55-hour weeks at my new job, spending time w/ my girlfriend, flying home to Ohio for holidays, and working on the project that is the subject of this post has taken up the lion's share of my time recently.
 
@@ -26,5 +25,4 @@ I hope you enjoy, and that you and yours had yourself a merry, little Christmas!
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
-
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
