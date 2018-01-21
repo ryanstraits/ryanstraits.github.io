@@ -1,6 +1,6 @@
 ---
 title: Former Thoughts On A Latter Subject...
-date: '2008-04-16 01:49:00'
+date: 2008-04-16 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: 
 slug: former-thoughts-on-a-latter-subject
-
 ---
 About two years ago I began a journey.
 
@@ -36,4 +35,4 @@ Much more on this to come.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
