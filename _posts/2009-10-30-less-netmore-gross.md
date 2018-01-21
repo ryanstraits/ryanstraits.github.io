@@ -1,6 +1,6 @@
 ---
 title: Less Net/More Gross
-date: '2009-10-30 03:54:00'
+date: 2009-10-30 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/lessnet-moregross.jpg"
 slug: less-netmore-gross
-
 ---
 There just aren't enough hours in the day.
 
