@@ -1,6 +1,6 @@
 ---
 title: Choose Your Own Adventure
-date: '2010-07-05 06:51:00'
+date: 2010-07-05 00:00:00 +0000
 categories: []
 layout: post
 author: ryanstraits
@@ -12,7 +12,6 @@ tags:
 comments: true
 image: "/assets/images/squarespace/adventure.jpg"
 slug: choose-your-own-adventure
-
 ---
 Or, "Leaving/Staying Pt. 2"
 
