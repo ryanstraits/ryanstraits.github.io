@@ -1,5 +1,5 @@
 ---
-title: The Push/Pull Of Give/Take
+title: The Push / Pull Of Give / Take
 date: 2008-07-26 00:00:00 +0000
 categories: []
 layout: post
@@ -18,7 +18,7 @@ So, I've been re-evaluating. Re-evaluating a lot of things. It's something new I
 
 I say, however, challenge the things you've been told. The things you've just come to accept (this is a theme that you may see quite a bit on this blog). Then, if they stand up to the test, they truly are worth holding on to. And God forbid you should ever let them go.
 
-[dismounts soapbox]
+\[dismounts soapbox\]
 
 Ok where was I? Re-evaluation, that's right. I'm re-evaluating things. A few posts ago I talked about rediscovering what it means to truly love God. A post and a half ago I discussed this thing of church/Christianity and what I feel God intended it to be.
 
@@ -40,5 +40,4 @@ And that my friends, is something worth holding on to.
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
-
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
