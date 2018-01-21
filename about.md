@@ -16,7 +16,7 @@ image: ''
 
 ##### Right out of the gate, I have to let you in on a little secret.
 
-See the trendy glasses I'm wearing in that picture right up there? Well, here's the deal: they're fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them. Kinda silly, right? Friends of mine that I've let in on this secret have never been shy in telling me as much.
+See the trendy glasses I'm wearing in that picture up there? Well, here's the deal: they're fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them at all. Kinda silly, right? Friends of mine that I've let in on this secret have never been shy in telling me as much.
 
 Ok, so why start off an "About" section" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that transparency is one of the most valuable traits we can possess. And also, I'm just not nearly as cool as I've previously thought myself to be.
 
@@ -24,24 +24,24 @@ Ok, so why start off an "About" section" with such an odd, revealing factoid abo
 
 ##### Why are you choosing to bare your soul in blog form in the year 2018 instead of say, on Medium, or Facebook, or somewhere similar.
 
-Well, I'm a millennial, but just barely. I made the cut on the front end of the generation by just a year or two. So thus, blog form makes just a little bit more sense to me than Snapchat. I consider myself on the "adequately bandaged" side of the bleeding edge.
+Well, I'm a millennial, but just barely. I made the cut by just a year or two on the front end of that generation so blogging makes just a little bit more sense to me than Snapchat. I consider myself on the "adequately bandaged" side of the bleeding edge.
 
-I'm also choosing this particular personal blog site because I think that the transparency I'm aiming for requires a level of intimacy that might get steamrolled in a more "public" platform. Oh, and I coded much of this site by myself. At this point, I'll take all the cool I can get.
+I'm choosing this particular personal [blogging platform](jekyllrb.com) because I think that the transparency I'm aiming for requires a level of intimacy that might get steamrolled in a more "public" platform. I also coded a good portion of this site myself. At this point, I'll take all the c
 
 ---
 
 ##### Fair enough. Now, wasn't this an About Me section?
 
-So, besides wearing zero-prescription Warby Parker's far past when I had corrective eye surgery, here are a few other random tidbits about me:
+So, besides wearing zero-prescription Warby Parker's far past having Lasik surgery, here are a few other random tidbits about me:
 
 * I was born in Northeast Ohio but now live in Kansas City.
 * My favorite TV show is and always will be MacGyver.
 * My favorite musician is Bruce Springsteen and there ain't no one bigger or badder than The Boss.
 * I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886).
 * I'll take a chocolate chip cookie over a donut any day.
-* By trade, I'm an Engineer but as of 2017, have moved in the Project Management realm.
+* By trade, I'm an Engineer but as of 2017, have moved in to the Project Management realm.
 
-I'm husband to an amazing girl and a doting dad to two of the coolest kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
+I'm a husband to an all-around amazing girl and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
 Lastly, I wear the glasses because my wife likes them and I damn well want to.
 
@@ -49,7 +49,7 @@ Lastly, I wear the glasses because my wife likes them and I damn well want to.
 
 ##### So what's up with the spooky blog title, dude?
 
-No, this doesn't have anything to do with states of the U.S. of A. that are haunted by spectral beings. But really, that's not _too_ far off.
+No, this doesn't have anything to do with U.S. states that are haunted by spectral beings. But really, that's not _too_ far off.
 
 The name _Ghost States_ references a phenomenon in particle physics where an electron is said to travel all possible routes between point A to point B, that is, until it is observed. Up until that point, they can literally be "everywhere and nowhere" at the same time. That in-between state, before the electron is observed and has revealed the direction it has taken, is called a "ghost state".
 
