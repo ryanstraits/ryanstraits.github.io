@@ -27,7 +27,7 @@ That's right, I bookmarked every single decision and when that decision ultimate
 
 ---
 
-I think it's safe to say that I've had a fairly enlightening year. In fact, I may have learned more things about myself in the past year or so than I have in any other combination of years in my life. It's possible that some of these things were readily seen and known by those around me, but it's taken me roughly 28 years to let them sink in. You shouldn't have to wait so many years to learn so many truths about yourself. I feel like God should sit us down the moment we're born and fill us in, "These are the things you'll be good at, son, do them and do them often." 
+I think it's safe to say that I've had a fairly enlightening year. In fact, I may have learned more things about myself in the past year or so than I have in any other combination of years in my life. It's possible that some of these things were readily seen and known by those around me, but it's taken me roughly 28 years to let them sink in. You shouldn't have to wait so many years to learn so many truths about yourself. I feel like God should sit us down the moment we're born and fill us in, "These are the things you'll be good at, son, do them and do them often."
 
 I guess maybe we need that time, though. We need to go the long way around. Maybe we couldn't handle a deluge of revelation all at once. We need that slow succession of seconds, that stacking up of lessons over time. We need maturity to do it's faithful work, bit by bit, everyday.
 
@@ -89,4 +89,4 @@ Or will you choose to get up and live? Turn to page 73.<br>
 
 ---
 
-######*Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead.*
+###### _Note: This was originally posted on an old Squarespace blog of mine. Most of the references, links and jokes are probably dead._
