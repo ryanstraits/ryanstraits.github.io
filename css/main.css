@@ -629,7 +629,7 @@ body {
     border-top: 1px solid #ddd; }
   .post .post-content blockquote {
     margin: 0 0 30px;
-    margin-left: -26px;
+    margin-left: 0px;
     border-left: 3px solid #57ad68;
     padding-left: 15px; }
     .post .post-content blockquote p {
