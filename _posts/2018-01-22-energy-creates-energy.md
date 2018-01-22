@@ -57,3 +57,5 @@ You just have to get the ball rolling.
 ---
 
 Two years later and I haven’t run a marathon yet. But I still have that stupid mug. It’s my potential energy. Maybe one day I’ll find myself a spark.
+
+###### _This post was originally published_ [_here_](https://ryanstraits.svbtle.com/energy-creates-energy)_._
