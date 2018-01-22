@@ -335,6 +335,7 @@ body {
           color: #111111; }
     .content article .post-excerpt {
       letter-spacing: -0.02em;
+      font-family: "PT Serif";
       font-weight: 299;
       font-style: normal;
       font-size: 16px;
