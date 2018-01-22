@@ -1,6 +1,6 @@
 ---
 title: Energy Creates Energy
-date: 2018-01-22 00:00:00 +0000
+date: 2013-06-14 08:25:13 -0500
 categories: []
 layout: post
 tags:
