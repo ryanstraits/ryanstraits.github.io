@@ -10,7 +10,7 @@ tags:
 - my-body-is-a-cage
 comments: true
 slug: energy-creates-energy
-image: ''
+image:
 ---
 #### The best advice often comes at the strangest times. <!-- break -->
 
