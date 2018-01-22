@@ -11,7 +11,9 @@ comments: true
 slug: a-grey-christmas
 image: "/assets/images/foggytuesdays.JPG"
 ---
-> I prefer winter and Fall, when you feel the bone structure of the landscape — the loneliness of it, the dead feeling of winter. Something waits beneath it, the whole story doesn’t show. \~Andrew Wyeth <!-- break -->
+> I prefer winter and Fall, when you feel the bone structure of the landscape — the loneliness of it, the dead feeling of winter. Something waits beneath it, the whole story doesn’t show. 
+>
+> \~Andrew Wyeth <!-- break -->
 
 At this point, the majority of us are well aware that our Lord Jesus Christ’s birthday was not actually December 25th. And yet, that is where tradition continues to plant the western world’s most illustrious holiday. (Due to, you know, solstices and things of this nature.)
 
@@ -53,4 +55,4 @@ And all within this beautifully miserable shade of grey.
 
 ---
 
-###### This post was originally published [here](https://medium.com/@ryanstraits/a-grey-christmas-81ffa7aa7467).
+###### _This post was originally published_ [_here_](https://medium.com/@ryanstraits/a-grey-christmas-81ffa7aa7467)_._
