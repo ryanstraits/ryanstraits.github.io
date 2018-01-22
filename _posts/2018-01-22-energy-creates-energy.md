@@ -12,7 +12,7 @@ comments: true
 slug: energy-creates-energy
 image: ''
 ---
-#### The best advice often comes at the strangest times.
+#### The best advice often comes at the strangest times. <!-- break -->
 
 ---
 
