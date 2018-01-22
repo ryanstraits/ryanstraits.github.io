@@ -44,7 +44,7 @@ So, besides wearing zero-prescription Warby Parker's far past having Lasik surge
 
 I'm a husband to an all-around amazing girl and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
-Lastly, I wear the glasses because my wife likes them and when you're my age, that's all that really matters.
+Lastly, I wear the glasses because my wife likes them, and when you're my age, that's about the closest you're going to get to feeling cool.
 
 ---
 
