@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ryanstraits.com/</link>
     <atom:link href="http://blog.ryanstraits.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Jan 2018 14:36:07 -0600</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 14:36:07 -0600</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 14:38:20 -0600</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 14:38:20 -0600</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -54,7 +54,7 @@
     
       <item>
         <title>Energy Creates Energy</title>
-        <description>&lt;h4 id=&quot;the-best-advice-often-comes-at-the-strangest-times&quot;&gt;The best advice often comes at the strangest times.&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;the-best-advice-often-comes-at-the-strangest-times-&quot;&gt;The best advice often comes at the strangest times. &lt;!-- break --&gt;&lt;/h4&gt;
 
 &lt;hr /&gt;
 
