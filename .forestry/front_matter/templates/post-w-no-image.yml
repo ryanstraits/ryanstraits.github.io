@@ -4,6 +4,7 @@ pages:
 - tag/a-midlife-guide/index.html
 - tag/medium/index.html
 - tag/options/index.html
+- _posts/2015-03-19-the-50-states-of-grief-project.md
 - _posts/2010-03-28-options.md
 - _posts/2008-11-13-up-and-coming-down-and-going.md
 - _posts/2015-07-20-template.md
@@ -20,7 +21,7 @@ fields:
   type: datetime
   label: Date
   description: Date of post
-  default: 2018-01-01 01:00:00 -0600
+  default: 2018-01-01 07:00:00 +0000
 - type: select
   name: layout
   config:

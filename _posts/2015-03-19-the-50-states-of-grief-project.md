@@ -1,17 +1,14 @@
 ---
 title: The 50 States of Grief Project
-date: 2015-03-19 09:13:16 -0500
+date: 2015-03-19 14:13:16 +0000
 layout: post
-categories: []
-tags:
-- now-that-im-older
-- soul-driver
-- medium
+categories: Featured
+tags: index.html
 comments: true
 slug: the-50-states-of-grief-project
 image: "/assets/images/1_ZhD74jK-lpem9jvYECAX2g.jpeg"
 ---
-#### _Sufjan Stevens’ deep dive into death on “Carrie & Lowell”._
+#### _Sufjan Stevens’ deep dive into death on “Carrie & Lowell”. <!-- break -->_
 
 **Disclaimer:** I’m an unabashed Sufjan super-fan.
 
@@ -43,4 +40,4 @@ Let’s all just hope that it isn’t another five years until we have new Sufja
 
 ---
 
-###### _This post was originally published_ [_here_](https://medium.com/@ryanstraits/the-50-states-of-grief-b8c798f3ca87)_._  
+###### _This post was originally published_ [_here_](https://medium.com/@ryanstraits/the-50-states-of-grief-b8c798f3ca87)_._
