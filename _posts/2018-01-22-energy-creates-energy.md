@@ -8,6 +8,7 @@ tags:
 - kc-accidental
 - working-mans-blues
 - my-body-is-a-cage
+- svbtle
 comments: true
 slug: energy-creates-energy
 image:
