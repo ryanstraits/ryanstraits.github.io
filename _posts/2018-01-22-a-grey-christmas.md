@@ -7,6 +7,7 @@ tags:
 - soul-driver
 - fambly
 - that-sad-and-holy-glow
+- medium
 comments: true
 slug: a-grey-christmas
 image: "/assets/images/patrick-hendry-39127-1.jpg"
