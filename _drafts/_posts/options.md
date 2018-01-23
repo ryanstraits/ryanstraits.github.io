@@ -1,6 +1,6 @@
 ---
 title: Options
-date: 2018-01-23 00:00:00 +0000
+date: 2010-03-28 03:54:18 -0500
 categories: []
 layout: post
 tags: []
@@ -8,7 +8,7 @@ comments: true
 slug: '001'
 image: ''
 ---
-<p>I've been learning a lot of things about myself lately. I'm sure many of these things were readily seen and known by folks around me, but it's taken roughly 28 years for them to sink in. You shouldn't have to wait 28 years to learn so many things about yourself. I feel like god should sit us down the moment we're born and fill us in. "These are the things you'll be good at, do them and do them frequently." something like that.</p>
+I've been learning a lot of things about myself lately. I'm sure many of these things were readily seen and known by folks around me, but it's taken roughly 28 years for them to sink in. You shouldn't have to wait 28 years to learn so many things about yourself. I feel like god should sit us down the moment we're born and fill us in. "These are the things you'll be good at, do them and do them frequently." something like that.</p>
 
 <p>I mean, wouldn't that make sense?</p>
 
