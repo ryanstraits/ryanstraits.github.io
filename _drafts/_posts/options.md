@@ -3,33 +3,38 @@ title: Options
 date: 2010-03-28 03:54:18 -0500
 categories: []
 layout: post
-tags: []
+tags:
+- soul-driver
 comments: true
 slug: options
 image: ''
 ---
-I've been learning a lot of things about myself lately. I'm sure many of these things were readily seen and known by folks around me, but it's taken roughly 28 years for them to sink in. You shouldn't have to wait 28 years to learn so many things about yourself. I feel like god should sit us down the moment we're born and fill us in. "These are the things you'll be good at, do them and do them frequently." something like that.</p>
+I've been learning a lot of things about myself lately. I'm sure many of these things were readily seen and known by folks around me, but it's taken roughly 28 years for them to sink in. You shouldn't have to wait 28 years to learn so many things about yourself. I feel like God should sit us down the moment we're born and fill us in. "These are the things you'll be good at, do them and do them frequently." Something like that.
 
-<p>I mean, wouldn't that make sense?</p>
+I mean, wouldn't that make sense?
 
-<p>I guess maybe we need time, though. Maybe we couldn't handle a deluge of revelation all at once. We need that slow succession of seconds, that stacking up of lessons over time. We need maturity to do it's faithful work, bit by bit, everyday.</p>
+I guess maybe we need time, though. Maybe we couldn't handle a deluge of revelation all at once. We need that slow succession of seconds, that stacking up of lessons over time. We need maturity to do it's faithful work, bit by bit, everyday.
 
-<p>ok, so what have I learned? Well first off, I've learned that I lack motivation. All this reading about motivation and I honestly don't have much to speak of. I did at one time, I know that. But I've kind of sputtered out. I'm at a dead-end. I'm stagnant. Yes, I'm working. I'm breathing. I'm subsisting. But I'm not moving. I'm not working towards&nbsp;something. I'm not heading anywhere.&nbsp;</p>
+Ok, so what have I learned? Well first off, I've learned that I lack motivation. All this reading about motivation and I honestly don't have much to speak of. I did at one time, I know that. But I've kind of sputtered out. I'm at a dead-end. I'm stagnant. Yes, I'm working. I'm breathing. I'm subsisting. But I'm not moving. I'm not working towards something. I'm not heading anywhere. 
 
-<p>I'm not living.</p>
+I'm not living.
 
-<p>I guess I've been waiting on something. Waiting on something to happen. Waiting on opportunities? Waiting on god? I don't know. But one lesson I've learned from all this reading is that we should take stock of the things god has given us. The talents, the gifts, the abilities, the connections, the friends, the family. Whatever we have that is supernatural. That is divinely ours and no one elses. And we need to use them. And use them now. Appreciate them severely. We can't wait for something we think should be coming around the bend. Because, honestly, it may never come.&nbsp;</p>
+I guess I've been waiting on something. Waiting on something to happen. Waiting on opportunities? Waiting on God? I don't know. But one lesson I've learned from all this reading is that we should take stock of the things God has given us. The talents, the gifts, the abilities, the connections, the friends, the family. Whatever we have that is supernatural. That is divinely ours and no one else's. And we need to use them. And use them now. Appreciate them severely, because we can't wait for something we think should be coming around the bend. Honestly, it may never come.
 
-<p>it's time for some drastic decisions. It's high time to awake out of this sleep. It's time to do something because now is the time to get&nbsp;something&nbsp;done.</p>
+It's time for some drastic decisions. It's high time to awake out of this sleep. It's time to do something because now is the time to get something done.
 
-<p>unfortunately, that's where my next recently discovered character flaw plays in. I fear commitment. I've always been indecisive and figured, well, that's just how I am. But I think it goes deeper. I fear whittling down options until I'm locked into one singular path. Because then, there's no looking back. There's no redo. There's no backspace or ctrl+alt+delete. It's just me, my decision, and god.</p>
+Unfortunately, that's where my next recently discovered character flaw plays in. I fear commitment. I've always been indecisive and figured, well, that's just how I am. But I think it goes deeper. I fear whittling down options until I'm locked into one singular path. Because then, there's no looking back. There's no redo. There's no backspace or CTRL+ALT+DEL. It's just me, my decision, andGod.
 
-<p>and I hate that. I hate not having options. I pack twice as many clothes as I need on a trip because I need to have options. I don't like to release music I've recorded because I like to have the option of changing it later. I've let quality girls slip past me because I didn't want to whittle down my options. I stayed put because I know my options will always be out there.&nbsp;</p>
+And I hate that. I hate not having options. I pack twice as many clothes as I need on a trip because I need to have options. I don't like to release music I've recorded because I like to have the option of changing it later. I've let quality girls slip past me because I didn't want to whittle down my options. I stayed put because I know my options will always be out there. 
 
-<p>like the great philosopher, pedro the lion, once said, "It's good to have options".</p>
+Like the great philosopher, Pedro The Lion, once said, "It's good to have options".
 
-<p>but I need to pick a path and stick with it. I need to just go for it. I need to take a step of faith in one of the opportunities I've been afforded.&nbsp;</p>
+But I need to pick a path and stick with it. I need to just go for it. I need to take a step of faith in one of the opportunities I've been afforded.
 
-<p>&nbsp;</p>
+I'm all over the map right now but something is happening. It's all snowballing into something that's going to be useful. That I know. It's going to take a step of faith, but God is leading me somewhere. 
 
-<p>I'm all over the map right now but&nbsp;something&nbsp;is happening. It's all snowballing into something that's going to be useful. That I know. It's going to take a step of faith, but god is leading me somewhere. Somewhere new and exciting.
+Somewhere new and exciting.
+
+---
+
+###### _This was originally intended to be posted on an old Squarespace blog of mine. However, I never wound up posting it. Well, I’m posting it here in all it’s embarrassing glory. Enjoy!_  

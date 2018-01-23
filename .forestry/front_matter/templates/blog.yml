@@ -1,8 +1,10 @@
 ---
 pages:
+- index.html
 - tag/a-midlife-guide/index.html
 - tag/medium/index.html
 - tag/options/index.html
+- _posts/2008-11-13-up-and-coming-down-and-going.md
 - _posts/2015-07-20-template.md
 hide_body: false
 fields:
