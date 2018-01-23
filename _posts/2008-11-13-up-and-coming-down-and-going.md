@@ -1,7 +1,7 @@
 ---
 title: Up And Coming / Down And Going
 date: 2008-11-13 02:42:34 -0600
-categories: []
+categories:
 layout: post
 tags:
 - squarespace
@@ -9,7 +9,7 @@ tags:
 - land-of-hope-and-dreams
 comments: true
 slug: up-and-coming-down-and-going
-image: ''
+image:
 ---
 > Karma police, arrest this man: he talks in maths, he buzzes like a fridge, he's like a detuned radio... <!-- break -->
 
