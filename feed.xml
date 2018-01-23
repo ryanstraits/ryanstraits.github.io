@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ryanstraits.com/</link>
     <atom:link href="http://blog.ryanstraits.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Jan 2018 15:30:57 -0600</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 15:30:57 -0600</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 09:55:12 -0600</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 09:55:12 -0600</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -180,6 +180,8 @@
         <category>working-mans-blues</category>
         
         <category>my-body-is-a-cage</category>
+        
+        <category>svbtle</category>
         
         
       </item>
