@@ -2,8 +2,11 @@
 title: The 50 States of Grief Project
 date: 2015-03-19 14:13:16 +0000
 layout: post
-categories: Featured
-tags: index.html
+categories: []
+tags:
+- dad-rock
+- now-that-im-older
+- medium
 comments: true
 slug: the-50-states-of-grief-project
 image: "/assets/images/1_ZhD74jK-lpem9jvYECAX2g.jpeg"
@@ -18,7 +21,7 @@ Admittedly not more so than 2010's techno-glitch-heavy _Age of Adz_, mind you, 
 
 When I heard the first sampling of this new album, I don’t think I was alone in secretly praying that the textbook Sufjan youthful exuberance was back after a brief, trippy, digital detour. The kind of exuberance that was once accompanied by lilting orchestrations that rose to climactic explosions of flute, cymbals and spiritual exclamations. Orchestrations that fit perfectly with innocent, carefree lyrics that seemed to masterfully describe this undisturbed, uncomplicated life that we all wanted to exist somewhere. Lyrics that evoked idyllic images of young unrequited love, effortless faith, and child-like hope for the future.
 
-Put simply_, Carrie & Lowell_ lays these notions to rest. This is Sufjan grown up and stripped bare. Those of us who were lobbying for a record full of “The Dress Looks Nice On You” sound-a-likes might be a tad disappointed to find out it’s a lot more “John Wayne Gacy” in nature.
+Put simply, _Carrie & Lowell_ lays these notions to rest. This is Sufjan grown up and stripped bare. Those of us who were lobbying for a record full of “The Dress Looks Nice On You” sound-a-likes might be a tad disappointed to find out it’s a lot more “John Wayne Gacy” in nature.
 
 It’s not much of an exaggeration to say that this album is very literally just Sufjan and his banjo. It took me a few listens through to realize that there really isn't a lick of percussion anywhere to be found. No wind instruments. No grand orchestrations. Instead, reverberated vocals, ethereal pads and spacey guitars do their best to fill the gaping sonic void.
 
