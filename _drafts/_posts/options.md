@@ -30,18 +30,16 @@ I've given five strong years to this chosen career of mine. five of my best year
 
 Now, of course, there are details as to why exactly I've been so buried lately. Our department is currently understaffed, my boss will soon be retiring, I just got promoted to salary (so thus I get new work on top of the old work I haven't finished yet), the weakened economy is hitting our particular industry hard, and the list goes on. It's been a perfect storm, really. But it's bringing to light how much I'm not cut out for what I'm doing. I'm being pulled more and more out of the areas that I enjoy and that I feel I'm good at. The areas that pushed me toward this career path in the first place. I've come to realize that those areas aren't what bring home the dough, as they say.
 
-<p>i want to be stretched, don't get me wrong. i want to be challenged and try new things, new responsibilities. i'm just finally figuring out that there's only so many new things you can try inside a cloth-walled cubicle with no front door.</p>
+I want to be stretched, don't get me wrong. I want to be challenged and try new things. Take on new responsibilities. I'm just finally figuring out that there's only so many new things you can try inside a cloth-walled cubicle with no front door.
 
-<p>i'm eternally thankful for the opportunities God has given me, and i truly mean that. getting the job i did at the time i did was nothing short of miraculous. i'm also aware that times are tight right now in the U.S. of A. jobs aren't floating around like they were even a few short months ago. i'm definitely grateful that i'm not one of the many that i hear walk up to our front desk every week asking for work and hearing the dreaded words "hiring freeze" in response. my heart breaks for them.</p>
+I'm eternally thankful for the opportunities God has given me, and I truly mean that. Getting the job I did at the time I did was nothing short of miraculous. I'm also aware that times are tight right now in the U.S. of A. Jobs aren't floating around like they were even a few short months ago. I'm definitely grateful that I'm not one of the many that I hear walk up to our front desk every week asking for work and hearing the dreaded words "hiring freeze" in response. My heart breaks for them.
 
-<p>so maybe i'll give one of them my job. i don't know. i'm not sure what comes next, really. there's no real point that all this is getting to. except maybe to remind myself that we only get one shot at this life. so make darn sure that you're doing what God made you to do (if only it were that simple).</p>
+So maybe I'll give one of them my job. I don't know. I'm not sure what comes next, really. There's no real point that all this is getting to. Except maybe to remind myself that we only get one shot at this life. So make darn sure that you're doing what God made you to do (if only it were that simple).
 
-<p>what i do know is that right now my life feels out of rhythm with my own heart. i'm sputtering and buzzing and fumbling around. i feel like i've just awoken from a strange and hollow dream that has left me trying to remember it's events in the morning.</p>
+What I do know is that right now my life feels out of rhythm with my own heart. I'm sputtering and buzzing and fumbling around. I feel like I've just awoken from a strange and hollow dream that has left me trying to remember it's events in the morning.
 
-<p>i'm not a quitter, though. and i won't just give up. but now that i've been shown this door i feel i should at least peak through it.</p>
+I'm not a quitter, though. And I won't just give up. But now that I've been shown this door I feel I should at least peek through it.
 
-<p>i'm frustrated with where i'm at. but mostly i'm just tired. tired and ready for something new.</p>
+I'm frustrated with where I'm at. But mostly I'm just tired. Tired and ready for something new.
 
-<p>&nbsp;</p>
-
-<blockquote>for a minute there, i lost myself,<br />i lost myself...<br /></blockquote>
+> For a minute there, I lost myself, I lost myself...
