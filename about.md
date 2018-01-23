@@ -26,7 +26,7 @@ Ok, so why start off an "About" section" with such an odd, revealing factoid abo
 
 Well, I'm a millennial, but just barely. I made the cut by just a year or two on the front end of that generation so blogging makes just a little bit more sense to me than Snapchat. I consider myself on the "adequately bandaged" side of the bleeding edge.
 
-I'm choosing this particular personal [blogging platform](jekyllrb.com) because I think that the transparency I'm aiming for requires a level of intimacy that might get steamrolled in a more "public" platform. I also coded a good portion of this site myself. At this point, I'll take all the c
+I'm choosing this particular personal [blog form](jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
 
 ---
 
