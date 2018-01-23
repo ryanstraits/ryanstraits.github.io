@@ -39,3 +39,7 @@ It’s not all death and depression, though. “Should’ve Known Better” star
 This, frankly, is not the Sufjan album that I wanted. But maybe, just maybe, it’s the one I needed. A pared back, mature record that speaks honestly and directly with little-to-no frills. I guess that’s what I _should_ be wanting, anyways. Much like Sufjan, it’s probably time for super-fans like myself to stop pining for the past and grow up a little bit ourselves.
 
 Let’s all just hope that it isn’t another five years until we have new Sufjan Stevens material to keep pushing us along.
+
+---
+
+###### _This post was originally published_ [_here_](https://medium.com/@ryanstraits/the-50-states-of-grief-b8c798f3ca87)_._  
