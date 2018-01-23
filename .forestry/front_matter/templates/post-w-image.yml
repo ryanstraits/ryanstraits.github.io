@@ -16,16 +16,30 @@ fields:
   label: Date
   type: datetime
   hidden: false
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - post
+    - page
+    - default
+  label: Layout
+  name: layout
+  description: Type of page/post
+  default: post
 - name: categories
   default: []
   label: Categories
   type: list
   hidden: false
-- name: layout
-  default: post
-  label: Layout
-  type: text
-  hidden: false
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Featured
 - name: tags
   default:
   - my-body-is-a-cage
