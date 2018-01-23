@@ -1,10 +1,47 @@
 ---
-title: Options
-date: 2018-01-23 00:00:00 +0000
+title: Up And Coming / Down And Going
+date: 2008-11-13 02:42:34 -0600
 categories: []
 layout: post
-tags:
-- my-body-is-a-cage
+tags: []
 comments: true
 slug: '001'
+image: ''
 ---
+> Karma police, arrest this man: he talks in maths, he buzzes like a fridge, he's like a detuned radio... <!-- break -->
+
+I always swore I'd kick and spit against becoming a company man.
+
+I guess it all started in high school. Back then, I wasn't very good at setting goals for myself (update: I'm still not very good). See, when I always envisioned myself in my 20's, I saw myself working a stable job as some form of a CAD technician/draftsman by day and then plugging away at whatever I fancied at night (back then it was website design).
+
+It was a foolproof plan in my mind. Apparently no thought was given to any of the years past my 20's, though. My ever-shifting, ever-ripening teenage brain could only handle thinking five years ahead max. Any moment past that was apart of some vague, formless period of time where I'd be married with 1.5 kids and everything would work itself out. None of this so-called "planning ahead" was a consideration for a kid who just wanted to play in a rock band and go through school to appease his parents. I planned on worrying about the future when it got here.
+
+Well, it's here. And so far I'm not impressed.
+
+The band broke up shortly after high school (big surprise). College took me six years to complete. And I got a job in my field by the ripe ol' age of 21 (while I was still in college, mind you). My goals changed but that "not looking ahead" complex has stuck around to this day. It's finally caught up with me, you'll be happy to know. I currently work at a great company with even greater people at a job that is driving me into the pavement.
+
+Basically I'm in what you would call "a real conundrum".
+
+These past few months have taken quite a toll. Many days I'm burn out. Most days I'm despondent and creatively depleted. It's a never ending cycle of never getting ahead. Never creating anything that I feel inspired to create. My original goal in life was to work to make money to support the things I truly love to do. I'm finding out that unless that way of making money _is_ what you love to do then you should prepare to be highly frustrated in life.
+
+I hate that my job takes the best of my creative energy. I hate that I am not being used for greater things than helping to increase another man's bottom line. I hate that it's taken me five years to realize this.
+
+I've given five strong years to this chosen career of mine. five of my best years to a job that buries me beneath it each and every week. And for what reason? To impress my family? To contribute to society? To build my 401k? For five years those reasons worked well enough to keep me going. But now that work is starting to bleed into my life outside it, now that it's begun to impinge upon my state of mind, it's time for something to be done.
+
+Now, of course, there are details as to why exactly I've been so buried lately. Our department is currently understaffed, my boss will soon be retiring, I just got promoted to salary (so thus I get new work on top of the old work I haven't finished yet), the weakened economy is hitting our particular industry hard, and the list goes on. It's been a perfect storm, really. But it's bringing to light how much I'm not cut out for what I'm doing. I'm being pulled more and more out of the areas that I enjoy and that I feel I'm good at. The areas that pushed me toward this career path in the first place. I've come to realize that those areas aren't what bring home the dough, as they say.
+
+<p>i want to be stretched, don't get me wrong. i want to be challenged and try new things, new responsibilities. i'm just finally figuring out that there's only so many new things you can try inside a cloth-walled cubicle with no front door.</p>
+
+<p>i'm eternally thankful for the opportunities God has given me, and i truly mean that. getting the job i did at the time i did was nothing short of miraculous. i'm also aware that times are tight right now in the U.S. of A. jobs aren't floating around like they were even a few short months ago. i'm definitely grateful that i'm not one of the many that i hear walk up to our front desk every week asking for work and hearing the dreaded words "hiring freeze" in response. my heart breaks for them.</p>
+
+<p>so maybe i'll give one of them my job. i don't know. i'm not sure what comes next, really. there's no real point that all this is getting to. except maybe to remind myself that we only get one shot at this life. so make darn sure that you're doing what God made you to do (if only it were that simple).</p>
+
+<p>what i do know is that right now my life feels out of rhythm with my own heart. i'm sputtering and buzzing and fumbling around. i feel like i've just awoken from a strange and hollow dream that has left me trying to remember it's events in the morning.</p>
+
+<p>i'm not a quitter, though. and i won't just give up. but now that i've been shown this door i feel i should at least peak through it.</p>
+
+<p>i'm frustrated with where i'm at. but mostly i'm just tired. tired and ready for something new.</p>
+
+<p>&nbsp;</p>
+
+<blockquote>for a minute there, i lost myself,<br />i lost myself...<br /></blockquote>
