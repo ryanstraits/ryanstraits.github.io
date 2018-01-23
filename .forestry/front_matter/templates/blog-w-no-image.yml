@@ -28,14 +28,6 @@ fields:
   type: datetime
   label: Date
   description: Date of post
-- name: tags
-  type: tag_list
-  label: Tags
-  description: Tag list
-- name: image
-  type: file
-  label: Image
-  description: Header image
 - name: comments
   type: boolean
   label: Comments
