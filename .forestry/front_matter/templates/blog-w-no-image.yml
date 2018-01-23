@@ -9,14 +9,6 @@ pages:
 - _posts/2015-07-20-template.md
 hide_body: false
 fields:
-- name: layout
-  type: text
-  hidden: false
-  label: Layout
-  description: Type of post
-  default: post
-  config:
-    required: true
 - name: title
   type: text
   label: Title
@@ -28,7 +20,38 @@ fields:
   type: datetime
   label: Date
   description: Date of post
+  default: 2018-01-01 01:00:00 -0600
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    - page
+    - default
+  label: LAYOUT
+  description: Type of post/page
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - Featured
+  label: CATEGORIES
+- type: select
+  name: tags
+  config:
+    source:
+      type: pages
+      section: pages
+  label: TAGS
 - name: comments
   type: boolean
   label: Comments
   description: Comments on or off?
+- type: text
+  name: slug
+  label: SLUG
+  default: '001'
