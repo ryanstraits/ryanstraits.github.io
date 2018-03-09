@@ -66,7 +66,11 @@ social:
 
   - icon: microphone
     url: http://www.sixthdegreepod.com
-    desc: Check out my podcast!
+    desc: Check out my podcast
+  
+  - icon: spotify
+    url: https://open.spotify.com/user/ryanstraits/playlist/5cZUMgliJdvmWurhudO2jK?si=l1zBGGn_QhGU3odAKZielA
+    desc: I made you a mixtape
     
   - icon: medium
     url: https://medium.com/@ryanstraits
