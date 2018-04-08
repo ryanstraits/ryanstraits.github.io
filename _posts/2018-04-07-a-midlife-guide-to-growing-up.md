@@ -2,7 +2,8 @@
 title: A Midlife Guide To Growing Up
 date: 2018-04-07 00:00:00 +0000
 layout: post
-categories: []
+categories:
+- featured
 tags:
 - now-that-im-older
 - a-midlife-guide
