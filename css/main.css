@@ -651,7 +651,7 @@ body {
     font-size: 18px;
     line-height: 24px;
     margin-left: 30px;
-    margin-bottom: 12px;
+    margin-bottom: 0px;
     padding-top: 2px; }
     .post .post-content li p {
       padding: 0 0 1.618rem; }
