@@ -40,8 +40,7 @@ fields:
     use_select: true
     source:
       type: simple
-    options:
-    - Featured
+    options: []
 - name: tags
   default:
   - my-body-is-a-cage
