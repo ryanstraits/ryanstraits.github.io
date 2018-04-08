@@ -17,15 +17,15 @@ I really thought I'd feel grown up by now.
 
 I mean, aren't your thirties when you're supposed to have life figured out? And if not figured out, than at least well on your way. Or I guess, that's what I had always assumed. In my younger years, if I ever looked ahead to life as a middle-aged man, I could only envision that future version of myself as someone who thoroughly had it all together. A married man? Yes. A family man? Sure. A career man? Naturally. And of course, the wisdom that would accompany each.
 
-This, as we know, is not how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the [less you truly know](https://twitter.com/ryanstraits/status/970835905974960128).
+This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the [less you truly know](https://twitter.com/ryanstraits/status/970835905974960128).
 
-I can only assume that I'm not alone here. I know I'm still relatively young, but I can't say I've experienced a period in my life like this one before. Never have I had such a simultaneous flood of answers, epiphanies, and revelations flying at me all at once. And because there must always be balance in the force, those answers come laced with a bevy of newer, deeper, harder, and more existential questions.
+And so I started to think about what it looks like to _actually_ grow up. The in's and out's of everyday life don't make it easy for many extended periods of introspection. But like most major self discoveries, there is no shut off valve. Never have I had such a simultaneous flood of answers, epiphanies, and revelations flying at me all at once. And of course, because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
 
-So much so, that I felt like I needed to start writing a few things down.
+So I felt like I needed to start writing a few things down. 
 
-Originally, I had hoped to post these musings in three simple blog posts tied loosely around themes of getting older and growing up. Well, three-plus years later and I've now got a nearly nine-part midlife memoir on my hands. It's part treatise, part advice column, part commentary, part confessional, and part gag reel. It's _a lot_, I know. I hope that by releasing it one small chunk at a time, it may promote thought, perusal, and maybe even some discussion.
+Originally, I had hoped to just post these musings in three simple blog posts tied loosely around these themes of getting older and growing up. Well, three-plus years later and I've now got a likely nine-part treatise on my hands. It's part memoir, part advice column, part commentary, part confessional, and part gag reel. It's _a lot_, I know. But I hope that by releasing it one small chunk at a time, maybe it would promote some thought, perusal, and even some discussion.
 
-And maybe you won't find yourself relating with much or any of it at all. With this guide I'm by no means claiming any particular expertise on midlife as a whole, only the parts that the soles of my shoes have touched so far. And so, if you find yourself lost somewhere down the road, just know that there are plenty of others out there treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm doing my duty as a "grown up".
+And maybe you won't find yourself relating with much or any of this at all. With this "guide" I'm by no means claiming any particular expertise on midlife as a whole, only the parts that the soles of my shoes have touched so far. And so, if you find yourself lost somewhere down the road, just know that there are plenty of others out there treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a real "grown up".
 
 In the end, we're all just growing up together.
 
@@ -33,9 +33,9 @@ In the end, we're all just growing up together.
 
 ---
 
-Ok so, here's rough road-map of where we'll be going over the next few weeks and months. Thanks for coming along!
+Ok so, here's rough road-map of where we'll be going over the next few weeks and months. I'll come back and update here as a new chapter is released. Thanks for coming along for the ride!
 
-**Table of Contents**
+### **Table of Contents**
 
 * [Intro: The Middle Chapters](/the-middle-chapters.html)
 * Part 1: A Grown-Up Body...
@@ -48,4 +48,4 @@ Ok so, here's rough road-map of where we'll be going over the next few weeks and
 * Part 8: ...
 * Part 9: ...
 
-If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
+P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
