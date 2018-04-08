@@ -42,7 +42,7 @@ Right, so besides wearing zero-prescription Warby Parker's far past when I had L
 * I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886).
 * I'll take a chocolate chip cookie over a donut any day.
 * By trade, I'm an Engineer but as of 2017, have moved in to the Project Management realm.
-* I co-host a [podcast](), because it's 2018 and I'm a middle-aged white male, so why not?
+* I co-host a [podcast](http://www.sixthdegreepod.com), because it's 2018 and I'm a middle-aged white male, so why not?
 
 I'm a husband to an all-around amazing [woman](http://www.jordanstraits.com) and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
