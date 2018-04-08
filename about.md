@@ -28,7 +28,7 @@ Well, I'm a millennial, but I just barely made the cut on the front edge by a ye
 
 I'm choosing this particular [blogging format](http://www.jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
 
-In some cases, I will be double-posting on my Medium page, so if that's your more speed, [follow me there]() as well.
+In some cases, I will be double-posting on my Medium page, so if that's more your speed, you can [follow me there](https://www.medium.com/@ryanstraits) as well.
 
 ---
 
