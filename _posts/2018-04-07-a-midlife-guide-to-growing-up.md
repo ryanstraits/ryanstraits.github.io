@@ -2,8 +2,7 @@
 title: A Midlife Guide To Growing Up
 date: 2018-04-07 00:00:00 +0000
 layout: post
-categories:
-- featured
+categories: []
 tags:
 - now-that-im-older
 - a-midlife-guide
@@ -45,6 +44,8 @@ Here's rough road-map of where we'll go over the next few weeks and months:
 * Part 7: ...
 * Part 8: ...
 * Part 9: ...
+
+If you're new to my blog, my [About](/about "About Me!") page is a great place to start!
 
 Thanks for coming along on the journey!
 
