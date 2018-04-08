@@ -35,9 +35,7 @@ You might even call it: a midlife crisis.
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br>
-
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center><br>
 
 I first started writing on these experiences growing up and getting older soon soon after my 33rd birthday. Life was speeding by so fast up until that point that it was honestly the first time I can recall thinking to myself, "Y'know, I'm kind of starting to get old."
 
