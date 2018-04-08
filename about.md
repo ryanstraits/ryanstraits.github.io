@@ -18,15 +18,15 @@ image: ''
 
 See the trendy glasses I'm wearing in that picture up there? Well, here's the deal: they're fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them at all. Kinda silly, right? Friends of mine that I've let in on this secret have never been shy in telling me as much.
 
-Ok, so why start off an "About" section" with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that transparency is one of the most valuable traits we can possess. And also, I'm just not nearly as cool as I've previously thought myself to be.
+Ok, so why start off an "About" section with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that transparency is one of the most valuable traits we can possess. And also, I'm just not nearly as cool as I've previously thought myself to be.
 
 ---
 
 ##### Why are you choosing to bare your soul in blog form in the year 2018 instead of say, on Medium, or Facebook, or somewhere similar?
 
-Well, I'm a millennial, but I just barely made the cut on the front edge by a year or two. So blogging makes just seems to make a little bit more sense to me as a communication tool than say, Snapchat. 
+Well, I'm a millennial, but I just barely made the cut on the front edge by a year or two. So blogging just seems to make a little more sense to me as a communication tool than say, Snapchat.
 
-I'm choosing this particular personal [blog form](http://www.jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
+I'm choosing this particular [blogging format](http://www.jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
 
 In some cases, I will be double-posting on my Medium page, so if that's your more speed, [follow me there]() as well.
 
@@ -34,7 +34,7 @@ In some cases, I will be double-posting on my Medium page, so if that's your mor
 
 ##### Fair enough. Now, wasn't this an "About Me" section?
 
-Ok so, besides wearing zero-prescription Warby Parker's far past having Lasik surgery, here are a few other random tidbits about me:
+Right, so besides wearing zero-prescription Warby Parker's far past when I had Lasik surgery, here are a few other random tidbits about me:
 
 * I was born in Northeast Ohio but now live in Kansas City.
 * My favorite TV show is and always will be MacGyver.
@@ -44,7 +44,7 @@ Ok so, besides wearing zero-prescription Warby Parker's far past having Lasik su
 * By trade, I'm an Engineer but as of 2017, have moved in to the Project Management realm.
 * I co-host a [podcast](), because it's 2018 and I'm a middle-aged white male, so why not?
 
-I'm a husband to an all-around amazing girl and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
+I'm a husband to an all-around amazing [woman]() and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
 Lastly, I wear the glasses because my wife likes them, and when you're my age, that's about the closest you're going to get to being cool.
 
