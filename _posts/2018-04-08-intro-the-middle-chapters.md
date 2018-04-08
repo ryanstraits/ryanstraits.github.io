@@ -35,6 +35,10 @@ You might even call it: a midlife crisis.
 
 ---
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 I first started writing on these experiences growing up and getting older soon soon after my 33rd birthday. Life was speeding by so fast up until that point that it was honestly the first time I can recall thinking to myself, "Y'know, I'm kind of starting to get old."
 
 Your thirties are that in-between age-range that, as a kid, you can remember your parents being, but never dedicated much forethought to reaching yourself. When you're young, it's just some far-off dot on the horizon. That boring mid-point between "younger" and "older". It's Marty McFly watching his dorky-dad-self in the _way distant_ future of 2015.
@@ -65,8 +69,4 @@ And so if there are no inherent bookends to midlife, then we are just going to h
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Next, we'll look at what growing up into a midlife body looks like. I promise, it's not all bad.
+Next up, we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
