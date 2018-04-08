@@ -11,13 +11,13 @@ comments: true
 slug: a-midlife-guide-to-growing-up
 image: "/assets/images/paper-beard-13807.jpg"
 ---
-I really thought I'd feel grown up by now. 
+I really thought I'd feel grown up by now.
 
 <!-- break -->
 
 I mean, aren't your thirties when you're supposed to have life figured out? And if not figured out, than at least well on your way to doing so. Or I guess, that's what I had always assumed. As a younger individual, if I ever looked ahead to life as a middle-aged man, I could only envision that future version of myself as someone who thoroughly had it all together. A married man? Yes. A family man? Naturally. A career man? Check. And to top it off, the wisdom that would naturally accompany each.
 
-This, as we know, is not how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, <a href="[https://twitter.com/ryanstraits/status/970835905974960128](https://twitter.com/ryanstraits/status/970835905974960128 "https://twitter.com/ryanstraits/status/970835905974960128")" target="_blank">the less you truly know</a>.
+This, as we know, is not how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the [less you truly know](https://twitter.com/ryanstraits/status/970835905974960128).
 
 I can only assume that I'm not alone here. I know I'm still "young", but I can't say I've experienced a period in my life like this one before. Never have I had such a simultaneous flood of answers, epiphanies, and revelations flying at me all at once. And because there must always be balance in the force, those answers come laced with a bevy of newer, deeper, harder, and more existential questions.
 
@@ -31,29 +31,20 @@ Because in the end, we're all just growing up together.
 
 ---
 
-Here's rough roadmap of where we'll go over the next few weeks and months:
+Here's rough road-map of where we'll go over the next few weeks and months:
 
-\##__Table of Contents__
+**Table of Contents**
 
-\+ Intro: The Middle Chapters
-
-\+ Part 1: A Grown-Up Body...
-
-\+ Part 2: Middling Age
-
-\+ Part 3: A Grown-Up Soul...
-
-\+ Part 4: Forever Summer
-
-\+ Part 5: The Dad Mule
-
-\+ Part 6: A Grown-Up Spirit
-
-\+ Part 7: ...
-
-\+ Part 8: ...
-
-\+ Part 9: ...
+* Intro: The Middle Chapters
+* Part 1: A Grown-Up Body...
+* Part 2: Middling Age
+* Part 3: A Grown-Up Soul...
+* Part 4: Forever Summer
+* Part 5: The Dad Mule
+* Part 6: A Grown-Up Spirit
+* Part 7: ...
+* Part 8: ...
+* Part 9: ...
 
 Thanks for coming along on the journey!
 
