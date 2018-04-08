@@ -38,7 +38,7 @@ fields:
     source:
       type: simple
     options:
-    - Featured
+    - featured
   label: CATEGORIES
 - type: select
   name: tags
