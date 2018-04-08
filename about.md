@@ -22,17 +22,19 @@ Ok, so why start off an "About" section" with such an odd, revealing factoid abo
 
 ---
 
-##### Why are you choosing to bare your soul in blog form in the year 2018 instead of say, on Medium, or Facebook, or somewhere similar.
+##### Why are you choosing to bare your soul in blog form in the year 2018 instead of say, on Medium, or Facebook, or somewhere similar?
 
-Well, I'm a millennial, but just barely. I made the cut by just a year or two on the front end of that generation so blogging makes just a little bit more sense to me than Snapchat. I consider myself on the "adequately bandaged" side of the bleeding edge.
+Well, I'm a millennial, but I just barely made the cut on the front edge by a year or two. So blogging makes just seems to make a little bit more sense to me as a communication tool than say, Snapchat. 
 
-I'm choosing this particular personal [blog form](jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
+I'm choosing this particular personal [blog form](http://www.jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
+
+In some cases, I will be double-posting on my Medium page, so if that's your more speed, [follow me there]() as well.
 
 ---
 
-##### Fair enough. Now, wasn't this an About Me section?
+##### Fair enough. Now, wasn't this an "About Me" section?
 
-So, besides wearing zero-prescription Warby Parker's far past having Lasik surgery, here are a few other random tidbits about me:
+Ok so, besides wearing zero-prescription Warby Parker's far past having Lasik surgery, here are a few other random tidbits about me:
 
 * I was born in Northeast Ohio but now live in Kansas City.
 * My favorite TV show is and always will be MacGyver.
@@ -40,11 +42,11 @@ So, besides wearing zero-prescription Warby Parker's far past having Lasik surge
 * I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886).
 * I'll take a chocolate chip cookie over a donut any day.
 * By trade, I'm an Engineer but as of 2017, have moved in to the Project Management realm.
-* I host a [podcast](), because it's 2018, I'm a white male, and why not?
+* I co-host a [podcast](), because it's 2018 and I'm a middle-aged white male, so why not?
 
 I'm a husband to an all-around amazing girl and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
-Lastly, I wear the glasses because my wife likes them, and when you're my age, that's about the closest you're going to get to feeling cool.
+Lastly, I wear the glasses because my wife likes them, and when you're my age, that's about the closest you're going to get to being cool.
 
 ---
 
@@ -60,9 +62,9 @@ You can read more about this concept by Googling the "Heisenberg principle" or d
 
 ##### Ok, so where we go from here?
 
-Well, if you're new to this blog, the best place to start is probably with my series, "A Midlife Guide To Growing Up". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
+Well, if you're new to this blog, the best place to start is probably with my series, "[A Midlife Guide To Growing Up](/a-midlife-guide-to-growing-up.html)". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
 
-Next, if you're feeling truly crazy you can scroll through my 40+ pages of archived posts, but I wouldn't recommend it. Because here's another weird thing about me: I'm a [serial archivist](/2008/03/28/im-a-serial-archivist.html) and with this blog, I've collated nearly [every single blog post](/archive) that I've ever published, going way back to the [Xanga](/tag/xanga) blog I _regularly_ posted on from 2003 to 2008. There are some real gems back there if you're game.
+Next, if you're feeling truly crazy, you can scroll through my 40+ pages of archived posts, but I wouldn't recommend it. Because here's another weird thing about me: I'm a [serial archivist](/2008/03/28/im-a-serial-archivist.html). And with this blog, I've collated nearly [every single blog post](/archive) that I've ever published, going way back to the [Xanga](/tag/xanga) blog I _regularly_ wrote on from 2003 to 2008. There are some real gems back there if you're game.
 
 Be sure to follow me on Twitter at [@ryanstraits](https://twitter.com/ryanstraits) or [subscribe through RSS](/feed.xml) to keep up to date on when a fresh, new post drops. Thanks for stopping by!
 
