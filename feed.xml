@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ryanstraits.com/</link>
     <atom:link href="http://blog.ryanstraits.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 08 Apr 2018 09:40:45 -0500</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 09:40:45 -0500</lastBuildDate>
+    <pubDate>Sun, 08 Apr 2018 10:18:10 -0500</pubDate>
+    <lastBuildDate>Sun, 08 Apr 2018 10:18:10 -0500</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -56,13 +56,15 @@
 &lt;p&gt;If you’re new to me or my blog, the &lt;a href=&quot;/about&quot; title=&quot;About Me!&quot;&gt;About&lt;/a&gt; page might be a great place to get yourself up to speed.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Apr 2018 19:00:00 -0500</pubDate>
-        <link>http://blog.ryanstraits.com/2018/04/06/a-midlife-guide-to-growing-up.html</link>
-        <guid isPermaLink="true">http://blog.ryanstraits.com/2018/04/06/a-midlife-guide-to-growing-up.html</guid>
+        <link>http://blog.ryanstraits.com/featured/2018/04/06/a-midlife-guide-to-growing-up.html</link>
+        <guid isPermaLink="true">http://blog.ryanstraits.com/featured/2018/04/06/a-midlife-guide-to-growing-up.html</guid>
         
         <category>now-that-im-older</category>
         
         <category>a-midlife-guide</category>
         
+        
+        <category>featured</category>
         
       </item>
     
