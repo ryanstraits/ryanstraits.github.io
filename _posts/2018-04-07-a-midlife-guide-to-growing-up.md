@@ -29,11 +29,11 @@ So I felt like I needed to start writing a few things down.
 
 Originally, I had hoped to just post these musings in three simple blog posts tied loosely around these themes of getting older and growing up. Well, here we are three-plus years later and I've now got a likely nine-part treatise on my hands.
 
-I'm calling what follows a "guide" not because it is in any way definitive, I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. And as you will see as we go along, I'm mostly writing this more as a compendium for myself. To remember back to what life was like during this time of my life and to challenge myself for the journey ahead.
+I'm calling what follows a "guide" not because it is in any way definitive, I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. And as you will see as we go along, I'm mostly writing this more as a compendium for myself. To remember back to what life was like during this time period and to also challenge myself for the journey ahead.
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
 
-But it's _a lot_, I know. However, I am hopeful that by releasing it one small chunk at a time, it could promote some thought, perusal, and even some discussion.
+It's _a lot_, I know. However, I am hopeful that by releasing it one small chunk at a time, it could promote some thought, perusal, and even some discussion.
 
 Maybe you won't find yourself relating with much or any of this at all, and that's fine! Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out there who are treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a _true_ "grown up".
 
