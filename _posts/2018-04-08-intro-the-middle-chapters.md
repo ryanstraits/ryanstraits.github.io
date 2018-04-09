@@ -74,5 +74,4 @@ And just like my expanding waistline can attest, there is a lot to love in the m
 
 Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
 
-
-<center>###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._</center>
+###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
