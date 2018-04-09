@@ -33,7 +33,7 @@ I'm calling what follows a "guide" not because it is in any way definitive, I ca
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
 
-It's _a lot_, I know. However, I am hopeful that by releasing it one small chunk at a time, it could promote some thought, perusal, and even some discussion.
+It's _a lot_, I know. However, I am hopeful that by releasing this one small chunk at a time, it may promote some thought, perusal, and even some discussion.
 
 Maybe you won't find yourself relating with much or any of this at all, and that's fine! Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out there who are treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a _true_ "grown up".
 
