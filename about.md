@@ -44,7 +44,7 @@ Right, so besides wearing zero-prescription Warby Parker's far past when I had L
 * By trade, I'm an Engineer but as of 2017, have moved in to the Project Management realm.
 * I co-host a [podcast](http://www.sixthdegreepod.com), because it's 2018 and I'm a middle-aged white male, so why not?
 
-![](/assets/images/_DSC0526.jpg)
+![](/assets/images/DSC0526.jpg)
 
 I'm a husband to an all-around amazing [woman](http://www.jordanstraits.com) and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
