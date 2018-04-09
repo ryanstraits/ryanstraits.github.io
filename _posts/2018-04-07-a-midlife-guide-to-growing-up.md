@@ -9,7 +9,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: "/assets/images/tobias-tullius-225741.jpg"
+image: "/carmine-de-fazio-31543.jpg"
 ---
 I really thought I'd feel grown up by now.
 
@@ -60,4 +60,4 @@ Ok so, here's rough road-map of where we'll be going over the next few weeks and
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
 
-###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
+<center>###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._</center>
