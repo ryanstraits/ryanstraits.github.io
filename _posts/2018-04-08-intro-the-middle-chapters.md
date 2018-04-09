@@ -41,11 +41,11 @@ I first started writing on my experiences growing up and getting older soon afte
 
 Your thirties are that tweener age-range that, as a kid, you can remember your parents being, but never dedicated much forethought to reaching yourself. When you're young, it's just some far-off dot on the horizon. That boring mid-point between "younger" and "older". It's Marty McFly watching his dorky-dad-self in the _way distant_ future of 2015.
 
-I can't say what it was specifically about turning 33 that tripped a breaker in me the way it did. Maybe it was realizing that I had officially reached "the age of the Lord". You know, the age when Jesus decided he'd had enough of his human existence and kicked it into high-gear back to heaven. (He had to know what he was doing, right?) Maybe it was the realization that virtually every pro athlete essentially reaches the washed-up phase of their careers around age 33 (the one exception being [LeBron](/on-leaving-and-lebron.html), of course).
+I can't say what it was specifically about turning 33 that tripped a breaker in me the way it did. Maybe it was realizing that I had officially reached "the age of the Lord". You know, the age when Jesus decided he'd had enough of his human existence and kicked it into high-gear back to heaven. (He had to know what he was doing, right?) Maybe it was the realization that virtually every pro athlete essentially reaches the washed-up phase of their careers around age 33 (the one exception being [LeBron](/2011/07/12/on-leaving-and-lebron.html), of course).
 
-Or maybe it was that little bit of extra hurt I started to feel in my knees the day after I ran at the gym. Or that slight twinge of anxiety that shot up when I thought about how quickly my children were growing. Or the expanding list of doubts about beliefs I was so certain of all those years before.
+Or maybe it was that little bit of extra hurt I started to feel in my knees the day after I ran at the gym. Or the slight twinge of anxiety that shot through my gut when I thought about how quickly my children were growing. Or the expanding list of doubts about beliefs I was so certain of all those years before.
 
-Maybe it's because your 33rd year is right about when the full weight of "getting old" starts to set in. You're starting to get a better picture of the frailty of your own body and the brevity of your own life. It's the age when you realize that if you're not doing what you want with your life by this point, then maybe it's time to start re-thinking your priorities. And if you're not who you want to be by now, it's likely time for a full-on sea change.
+Maybe it's because your 33rd year is right about when the full weight of "getting old" starts to set in. You're starting to get a better picture of the frailty of your own body and the brevity of your own life. It's roughly the age when you realize that if you're not doing what you want with your life by this point, then maybe it's time to start re-thinking your priorities. And if you're not who you want to be by now, it's likely time for a full-on sea change.
 
 It can be a bit disorienting, yes. But I'm learning that this is not a bad thing.
 
@@ -63,7 +63,7 @@ Midlife may not be filled with many "firsts", but it will almost certainly be fi
 
 You may not be able to see it yet, so let me report back on my early findings at this stage of the game: your middle ages are a _gift_.
 
-Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what not to do, while still having the agency over yourself and your choices to do you want to do. Yes, midlife can be unremarkable. But it's also a chance to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you needed to remind yourself that you're still in this thing. And you've got a long way left to go!
+Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still having the agency over yourself and your choices to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also a chance to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
 
 And so, I've resolved that if there are no inherent dividers in this section of the book, then I am just going to have to create them _myself_. And if society isn't going to hand me any punctuation during these interminable middle years, then I am going to have to add my _own_ exclamation points.
 
