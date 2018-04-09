@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
-image: "/assets/images/cole-patrick-8977.jpg"
+image: "/assets/images/maarten-deckers-229776.jpg"
 ---
 Midlife is what happens after the credits roll.
 
@@ -41,7 +41,7 @@ Your thirties are that tweener age-range that, as a kid, you can remember your p
 
 I can't say what it was specifically about turning 33 that tripped a breaker in me the way it did. Maybe it was realizing that I had officially reached "the age of the Lord". You know, the age when Jesus decided he'd had enough of his human existence and kicked it into high-gear back to heaven. (He had to know what he was doing, right?) Maybe it was the realization that virtually every pro athlete essentially reaches the washed-up phase of their careers around age 33 (the one exception being [LeBron](/2011/07/12/on-leaving-and-lebron.html), of course).
 
-Or maybe it was that little bit of extra hurt I started to feel in my knees the day after I ran at the gym. Or the slight twinge of anxiety that shot through my gut when I thought about how quickly my children were growing. Or the expanding list of doubts about beliefs I was so certain of all those years before.
+Or maybe it was that little bit of extra hurt I started to feel in my knees the day after I ran at the gym. Or the slight twinge of anxiety that shot through my gut when I realized how quickly my children were growing. Or the expanding list of doubts about beliefs I was so certain of all those years before.
 
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
@@ -54,20 +54,21 @@ It can be a bit disorienting, yes. But I'm learning that this is not a bad thing
 And so, now that I'm smack dab in the middle of my thirties, I have come to recognize just how _crucial_ this time of life is. The middle is where the work happens. This is the proverbial "nose to the grindstone" portion of your life. It's where things get _done_. It's where you become:
 
 * A better driver
-* An informed voter
-* A seasoned professional
-* An expert partner
+* An _informed_ voter
+* A working professional
+* A seasoned partner
 * A mature parent
+* A craft beer drinker
 
 Midlife may not be filled with many "firsts", but it will almost certainly be filled with many of your life's "bests".
 
-You may not be able to see it yet, so let me report back on my early findings at this stage of the game: your middle ages are a _gift_.
+You may not be able to see it quite yet, so let me report back on my early findings from where I sit at this stage of the game: your midlife crisis is a _gift_.
 
-Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still having the agency over yourself and your choices to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also a chance to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
+Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still having the agency over yourself and your choices to still be able to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also this rare presentation of a second chance we are afforded that allows us to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
 
-And so, I've resolved that if there are no inherent dividers in this section of the book, then I am just going to have to create them _myself_. And if society isn't going to hand me any punctuation during these interminable middle years, then I am going to have to add my _own_ exclamation points.
+And so, I've resolved that if there are no inherent dividers in this section of the book, then I am just going to have to create them _myself_. If society isn't going to hand me any punctuation during these interminable middle years, then dammit, I am going to add my _own_ exclamation points.
 
-And just like my expanding waistline can attest, there's a lot to love in the middle.
+And just like my expanding waistline can attest, there is a lot to love in the middle.
 
 ---
 
