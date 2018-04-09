@@ -64,7 +64,7 @@ You can read more about this concept by Googling the "Heisenberg principle" or d
 
 ##### Ok, so where we go from here?
 
-Well, if you're new to this blog, the best place to start is probably with my series, "[A Midlife Guide To Growing Up](/2018/04/07/a-midlife-guide-to-growing-up.html)". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
+Well, if you're new to this blog, the best place to start is probably with my series, "[A Midlife Guide To Growing Up](/featured/2018/04/07/a-midlife-guide-to-growing-up.html)". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
 
 Next, if you're feeling truly crazy, you can scroll through my 40+ pages of archived posts, but I wouldn't recommend it. Because here's another weird thing about me: I'm a [serial archivist](/2008/03/28/im-a-serial-archivist.html). And with this blog, I've collated nearly [every single blog post](/archive) that I've ever published, going way back to the [Xanga](/tag/xanga) blog I _regularly_ wrote on from 2003 to 2008. There are some real gems back there if you're game.
 
