@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
-image: "/assets/images/maarten-deckers-229776.jpg"
+image: "/thomas-peham-468311.jpg"
 ---
 Midlife is what happens after the credits roll.
 
@@ -75,4 +75,4 @@ And just like my expanding waistline can attest, there is a lot to love in the m
 Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
 
 
-###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
+<center>###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._</center>
