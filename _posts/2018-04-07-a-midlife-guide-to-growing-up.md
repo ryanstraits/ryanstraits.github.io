@@ -9,7 +9,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: "/assets/images/gabriel-jimenez-150063.jpg"
+image: "/daniel-peters-156464.jpg"
 ---
 I really thought I'd feel grown up by now.
 
@@ -20,6 +20,8 @@ I mean, aren't your thirties when you're supposed to have life figured out? And 
 This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the [less you truly know](https://twitter.com/ryanstraits/status/970835905974960128).
 
 Just because the tree adds another ring, doesn't mean it's any closer to the sun.
+
+![](/assets/images/paper-beard-13807-300px.jpg)
 
 And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_. The in's and out's of everyday life don't make it easy for many extended periods of introspection, however. But once you open up that door, it's near impossible to close. Never have I had such a simultaneous flood of answers, epiphanies, and transformational self discoveries flying at me all at once. And because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
 
@@ -33,9 +35,9 @@ It's part memoir, part advice column, part commentary, part confessional, and pa
 
 But it's _a lot_, I know. However, I am hopeful that by releasing it one small chunk at a time, it could promote some thought, perusal, and even some discussion.
 
-Maybe you won't find yourself relating with much or any of this at all, and that's fine! Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out there who are treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a real "grown up".
+Maybe you won't find yourself relating with much or any of this at all, and that's fine! Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out there who are treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a _true_ "grown up".
 
-In the end, we're all just growing up together.
+Because in the end, we're all just growing up together.
 
 > “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis
 
