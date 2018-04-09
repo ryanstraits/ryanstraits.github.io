@@ -44,7 +44,7 @@ Right, so besides wearing zero-prescription Warby Parker's far past when I had L
 * After spending 14 years in the realm of Mechanical Engineering, as of 2017 I switched my allegiances over to the dark side, Project Management.
 * I co-host a [podcast](http://www.sixthdegreepod.com), because it's 2018 and I'm a middle-aged white male, so why not?
 
-![](/assets/images/DSC0526-half.jpg)
+![](/assets/images/DSC0526-small.jpg)
 
 I'm a husband to an all-around amazing [woman](http://www.jordanstraits.com) and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
