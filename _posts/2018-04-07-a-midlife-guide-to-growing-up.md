@@ -37,7 +37,7 @@ Ok so, here's rough road-map of where we'll be going over the next few weeks and
 
 ### **Table of Contents**
 
-* [Intro: The Middle Chapters](/the-middle-chapters.html)
+* [Intro: The Middle Chapters](/2018/04/08/intro-the-middle-chapters.html)
 * Part 1: A Grown-Up Body...
 * Part 2: Middling Age
 * Part 3: A Grown-Up Soul...
