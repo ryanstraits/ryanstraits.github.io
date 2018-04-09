@@ -60,6 +60,5 @@ Ok so, here's rough road-map of where we'll be going over the next few weeks and
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
 
-<center>
+
 ###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
-</center>
