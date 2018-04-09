@@ -35,8 +35,6 @@ You might even call it: a midlife crisis.
 
 ---
 
-<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center><br>
-
 I first started writing on my experiences growing up and getting older soon after my 33rd birthday. Life was speeding by so fast up to that point that it was honestly the first time I recall thinking to myself, "Y'know, I'm kind of starting to get old."
 
 Your thirties are that tweener age-range that, as a kid, you can remember your parents being, but never dedicated much forethought to reaching yourself. When you're young, it's just some far-off dot on the horizon. That boring mid-point between "younger" and "older". It's Marty McFly watching his dorky-dad-self in the _way distant_ future of 2015.
@@ -44,6 +42,8 @@ Your thirties are that tweener age-range that, as a kid, you can remember your p
 I can't say what it was specifically about turning 33 that tripped a breaker in me the way it did. Maybe it was realizing that I had officially reached "the age of the Lord". You know, the age when Jesus decided he'd had enough of his human existence and kicked it into high-gear back to heaven. (He had to know what he was doing, right?) Maybe it was the realization that virtually every pro athlete essentially reaches the washed-up phase of their careers around age 33 (the one exception being [LeBron](/2011/07/12/on-leaving-and-lebron.html), of course).
 
 Or maybe it was that little bit of extra hurt I started to feel in my knees the day after I ran at the gym. Or the slight twinge of anxiety that shot through my gut when I thought about how quickly my children were growing. Or the expanding list of doubts about beliefs I was so certain of all those years before.
+
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best part of middle age is finding the perfect balance between anxiety about the future and regret about the past.</p>— Chris Jones (@MySecondEmpire) <a href="https://twitter.com/MySecondEmpire/status/563048116417728513">February 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Maybe it's because your 33rd year is right about when the full weight of "getting old" starts to set in. You're starting to get a better picture of the frailty of your own body and the brevity of your own life. It's roughly the age when you realize that if you're not doing what you want with your life by this point, then maybe it's time to start re-thinking your priorities. And if you're not who you want to be by now, it's likely time for a full-on sea change.
 
