@@ -9,23 +9,31 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: "/assets/images/carmine-de-fazio-31543.jpg"
+image: "/assets/images/gabriel-jimenez-150063.jpg"
 ---
 I really thought I'd feel grown up by now.
 
 <!-- break -->
 
-I mean, aren't your thirties when you're supposed to have life figured out? And if not figured out, than at least well on your way. Or I guess, that's what I had always assumed. In my younger years, if I ever looked ahead to life as a middle-aged man, I could only envision that future version of myself as someone who thoroughly had it all together. A married man? Yes. A family man? Sure. A career man? Naturally. And of course, the wisdom that would accompany each.
+I mean, aren't your thirties when you're supposed to have life figured out? And if not figured out, than at least well on your way.  Or I guess that's what I had always assumed. In my younger years, if I ever looked ahead to life as a middle-aged man, I could only envision that future version of myself as someone who thoroughly had it all together. A married man? Yes. A family man? Sure. A career man? Naturally. And of course, the wisdom that would accompany each new phase.
 
 This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the [less you truly know](https://twitter.com/ryanstraits/status/970835905974960128).
 
-And so I started to think about what it looks like to _actually_ grow up. The in's and out's of everyday life don't make it easy for many extended periods of introspection. But like most major self discoveries, there is no shut off valve. Never have I had such a simultaneous flood of answers, epiphanies, and revelations flying at me all at once. And of course, because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
+Just because the tree adds another ring, doesn't mean it's any closer to the sun.
 
-So I felt like I needed to start writing a few things down. 
+And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_. The in's and out's of everyday life don't make it easy for many extended periods of introspection, however. But once you open up that door, it's near impossible to close. Never have I had such a simultaneous flood of answers, epiphanies, and transformational self discoveries flying at me all at once. And because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
 
-Originally, I had hoped to just post these musings in three simple blog posts tied loosely around these themes of getting older and growing up. Well, three-plus years later and I've now got a likely nine-part treatise on my hands. It's part memoir, part advice column, part commentary, part confessional, and part gag reel. It's _a lot_, I know. But I hope that by releasing it one small chunk at a time, maybe it would promote some thought, perusal, and even some discussion.
+So I felt like I needed to start writing a few things down.
 
-And maybe you won't find yourself relating with much or any of this at all. With this "guide" I'm by no means claiming any particular expertise on midlife as a whole, only the parts that the soles of my shoes have touched so far. And so, if you find yourself lost somewhere down the road, just know that there are plenty of others out there treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a real "grown up".
+Originally, I had hoped to just post these musings in three simple blog posts tied loosely around these themes of getting older and growing up. Well, here we are three-plus years later and I've now got a likely nine-part treatise on my hands.
+
+I'm calling what follows a "guide" not because it is in any way definitive, I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. And as you will see as we go along, I'm mostly writing this more as a compendium for myself. To remember back to what life was like during this time of my life and to challenge myself for the journey ahead.
+
+It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
+
+But it's _a lot_, I know. However, I am hopeful that by releasing it one small chunk at a time, it could promote some thought, perusal, and even some discussion.
+
+Maybe you won't find yourself relating with much or any of this at all, and that's fine! Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out there who are treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a real "grown up".
 
 In the end, we're all just growing up together.
 
