@@ -41,7 +41,7 @@ Right, so besides wearing zero-prescription Warby Parker's far past when I had L
 * My favorite musician is Bruce Springsteen and there ain't no one bigger or badder than The Boss.
 * I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886).
 * I'll take a chocolate chip cookie over a donut any day.
-* By trade, I'm an Engineer but as of 2017, have moved in to the Project Management realm.
+* After spending 14 years in the realm of Mechanical Engineering, as of 2017 I switched my allegiances over to the dark side, Project Management.
 * I co-host a [podcast](http://www.sixthdegreepod.com), because it's 2018 and I'm a middle-aged white male, so why not?
 
 ![](/assets/images/DSC0526-half.jpg)
