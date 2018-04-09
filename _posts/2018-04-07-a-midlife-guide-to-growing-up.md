@@ -9,7 +9,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: "/assets/images/daniel-peters-156464.jpg"
+image: "/assets/images/tobias-tullius-225741.jpg"
 ---
 I really thought I'd feel grown up by now.
 
