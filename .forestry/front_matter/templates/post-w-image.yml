@@ -43,6 +43,7 @@ fields:
       type: simple
     options:
     - featured
+    - preview
 - name: tags
   default:
   - my-body-is-a-cage
