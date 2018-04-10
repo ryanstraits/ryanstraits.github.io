@@ -2,13 +2,14 @@
 title: 'Intro: The Middle Chapters'
 date: 2018-04-08 00:00:00 +0000
 layout: post
-categories: []
+categories:
+- preview
 tags:
 - now-that-im-older
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
-image: "/assets/images/cole-patrick-8977.jpg"
+image: "/cole-patrick-8977.jpg"
 ---
 Midlife is what happens after the credits roll.
 
