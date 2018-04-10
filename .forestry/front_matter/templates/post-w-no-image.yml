@@ -1,9 +1,12 @@
 ---
 pages:
 - index.html
-- _posts/2015-07-20-template.md
-- _posts/2008-11-13-up-and-coming-down-and-going.md
+- tag/a-midlife-guide/index.html
+- tag/medium/index.html
+- tag/options/index.html
 - _posts/2010-03-28-options.md
+- _posts/2008-11-13-up-and-coming-down-and-going.md
+- _posts/2015-07-20-template.md
 hide_body: false
 fields:
 - name: title
@@ -45,6 +48,10 @@ fields:
       type: pages
       section: pages
   label: TAGS
+- type: boolean
+  label: Preview
+  name: hidden
+  description: Hide this post from Paginator?
 - name: comments
   type: boolean
   label: Comments
@@ -52,4 +59,4 @@ fields:
 - type: text
   name: slug
   label: SLUG
-  default: '001'
+  default: new-post
