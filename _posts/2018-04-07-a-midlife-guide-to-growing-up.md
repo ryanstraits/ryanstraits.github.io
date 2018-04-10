@@ -37,7 +37,7 @@ It's part memoir, part advice column, part commentary, part confessional, and pa
 
 It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion. 
 
-Maybe you won't find yourself relating with much or any of this at all, and that's fine! There isn't anything fantastical and hyperbolic here. Just the middle aged tales of a middle class dude from Middle America. I'm essentially the average of all things.
+Maybe you won't find yourself relating with much or any of this at all, and that's fine! There isn't anything fantastical or hyperbolic here. Just the middle aged tales of a middle class dude from Middle America. I'm essentially the average of all things.
 
 Part of the reason I wanted to write these thoughts in blog form, is so that If you ever happen to find yourself lost somewhere down the road, let these posts be a reminder that there are plenty of others out here treading a similar path. Plenty of thirty-somethings also trying to get a hold on their mortality and significance. Plenty of young parents feeling stuck in a neverending grind of messy diapers and messy finances. Plenty of once-believers wondering where the simple and _easy_ faith of their youth ran off to. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back of me a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a _true_ grown up.
 
