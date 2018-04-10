@@ -23,19 +23,23 @@ Just because the tree adds another ring, doesn't mean it's any closer to the sun
 
 ![](/assets/images/paper-beard-13807-300px.jpg)
 
-And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_. The in's and out's of everyday life don't make it easy for many extended periods of introspection, however. But once you open up that door, it's near impossible to close. Never have I had such a simultaneous flood of answers, epiphanies, and transformational self discoveries flying at me all at once. And because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
+And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_.
+
+The in's and out's of everyday life don't make it easy for many extended periods of introspection, however. But once you open up that door, it's near impossible to close. Never have I had such a simultaneous flood of answers, epiphanies, and transformational self discoveries flying at me all at once. And because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
 
 So I felt like I needed to start writing a few things down.
 
-Originally, I had hoped to just post these musings in three simple blog posts tied loosely around these themes of getting older and growing up. Well, here we are three-plus years later and I've now got a likely nine-part treatise on my hands.
+Originally, I had hoped to just post these musings in three simple blog posts tied loosely around these themes of getting older and growing up. But here we are three-plus years later with a likely nine-part _treatise_ on my hands.
 
 I'm calling what follows a "guide" not because it is in any way definitive, I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. And as you will see as we go along, I'm mostly writing this more as a compendium for myself. To remember back to what life was like during this time period and to also challenge myself for the journey ahead.
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
 
-It's _a lot_, I know. However, I am hopeful that by releasing this one small chunk at a time, it may promote some thought, perusal, and even some discussion.
+It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion. 
 
-Maybe you won't find yourself relating with much or any of this at all, and that's fine! Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out there who are treading similar a path. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a _true_ "grown up".
+Maybe you won't find yourself relating with much or any of this at all, and that's fine! There isn't anything fantastical and hyperbolic here. Just the middle aged tales of a middle class dude from Middle America. I'm essentially the average of all things.
+
+Just know that if you ever happen to find yourself lost somewhere down the road, there are plenty of others out here treading a similar path. Plenty of thirty-somethings also trying to get a hold on their mortality. Plenty of young parents feeling stuck in a neverending grind. Plenty of once-believers wondering where the simple faith of their youth went. If my hemming, hawing, and fumbling through this stage of life can save somebody just a few clicks back a little pain and disappointment, then I suppose I'm fulfilling at least one of my duties as a _true_ grown up.
 
 Because in the end, we're all just growing up together.
 
@@ -43,7 +47,7 @@ Because in the end, we're all just growing up together.
 
 ---
 
-Ok so, here's rough road-map of where we'll be going over the next few weeks and months. I'll come back and update here as a new chapter is released. Thanks for coming along for the ride!
+Here's a rough road-map of where we'll be going over the next few weeks and months. I'll come back and update here as a new chapter is released. Thanks for coming along for the ride!
 
 ### **Table of Contents**
 
