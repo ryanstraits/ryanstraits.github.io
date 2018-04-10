@@ -39,6 +39,7 @@ fields:
       type: simple
     options:
     - featured
+    - preview
   label: CATEGORIES
 - type: select
   name: tags
