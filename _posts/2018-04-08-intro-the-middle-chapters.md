@@ -2,8 +2,7 @@
 title: 'Intro: The Middle Chapters'
 date: 2018-04-08 00:00:00 +0000
 layout: post
-categories:
-- preview
+categories: []
 tags:
 - now-that-im-older
 - a-midlife-guide
