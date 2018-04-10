@@ -9,6 +9,7 @@ tags:
 comments: true
 slug: intro-the-middle-chapters
 image: "/assets/images/lou-levit-1777-unsplash.jpg"
+hidden: true
 ---
 Midlife is what happens after the credits roll.
 
