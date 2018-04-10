@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
-image: "/cole-patrick-8977.jpg"
+image: "/assets/images/cole-patrick-8977.jpg"
 ---
 Midlife is what happens after the credits roll.
 
