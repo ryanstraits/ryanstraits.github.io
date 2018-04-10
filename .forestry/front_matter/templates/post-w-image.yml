@@ -2,11 +2,11 @@
 pages:
 - about.md
 - _posts/2018-04-08-intro-the-middle-chapters.md
-- _posts/2018-04-07-a-midlife-guide-to-growing-up.md
-- _posts/2015-03-19-the-50-states-of-grief-project.md
-- _posts/2018-01-22-a-grey-christmas.md
-- _posts/2018-01-22-energy-creates-energy.md
 - _posts/2018-01-15-new-year-new-blog-things.md
+- _posts/2018-01-22-energy-creates-energy.md
+- _posts/2018-01-22-a-grey-christmas.md
+- _posts/2015-03-19-the-50-states-of-grief-project.md
+- _posts/2018-04-07-a-midlife-guide-to-growing-up.md
 hide_body: false
 fields:
 - name: title
