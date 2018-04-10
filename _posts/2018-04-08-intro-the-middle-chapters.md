@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
-image: "/cole-patrick-8977.jpg"
+image: "/assets/images/lou-levit-1777-unsplash.jpg"
 ---
 Midlife is what happens after the credits roll.
 
@@ -16,7 +16,7 @@ Midlife is what happens after the credits roll.
 
 No matter how you slice it, midlife is just a uniquely and profoundly unremarkable period of life. By it's very definition, it is an age _between_ other ages. It's interstitial, domestic, and unexceptional.
 
-I think this is mostly because middle age is a stage of life that is, by-and-large, bereft of any major milestones. Conversely, society grants our teens and twenties so many baked-in rites of passage. Every year there's something new:
+I think this is mostly because middle age is a stage of life that is, by-and-large, bereft of any major milestones. Compare that with your teens and twenties, society grants those age ranges so many baked-in rites of passage. Every year there's something new:
 
 * Driving!
 * Graduating!
@@ -37,7 +37,7 @@ You might even call it: a midlife crisis.
 
 I first started writing on my experiences growing up and getting older soon after my 33rd birthday. Life was speeding by so fast up to that point that it was honestly the first time I recall thinking to myself, "Y'know, I'm kind of starting to get old."
 
-Your thirties are that tweener age-range that, as a kid, you can remember your parents being, but never dedicated much forethought to reaching yourself. When you're young, it's just some far-off dot on the horizon. That boring mid-point between "younger" and "older". It's Marty McFly watching his dorky-dad-self in the _way distant_ future of 2015.
+Your thirties are that tweener age range that, as a kid, you can remember your parents being, but never dedicated much forethought to reaching yourself. When you're young, it's just some far-off dot on the horizon. That boring mid-point between "younger" and "older". It's Marty McFly watching his dorky-dad-self in the _way distant_ future of 2015.
 
 I can't say what it was specifically about turning 33 that tripped a breaker in me the way it did. Maybe it was realizing that I had officially reached "the age of the Lord". You know, the age when Jesus decided he'd had enough of his human existence and kicked it into high-gear back to heaven. (He had to know what he was doing, right?) Maybe it was the realization that virtually every pro athlete essentially reaches the washed-up phase of their careers around age 33 (the one exception being [LeBron](/2011/07/12/on-leaving-and-lebron.html), of course).
 
