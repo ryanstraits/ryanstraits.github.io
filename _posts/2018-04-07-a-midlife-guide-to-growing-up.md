@@ -9,7 +9,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: "/assets/images/carmine-de-fazio-31543.jpg"
+image: "/assets/images/carmine-de-fazio-31543-small.jpg"
 hidden: false
 ---
 I really thought I'd feel grown up by now.
@@ -36,7 +36,7 @@ I'm calling what follows a "guide" not because it is in any way definitive; I ca
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
 
-It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion. 
+It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion.
 
 Maybe you won't find yourself relating with much or any of this at all, and that's fine! There isn't anything fantastical or hyperbolic here. Just the middle aged tales of a middle class dude from Middle America. I'm essentially the average of all things.
 
@@ -64,6 +64,5 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 * Part 9: ...
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
-
 
 ###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
