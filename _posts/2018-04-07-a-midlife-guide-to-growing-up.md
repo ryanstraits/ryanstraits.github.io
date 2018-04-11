@@ -46,6 +46,8 @@ Because in the end, we're all just growing up together.
 
 > “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis
 
+![](/assets/images/2014-10-11 11.17.58-small.jpg "My wife in Colorado, 2014")
+
 ---
 
 Here's a rough road-map of where we'll be going over the next few weeks and months. I'll come back and update here as a new chapter is released. Thanks for coming along for the ride!
