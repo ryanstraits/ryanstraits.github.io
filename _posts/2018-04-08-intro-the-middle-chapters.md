@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
-image: "/assets/images/jeremy-vessey-311381-unsplash-small.jpg"
+image: "/assets/images/jeremy-vessey-311381-unsplash-half.jpg"
 hidden: true
 ---
 Midlife is what happens after the credits roll.
