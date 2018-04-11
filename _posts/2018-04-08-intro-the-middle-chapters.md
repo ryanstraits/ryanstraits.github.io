@@ -65,7 +65,7 @@ Midlife may not be filled with many "firsts", but it will almost certainly be fi
 
 You may not be able to see it quite yet, so let me report back on my early findings from where I sit at this stage of the game: your midlife crisis is a _gift_.
 
-Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still possessing the agency over yourself and your choices to be able to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also this rare presentation of a second chance we are afforded that allows us to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
+Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still possessing the agency over yourself and your choices to be able to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also this rare presentation of a second chance that we are afforded allowing us to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
 
 And so, I've resolved that if there are no inherent dividers in this section of the book, then I am just going to have to create them _myself_. If society isn't going to hand me any punctuation during these interminable middle years, then dammit, I am going to add my _own_ exclamation points.
 
