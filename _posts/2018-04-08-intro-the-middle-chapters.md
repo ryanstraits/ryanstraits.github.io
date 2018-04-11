@@ -7,9 +7,9 @@ tags:
 - now-that-im-older
 - a-midlife-guide
 comments: true
-hidden: true
 slug: intro-the-middle-chapters
-image: '/assets/images/lou-levit-1777-unsplash.jpg'
+image: "/assets/images/jeremy-vessey-311381-unsplash-small.jpg"
+hidden: true
 ---
 Midlife is what happens after the credits roll.
 
