@@ -9,7 +9,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: "/assets/images/carmine-de-fazio-31543-small.jpg"
+image: "/assets/images/carmine-de-fazio-31543-half.jpg"
 hidden: false
 ---
 I really thought I'd feel grown up by now.
