@@ -11,7 +11,7 @@ tags:
 comments: true
 slug: part-1-a-grown-up-body
 hidden: true
-image: "/assets/images/bryan-minear-561781-unsplash-flip-half-1.jpg"
+image: "/assets/images/tr-n-anh-tu-n-33013-unsplash-small.jpg"
 ---
 I _feel_ old.
 
