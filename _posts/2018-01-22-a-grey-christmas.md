@@ -1,6 +1,6 @@
 ---
 title: A Grey Christmas
-date: 2015-12-19 08:56:56 -0600
+date: 2015-12-19 14:56:56 +0000
 categories: []
 layout: post
 tags:
@@ -10,7 +10,8 @@ tags:
 - medium
 comments: true
 slug: a-grey-christmas
-image: "/assets/images/patrick-hendry-39127-1.jpg"
+image: "/assets/images/foggytuesdays.JPG"
+hidden: false
 ---
 > I prefer winter and Fall, when you feel the bone structure of the landscape — the loneliness of it, the dead feeling of winter. Something waits beneath it, the whole story doesn’t show.
 >
