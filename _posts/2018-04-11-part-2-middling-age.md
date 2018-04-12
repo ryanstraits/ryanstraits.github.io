@@ -59,6 +59,6 @@ Your thirties are definitely when you start to feel _old_.
 
 ---
 
-Next, we'll take a look at a Grown Up Soul. It's kind of like an old soul, but cooler.
+Next, we'll dive into just what a grown up soul might look like. It's kind of like an old soul, but cooler.
 
 ###### _Images not from my personal camera roll are provided by_ [_Unsplash_](http://www.unsplash.com)_._
