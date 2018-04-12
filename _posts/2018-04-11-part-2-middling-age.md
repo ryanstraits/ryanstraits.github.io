@@ -37,9 +37,9 @@ It's not rosy but I think having a firm grasp on your finality is a good thing. 
 
 ---
 
-In last week's post, I noted an MIT study that claimed our "fluid intelligence" peaked at age 20. If you actually clicked the link and read on from the first few paragraphs, you'd realize that I wasn't entirely truthful with what I reported back. Oops.
+In last week's post, I noted an MIT study that claimed our "fluid intelligence" peaked at age 20. If you actually clicked the link and read on from the first few paragraphs, you'd realize that I wasn't entirely being truthful with what I had reported back. Oops.
 
-Yes, some of our cognitive abilities peak when we're younger, but many more are still ascending upwards through our 30's and even into our 50's and 60's. Facial recognition and visual short term memory both peak in your early 30's, says the MIT study. Our vocabulary and the mental skills needed to evaluate other's emotional states peak in our forties and fifties. Well, that's certainly something to look forward to!
+Yes, some of our cognitive abilities peak when we're younger, but many more are still ascending upwards through our thirties and even into our fifties and sixties. Facial recognition and visual short term memory both peak in your early thirties, says the MIT study. Our vocabulary and the mental skills needed to evaluate other's emotional states peak in our forties and fifties. So that's certainly something to look forward to!
 
 And really, it makes sense, doesn't it? My mind doesn't feel all that old. In fact, it's still on point. Our thirties are the years to take advantage of our superior mental acuity.
 
@@ -60,3 +60,5 @@ Your thirties are definitely when you start to feel _old_.
 ---
 
 Next, we'll take a look at a Grown Up Soul. It's kind of like an old soul, but cooler.
+
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](http://www.unsplash.com)_._
