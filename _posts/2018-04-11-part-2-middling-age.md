@@ -29,7 +29,7 @@ You hurt a lot.
 
 But obviously, there is a richness to this stage of aging that I've been skirting. For all the fresh wrinkles, new aches, and extra pounds, there's an airy plateau of transcendence that can only be reached once you crest that first hill of your thirties. A plateau that gives you a clearer view of your life and how little of it you actually have left.
 
-![](/assets/images/23593769_10213011448373824_2619840257894381229_o.jpg "My sweet girl")
+![](/assets/images/Audrey&Me-Small.jpg "My sweet girl, Audrey")
 
 I've made it this far and my body is still intact. I still have the majority of my hair (though it's the minority I've lost that bothers me) and some bounce left in my step. What do I have to worry about? Just squeezing every ounce of life out of this old thing that I can in the next 50 years or so, that's all.
 
@@ -47,7 +47,7 @@ Middle age is the unique period of your life when you will actually know more th
 
 This is a gift, my friends, and we would do well to take advantage.
 
-![](/assets/images/27355830_10213566970141521_4640444316724546207_o.jpg "My lil buddy")
+![](/assets/images/Benny&Me-Small.jpg "My lil buddy, Bennett")
 
 ---
 
