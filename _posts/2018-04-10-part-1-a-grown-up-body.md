@@ -74,8 +74,6 @@ When you break my day down now, the time I spend with my kids overlaps nearly co
 
 Really, when I get a chance to work out, I'm also working out for my kids. The better shape I'm in today will almost certainly have to translate into a happier and healthier dad tomorrow. And eventually, a happier and healthier grandpa for them to take care of somewhere down the line. All the more reason to hit the bike and the gym with whatever waning moments I have left in the day.
 
-![Goofballs]({{ site.baseurl }}/assets/images/audrey-faces.jpg)
-
 It's hard to admit this to teenager-me or 20-year-old-me, but an extra 10-15 pounds just isn't that big of a deal at this stage of the game. And you care less about those extra pounds the older you get. That's just life. There are plenty more important things to worry about.
 
 So that's what I think when I look at parents now. I commiserate. I get it. This stage of life is rough. It's a boxing match with entropy.
