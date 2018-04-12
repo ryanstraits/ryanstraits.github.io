@@ -11,7 +11,7 @@ tags:
 comments: true
 slug: part-1-a-grown-up-body
 hidden: true
-image: "/assets/images/tr-n-anh-tu-n-33013-unsplash-small.jpg"
+image: ''
 ---
 I _feel_ old.
 
