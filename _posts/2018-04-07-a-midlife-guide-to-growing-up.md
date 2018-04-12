@@ -1,6 +1,6 @@
 ---
 title: A Midlife Guide To Growing Up
-date: 2018-04-07 00:00:00 +0000
+date: 2018-04-06 19:00:00 -0500
 layout: post
 categories:
 - featured
@@ -30,7 +30,7 @@ The in's and out's of everyday life in your thirties don't make it easy for many
 
 So I felt like I needed to start writing a few things down.
 
-Originally, I had hoped to just post these musings in three simple blog posts touching on the themes of getting older and growing up. But all of the sudden, here I am three-plus years later with a likely _nine-part series_ on my hands.
+Originally, I had hoped to just post these musings in three simple blog posts touching on the themes of getting older and growing up. But all of the sudden, here I am three-plus years later with a likely _ten-part series_ on my hands.
 
 I'm calling what follows a "guide" not because it is in any way definitive; I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. I'm writing this more as a compendium for myself: to remember back to what life was like during this time period and to also challenge myself for the journey ahead.
 
@@ -60,12 +60,13 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 * Part 1: A Grown-Up Body...
 * Part 2: Middling Age
 * Part 3: A Grown-Up Soul...
-* Part 4: Forever Summer
-* Part 5: The Dad Mule
-* Part 6: A Grown-Up Spirit
-* Part 7: ...
+* Part 4: Life In The Future
+* Part 5: Forever Summer
+* Part 6: The Dad Mule
+* Part 7: A Grown-Up Spirit
 * Part 8: ...
 * Part 9: ...
+* Part 10: ...
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
 
