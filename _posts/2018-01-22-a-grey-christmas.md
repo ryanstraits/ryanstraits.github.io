@@ -10,7 +10,7 @@ tags:
 - medium
 comments: true
 slug: a-grey-christmas
-image: "/assets/images/foggytuesdays.JPG"
+image: "/assets/images/foggytuesdays.jpg"
 hidden: false
 ---
 > I prefer winter and Fall, when you feel the bone structure of the landscape — the loneliness of it, the dead feeling of winter. Something waits beneath it, the whole story doesn’t show.
