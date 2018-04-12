@@ -10,7 +10,7 @@ tags:
 comments: true
 slug: a-midlife-guide-to-growing-up
 image: "/assets/images/carmine-de-fazio-31543-half.jpg"
-hidden: false
+hidden: true
 ---
 I really thought I'd feel grown up by now.
 
@@ -69,4 +69,4 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
 
-###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_._
