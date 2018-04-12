@@ -11,7 +11,7 @@ tags:
 comments: true
 slug: part-1-a-grown-up-body
 hidden: true
-image: ''
+image: "/assets/images/daniel-peters-156464-half-1.jpg"
 ---
 I _feel_ old.
 
