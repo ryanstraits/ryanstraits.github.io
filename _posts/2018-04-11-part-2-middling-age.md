@@ -11,7 +11,7 @@ tags:
 comments: true
 slug: part-2-middling-age
 hidden: true
-image: "/assets/images/paul-gilmore-211347-unsplash-small.jpg"
+image: "/assets/images/maarten-deckers-229776-half.jpg"
 ---
 Aging is weird.
 
