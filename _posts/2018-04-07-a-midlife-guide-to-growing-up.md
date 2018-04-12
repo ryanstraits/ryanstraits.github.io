@@ -18,11 +18,11 @@ I really thought I'd feel grown up by now.
 
 I mean, aren't your thirties when you're supposed to have life figured out? And if not figured out, than at least well on your way.  Or I guess that's what I had always assumed. In my younger years, if I ever looked ahead to life as a middle-aged man, I could only envision that future version of myself as someone who thoroughly had it all together. A married man? Yes. A family man? Sure. A career man? Naturally. And of course, the wisdom that would accompany each new phase.
 
-This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the [less you truly know](https://twitter.com/ryanstraits/status/970835905974960128).
+This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the <a href="https://twitter.com/ryanstraits/status/970835905974960128" target="_blank">less you truly know</a>
 
 Just because the tree adds another ring, doesn't mean it's grown any closer to the sun.
 
-![](/assets/images/paper-beard-13807-300px.jpg)
+![](/assets/images/gabriel-jimenez-150063-small-edit.jpg)
 
 And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_.
 
@@ -35,6 +35,8 @@ Originally, I had hoped to just post these musings in three simple blog posts to
 I'm calling what follows a "guide" not because it is in any way definitive; I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. I'm writing this more as a compendium for myself: to remember back to what life was like during this time period and to also challenge myself for the journey ahead.
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
+
+![](/assets/images/paper-beard-13807-300px.jpg)
 
 It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion.
 
