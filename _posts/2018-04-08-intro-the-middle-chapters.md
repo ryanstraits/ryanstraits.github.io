@@ -30,7 +30,7 @@ I think this is mostly because middle age is a stage of life that is, by-and-lar
 
 But then, what's next? Realistically, a whole lot of nothing.
 
-Midlife feels like it could seemingly go on forever. It is "[a book without any structure, sentences, periods, commas, paragraphs, chapters...or punctuation](http://www.npr.org/2016/03/17/469822644/8-ways-you-can-survive-and-thrive-in-midlife)." And so, without any of these built-in cultural chapters, you can quickly find yourself slipping into one fantastically dreadful existential breakdown.
+Midlife feels like it could seemingly go on forever. It is "<a href="http://www.npr.org/2016/03/17/469822644/8-ways-you-can-survive-and-thrive-in-midlife" target="_blank">a book without any structure, sentences, periods, commas, paragraphs, chapters...or punctuation</a>." And so, without any of these built-in cultural chapters, you can quickly find yourself slipping into one fantastically dreadful existential breakdown.
 
 You might even call it: a midlife crisis.
 
@@ -67,6 +67,8 @@ You may not be able to see it quite yet, so let me report back on my early findi
 
 Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still possessing the agency over yourself and your choices to be able to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also this rare presentation of a second chance that we are afforded allowing us to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
 
+![](/assets/images/fabrizio-verrecchia-438342-unsplash-small.jpg)
+
 And so, I've resolved that if there are no inherent dividers in this section of the book, then I am just going to have to create them _myself_. If society isn't going to hand me any punctuation during these interminable middle years, then dammit, I am going to add my _own_ exclamation points.
 
 And just like my expanding waistline can attest, there is a lot to love in the middle.
@@ -75,4 +77,4 @@ And just like my expanding waistline can attest, there is a lot to love in the m
 
 Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
 
-###### _Images provided by_ [_Unsplash_](https://unsplash.com/)_._
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_._
