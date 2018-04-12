@@ -83,3 +83,5 @@ And the body blows only hit harder and come faster the older you get.
 ---
 
 Next week: Some upside to this whole "aging body" thing.
+
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](http://www.unsplash.com)_._
