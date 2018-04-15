@@ -7,6 +7,7 @@ tags: []
 comments: false
 slug: about
 image: ''
+hidden: false
 ---
 # Hi. My name is Ryan.
 
@@ -26,9 +27,9 @@ Ok, so why start off an "About" section with such an odd, revealing factoid abou
 
 Well, I'm a millennial, but I just barely made the cut on the front edge by a year or two. So blogging just seems to make a little more sense to me as a communication tool than say, Snapchat.
 
-I'm choosing this particular [blogging format](http://www.jekyllrb.com) because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
+I'm choosing this particular <a href="http://www.jekyllrb.com" target="_blank">blogging format</a> because I think that the vulnerability I'm aiming for here requires a level of intimacy that might get steamrolled in a more "public" platform. I also hand-coded much of the features of this site myself (I'm particularly proud of the [tag structure](/tag/now-that-im-older) that incorporates the names of some of my favorite songs).
 
-In some cases, I will be double-posting on my Medium page, so if that's more your speed, you can [follow me there](https://www.medium.com/@ryanstraits) as well.
+In some cases, I will be double-posting on my Medium page, so if that's more your speed, you can <a href="https://www.medium.com/@ryanstraits" target="_blank">follow me there</a> as well.
 
 ---
 
@@ -39,14 +40,14 @@ Right, so besides wearing zero-prescription Warby Parker's far past when I had L
 * I was born in Northeast Ohio but now live in Kansas City.
 * My favorite TV show is and always will be MacGyver.
 * My favorite musician is Bruce Springsteen and there ain't no one bigger or badder than The Boss.
-* I still consider Seth Cohen [a fashion icon](https://twitter.com/ryanstraits/status/817788129298042886).
+* I still consider Seth Cohen <a href="https://twitter.com/ryanstraits/status/817788129298042886" target="_blank">a fashion icon</a>.
 * I'll take a chocolate chip cookie over a donut any day.
 * After spending 14 years in the realm of Mechanical Engineering, as of 2017 I switched my allegiances over to the dark side, Project Management.
-* I co-host a [podcast](http://www.sixthdegreepod.com), because it's 2018 and I'm a middle-aged white male, so why not?
+* I co-host a <a href="http://www.sixthdegreepod.com" target="_blank">podcast</a>, because it's 2018 and I'm a middle-aged white male, so why not?
 
 ![](/assets/images/DSC0526-small.jpg)
 
-I'm a husband to an all-around amazing [woman](http://www.jordanstraits.com) and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
+I'm a husband to an all-around amazing <a href="http://www.jordanstraits.com" target="_blank">woman</a> and a doting dad to two of the most fun kids this side of the Mississippi, so you're going to see that reflected in far too much of what I write about. I'm going to go ahead and just pre-apologize for all the gushing and fawning right here to save myself the trouble later on.
 
 Lastly, I wear the glasses because my wife thinks they look cute, and when you're my age, that's about the closest you're going to get to feeling cool.
 
@@ -68,6 +69,6 @@ Well, if you're new to this blog, the best place to start is probably with my se
 
 Next, if you're feeling truly crazy, you can scroll through my 40+ pages of archived posts, but I wouldn't recommend it. Because here's another weird thing about me: I'm a [serial archivist](/2008/03/28/im-a-serial-archivist.html). And with this blog, I've collated nearly [every single blog post](/archive) that I've ever published, going way back to the [Xanga](/tag/xanga) blog I _regularly_ wrote on from 2003 to 2008. There are some real gems back there if you're game.
 
-Be sure to follow me on Twitter at [@ryanstraits](https://twitter.com/ryanstraits) or [subscribe through RSS](/feed.xml) to keep up to date on when a fresh, new post drops. Thanks for stopping by!
+Be sure to follow me on Twitter at <a href="https://twitter.com/ryanstraits" target="_blank">@ryanstraits</a> or [subscribe through RSS](/feed.xml) to keep up to date on when a fresh, new post drops. Thanks for stopping by!
 
 ---
