@@ -1,6 +1,6 @@
 ---
 title: A Midlife Guide To Growing Up
-date: 2018-04-07 00:00:00 +0000
+date: 2018-04-06 19:00:00 -0500
 layout: post
 categories:
 - featured
@@ -18,9 +18,9 @@ I really thought I'd feel grown up by now.
 
 I mean, aren't your thirties when you're supposed to have life figured out? And if not figured out, than at least well on your way.  Or I guess that's what I had always assumed. In my younger years, if I ever looked ahead to life as a middle-aged man, I could only envision that future version of myself as someone who thoroughly had it all together. A married man? Yes. A family man? Sure. A career man? Naturally. And of course, the wisdom that would accompany each new phase.
 
-This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the <a href="https://twitter.com/ryanstraits/status/970835905974960128" target="_blank">less you truly know</a>
+This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the <a href="https://twitter.com/ryanstraits/status/970835905974960128" target="_blank">less you truly know</a>.
 
-##### Just because the tree adds another ring, doesn't mean it's grown any closer to the sun.
+**_Just because the tree adds another ring, doesn't mean it's grown any closer to the sun._**
 
 ![](/assets/images/gabriel-jimenez-150063-small-edit.jpg)
 
