@@ -20,7 +20,7 @@ I mean, aren't your thirties when you're supposed to have life figured out? And 
 
 This, as I have discovered, is not actually how life works. Just because you're getting older in age, doesn't necessarily mean you're "growing up". Wisdom isn't just knowing more than you used to. It’s having the humility to acknowledge that the older you get, the <a href="https://twitter.com/ryanstraits/status/970835905974960128" target="_blank">less you truly know</a>.
 
-**_Just because the tree adds another ring, doesn't mean it's grown any closer to the sun._**
+Just because the tree adds another ring, doesn't mean it's grown any closer to the sun.
 
 ![](/assets/images/gabriel-jimenez-150063-small-edit.jpg)
 
