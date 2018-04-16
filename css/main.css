@@ -561,11 +561,20 @@ body {
   .post .post-content h1, .post .post-content h2, .post .post-content h3 {
     font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
     margin-bottom: 16px; }
-  .post .post-content h3, .post .post-content h4, .post .post-content h5 {
+  .post .post-content h3, .post .post-content h4 {
     letter-spacing: -0.02em;
     font-weight: 700;
     font-style: normal;
     font-size: 22px;
+    line-height: 1.3;
+    margin: 0;
+    font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
+    margin-bottom: 16px; }
+  .post .post-content h5 {
+    letter-spacing: -0.02em;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 18px;
     line-height: 1.3;
     margin: 0;
     font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
