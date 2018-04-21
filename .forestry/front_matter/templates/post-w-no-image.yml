@@ -21,7 +21,7 @@ fields:
   type: datetime
   label: Date
   description: Date of post
-  default: 2018-01-01 07:00:00 +0000
+  default: 2018-01-01 01:00:00 -0600
 - type: select
   name: layout
   config:
