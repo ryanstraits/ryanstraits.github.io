@@ -33,6 +33,15 @@ fields:
     - default
   label: LAYOUT
   description: Type of post/page
+- type: list
+  name: tags
+  label: Tags
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: pages
+  default: []
 - type: select
   name: categories
   config:
@@ -42,13 +51,6 @@ fields:
     - featured
     - preview
   label: CATEGORIES
-- type: select
-  name: tags
-  config:
-    source:
-      type: pages
-      section: pages
-  label: TAGS
 - type: boolean
   label: Preview
   name: hidden
