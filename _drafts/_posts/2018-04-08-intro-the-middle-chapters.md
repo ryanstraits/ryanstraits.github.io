@@ -83,4 +83,6 @@ Speaking of waistlines, next up we'll look at what growing up into a midlife bod
 
 <center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
+---
+
 ###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_](http://assemblyapp.co/)_._
