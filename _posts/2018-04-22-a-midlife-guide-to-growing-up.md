@@ -58,17 +58,17 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 
 ### **Table of Contents**
 
-* [**Intro:** The Middle Chapters](/2018/04/08/intro-the-middle-chapters.html)
-* **Part 1:** A Grown-Up Body... _(Coming April 30th)_
-* **Part 2:** Middling Age _(Coming May 7th)_
-* **Part 3:** A Grown-Up Soul... _(Coming May 14th)_
-* **Part 4:** Life In The Future _(Coming May 21st)_
-* **Part 5:** Forever Summer _(Coming May 28th)_
-* **Part 6:** The Dad Mule _(Coming June 4th)_
-* **Part 7:** A Grown-Up Spirit _(Coming June 11th)_
-* **Part 8:** Title TBD _(Coming June 18th)_
-* **Part 9:** Title TBD _(Coming June 25th)_
-* **Part 10:** Title TBD _(Coming July 1st)_
+* [**Intro:** The Middle Chapters](/2018/04/22/intro-the-middle-chapters.html)
+* **Part 1:** A Grown-Up Body...   _(Coming April 30th)_
+* **Part 2:** Middling Age   _(Coming May 7th)_
+* **Part 3:** A Grown-Up Soul...   _(Coming May 14th)_
+* **Part 4:** Life In The Future   _(Coming May 21st)_
+* **Part 5:** Forever Summer   _(Coming May 28th)_
+* **Part 6:** The Dad Mule   _(Coming June 4th)_
+* **Part 7:** A Grown-Up Spirit...   _(Coming June 11th)_
+* **Part 8:** Title TBD   _(Coming June 18th)_
+* **Part 9:** Title TBD   _(Coming June 25th)_
+* **Part 10:** Title TBD   _(Coming July 1st)_
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed on who I am and just what I am attempting to do with this blog.
 
