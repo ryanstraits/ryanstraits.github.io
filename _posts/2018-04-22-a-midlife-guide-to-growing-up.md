@@ -1,6 +1,6 @@
 ---
 title: A Midlife Guide To Growing Up
-date: 2018-01-22 06:00:00 -0600
+date: 2018-04-22 07:00:00 -0500
 tags:
 - a-midlife-guide
 - now-that-im-older
