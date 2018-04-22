@@ -34,7 +34,9 @@ But then, what's next? Realistically, a whole lot of nothing.
 
 Midlife feels like it could seemingly go on forever. It is "<a href="http://www.npr.org/2016/03/17/469822644/8-ways-you-can-survive-and-thrive-in-midlife" target="_blank">a book without any structure, sentences, periods, commas, paragraphs, chapters...or punctuation</a>." And so, without any of these built-in cultural chapters, you can quickly find yourself slipping into one fantastically dreadful existential breakdown.
 
-You might even call it: a midlife crisis.
+You might even call it by it's more popular name: _a midlife crisis._
+
+![](/assets/images/dorelys-smits-200737-small-edit.jpg)
 
 ---
 
@@ -50,7 +52,7 @@ Or maybe it was that little bit of extra hurt I started to feel in my knees the 
 
 Maybe it's because your 33rd year is right about when the full weight of "getting old" starts to set in. You're starting to get a better picture of the frailty of your own body and the brevity of your own life. It's roughly the age when you realize that if you're not doing what you want with your life by this point, then maybe it's time to start re-thinking your priorities. And if you're not who you want to be by now, it's likely time for a full-on sea change.
 
-It can be a bit disorienting, yes. But I'm learning that this is not a bad thing.
+It can be a bit disorienting, yes. But I'm learning that this is not necessarily a bad thing.
 
 ---
 
@@ -69,7 +71,7 @@ You may not be able to see it quite yet, so let me report back on my early findi
 
 Your thirties are this sweet spot in the center and thick of it all. You've lived enough life to know what _not_ to do, while still possessing the agency over yourself and your choices to be able to do what you _want_ to do. Yes, midlife can be unremarkable. But it's also this rare presentation of a second chance that we are afforded allowing us to regroup, refresh, re-purpose, and redirect. Getting a handle on your fragility may just be the wake-up call you need to remind yourself that you're still in this thing. And you've got a long way left to go!
 
-![](/assets/images/fabrizio-verrecchia-438342-unsplash-small.jpg)
+![](/assets/images/fabrizio-verrecchia-438342-unsplash-small-edit.jpg)
 
 And so, I've resolved that if there are no inherent dividers in this section of the book, then I am just going to have to create them _myself_. If society isn't going to hand me any punctuation during these interminable middle years, then dammit, I am going to add my _own_ exclamation points.
 
