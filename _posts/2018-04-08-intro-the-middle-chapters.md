@@ -2,15 +2,17 @@
 title: 'Intro: The Middle Chapters'
 date: 2018-04-23 19:00:00 -0500
 layout: post
-categories: featured
+categories: ''
 tags:
 - now-that-im-older
 - a-midlife-guide
 comments: true
 slug: intro-the-middle-chapters
 image: "/assets/images/jeremy-vessey-311381-unsplash-half.jpg"
-hidden: true
+hidden: false
 ---
+![](/assets/images/Intro Banner-small.png)
+
 Midlife is what happens after the credits roll.
 
 <!-- break -->
@@ -79,4 +81,4 @@ Speaking of waistlines, next up we'll look at what growing up into a midlife bod
 
 <center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
-###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_._
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_](http://assemblyapp.co/)_._
