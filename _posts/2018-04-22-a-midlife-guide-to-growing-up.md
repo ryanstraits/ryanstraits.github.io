@@ -40,6 +40,12 @@ I'm calling what follows a "guide" not because it is in any way definitive; I ca
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
 
+ 
+
+![](/assets/images/paper-beard-13807-300px.jpg)
+
+ 
+
 It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion.
 
 Maybe you won't find yourself relating with much or any of this at all, and that's fine! There isn't anything fantastical or hyperbolic here. Just the middle aged tales of a middle class dude from Middle America. I'm essentially the average of all things.
@@ -76,4 +82,4 @@ P.S.S. - I'm a big fan of making mixtapes for my friends. And since we'll be spe
 
 ---
 
-###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_]( "http://assemblyapp.co/")_._
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_](http://assemblyapp.co/)_._
