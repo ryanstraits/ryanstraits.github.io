@@ -2,17 +2,18 @@
 title: A Midlife Guide To Growing Up
 date: 2018-04-06 19:00:00 -0500
 layout: post
-categories:
-- featured
+categories: featured
 tags:
 - now-that-im-older
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image:
+image: ''
 hidden: true
 ---
-![](/assets/images/Midlife Guide Banner.png)
+![](/assets/images/Midlife Guide Banner-1.png)
+
+---
 
 I really thought I'd feel grown up by now.
 
