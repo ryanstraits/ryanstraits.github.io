@@ -10,7 +10,7 @@ categories: featured
 hidden: true
 comments: true
 ---
-![](/assets/images/Midlife Guide Banner-1.png)
+![](/assets/images/Midlife Guide Banner-half.png)
 
 ---
 
@@ -48,11 +48,7 @@ Part of the reason I wanted to write these thoughts in blog form, is so that If 
 
 Because in the end, we're all just growing up together.
 
----
-
 > “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis
-
-![](/assets/images/paper-beard-13807-300px.jpg)
 
 ---
 
@@ -80,4 +76,4 @@ P.S.S. - I'm a big fan of making mixtapes for my friends. And since we'll be spe
 
 ---
 
-###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_._
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_]( "http://assemblyapp.co/")_._
