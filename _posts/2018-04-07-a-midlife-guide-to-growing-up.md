@@ -27,8 +27,6 @@ Just because the tree adds another ring, doesn't mean it's grown any closer to t
 
 ![](/assets/images/gabriel-jimenez-150063-small-edit.jpg)
 
----
-
 And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_.
 
 The in's and out's of everyday life in your thirties don't make it easy for many extended periods of introspection. However, once you open up that door, it's near impossible to close. Never have I had such a simultaneous flood of answers, epiphanies, and transformational self discoveries flying at me all at once. And because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
@@ -55,6 +53,8 @@ Because in the end, we're all just growing up together.
 
 > “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis
 
+![](/assets/images/paper-beard-13807-300px.jpg)
+
 ---
 
 Here's a rough road-map of where we'll be going over the next few weeks and months. I'll come back and update here as a new chapter is released. Thanks for coming along for the ride!
@@ -77,7 +77,7 @@ P.S. - If you're new to me or my blog, the [About](/about "About Me!") page migh
 
 P.S.S. - I'm a big fan of making mixtapes for my friends. And since we'll be spending some time together over the next few weeks, I decided to make you a mixtape to accompany you on this little journey we're going on together. These are songs that either influenced me on my journey in the past or inspired my writing in the present. I'll make sure to include a link to it in every future post so that you can listen along as you read along.
 
-<iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" align="middle" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
