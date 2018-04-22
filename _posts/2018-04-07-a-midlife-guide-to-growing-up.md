@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image: ''
+image:
 hidden: true
 ---
 ![](/assets/images/Midlife Guide Banner-1.png)
