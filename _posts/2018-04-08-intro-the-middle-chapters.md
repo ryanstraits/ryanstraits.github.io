@@ -1,8 +1,8 @@
 ---
 title: 'Intro: The Middle Chapters'
-date: 2018-04-08 00:00:00 +0000
+date: 2018-04-23 19:00:00 -0500
 layout: post
-categories: []
+categories: featured
 tags:
 - now-that-im-older
 - a-midlife-guide
@@ -76,5 +76,7 @@ And just like my expanding waistline can attest, there is a lot to love in the m
 ---
 
 Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
+
+<center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 ###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_._
