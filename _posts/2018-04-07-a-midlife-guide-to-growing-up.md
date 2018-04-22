@@ -77,7 +77,7 @@ P.S. - If you're new to me or my blog, the [About](/about "About Me!") page migh
 
 P.S.S. - I'm a big fan of making mixtapes for my friends. And since we'll be spending some time together over the next few weeks, I decided to make you a mixtape to accompany you on this little journey we're going on together. These are songs that either influenced me on my journey in the past or inspired my writing in the present. I'll make sure to include a link to it in every future post so that you can listen along as you read along.
 
-<iframe src="[https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe](https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe "https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe")" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
