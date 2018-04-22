@@ -8,7 +8,7 @@ tags:
 - a-midlife-guide
 comments: true
 slug: a-midlife-guide-to-growing-up
-image:
+image: ''
 hidden: true
 ---
 ![](/assets/images/Midlife Guide Banner-1.png)
@@ -27,6 +27,8 @@ Just because the tree adds another ring, doesn't mean it's grown any closer to t
 
 ![](/assets/images/gabriel-jimenez-150063-small-edit.jpg)
 
+---
+
 And so I started to think about what it looks like to _actually_ grow up. To grow upwards while _also_ growing outwards. To grow taller while also growing _deeper_.
 
 The in's and out's of everyday life in your thirties don't make it easy for many extended periods of introspection. However, once you open up that door, it's near impossible to close. Never have I had such a simultaneous flood of answers, epiphanies, and transformational self discoveries flying at me all at once. And because there must always be balance in the force, those answers inevitably come laced with their own new set of deeper, harder, and more existential questions.
@@ -39,8 +41,6 @@ I'm calling what follows a "guide" not because it is in any way definitive; I ca
 
 It's part memoir, part advice column, part commentary, part confessional, and part gag reel.
 
-![](/assets/images/paper-beard-13807-300px.jpg)
-
 It's _a lot_, I know. However, I am hopeful that by releasing this thing one small chunk at a time it might promote some thought, perusal, or even a little discussion.
 
 Maybe you won't find yourself relating with much or any of this at all, and that's fine! There isn't anything fantastical or hyperbolic here. Just the middle aged tales of a middle class dude from Middle America. I'm essentially the average of all things.
@@ -49,9 +49,9 @@ Part of the reason I wanted to write these thoughts in blog form, is so that If 
 
 Because in the end, we're all just growing up together.
 
-> “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis
+---
 
-![](/assets/images/2014-10-11 11.17.58-small.jpg "My wife in Colorado, 2014")
+> “Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." - C.S. Lewis
 
 ---
 
