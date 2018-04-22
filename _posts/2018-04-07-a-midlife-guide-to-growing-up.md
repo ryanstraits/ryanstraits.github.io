@@ -35,6 +35,8 @@ The in's and out's of everyday life in your thirties don't make it easy for many
 
 So I felt like I needed to start writing a few things down.
 
+---
+
 Originally, I had hoped to just post these musings in three simple blog posts touching on the themes of getting older and growing up. But all of the sudden, here I am three-plus years later with a likely _ten-part series_ on my hands.
 
 I'm calling what follows a "guide" not because it is in any way definitive; I can only speak to the parts that the soles of my shoes have touched so far. I'm by no means attempting to claim any expertise on midlife as a whole. I'm writing this more as a compendium for myself: to remember back to what life was like during this time period and to also challenge myself for the journey ahead.
@@ -71,6 +73,12 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 * Part 9: ...
 * Part 10: ...
 
-P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed.
+P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed on who I am and just what I am attempting to do with this blog.
+
+P.S.S. - I'm a big fan of making mixtapes for my friends. And since we'll be spending some time together over the next few weeks, I decided to make you a mixtape to accompany you on this little journey we're going on together. These are songs that either influenced me on my journey in the past or inspired my writing in the present. I'll make sure to include a link to it in every future post so that you can listen along as you read along.
+
+<iframe src="[https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe](https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe "https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe")" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
 
 ###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_._
