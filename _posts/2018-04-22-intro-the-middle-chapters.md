@@ -18,7 +18,7 @@ Midlife is what happens after the credits roll.
 
 No matter how you slice it, midlife is just a uniquely and profoundly unremarkable period of life. By it's very definition, it is an age _between_ other ages. It's interstitial, domestic, and unexceptional.
 
-I think this is mostly because middle age is a stage of life that is, by-and-large, bereft of any major milestones. Compare that with your teens and twenties, society grants those age ranges so many baked-in rites of passage. Every year there's something new:
+I think this is mostly because middle age is a stage of life that is, by-and-large, bereft of any major milestones. Compare that with your teens and twenties: society grants those age ranges so many baked-in rites of passage. Every year there's something new:
 
 * Driving!
 * Graduating!
