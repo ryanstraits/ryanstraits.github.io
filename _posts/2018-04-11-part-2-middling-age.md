@@ -1,6 +1,6 @@
 ---
 title: 'Part 2: Middling Age'
-date: 2018-04-11 00:00:00 +0000
+date: 2018-05-07 19:00:00 -0500
 layout: post
 categories: []
 tags:
@@ -10,7 +10,7 @@ tags:
 - my-body-is-a-cage
 comments: true
 slug: part-2-middling-age
-hidden: true
+hidden: false
 image: "/assets/images/maarten-deckers-229776-half.jpg"
 ---
 Aging is weird.
