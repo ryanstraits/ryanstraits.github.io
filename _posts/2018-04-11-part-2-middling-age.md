@@ -10,7 +10,7 @@ tags:
 - my-body-is-a-cage
 comments: true
 slug: part-2-middling-age
-hidden: false
+hidden: true
 image: "/assets/images/maarten-deckers-229776-half.jpg"
 ---
 Aging is weird.
