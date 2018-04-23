@@ -16,7 +16,7 @@ For Pirate Eyes Only...
 
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
 * [**Part 1:** A Grown-Up Body...](http://blog.ryanstraits.com/2018/04/30/part-1-a-grown-up-body.html)
-* [**Part 2:** Middling Age](/2018/05/07/part-2-middling-age.html)
+* [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * **Part 3:** A Grown-Up Soul...
 * **Part 4:** Life In The Future
 * **Part 5:** Forever Summer
