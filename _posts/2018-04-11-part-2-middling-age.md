@@ -1,6 +1,6 @@
 ---
 title: 'Part 2: Middling Age'
-date: 2018-05-07 19:00:00 -0500
+date: 2018-05-07 07:00:00 -0500
 layout: post
 categories: []
 tags:
