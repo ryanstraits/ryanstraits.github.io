@@ -1,6 +1,6 @@
 ---
 title: 'Part 1: A Grown Up Body...'
-date: 2018-04-10 00:00:00 +0000
+date: 2018-04-30 19:00:00 -0500
 layout: post
 categories: []
 tags:
@@ -10,7 +10,7 @@ tags:
 - my-body-is-a-cage
 comments: true
 slug: part-1-a-grown-up-body
-hidden: true
+hidden: false
 image: "/assets/images/daniel-peters-156464-half-1.jpg"
 ---
 I _feel_ old.
