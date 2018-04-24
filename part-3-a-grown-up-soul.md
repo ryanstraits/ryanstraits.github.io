@@ -40,6 +40,8 @@ You know, things like family, friends, and passion. And where you steal the time
 
 Cuz time, my brothers and sisters, is tickin' away.
 
+---
+
 ### Time Is Tickin' Away
 
 /begin DC Talk rap
@@ -104,41 +106,41 @@ Because looking back on them now, I am ridiculously _proud_ of my twenties. I wa
 
 In my twenties I ventured to Hawaii (age 20)...
 
-![](/assets/images/hawaii-5.jpg)
+![Sick burns, dude!](/assets/images/hawaii-5.jpg)
 
 ...New York City (21)
 
-![](/assets/images/nyc-7.jpg)
+![Think I still own that shirt...](/assets/images/nyc-7.jpg)
 
 ...Europe (22)
 
-![](/assets/images/albania 11.jpg)
+![Austria & Albania to be precise.](/assets/images/albania 11.jpg)
 
 ...California (23)
 
-![](/assets/images/cali 04 29.jpg)
+![Look at those locks!](/assets/images/cali 04 29.jpg)
 
 ...and again the next year (24)
 
-![](/assets/images/100_0406.JPG)
+![I was on a reality show to boot!](/assets/images/100_0406.JPG)
 
 ...Seattle (26)
 
-![](/assets/images/0720191929.jpg)
+![Little tiny Space Needle.](/assets/images/0720191929.jpg)
 
 ...Las Vegas (27)
 
-![](/assets/images/3-12-08 vegas trip 043.jpg)
+![Hoover Dam. Close enough.](/assets/images/3-12-08 vegas trip 043.jpg)
 
 ...and California once again (27).
 
-![](/assets/images/051609-32.JPG)
+![Doing my best 60's British rockstar impression.](/assets/images/051609-32.JPG)
 
 \(At this point, I thought pretty hard about moving to the West Coast. But then, unfortunately, thought better of myself.)
 
 I also joined a pretty decent indie-rock band and we traveled across the South and Midwest (25).
 
-![](/assets/images/IMG_2730.jpg)
+![State Birdies](/assets/images/IMG_2730.jpg)
 
 I moved in with a good friend at 26 and then worked up the courage to strike out into my own pad at around 27. (**_Editor's note:_** _I talk more about this period of living on my own in a future post._)
 
