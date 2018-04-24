@@ -12,6 +12,8 @@ hidden: false
 ---
 ![](/assets/images/Intro Banner-small.png)
 
+---
+
 Midlife is what happens after the credits roll.
 
 <!-- break -->
