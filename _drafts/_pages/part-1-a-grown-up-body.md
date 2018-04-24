@@ -13,6 +13,8 @@ categories: ''
 hidden: true
 comments: false
 ---
+![](/assets/images/Intro Banner-small-1.png)
+
 I _feel_ old.
 
 <!-- break -->
