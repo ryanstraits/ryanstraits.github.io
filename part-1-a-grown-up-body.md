@@ -11,7 +11,7 @@ slug: part-1-a-grown-up-body
 layout: post
 categories: ''
 hidden: true
-comments: false
+comments: true
 ---
 ![](/assets/images/Intro Banner-small-1.png)
 
