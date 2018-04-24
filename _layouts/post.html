@@ -36,7 +36,7 @@
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+              <a href="/about"><h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4></a>
                &nbsp;&#149;&nbsp;
               <a href="/archive"><time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time></a>
              {% for tag in page.tags %}
