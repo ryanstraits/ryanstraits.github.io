@@ -12,6 +12,7 @@ hidden: true
 comments: false
 categories: ''
 ---
+![](/assets/images/Part 3 Banner-half2.png)
 
 ---
 
@@ -21,7 +22,7 @@ I remember when the summers stretched on forever...
 
 I remember jumping feet first into the "crick" behind my childhood home, never worrying about soggy shoes.
 
-I remember the Belden Brick plant's eleven-thirty bell sounding across my whole hometown meaning it was time to sprint inside for lunch.
+I remember the Belden Brick plant's eleven-thirty bell sounding across my whole hometown, meaning it was time to sprint inside for lunch.
 
 I remember countless hours spent with neighborhood kids exploring the woods lining the old strip mines surrounding our allotment.
 
@@ -42,7 +43,6 @@ Cuz time, my brothers and sisters, is tickin' away.
 ### Time Is Tickin' Away
 
 /begin DC Talk rap
-
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/7MGKU980Obo" frameborder="0" allowfullscreen></iframe>
 
@@ -106,25 +106,45 @@ Because looking back on them now, I am ridiculously _proud_ of my twenties. I wa
 
 In my twenties I ventured to Hawaii (age 20)...
 
+![](/assets/images/hawaii-5.jpg)
+
 ...New York City (21)
+
+![](/assets/images/nyc-7.jpg)
 
 ...Europe (22)
 
+![](/assets/images/albania 11.jpg)
+
 ...California (23)
+
+![](/assets/images/cali 04 29.jpg)
 
 ...and again the next year (24)
 
-...the Pacific Northwest (26)
+![](/assets/images/100_0406.JPG)
+
+...Seattle (26)
+
+![](/assets/images/0720191929.jpg)
+
+...Las Vegas (27)
+
+![](/assets/images/3-12-08 vegas trip 043.jpg)
 
 ...and California once again (27).
+
+![](/assets/images/051609-32.JPG)
 
 \(At this point, I thought pretty hard about moving to the West Coast. But then, unfortunately, thought better of myself.)
 
 I also joined a pretty decent indie-rock band and we traveled across the South and Midwest (25).
 
-I moved in with a good friend at 26 and then worked up the courage to strike out into my own pad at around 27. (Editor's note: I talk more about this period of living on my own in a future post.)
+![](/assets/images/IMG_2730.jpg)
 
-And then at 28, I set off for parts unknown in the vast, wild wonderland of Kansas City. I've talked at length about those decisions already in the past. (Feel free to catch up <here>.)
+I moved in with a good friend at 26 and then worked up the courage to strike out into my own pad at around 27. (**_Editor's note:_** _I talk more about this period of living on my own in a future post._)
+
+And then at 28, I set off for parts unknown in the vast, wild wonderland of Kansas City. I've talked at length about those decisions already in the past. (Feel free to catch up here.)
 
 So for better or worse, there it is. Roughly the first third of my life.
 
