@@ -174,8 +174,8 @@ _(That may have been the most cornball thing I've ever written, you guys.)_
 
 I think we get caught up in grieving these fleeting moments that have passed because we're not truly _living_ through them in the present. We're looking to that next _easier_ moment.
 
-That next cup of coffee,
-the next trip to the lake,
+That next cup of coffee,  
+the next trip to the lake,  
 the next moment of silence after the kids are in bed.
 
 I haven't quite figured it out yet, but somehow acknowledging and savoring life _as we're living through it_ is the closest we'll ever going to come to slowing down time.
