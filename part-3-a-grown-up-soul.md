@@ -81,7 +81,7 @@ There are a few tidbits of info as you scroll along that help crystallize this p
 
 ![](/assets/images/My Years.JPG)
 
-In the above picture, I note where I my age is relative to my two year old son. So, while I have 36 years of life to reference back to, my little guy only has two. For him, last summer was roughly 12.5% of his known life. For me, it was roughly 0.7%.
+So, while I have 36 years of life to reference back to, my son only has two. For him, last summer was roughly 12.5% of his known life. For me, only 0.7%.
 
 A year in Bennett's life has the "perceived weight" of nearly _18 years_ for me.
 
