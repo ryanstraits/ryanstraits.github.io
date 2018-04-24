@@ -1,7 +1,12 @@
 ---
 title: 'Part 2: Middling Age'
 date: 2018-05-07 13:00:00 -0500
-tags: []
+tags:
+- a-midlife-guide
+- now-that-im-older
+- fambly
+- my-body-is-a-cage
+- ride-on-right-on
 slug: part-2-middling-age
 layout: post
 categories: ''
