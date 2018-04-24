@@ -77,7 +77,7 @@ There are a few tidbits of info as you scroll along that help crystallize this p
 * If you factor in that you don't remember much of the first three years, then half of your perceived life is over by the time you turn 18.
 * The summer vacation of your first year of college will feel as long as your whole 76th year.
 
-![](/assets/images/My Years.JPG)
+![Look how slim the years are on the right!](/assets/images/My Years.JPG)
 
 So, while I have 36 years of life to reference back to, my son only has two. For him, last summer was roughly 12.5% of his known life. For me, only 0.7%.
 
