@@ -79,13 +79,17 @@ There are a few tidbits of info as you scroll along that help crystallize this p
 * If you factor in that you don't remember much of the first three years, then half of your perceived life is over by the time you turn 18.
 * The summer vacation of your first year of college will feel as long as your whole 76th year.
 
-![Look how slim the years are on the right!](/assets/images/My Years.JPG)
+If you're curious, here is how my 36 years of life look in when thrown into this model:
 
-So, while I have 36 years of life to reference back to, my son only has two. For him, last summer was roughly 12.5% of his known life. For me, only 0.7%.
+![](/assets/images/My Years.JPG)
+
+Look how slim those years get to the right! The scariest part for me is continuing to scroll to the right and witness how _blindingly quick_ the next 36 years go by. It's just flat-out insane.
+
+So to bring it back around to where we started: math. Since I have 36 years of life to reference back to and my son only has two, last summer was roughly 12.5% of his conscious life. For me, it was only about 0.7%.
 
 A year in Bennett's life has the "perceived weight" of nearly _18 years_ for me.
 
-In his eyes, this summer really _did_ last forever.
+In his eyes, last summer really _did_ last forever.
 
 ---
 
