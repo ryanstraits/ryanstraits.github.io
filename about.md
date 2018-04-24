@@ -19,7 +19,7 @@ hidden: false
 
 See the trendy glasses I'm wearing in that picture up there? Well, here's the deal: they're fake. As in, they are doing nothing more for my eyes than if I wasn't wearing them at all. Kinda silly, right? Friends of mine that I've let in on this secret have never been shy in telling me as much.
 
-Ok, so why start off an "About" section with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach the middle chapters of life, I have come to realize that transparency is one of the most valuable traits we can possess. And also, I'm just not nearly as cool as I've previously thought myself to be.
+Ok, so why start off an "About" section with such an odd, revealing factoid about myself? Well, because that's kind of what I am hoping the purpose of this blog is going to be. As I approach [the middle chapters](/2018/04/23/intro-the-middle-chapters.html) of life, I have come to realize that transparency is one of the most valuable traits we can possess. And also, I'm just not nearly as cool as I've previously thought myself to be.
 
 ---
 
@@ -65,7 +65,7 @@ You can read more about this concept by Googling the "Heisenberg principle" or d
 
 ##### Ok, so where we go from here?
 
-Well, if you're new to this blog, the best place to start is probably with my series, "[A Midlife Guide To Growing Up](/featured/2018/04/07/a-midlife-guide-to-growing-up.html)". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
+Well, if you're new to this blog, the best place to start is probably with my series, "[A Midlife Guide To Growing Up](/tag/a-midlife-guide)". It encompasses just about everything I'm trying to do with this blog: establish a place to be real and to hopefully help others feel less weird or alone in such a strange time of life.
 
 Next, if you're feeling truly crazy, you can scroll through my 40+ pages of archived posts, but I wouldn't recommend it. Because here's another weird thing about me: I'm a [serial archivist](/2008/03/28/im-a-serial-archivist.html). And with this blog, I've collated nearly [every single blog post](/archive) that I've ever published, going way back to the [Xanga](/tag/xanga) blog I _regularly_ wrote on from 2003 to 2008. There are some real gems back there if you're game.
 
