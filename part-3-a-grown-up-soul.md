@@ -56,7 +56,7 @@ A few years back I came across a study focused around how we humans perceive tim
 
 The gist is this: as we grow older, our perspective on time shifts _proportional_ to the amount of time we've been alive. Thus, the longer you've been alive, the shorter your days, weeks, and years feel compared to someone younger than you.
 
-It's our own personal <a href="[https://en.wikipedia.org/wiki/Time_dilation](https://en.wikipedia.org/wiki/Time_dilation "https://en.wikipedia.org/wiki/Time_dilation")" target="_blank">time dilation</a>. Time doesn't just feel like it's flying by, it actually _does_. At least according to our perception.
+It's our own personal <a href="https://en.wikipedia.org/wiki/Time_dilation" target="_blank">time dilation</a>. Time doesn't just feel like it's flying by, it actually _does_. At least according to our perception.
 
 If this is a new concept for you, let it sink in a little bit.
 
