@@ -13,7 +13,7 @@ categories: ''
 hidden: true
 comments: true
 ---
-![](/assets/images/Intro Banner-small-1.png)
+![](/assets/images/Part 1 Banner-small.png)
 
 ---
 
