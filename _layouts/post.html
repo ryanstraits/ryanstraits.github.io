@@ -76,7 +76,7 @@
             <h5 class="index-headline featured"><span>Written by</span></h5>
             <section class="author">
               <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
-              <h4>{{ site.author }}</h4>
+		    <a href="/about"><h4>{{ site.author }}</h4></a>
               <p class="bio">{{author.bio}}</p>
               <hr>
               <p class="published">Published <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time></p>
@@ -86,7 +86,7 @@
           <div class="isRight">
             <h5 class="index-headline featured"><span>Supported by</span></h5>
             <footer class="site-footer">
-              <section class="poweredby">Powered by <a href="http://jekyllrb.com">Jekyll</a>, <a href="https://forestry.io">Forestry</a>, and <a href="https://pages.github.com">Github Pages</a>
+              <section class="poweredby">Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, <a href="https://forestry.io" target="_blank">Forestry</a>, and <a href="https://pages.github.com" target="_blank">Github Pages</a>
 	      </section>
               <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
               <div class="inner">
