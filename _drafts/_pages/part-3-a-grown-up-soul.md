@@ -144,7 +144,7 @@ I also joined a pretty decent indie-rock band and we traveled across the South a
 
 I moved in with a good friend at 26 and then worked up the courage to strike out into my own pad at around 27. (**_Editor's note:_** _I talk more about this period of living on my own in a future post._)
 
-And then at 28, I set off for parts unknown in the vast, wild wonderland of Kansas City. I've talked at length about those decisions already in the past. (Feel free to catch up here.)
+And then at 28, I set off for parts unknown in the vast, wild wonderland of Kansas City. I've talked at length about those decisions already in the past. (Feel free to catch up [here](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html).)
 
 So for better or worse, there it is. Roughly the first third of my life.
 
@@ -166,7 +166,7 @@ And it's all we're going to get.
 
 Time only slow downs once you pay attention to it. Once you're aware that your own personal metronome is only going to tick faster and faster as the measures picks up in meter, it's then that you're much better equipped to see the sheet music for what it is, and start writing your own time signatures.
 
-\(That may have been the most cornball thing I've ever written, you guys.)
+_(That may have been the most cornball thing I've ever written, you guys.)_
 
 I think we get caught up in grieving these fleeting moments that have passed because we're not truly _living_ through them in the present. We're looking to that next _easier_ moment.
 
@@ -174,9 +174,9 @@ That next cup of coffee,
 the next trip to the lake,
 the next moment of silence after the kids are in bed.
 
-Somehow, acknowledging and savoring life _as we're living it_ is the closest we'll ever come to slowing time down.
+I haven't quite figured it out yet, but somehow acknowledging and savoring life _as we're living through it_ is the closest we'll ever going to come to slowing down time.
 
-Check your calendar. We are nearly halfway through the year 2018. **2018!!** Re-read the digits my fingers just pressed into the keyboard and your optic nerve just transmitted to your brain.
+Check your calendar. We are nearly halfway through the year 2018. **_2018!!_** Re-read the digits my fingers just pressed into the keyboard and your optic nerve just transmitted to your brain.
 
 2-0-1-8.
 
@@ -184,4 +184,4 @@ We're living in _the future_.
 
 ---
 
-Next week, we'll take a look at what life in the future has been like for me.
+Next week, we'll take a look at what life in the future has been like for me as a husband and a father.
