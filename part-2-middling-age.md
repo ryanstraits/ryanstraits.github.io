@@ -63,7 +63,11 @@ Your thirties are definitely when you start to feel _old_.
 
 ---
 
-Next, we'll dive into just what a grown up soul might look like. It's kind of like an old soul, but cooler.
+Next week, we'll dive into just what a grown up soul might look like. Basically, it's kind of like an old soul, but cooler.
+
+---
+
+**A Mixtape Guide To Growing Up:**
 
 <center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
