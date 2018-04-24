@@ -50,9 +50,7 @@ Cuz time, my brothers and sisters, is tickin' away.
 
 /dispense sincerest of apologies for including a DC Talk rap in this post.
 
-Ok then.
-
-A few years back I came across a study focused on how we humans perceive time. Specifically, how that perception morphs the older we get. Apparently, this isn't a new idea, but it's one that I had never heard before, so it felt revolutionary at the time.
+A few years back I came across a study focused around how we humans perceive time. Specifically, how that perception morphs the older we get. Apparently, this isn't a new idea, but it's one that I had never heard before, so it felt revolutionary at the time.
 
 The gist is this: as we grow older, our perspective on time shifts _proportional_ to the amount of time we've been alive. Thus, the longer you've been alive, the shorter your days, weeks, and years feel compared to someone younger than you.
 
