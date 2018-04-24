@@ -82,6 +82,10 @@ And just like my expanding waistline can attest, there is a lot to love in the m
 
 Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
 
+---
+
+#### A Mixtape Guide To Growing Up:
+
 <center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 ---
