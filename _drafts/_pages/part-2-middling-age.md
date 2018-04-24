@@ -2,13 +2,13 @@
 title: 'Part 2: Middling Age'
 date: 2018-05-07 13:00:00 -0500
 tags: []
-slug: new-post
-layout: ''
+slug: part-2-middling-age
+layout: post
 categories: ''
-hidden: false
-comments: false
+hidden: true
+comments: true
 ---
-
+![](/assets/images/Part 2 Banner-half.png)
 
 Aging is weird.
 
@@ -58,8 +58,7 @@ Your thirties are definitely when you start to feel _old_.
 
 Next, we'll dive into just what a grown up soul might look like. It's kind of like an old soul, but cooler.
 
-
-<br><center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
+<center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 ---
 
