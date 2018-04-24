@@ -79,7 +79,7 @@ There are a few tidbits of info as you scroll along that help crystallize this p
 * If you factor in that you don't remember much of the first three years, then half of your perceived life is over by the time you turn 18.
 * The summer vacation of your first year of college will feel as long as your whole 76th year.
 
-If you're curious, here is how my 36 years of life look in when thrown into this model:
+If you're curious, here is how my 36 years of life look when thrown into this model:
 
 ![](/assets/images/My Years.JPG)
 
