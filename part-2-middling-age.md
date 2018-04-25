@@ -25,7 +25,7 @@ Your thirties reveal that--like some cruel plot twist early in the second act--y
 
 Things that you used to enjoy--like sleeping in, eating, showering, and pick-up games of any sport--now become reflections on your fragility.
 
-I can't sleep-in past 8am now without my back feeling like it's going to dislodge a vertebrae. Eating becomes a tally of how many pounds a meal will add to my waistline and how many miles are required to run/bike them off. Showering hits a whole new level of creepiness now as you horrifically gaze in the mirror at this saggier, hairier, alternate-reality version of your 20 year-old-self staring back at you. And this happens everyday.
+I can't sleep-in past 8 a.m. now without my back feeling like it's going to dislodge a vertebrae. Eating becomes a tally of how many pounds a meal will add to my waistline and how many miles are required to run/bike them off. Showering hits a whole new level of creepiness now as you horrifically gaze in the mirror at this saggier, hairier, alternate-reality version of your 20 year-old-self staring back at you. And this happens everyday.
 
 And, well, you just _hurt_ after any and all prolonged periods of activity.
 
