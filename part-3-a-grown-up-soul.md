@@ -104,7 +104,7 @@ I mean, what did I even spend that time on?
 
 I got married at the ripe old age of 29 years, 11 months and 6 days. So my twenties were largely spent as a single man. That bothered me more than I ever let on during those years. And I spent far too much of that time worrying about being alone for the rest of my life. I viewed that unchecked box next to "Married" as more of a curse than what it actually was:
 
-A flippin' blessing.
+A fr\*ggin' blessing.
 
 Because looking back on them now, I am ridiculously _proud_ of my twenties. I wasn't the most adventurous guy on the block, but I think I made pretty good use of the ample free time I had. I traveled as much as I could while still holding down a respectable 9-to-5, and I explored as much as my simple, home-bodied heart allowed.
 
