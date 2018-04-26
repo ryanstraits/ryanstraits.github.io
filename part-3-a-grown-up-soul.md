@@ -83,7 +83,7 @@ If you're curious, here is how my 36 years of life look when thrown into this mo
 
 ![](/assets/images/My Years.JPG)
 
-Look how slim those years get to the right! The scariest part for me is continuing to scroll to the right and witness how _blindingly quick_ the next 36 years go by. It's just flat-out insane.
+Look how slim those years get to the right! The scariest part for me is continuing to scroll and witness how _blindingly quick_ the next 36 years go by. It's just flat-out insane.
 
 So to bring it back around to where we started: math. Since I have 36 years of life to reference back to and my son only has two, last summer was roughly 12.5% of his conscious life. For me, it was only about 0.7%.
 
