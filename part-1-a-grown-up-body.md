@@ -21,7 +21,7 @@ I _feel_ old.
 
 <!-- break -->
 
-Though you're always going to have the contrarians who all too happily exclaim "I'm in my thirties and I feel great!" Compared to your pre-thirties self, however, you objectively feel like crap. You just don't know it because, well, that's the fun thing about aging: it _slowly_ sneaks up on you.
+Though you're always going to have the contrarians who all too happily exclaim "I'm in my thirties and I feel great!" Compared to your pre-thirties self, however, you objectively feel worse. You just don't know it because, well, that's the fun thing about aging: it _slowly_ sneaks up on you.
 
 Every year your body is going to suck just a little bit more than the year before. It's kind of a verifiable fact.
 
@@ -35,9 +35,9 @@ We are increasingly outliving our own functional lifespan.
 
 ---
 
-We all know that we begin aging the moment we're born. Already my two-year-old son has creases in his skin from non-stop smiling and too much sun at the kiddie pool. We just don't pay close attention to our bodies' aging until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
+We all know that we begin aging the moment we're born. Already my five-year-old daughter has creases in his skin from non-stop smiling and too much sun at the kiddie pool. We just don't pay close attention to our bodies' aging until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
 
-It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everyone else's. I mean, how many times do you really think about dying before you hit 30 Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. On the whole, though, we all plan our lives as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
+It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everyone else's. I mean, how many times do you really think about dying before you hit 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. But on the whole, we all plan our lives as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
 
 It's only when your skin starts to sag a little that you snap back to reality: "Oh yeah, this body is probably only going to live another fifty years or so."
 
@@ -51,9 +51,9 @@ I've always been pretty keen on working out and trying to at least maintain a he
 
 ![]({{ site.baseurl }}/assets/images/TourDeBBQ1.jpg "Cycling + BBQ")
 
-And then a revelation hit me in the summer of 2009 when a friend introduced to me the wild, wonderful world of cycling. Yes, I'm talking about Lycra bicycle shorts, clip-in pedals, carbon fiber frames, the whole bit. It was fun, if only because it was completely different than any other fitness strategy I had attempted previously. Frankly, I enjoyed it.
+And then a revelation hit me in the summer of 2009 when a friend introduced to me the wild, wonderful world of cycling. Yes, I'm talking about Lycra bicycle shorts, clip-in pedals, carbon fiber frames, the whole bit. It was fun, if only because it was completely different than any other fitness strategy I had attempted previously. Frankly, I just _enjoyed_ it.
 
-I'm not much of a runner--or an athlete, for that matter--so the simplicity of biking was something I embraced wholeheartedly. It was something I was finally good at. I bought a decently nice bike and while at a bike shop getting "fit" for it, the trainer noted that I had a nice pedal stroke. A nice pedal stroke! Dammit, I was _made_ for this.
+I'm not much of a runner--or an athlete, for that matter--so the simplicity of biking was something I embraced wholeheartedly. It was something I was finally good at. I bought a decently nice bike and while at a shop getting "fit" for it, the trainer noted that I had a nice pedal stroke. A nice pedal stroke! Damn, I was _made_ for this.
 
 So I went for it full speed and racked up a lot of miles in my first few years. I took a hiatus after moving from the Ohio's expansive countrysides to the congested suburban streets of Kansas City. But then in 2011, I worked up the nerve and started wading through traffic and working my way back in to it. It was true love. I passed 2,000 miles on my bike in 2012 after nearly three seasons of riding.
 
@@ -61,7 +61,7 @@ And then my daughter was born.
 
 ---
 
-![]({{ site.baseurl }}/assets/images/audrey-birth.jpg "Proud [Tired] Papa")
+![](/assets/images/audrey-birth-smaller.jpg)
 
 For those without children: Basically, the birth of your first child is this unalterable, drastic upheaval in whatever form of a priority structure you once had. And one that you're pretty certain you'll never bounce back from. Up is down and down is less sleep. Oh, sleep. How you can't wait until they're asleep! (I'll talk more on this in future post).
 
