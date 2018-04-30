@@ -35,9 +35,9 @@ We are increasingly outliving our own functional lifespan.
 
 ---
 
-We all know that we begin aging the moment we're born. Already my five-year-old daughter has creases in her skin from non-stop smiling and too much sun at the kiddie pool. We just don't pay close attention to our bodies' aging until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
+We all know that we begin aging the moment we're born. Already my five-year-old daughter has creases in her skin from non-stop smiling and too much sun at the kiddie pool. We just don't pay close attention to it until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
 
-It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everyone else's. I mean, how many times do you really think about dying before you hit 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. But on the whole, we all plan our lives as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
+It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everyone else's. I mean, how many times do you really think about dying before you hit 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. On the whole, though, we plan our lives out as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
 
 It's only when your skin starts to sag a little that you snap back to reality: "Oh yeah, this body is probably only going to live another fifty years or so."
 
@@ -47,15 +47,15 @@ This sucks.
 
 ### Finding Fitness
 
-I've always been pretty keen on working out and trying to at least maintain a healthy weight. I kept up pretty well with it through my twenties. There was safety in the routine of it. I also think I inherited an irrational--though maybe healthy?--fear of getting overweight. So, my thinking was that if I could just stay a step ahead, I'd be able to head off my metabolism before it completely dropped off the cliff. This really just meant that I flailed my arms and legs on an elliptical in my parents' basement roughly 3 times a week. It worked for me only because I didn't _completely_ hate it.
+I've always been pretty keen on working out and trying to at least maintain a healthy weight. I kept up pretty well with it through my twenties. There was safety in the routine of it. I also think I inherited an irrational--though maybe healthy?--fear of getting overweight. So, my thinking was that if I could just stay a step ahead, I'd be able to head off my metabolism before it completely dropped off the cliff. This really just meant that I flailed my arms and legs on an elliptical in my parents' basement roughly three times a week. It worked for me only because I didn't _completely_ hate it.
 
 ![]({{ site.baseurl }}/assets/images/TourDeBBQ1.jpg "Cycling + BBQ")
 
-And then a revelation hit me in the summer of 2009 when a friend introduced to me the wild, wonderful world of cycling. Yes, I'm talking about Lycra bicycle shorts, clip-in pedals, carbon fiber frames, the whole bit. It was fun, if only because it was completely different than any other fitness strategy I had attempted previously. Frankly, I just _enjoyed_ it.
+And then a revelation hit me in the summer of 2009 when a friend introduced to me the wild, wonderful world of cycling. Yes, I'm talking about Lycra bicycle shorts, clip-in pedals, carbon fiber frames, the whole bit. It was fun, if only because it was completely different from any other fitness strategy I had attempted previously. Frankly, I just _enjoyed_ it.
 
-I'm not much of a runner--or an athlete, for that matter--so the simplicity of biking was something I embraced wholeheartedly. It was something I was finally good at. I bought a decently nice bike and while at a shop getting "fit" for it, the trainer noted that I had a nice pedal stroke. A nice pedal stroke! Damn, I was _made_ for this.
+I'm not much of a runner--or an athlete, for that matter--so the simplicity of biking was something I embraced wholeheartedly. It was something I was finally good at. I bought a decently nice bike and while at a shop getting "fit" for it, the trainer noted that I had a nice pedal stroke. A nice pedal stroke! I was _made_ for this.
 
-So I went for it full speed and racked up a lot of miles in my first few years. I took a hiatus after moving from the Ohio's expansive countrysides to the congested suburban streets of Kansas City. But then in 2011, I worked up the nerve and started wading through traffic and working my way back in to it. It was true love. I passed 2,000 miles on my bike in 2012 after nearly three seasons of riding.
+So I went for it full speed and racked up a lot of miles in my first few years. I took a hiatus after moving from Ohio's expansive countrysides to the congested suburban streets of Kansas City. But then in 2011, I worked up the nerve and started wading through traffic and working my way back in to it. It was true love. I passed 2,000 miles on my bike in 2012 after nearly three seasons of riding.
 
 And then my daughter was born.
 
@@ -63,7 +63,7 @@ And then my daughter was born.
 
 ![](/assets/images/audrey-birth-smaller.jpg)
 
-For those without children: Basically, the birth of your first child is this unalterable, drastic upheaval in whatever form of a priority structure you once had. And one that you're pretty certain you'll never bounce back from. Up is down and down is less sleep. Oh, sleep. How you can't wait until they're asleep! (I'll talk more on this in future post).
+For those without children: basically, the birth of your first child is this unalterable, drastic upheaval in whatever form of a priority structure you once had. And one that you're pretty certain you'll never bounce back from. Up is down and down is less sleep. Oh, sleep. How you can't wait until they're asleep! (I'll talk more on parenthood in future post).
 
 Over two years in, I'd like to say that my workout regimen has normalized since Audrey's birth, but that just isn't a reality:
 
@@ -72,21 +72,23 @@ Over two years in, I'd like to say that my workout regimen has normalized since 
 
 I'm getting back into it but I've had to adjust expectations. There just isn't enough time in the day. Kids take up so much of it, and deservedly so. It's hard work but I doubt anyone with kids would trade them for anything. Even our fitness.
 
-When I was a younger man, I looked sideways at parents that let themselves go after they had kids. "Convenient excuse", this all-knowing punk used to think. "Just you wait", they'd say back with an all-knowing grin.
+---
 
-When you break my day down now, the time I spend with my kids overlaps nearly completely with the time I used to spend cycling or working out. And I'm OK with that. It just means I have to work a little harder to find something else to steal time from. Usually, it's from television. Or from typing up blog posts such as this.
+When I was a younger man, I often looked sideways at parents that let themselves go after they had kids. "Convenient excuse", this all-knowing punk used to think. "Just you wait", they'd say back with an all-knowing grin.
 
-Really, when I get a chance to work out, I'm also working out for my kids. The better shape I'm in today will almost certainly have to translate into a happier and healthier dad tomorrow. And eventually, a happier and healthier grandpa for them to take care of somewhere down the line. All the more reason to hit the bike and the gym with whatever waning moments I have left in the day.
+When you break my day down now, the time I spend with my kids overlaps nearly completely with the time I used to spend cycling or working out. And I've learned to be OK with that. It just means I have to work a little harder to find something else to steal time from. Usually, it's from television. Or from typing up blog posts such as this.
 
-It's hard to admit this to teenager-me or 20-year-old-me, but an extra 10-15 pounds just isn't that big of a deal at this stage of the game. And you care less about those extra pounds the older you get. That's just life. There are plenty more important things to worry about.
+Really, when I get a chance to work out, I'm also working out for my kids. The better shape I'm in today will almost certainly have to translate into a happier and healthier dad tomorrow, right? And eventually, a happier and healthier grandpa for them to take care of somewhere down the line. All the more reason to hit the bike and the gym with whatever waning moments I have left in the day.
 
-So that's what I think when I look at parents now. I commiserate. I get it. This stage of life is rough. It's a boxing match with entropy.
+It's hard to admit this to teenager-me or 20-year-old-me, but an extra 10-15 pounds just isn't that big of a deal at this stage of the game. And you care less about those extra pounds the older you get. It's just life. There are plenty of other important things to worry about.
+
+So that's what I think when I see other parents now. I commiserate. I get it. This stage of life is rough. It's a boxing match with entropy.
 
 And the body blows only hit harder and come faster the older you get.
 
 ---
 
-Next week: Some upside to this whole "aging body" thing.
+Next week: We'll season in a little upside with this whole "your body in your thirties kind of sucks" thing. Thanks for reading!
 
 ---
 
