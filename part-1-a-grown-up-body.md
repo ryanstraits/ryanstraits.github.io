@@ -29,7 +29,7 @@ Yes, by age 30 your body has already started breaking down. They say that your <
 
 "It's not fair," you might think, "20 is too young to start declining." And I think anyone over the age of 20 would agree with you. But if you step back and look at the entire pantheon of human history, 20 is right at the cusp of our collective median age. 200 years ago the average lifespan was _barely_ 40 years. Taking that into consideration, we should be having midlife crises and buying red convertibles all before we can legally drink.
 
-The older I get the more apparent it is that these 21st century bodies of ours have yet to catch up with the humanity's ever expanding life expectancy.
+The older I get the more apparent it is that these 21st century bodies of ours have yet to catch up with our ever-extending life expectancies.
 
 We are increasingly outliving our own functional lifespan.
 
