@@ -59,7 +59,7 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 ### **Table of Contents**
 
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
-* **Part 1:** A Grown-Up Body...   _(Coming April 30th)_
+* [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * **Part 2:** Middling Age   _(Coming May 7th)_
 * **Part 3:** A Grown-Up Soul...   _(Coming May 14th)_
 * **Part 4:** Life In The Future   _(Coming May 21st)_
