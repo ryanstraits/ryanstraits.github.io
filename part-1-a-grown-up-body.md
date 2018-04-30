@@ -35,9 +35,9 @@ We are increasingly outliving our own functional lifespan.
 
 ---
 
-We all know that we begin aging the moment we're born. Already my five-year-old daughter has creases in his skin from non-stop giggling and too much sun at the kiddie pool. We just don't pay close attention to our bodies' aging until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
+We all know that we begin aging the moment we're born. Already my five-year-old daughter has creases in his skin from non-stop giggling and too much sun at the kiddie pool. We just don't pay close attention to it until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
 
-It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everyone else's. I mean, how many times do you really think about dying before you hit 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. But on the whole, we all plan our lives as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
+It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everybody else's. I mean, how many times do you really think about dying before you hit 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. But on the whole, we all plan our lives as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
 
 It's only when your skin starts to sag a little that you snap back to reality: "Oh yeah, this body is probably only going to live another fifty years or so."
 
