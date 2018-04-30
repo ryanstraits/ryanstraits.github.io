@@ -29,7 +29,7 @@ Yes, by age 30 your body has already started breaking down. They say that your <
 
 "It's not fair," you might think, "20 is too young to start declining." And I think anyone over the age of 20 would agree with you. But if you step back and look over the entire pantheon of human history, 20 is right at the cusp of our collective median age. 200 years ago the average lifespan was _barely_ 40 years. Taking that into consideration, we should be having midlife crises and buying red convertibles all before we can legally drink.
 
-The older I get the more apparent it is that these 21st century bodies of ours have yet to catch up with the humanity's ever expanding life expectancy.
+The older I get the more apparent it is that these 21st century bodies of ours have yet to catch up with our ever-extending life expectancies.
 
 We are increasingly outliving our own functional lifespan.
 
@@ -37,7 +37,7 @@ We are increasingly outliving our own functional lifespan.
 
 We all know that we begin aging the moment we're born. Already my five-year-old daughter has creases in her skin from non-stop smiling and too much sun at the kiddie pool. We just don't pay close attention to it until we're older. When those creases become more prominent, when the weight is a little harder to keep off, and when our hair starts letting go a little easier.
 
-It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everyone else's. I mean, how many times do you really think about dying before you hit 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. On the whole, though, we plan our lives out as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
+It's not until these midlife epiphanies hit us squarely across the chin that we begin to consider our lives might actually be finite just like everybody else's. I mean, how many times do you really think about dying before age 30? Maybe you had a near-death or religious experience, lost a loved one, or had a moment of clarity at your high school graduation. On the whole, though, we plan out our lives as if they're going to last forever. Somehow we're going to rise above it if we just ignore it.
 
 It's only when your skin starts to sag a little that you snap back to reality: "Oh yeah, this body is probably only going to live another fifty years or so."
 
