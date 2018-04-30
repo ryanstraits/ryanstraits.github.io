@@ -49,7 +49,7 @@ This sucks.
 
 I've always been pretty keen on working out and trying to at least maintain a healthy weight. I kept up pretty well with it through my twenties. There was safety in the routine of it. I also think I inherited an irrational--though maybe healthy?--fear of getting overweight. So, my thinking was that if I could just stay a step ahead, I'd be able to head off my metabolism before it completely dropped off the cliff. This really just meant that I flailed my arms and legs on an elliptical in my parents' basement roughly three times a week. It worked for me only because I didn't _completely_ hate it.
 
-![]({{ site.baseurl }}/assets/images/TourDeBBQ1.jpg "Cycling + BBQ")
+![]({{ site.baseurl }}/assets/images/TourDeBBQ1.jpg "Biking + BBQ")
 
 And then a revelation hit me in the summer of 2009 when a friend introduced to me the wild, wonderful world of cycling. Yes, I'm talking about Lycra bicycle shorts, clip-in pedals, carbon fiber frames, the whole bit. It was fun, if only because it was completely different from any other fitness strategy I had attempted previously. Frankly, I just _enjoyed_ it.
 
@@ -61,14 +61,14 @@ And then my daughter was born.
 
 ---
 
-![](/assets/images/audrey-birth-smaller.jpg)
+![](/assets/images/audrey-birth-smaller.jpg "Proud (Tired) Papa")
 
 For those without children: basically, the birth of your first child is this unalterable, drastic upheaval in whatever form of a priority structure you once had. And one that you're pretty certain you'll never bounce back from. Up is down and down is less sleep. Oh, sleep. How you can't wait until they're asleep! (I'll talk more on parenthood in future post).
 
 Over two years in, I'd like to say that my workout regimen has normalized since Audrey's birth, but that just isn't a reality:
 
 * Bicycle rides in the year 2012 alone: 53
-* Rides since Audrey's birth: 57
+* Bicycle rides since Audrey's birth: 57
 
 I'm getting back into it but I've had to adjust expectations. There just isn't enough time in the day. Kids take up so much of it, and deservedly so. It's hard work but I doubt anyone with kids would trade them for anything. Even our fitness.
 
