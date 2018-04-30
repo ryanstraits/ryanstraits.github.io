@@ -15,7 +15,7 @@ slug: secret
 For Pirate Eyes Only...
 
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
-* [**Part 1:** A Grown-Up Body...](/part-1-a-grown-up-body)
+* [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * [**Part 2:** Middling Age](/part-2-middling-age)
 * [**Part 3:** A Grown-Up Soul...](/part-3-a-grown-up-soul)
 * **Part 4:** Life In The Future
