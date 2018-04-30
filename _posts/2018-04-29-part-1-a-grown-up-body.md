@@ -74,7 +74,7 @@ I'm getting back into it but I've had to adjust expectations. There just isn't e
 
 ---
 
-When I was a younger man, I often looked sideways at parents that let themselves go after they had kids. "Convenient excuse", this all-knowing punk used to think. "Just you wait", they'd say back with an all-knowing grin.
+When I was a younger man, I often looked sideways at parents that let themselves go after they had kids. "Convenient excuse", this all-knowing punk used to think. "Just you wait", they'd mouth back through an all-knowing grin.
 
 When you break my day down now, the time I spend with my kids overlaps nearly completely with the time I used to spend cycling or working out. And I've learned to be OK with that. It just means I have to work a little harder to find something else to steal time from. Usually, it's from television. Or from typing up blog posts such as this.
 
