@@ -80,7 +80,7 @@ And just like my expanding waistline can attest, there is a lot to love in the m
 
 ---
 
-Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad!
+Speaking of waistlines, next up we'll look at what growing up into a midlife body looks like. I promise, it's not all bad! Click here for [Part 1: A Grown Up Body...](http://blog.ryanstraits.com/2018/04/30/part-1-a-grown-up-body.html)
 
 ---
 
