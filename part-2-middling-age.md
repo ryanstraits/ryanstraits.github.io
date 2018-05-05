@@ -13,7 +13,7 @@ categories: ''
 hidden: true
 comments: true
 ---
-![](/assets/images/Part 2 Banner-half.png)
+![](/assets/images/Part 2 Banner-small.png)
 
 ---
 
@@ -63,7 +63,7 @@ An issue I had encountered during a few of my longer swims hit me soon after I g
 
 But my experience with the triathlon last year started making me increasingly aware of a new theme developing in my recent attempts at diversifying my physical fitness routines: that of my mind opening up and saying "Yes!", and my body flatly and resoundingly telling me "No".
 
-![](/assets/images/LND_CA10C69D-D089-4993-BCBD-8750C3D7E664.JPG)
+![](/assets/images/LND_CA10C69D-D089-4993-BCBD-8750C3D7E664-small.jpg)
 
 ---
 
