@@ -35,7 +35,7 @@ You hurt a lot.
 
 ### Ryan Tries A Tri
 
-About a year ago, I found myself smack in the middle of one of those rarest of gifts that a young parent could ever hope to experience: a weekend all to myself. My wife had taken the kids to visit family out of town, and I guess the uniqueness of the situation went straight to my head. Because the undeniably hair-brained scheme that I hatched coming out of that time spent alone wasn't something I normally would've chosen to do on my own:
+About a year ago, I found myself smack in the middle of one of the rarest gifts that a young parent could ever hope to experience: a weekend all to myself. My wife had taken the kids to visit family out of town, and I guess the uniqueness of the situation went straight to my head. Because the undeniably hair-brained scheme that I hatched coming out of that time spent alone wasn't something I normally would've chosen to do on my own:
 
 I decided I was going to swim across a lake.
 
