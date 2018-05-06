@@ -47,23 +47,23 @@ And so, given a chill, peaceful weekend and a chance to reflect and drive out to
 
 As I've discussed in the [previous post](http://blog.ryanstraits.com/2018/04/30/part-1-a-grown-up-body.html), I had already been cycling at a decent level for several years, so 10 miles was definitely achievable. I also knew I could hobble my way to the finish line of a 5K without too much long term knee damage. But that 500 meter swim? Hoo boy. That was going to be _tough_. Herein lied the challenge for me. I had 12 weeks until the race to learn how to swim _and_ swim well enough to not drown in the middle of a lake.
 
-It helped that I had been thinking for a while, up until the triathlon idea was presented to me, that swimming might be a viable new fitness avenue for me to explore. It's a great cardiovascular workout and works nearly every major muscle group while also being very low impact. It also helped that our gym at the time had a very nice lap pool. So I had that extra wind in my sails going into my training.
+Before the idea of competing in a triathlon was presented to me, I had always thought that swimming might be a decently viable fitness avenue for me to explore. It's a great cardiovascular workout and works nearly every major muscle group while also being very low impact. It also helped that our gym at the time had a very nice lap pool. So I had that extra wind in my sails before I even started training.
 
-To start things off, I planned out an extensive training regimen in a spreadsheet. I enlisted the help of a friend who regularly competes in triathlons to teach me how to _actually_ swim. And I started documenting my journey on Instagram for accountability. I thought I was getting off to a pretty great start.
+So then, to kick things off I planned out an extensive training regimen in a spreadsheet. I enlisted the help of a friend who regularly competes in triathlons to teach me how to _actually_ swim. And I started documenting my journey on <a href="https://www.instagram.com/triingryan" target="_blank">Instagram</a> for accountability. I thought I was getting off to a pretty great start.
 
 And then, as they say, life happened.
 
-Shortly after my revelation by the lakeside, my wife and I decided to sell our house. This decision required many late nights painting rooms, landscaping patios, and selling room-fulls of junk. And it also meant less nights at the gym and in the pool.
+Shortly after my revelation by the lakeside, my wife and I decided to sell our house. This decision required many late nights painting rooms, many weekends landscaping patios, and plenty of garage sales and Craigslist meetups attempting to sell off rooms full of junk we didn't need. Unfortunately, it also meant many less nights at the gym and in the pool than my training regimen required.
 
 And so I guess when they implore you to not let your first swim in the lake for a triathlon take place _on_ race day, they probably have a good reason. Because even with the setbacks, I still followed through on my promise 12 weeks prior: I attempted to swim across that lake on Father's Day 2017...
 
-And made it roughly a quarter of the way.
+And I made it roughly a quarter of the way.
 
-An issue I had encountered in my training during a few of my longer swims hit me again on race right around the 100m mark: foot cramps. Basically, my whole foot locked up on me. It's kind of an annoying thing to happen in the middle of a lap pool. It's a whole different thing to have happen in the middle of a large, virtually bottomless body of water. Once it hit, I knew I was done for.
+An issue I had encountered in my training during a few of my longer swims hit me again on race day right around the 100m mark: foot cramps. Basically, the whole underside of my foot locked up on me. It's just kind of an annoying thing to have happen when you're in the middle of a lap pool. It's a whole different thing in the middle of a large, virtually bottomless body of water. Once it hit, and the panic set in, I knew I was done for.
 
-So, with my tail between my legs, I doggy-paddled my way back to shores. Thankfully, the race officials allowed me to finish the cycling and running portions, keeping my pride mostly intact. All-in-all, it was a fun day and I was happy to have the lofty goal I did to motivate me for those previous 12 weeks.
+So, with my tail between my legs, I doggy-paddled my way back to shore. Thankfully, the race officials allowed me to finish the cycling and running portions of the race, keeping my pride _mostly_ intact. All-in-all, it was a fun day and I was happy to have the lofty goal I did to keep me motivated those previous 12 weeks.
 
-But the whole experience exposed me to another new phenomenon taking place in this grown up reality of mine: that of my mind being willing and open to trying a new avenue of physical fitness, and my body flatly and resoundingly telling me "No."
+But the whole experience exposed me to another new shifting paradigm taking place in this grown up reality of mine: that of my mind being willing and open to trying new avenues in hopes of achieving some modicum of physical fitness, and my body flatly and resoundingly telling me "No."
 
 ![](/assets/images/LND_CA10C69D-D089-4993-BCBD-8750C3D7E664-small.jpg "I was a winner no matter what")
 
