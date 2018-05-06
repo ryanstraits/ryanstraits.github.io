@@ -49,7 +49,7 @@ As I've discussed in the [previous post](http://blog.ryanstraits.com/2018/04/30/
 
 It helped that I had been thinking for a while, up until the triathlon idea was presented to me, that swimming might be a viable new fitness avenue for me to explore. It's a great cardiovascular workout and works nearly every major muscle group while also being very low impact. It also helped that our gym at the time had a very nice lap pool. So I had that extra wind in my sails going into my training.
 
-Then to start things off, I planned out an extensive training regimen in a spreadsheet. I then enlisted the help of a friend who regularly competes in triathlons to teach me how to _actually_ swim. And I started documenting my journey on Instagram for accountability. I thought I was getting off to a pretty great start.
+To start things off, I planned out an extensive training regimen in a spreadsheet. I enlisted the help of a friend who regularly competes in triathlons to teach me how to _actually_ swim. And I started documenting my journey on Instagram for accountability. I thought I was getting off to a pretty great start.
 
 And then, as they say, life happened.
 
