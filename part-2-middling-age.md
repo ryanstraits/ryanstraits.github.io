@@ -71,7 +71,7 @@ But the whole experience exposed me to another new shifting paradigm taking plac
 
 ### Rarefied Air
 
-Still, for all the frustrations and disappointment with your body that occur in the middle third of life, there is an obvious richness to this stage of aging that I've been purposely skirting. For all the fresh wrinkles, new aches, and extra pounds, there's this airy plateau of transcendence that can only be reached once you crest that first hill of your thirties. A plateau that gives you a clearer view of your life and how little of it you actually have left.
+Still, for all the frustrations and disappointment with your body that occur in the middle third of life, there is an obvious richness to this stage of aging that I've been purposely skirting until this post. For all the fresh wrinkles, new aches, and extra pounds, there's this airy plateau of transcendence that can only be reached once you crest that first hill of your thirties. A plateau that gives you a clearer view of your life and how little of it you actually have left.
 
 I've made it this far and my body is still intact. I still have the majority of my hair (though it's the minority I've lost that bothers me) and some bounce left in my step. What do I have to worry about?
 
