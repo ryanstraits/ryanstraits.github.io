@@ -60,7 +60,7 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
-* **Part 2:** Middling Age   _(Coming May 7th)_
+* [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * **Part 3:** A Grown-Up Soul...   _(Coming May 14th)_
 * **Part 4:** Life In The Future   _(Coming May 21st)_
 * **Part 5:** Forever Summer   _(Coming May 28th)_
