@@ -49,7 +49,7 @@ As I've discussed in the [previous post](http://blog.ryanstraits.com/2018/04/30/
 
 Though the idea of swimming across a lake was daunting, it also sounded pretty fun. Before the idea of competing in a triathlon was presented to me, I had already been thinking that maybe swimming would be a decently viable fitness avenue for me to start exploring. It's a great cardiovascular workout and uses nearly every major muscle group while also staying very low impact. It helped that our gym at the time also had a nicely maintained lap pool. So I had that extra wind in my sails before I even started training.
 
-So I first planned out an extensive training regimen in a spreadsheet. I enlisted the help of a friend who regularly competes in triathlons to teach me how to _actually_ swim. And I started documenting my journey on <a href="https://www.instagram.com/triingryan" target="_blank">Instagram</a> for accountability. I thought I was getting off to a pretty great start.
+So to get started, I first planned out an extensive training regimen in a spreadsheet. I enlisted the help of a friend who regularly competes in triathlons to teach me how to _actually_ swim. And I started documenting my journey on <a href="https://www.instagram.com/triingryan" target="_blank">Instagram</a> for accountability. I thought I was getting off to a pretty great start.
 
 And then, as they say, life happened.
 
