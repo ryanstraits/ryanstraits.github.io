@@ -88,7 +88,7 @@ And the body blows only hit harder and come faster the older you get.
 
 ---
 
-Next week: We'll season in a little upside with this whole "your body in your thirties kind of sucks" thing. Thanks for reading!
+In the [next post](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html), we'll season in a little upside with this whole "your body in your thirties kind of sucks" thing. Thanks for reading!
 
 ---
 
