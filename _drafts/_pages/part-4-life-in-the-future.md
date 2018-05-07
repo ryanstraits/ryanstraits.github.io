@@ -108,3 +108,13 @@ Now, quickly, a few tips that have helped my wife and I immensely in our first h
 ---
 
 Speaking of parenthood...that's what we'll be covering next week!
+
+---
+
+**A Mixtape Guide To Growing Up:**
+
+<center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
+
+---
+
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_](http://assemblyapp.co/)_._
