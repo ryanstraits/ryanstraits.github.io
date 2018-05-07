@@ -53,7 +53,7 @@ So to get started, I first planned out an extensive training regimen in a spread
 
 And then, as they say, life happened.
 
-Shortly after my revelation by the lakeside, my wife and I decided to sell our house. This decision required many late nights painting rooms, many weekends landscaping patios, and plenty of garage sales and Craigslist meetups attempting to sell off rooms full of junk we didn't need. Unfortunately, it also meant many less nights at the gym and in the pool than my training regimen required.
+Shortly after my revelation by the lakeside, my wife and I decided to sell our house. This decision required many late nights painting rooms, many weekends landscaping patios, and plenty of garage sales and Craigslist meetups attempting to sell off rooms full of junk we didn't need. Unfortunately, it also meant many less nights at the gym--and more importantly, in the pool--than my training regimen required.
 
 And so I guess when they implore you to not let your first swim in the lake for a triathlon take place _on_ race day, they probably have a good reason. Because even with the setbacks, I still followed through on my promise 12 weeks prior: I attempted to swim across that lake on Father's Day 2017...
 
