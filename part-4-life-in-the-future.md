@@ -4,7 +4,6 @@ date: 2018-05-21 13:00:00 -0500
 tags:
 - soul-driver
 - skinny-love
-- fambly
 - now-that-im-older
 - a-midlife-guide
 slug: part-5-life-in-the-future
