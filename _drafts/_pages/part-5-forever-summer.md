@@ -12,13 +12,17 @@ hidden: true
 comments: true
 categories: ''
 ---
-Parenthood is the most unique human experience that <a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">89.615% of all humanity</a> will share with one another at some point in our lives. 
+![](/assets/images/Part 4 Banner-small.png)
+
+---
+
+Parenthood is the most unique human experience that <a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">89.615% of all humanity</a> will share with one another at some point in our lives.
 
 <!-- break -->
 
 How strange that something so common often feels so exclusive. Like you're the first one to go through it. Sure, you ask for tips. You read books. You endure unwanted advice. But at the end of the day, we all think this parenting experience is ours and ours only.
 
-I think this is because, though humans have been rearing and raising younger humans for many millenia, not one of them has parented *this* exact child of mine before. This one "beautiful and unique snowflake". This is _my_ kid.
+I think this is because, though humans have been rearing and raising younger humans for many millenia, not one of them has parented _this_ exact child of mine before. This one "beautiful and unique snowflake". This is _my_ kid.
 
 So on that level, it's hard to totally fault us for thinking our own kids are one-of-a-kind. But on the other hand, it's also hard to completely relate with other parents. There are common feelings, behaviors, patterns, and rants, of course. But underneath it, there's this pervasive "Yeah, but...my kid is different" feeling bouncing around.
 
@@ -30,24 +34,24 @@ Parenting should provide the best workout that ever could be possible. At least,
 
 If you want to make a case for life being unfair, there's your proof. I'm the most tired, overworked, and physically spent that I've ever been in my life. And I also happen to be in the worst shape of my life. Something just isn't adding up here. In fact, the things that you require most to be a happy and effective parent--sleep, exercise, and healthy food--are often the complete opposite of what you wind up getting.
 
-Parenting is the hardest endeavor I've undertaken in my short 36 years of life. And maybe will be the hardest I'll ever undertake.  
+Parenting is the hardest endeavor I've undertaken in my short 36 years of life. And maybe will be the hardest I'll ever undertake.
 
 "So why do it, then?", a completely sane and self-respecting person might be asking.
 
 Well geez, I don't think anyone would, if it also wasn't singlehandedly the most rewarding endeavor a human could possibly dream up.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best way to prepare for parenthood is to get comfortable and then immediately get up</p>&mdash; David DeWeil (@daviddeweil) <a href="https://twitter.com/daviddeweil/status/980865458994925569?ref_src=twsrc%5Etfw">April 2, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best way to prepare for parenthood is to get comfortable and then immediately get up</p>— David DeWeil (@daviddeweil) <a href="https://twitter.com/daviddeweil/status/980865458994925569?ref_src=twsrc%5Etfw">April 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
 ### Lil Squirts & Smiley Guys
 
-I think I could easily say that I don't *like* this stage of parenthood, but that I *love* my kids. You might think that's an oxymoronic statement. But it isn't.
+I think I could easily say that I don't _like_ this stage of parenthood, but that I _love_ my kids. You might think that's an oxymoronic statement. But it isn't.
 
 Parenting is hard work. My kids are fun.
 
-My daughter is boundless energy personified. She's a live-wire. This has it's challenges when we need her to sit still for dinner, or lay down for a nap, or not jump on her brother. But she keeps our family life fresh and exciting. Currently, she's an extrovert and neither my wife nor I can figure out where (or *who*) she gets it from.
+My daughter is boundless energy personified. She's a live-wire. This has it's challenges when we need her to sit still for dinner, or lay down for a nap, or not jump on her brother. But she keeps our family life fresh and exciting. Currently, she's an extrovert and neither my wife nor I can figure out where (or _who_) she gets it from.
 
 Before we had kids, my wife saw pictures of her towheaded, buck-toothed husband and claimed that we were destined for at least one "Dennis The Menace" child. Well, she got her Dennis in our daughter.
 
@@ -55,7 +59,7 @@ Audrey has this unshakable inner core that is such pure, guileless naiveté. As 
 
 My son is pure joy. His default facial position is a smile. And they're the kind of smiles that every muscle in his face participates in. There's no way it's not infectious. Who taught him how to smile like that?
 
-He also has this intensity and intention with whatever he is currently doing. I hope he takes it with him through the rest of his life. It will take him far in this world. Bennett is still young, but there are glimpses of this cheerful and effervescent personality starting to poke through. He's been such a blessing to us and a delightful surprise. 
+He also has this intensity and intention with whatever he is currently doing. I hope he takes it with him through the rest of his life. It will take him far in this world. Bennett is still young, but there are glimpses of this cheerful and effervescent personality starting to poke through. He's been such a blessing to us and a delightful surprise.
 
 Your second child is this kind of complete new mystery. What would he even be like? We spent 3-1/2 years with only Audrey, how would we have more love for a whole other child? We spent all those years learning her personality and falling in love with who she is. How would we be able to do that equally with a brand new personality?
 
@@ -70,24 +74,25 @@ And you see your children interact and love each other and your heart just flood
 > They come through you but not from you,
 > And though they are with you yet they belong not to you.
 
-> You may give them your love but not your thoughts, 
+> You may give them your love but not your thoughts,
 > For they have their own thoughts.
 > You may house their bodies but not their souls,
-> For their souls dwell in the house of tomorrow, 
+> For their souls dwell in the house of tomorrow,
 > which you cannot visit, not even in your dreams.
-> You may strive to be like them, 
+> You may strive to be like them,
 > but seek not to make them like you.
 > For life goes not backward nor tarries with yesterday.
 
 > You are the bows from which your children
 > as living arrows are sent forth.
-> The archer sees the mark upon the path of the infinite, 
-> and He bends you with His might 
+> The archer sees the mark upon the path of the infinite,
+> and He bends you with His might
 > that His arrows may go swift and far.
 > Let your bending in the archer's hand be for gladness;
-> For even as He loves the arrow that flies, 
+> For even as He loves the arrow that flies,
 > so He loves also the bow that is stable.
-> - "On Children" by Kahlil Gibran
+>
+> * "On Children" by Kahlil Gibran
 
 ---
 
@@ -109,7 +114,7 @@ My kids are my favorite thing in life.
 
 They grow too fast. I know it's cliché, but you never think about just how short the time is with your young children until you're living through it yourself. It's essentially <>https://www.thebump.com/a/baby-milestone-chart<mere months>. Within a college semester your baby is already smiling & laughing; at half a year they're mobile in some capacity and within just a year, they're walking and talking. A year!
 
-I think we see pictures of ourselves as babies and think that this first stage of life lasts forever. But when you get to mid-life and have kids of your own, you quickly realize that it truly doesn't. We think this period of life raising kids is so long because it *felt* so long to us growing up.
+I think we see pictures of ourselves as babies and think that this first stage of life lasts forever. But when you get to mid-life and have kids of your own, you quickly realize that it truly doesn't. We think this period of life raising kids is so long because it _felt_ so long to us growing up.
 
 Hear me out, my friends, this is the fastest I've felt my life fly by and no matter what I try to do to hack my time, I can't slow it down. So all that talk earlier about cherishing life right now, about slowing it down, I have to confess:
 
@@ -127,7 +132,7 @@ But nothing I do will bring today back.
 
 My little girl and baby boy are never going to be as little as they were today.
 
-My God. <https://open.spotify.com/track/3hC4iobCvBFG4BT7wbOET7>Time is a devil<>.
+My God. [https://open.spotify.com/track/3hC4iobCvBFG4BT7wbOET7](https://open.spotify.com/track/3hC4iobCvBFG4BT7wbOET7)Time is a devil<>.
 
 And it just keeps clicking along.
 
@@ -141,13 +146,18 @@ Next week, we'll look closer at a phenomenon that I have noticed myself and a lo
 
 But first, a few practical tips on parenting that my wife and I have picked up over the past five years or so:
 
-* *Take breaks from your kids.* I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
+* **Take breaks from your kids_._** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
+* **Don't pass up snuggle moments.** It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out, your kids won't be small forever. Don't lightly pass up a "Daddy, hold you!" Don't quickly shrug off a "Could you snuggle me?" It won't be long and your kid won't want anything to do with you. Treasure these times.
+* **Let your kids into your world.** When I was young, I remember trying my darnedest to wake up earlier than normal just to have a slight chance of seeing my dad before he left for work. I remember working so hard to get myself up even though most days he would already be gone. Now as a dad, I'm more cognizant of those moments, when I can tell my daughter is trying to crack into my world. She takes note of my morning routine, when I get home from work she asks me how my day went. She's asking the questions because she actually wants to know more about me and get closer to me. How can I just brush that off? Teaching your kids privacy is healthy, but don't turn them away if they are curious about you and what makes you tick.
+* **Err on the soft side.** Kids need structure and they need discipline. And for God's sake, give them some boundaries. But if at all possible, err on the gracious side with them. Sometimes just that little bit of patience during a fit or meltdown proves to be the key in a big teaching moment. Sometimes my own selfishness in just wanting the fussing to be over is the biggest impediment to my children's growth. Or yeah, sometimes they just need a nap.
+* **Give yourself grace.** The transition from young couple to young parents is severe. It often feels like two steps forward and then three steps back. It's easy to lose yourself in the shuffle. So cutting yourself and your partner some slack is crucial. Effective parenting is all about adapting to your kid's routine. And then learning how to adjust to a new completely new routine in another few weeks. There will be plenty of mistakes and frustrations. Plenty of down nights and plenty of up nights. Plenty of ebbs and plenty of flows. It takes some time, but eventually you'll pick up the rhythm and learn to dance.
 
-* *Don't pass up snuggle moments.* It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out, your kids won't be small forever. Don't lightly pass up a "Daddy, hold you!" Don't quickly shrug off a "Could you snuggle me?" It won't be long and your kid won't want anything to do with you. Treasure these times.
+---
 
-* *Let your kids into your world.* When I was young, I remember trying my darnedest to wake up earlier than normal just to have a slight chance of seeing my dad before he left for work. I remember working so hard to get myself up even though most days he would already be gone. Now as a dad, I'm more cognizant of those moments, when I can tell my daughter is trying to crack into my world. She takes note of my morning routine, when I get home from work she asks me how my day went. She's asking the questions because she actually wants to know more about me and get closer to me. How can I just brush that off? Teaching your kids privacy is healthy, but don't turn them away if they are curious about you and what makes you tick.
+**A Mixtape Guide To Growing Up:**
 
-* *Err on the soft side.* Kids need structure and they need discipline. And for God's sake, give them some boundaries. But if at all possible, err on the gracious side with them. Sometimes just that little bit of patience during a fit or meltdown proves to be the key in a big teaching moment. Sometimes my own selfishness in just wanting the fussing to be over is the biggest impediment to my children's growth. Or yeah, sometimes they just need a nap.
+<center><iframe src="https://open.spotify.com/embed/user/ryanstraits/playlist/3I4nzQhAYsxsko8Cbcj3Oe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
-* *Give yourself grace.* The transition from young couple to young parents is severe. It often feels like two steps forward and then three steps back. It's easy to lose yourself in the shuffle. So cutting yourself and your partner some slack is crucial. Effective parenting is all about adapting to your kid's routine. And then learning how to adjust to a new completely new routine in another few weeks. There will be plenty of mistakes and frustrations. Plenty of down nights and plenty of up nights. Plenty of ebbs and plenty of flows. It takes some time, but eventually you'll pick up the rhythm and learn to dance. 
+---
 
+###### _Images not from my personal camera roll are provided by_ [_Unsplash_](https://unsplash.com/)_. Illustrations created using_ [_Assembly_](http://assemblyapp.co/)_._
