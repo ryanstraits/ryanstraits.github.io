@@ -12,7 +12,7 @@ hidden: true
 comments: false
 categories: ''
 ---
-![](/assets/images/Part 3 Banner-half2.png)
+![](/assets/images/Part 3 Banner-small.png)
 
 ---
 
