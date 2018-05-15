@@ -144,22 +144,22 @@ In my twenties I ventured to Hawaii (age 20)...
 
 \(At this point, I thought pretty hard about moving to the West Coast. But then, unfortunately, thought better of myself.)
 
-I also joined a pretty decent indie-rock band and we traveled across the South and Midwest (25).
+I also joined a pretty decent indie-rock band for a few years and we toured across the South and Midwest (25).
 
 ![](/assets/images/IMG_2730.jpg "State Birdies")
 
 I moved in with a good friend at 26 and then worked up the courage to strike out into my own pad at around 27. (**_Editor's note:_** _I talk more about this period of living on my own in a future post._)
 
-And then at 28, I set off for parts unknown in the vast, wild wonderland of Kansas City. I've talked at length about those decisions already in the past. (Feel free to catch up [here](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html).)
+And finally, at 28 I set off for the vast, wild wonderland of Kansas City. (I've talked at length about those decisions already in the past, so feel free to catch up [here](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html).)
 
-So for better or worse, there it is. Roughly the first third of my life.
+For better or worse, there it is. Roughly the first third of my life.
 
 Gone.
 Just like that.
 
 ---
 
-Life moves quick, my friends. But once you realize it's just your _perception_ of that time that is shifting so quickly, you can hack your hard-wiring a little to better cherish the moments you're in. Sometimes, I think what kicks the passing of time up a few clicks is our lack of acknowledgment that we're _living_ in it right now.
+Life moves quick, my friends. But once you realize it's just your _perception_ of that time that is shifting so quickly, you can hack your hard-wiring a little to better cherish the moments you're in. Sometimes, I think what kicks the passing of time up a few clicks is our lack of acknowledgment that we're _living_ through it right now.
 
 That we're _actually allowed to live this gorgeously unique, little life of ours_ every day.
 
@@ -170,7 +170,7 @@ This is it!
 
 And it's all we're going to get.
 
-Time only slow downs once you pay attention to it. Once you're aware that your own personal metronome is only going to tick faster and faster as the measures picks up in meter, it's then that you're much better equipped to see the sheet music for what it is, and start writing your own time signatures.
+Time will only slow down once you pay attention to it. Once you're aware that your own personal metronome is only going to tick faster and faster as the measures picks up in meter, it's then that you're much better equipped to see the sheet music for what it is, and start writing your own time signatures.
 
 _(That may have been the most cornball thing I've ever written, you guys.)_
 
@@ -180,7 +180,7 @@ That next cup of coffee,
 the next trip to the lake,  
 the next moment of silence after the kids are in bed.
 
-I haven't quite figured it out yet, but somehow acknowledging and savoring life _as we're living through it_ is the closest we'll ever going to come to slowing down time.
+I don't have it all quite figured out just yet, but somehow acknowledging and savoring life _as we're living through it_ is the closest we'll ever get to actually slowing down time.
 
 Check your calendar. We are nearly halfway through the year 2018. **_2018!!_** Re-read the digits my fingers just pressed into the keyboard and your optic nerve just transmitted to your brain.
 
@@ -190,7 +190,7 @@ We're living in _the future_.
 
 ---
 
-Next week, we'll take a look at what life in the future has been like for me as a husband and a father.
+Next week, we'll take a look at what life in the future has been like for me as a husband and a father over the past few years. Thanks for reading!
 
 ---
 
