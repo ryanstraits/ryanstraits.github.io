@@ -61,14 +61,15 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
-* **Part 3:** A Grown-Up Soul...   _(Coming May 14th)_
+* [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html)
 * **Part 4:** Life In The Future   _(Coming May 21st)_
 * **Part 5:** Forever Summer   _(Coming May 28th)_
 * **Part 6:** The Dad Mule   _(Coming June 4th)_
-* **Part 7:** A Grown-Up Spirit...   _(Coming June 11th)_
-* **Part 8:** Title TBD   _(Coming June 18th)_
-* **Part 9:** Title TBD   _(Coming June 25th)_
-* **Part 10:** Title TBD   _(Coming July 1st)_
+* **Part 7:** Present Nostalgia   _(Coming June 11th)_
+* **Part 7:** A Grown-Up Spirit...   _(Coming June 18th)_
+* **Part 8:** Title TBD   _(Coming June 25th)_
+* **Part 9:** Title TBD   _(Coming July 15th)_
+* **Part 10:** Title TBD   _(Coming July 22nd)_
 
 P.S. - If you're new to me or my blog, the [About](/about "About Me!") page might be a great place to get yourself up to speed on who I am and just what I am attempting to do with this blog.
 
