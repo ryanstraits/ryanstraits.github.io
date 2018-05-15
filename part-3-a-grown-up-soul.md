@@ -112,41 +112,41 @@ Because looking back on them now, I am ridiculously _proud_ of my twenties. I wa
 
 In my twenties I ventured to Hawaii (age 20)...
 
-![Sick burns, dude!](/assets/images/hawaii-5.jpg)
+![](/assets/images/hawaii-5.jpg "Sick burns, dude!")
 
 ...New York City (21)
 
-![Think I still own that shirt...](/assets/images/nyc-7.jpg)
+![](/assets/images/nyc-7.jpg "Think I still own that shirt...")
 
 ...Europe (22)
 
-![Austria & Albania to be precise.](/assets/images/albania 11.jpg)
+![](/assets/images/albania 11.jpg "Austria & Albania to be precise.")
 
 ...California (23)
 
-![Look at those locks!](/assets/images/cali 04 29.jpg)
+![](/assets/images/cali 04 29.jpg "Locks of love")
 
 ...and again the next year (24)
 
-![I was on a reality show to boot!](/assets/images/100_0406.JPG)
+![](/assets/images/100_0406.JPG "I even made it on to a TLC reality show!")
 
 ...Seattle (26)
 
-![Little tiny Space Needle.](/assets/images/0720191929.jpg)
+![](/assets/images/0720191929.jpg "Little tiny Space Needle.")
 
 ...Las Vegas (27)
 
-![Hoover Dam. Close enough.](/assets/images/3-12-08 vegas trip 043.jpg)
+![](/assets/images/3-12-08 vegas trip 043.jpg "The Hoover Hot Damn.")
 
 ...and California once again (27).
 
-![Doing my best 60's British rockstar impression.](/assets/images/051609-32.JPG)
+![](/assets/images/051609-32.JPG "Doing my best 60's British rockstar impression.")
 
 \(At this point, I thought pretty hard about moving to the West Coast. But then, unfortunately, thought better of myself.)
 
 I also joined a pretty decent indie-rock band and we traveled across the South and Midwest (25).
 
-![State Birdies](/assets/images/IMG_2730.jpg)
+![](/assets/images/IMG_2730.jpg "State Birdies")
 
 I moved in with a good friend at 26 and then worked up the courage to strike out into my own pad at around 27. (**_Editor's note:_** _I talk more about this period of living on my own in a future post._)
 
