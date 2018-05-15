@@ -24,19 +24,19 @@ I remember jumping feet first into the "crick" behind my childhood home, never w
 
 I remember the Belden Brick plant's eleven-thirty bell sounding across my whole hometown, meaning it was time to sprint inside for lunch.
 
-I remember countless hours spent with neighborhood kids exploring the woods lining the old strip mines surrounding our allotment.
+I remember countless hours spent with neighborhood kids exploring the woods lining old strip mines surrounding our allotment.
 
-Time stood still in the eternity that spanned between spring and fall.
+Time stood still in the eternities that spanned the vast expanse between spring and fall.
 
-These days time clips by at a much more hurried pace. The winter that we dreaded all last fall has come and gone and cooled our sunburned skin. And now we yearn, once again, for the warmth of that devilish summer sun.
+These days, time clips by at a much more hurried pace. The winter that we dreaded all last fall has come and gone and cooled our sunburned skin. And now we yearn, once again, for the warmth of that devilish summer sun.
 
-As I touched on previously, around age 33 I started to become much more aware of my own fragility. And with that, this nagging realization that time, and it's rapidly-cycling seasons, just wasn't on my side anymore.
+As I touched on previously, around the age of 33 I started to become much more aware of my own fragility. And with that, this nagging realization that time, and it's rapidly-cycling seasons, just wasn't on my side anymore.
 
 I think if you're a person who's geared towards the future, at this point you start scrambling to squeeze as much time as you can out of every moment. Past-minded folks, like myself, probably spend too much time trying to figure out where all that time went.
 
 In the next few posts, I hope to talk a bit about both. Because when I talk about "soul", I'm talking largely about the things that are most worthy of my time and attention.
 
-You know, things like family, friends, and passion. And where you steal the time from for any of it.
+You know, things like your family, your friends, your passions. And where you steal the time from for any of it.
 
 Cuz time, my brothers and sisters, is tickin' away.
 
@@ -52,25 +52,27 @@ Cuz time, my brothers and sisters, is tickin' away.
 
 /dispense sincerest of apologies for including a DC Talk rap in this post.
 
-A few years back I came across a study focused around how we humans perceive time. Specifically, how that perception morphs the older we get. Apparently, this isn't a new idea, but it's one that I had never heard before, so it felt revolutionary at the time.
+---
 
-The gist is this: as we grow older, our perspective on time shifts _proportional_ to the amount of time we've been alive. Thus, the longer you've been alive, the shorter your days, weeks, and years feel compared to someone younger than you.
+A few years back, I came across a study that looked at how we humans perceive time. Specifically, how that perception morphs and bends the older we get. Apparently, this isn't a new concept, but it's one that I had never heard of before, so it felt revolutionary at the time.
 
-It's our own personal <a href="https://en.wikipedia.org/wiki/Time_dilation" target="_blank">time dilation</a>. Time doesn't just feel like it's flying by, it actually _does_. At least according to our perception.
+The gist goes something like this: as we grow older, our perspective towards time shifts _proportional_ to the amount of time we've been alive. Thus, the longer you've been alive, the shorter your days, weeks, and years feel compared to someone younger than you.
 
-If this is a new concept for you, let it sink in a little bit.
+It's our own personal <a href="https://en.wikipedia.org/wiki/Time_dilation" target="_blank">time dilation</a>. Time doesn't just feel like it's flying by, it actually _is_. At least according to our perception of it.
 
-The more I thought about it, the more it resonated. I mean, just think about how we measure time at different stages of life:
+If this is something that you haven't heard before, just let it sink in a little bit.
+
+The more I thought about it, the more it resonated. I mean, just think about how we measure time at different stages of life already:
 
 * Babies are aged by months.
 * Elementary kids are eternally awaiting that next school holiday.
 * College kids set their clocks to the school semester.
-* Adults plan their budgets around the fiscal year.
+* Adults plan their budgets around a fiscal year.
 * And your grandma can't remember what decade she lost her reading glasses.
 
-In other words, our points of reference pile up closer and closer together the older we are. The days get shorter, the years come quicker. Objective time isn't necessarily speeding up, but our perception of it is.
+In other words, our points of reference pile up closer and closer together the older we are. The days get shorter, the years come quicker. Time, objectively, isn't necessarily speeding up, but our viewpoint relative to it is.
 
-There is a <a href="http://www.maximiliankiener.com/digitalprojects/time/" target="_blank">great website</a> that visualizes this phenomenon quite well. Take a scroll yourself and see where your age fits in. If you're like me--cresting your first third of life--the more you scroll, the harder it is to believe.
+If you're not tracking with me, there is a <a href="http://www.maximiliankiener.com/digitalprojects/time/" target="_blank">great website</a> that visualizes this phenomenon quite well. Take a scroll yourself and see where your own age fits in. If you're like me--cresting your first third of life--the more you scroll, the harder it is to believe.
 
 There are a few tidbits of info as you scroll along that help crystallize this perspective shift:
 
@@ -83,9 +85,9 @@ If you're curious, here is how my 36 years of life look when thrown into this mo
 
 ![](/assets/images/My Years.JPG)
 
-Look how slim those years get to the right! The scariest part for me is continuing to scroll and witness how _blindingly quick_ the next 36 years go by. It's just flat-out insane.
+Look how slim those years get to the right! Compare that with the first two years my son has lived to the left. The scariest part for me is continuing to scroll and witness how _blindingly quick_ the next 36 years go by.
 
-So to bring it back around to where we started: math. Since I have 36 years of life to reference back to and my son only has two, last summer was roughly 12.5% of his conscious life. For me, it was only about 0.7%.
+To wrap this up, let's finish back where we started, with math. So, since I have 36 years of life to reference back to and my son only has two, this coming summer is going to be roughly 11.1% of his conscious life. For me, it will only be about 0.7%.
 
 A year in Bennett's life has the "perceived weight" of nearly _18 years_ for me.
 
@@ -95,7 +97,7 @@ In his eyes, last summer really _did_ last forever.
 
 ### Gone. Just Like That.
 
-Sitting where I am now, my twenties felt an awful lot like that recent 0.7% summer of mine.
+Sitting where I am now, my twenties felt an awful lot one of these 0.7% summers of mine.
 
 Gone.
 Just like that.
@@ -106,7 +108,7 @@ I got married at the ripe old age of 29 years, 11 months and 6 days. So my twent
 
 A fr\*ggin' blessing.
 
-Because looking back on them now, I am ridiculously _proud_ of my twenties. I wasn't the most adventurous guy on the block, but I think I made pretty good use of the ample free time I had. I traveled as much as I could while still holding down a respectable 9-to-5, and I explored as much as my simple, home-bodied heart allowed.
+Because looking back on them now, I am ridiculously _proud_ of my twenties. I wasn't the most adventurous guy on the block, but I think I made pretty good use of the ample free time I had. I traveled as much as I could while still holding down a respectable 9-to-5 job, and I explored as much as my simple, home-bodied heart allowed.
 
 In my twenties I ventured to Hawaii (age 20)...
 
