@@ -45,6 +45,8 @@ I suppose some would call this "having an inactive imagination". I liked to call
 
 And that's probably why marriage has far exceeded any assumptions that I could've previously had.
 
+![](/assets/images/227231_1960966616759_1510996_n.jpg)
+
 ---
 
 ### Soul-mate
@@ -74,6 +76,10 @@ It's little, daily decisions that, in part, add up to making the whole better.
 In the least cheesy way possible, I can say she's my best friend. I just love talking to her. My day is made when I get to end it talking it over with her. I don't want to spend my time with anyone else.
 
 Life is better with her.
+
+![](/assets/images/DSC0972-small.jpg)
+
+---
 
 She is both challenging yet agreeable at the same time. Those that know her can't help but adore her. She's a true-blue friend, fiercely loyal, and a hard-working son-of-a-gun. And I'm the first one in line to benefit. I could fawn over her twice as long as I'm intending this post to be, but I'll save you the schmooze and just say this:
 
