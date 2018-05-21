@@ -62,7 +62,7 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html)
-* **Part 4:** Life In The Future   _(Coming May 21st)_
+* [**Part 4:** Life In The Future](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)
 * **Part 5:** Forever Summer   _(Coming May 28th)_
 * **Part 6:** The Dad Mule   _(Coming June 4th)_
 * **Part 7:** Present Nostalgia   _(Coming June 11th)_
