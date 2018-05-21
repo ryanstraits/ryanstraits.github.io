@@ -93,6 +93,8 @@ We work hard but we rest hard too. Buying a house together, fixing it up and inv
 
 This is what the married life of two introverts (and Enneagram 9's) looks like.
 
+![](/assets/images/Wedding-small.jpg)
+
 But sometimes it gets _too_ mundane and _too_ ordinary. Sometimes we slip into our routines and do so well keeping to ourselves and out of each other's hair that we forget to venture into this exclusive shared space that is uniquely ours. That space where we're one, not only in body, but in _soul_. Sometimes it's good to step on each other's toes a little.
 
 This is the yeoman's work of our particular flavor of cohabitation. To push into this relationship, to drive it even further toward the sublime. It's a constant juggle between "me" and "us" and finding the delicate balance between the two. I think one of our greatest joys so far has been settling into a simple cadence of life that has worked surprisingly well for both of us.
@@ -104,6 +106,8 @@ We're only six years in, but I can honestly say that marriage is one of, if not 
 It's something _you_ have to give.
 
 And it is well worth the cost.
+
+![](/assets/images/DSC0979-small.jpg)
 
 ---
 
