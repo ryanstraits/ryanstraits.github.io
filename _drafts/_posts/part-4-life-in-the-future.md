@@ -20,7 +20,7 @@ As a young man envisioning what life would look like in the future, I don't thin
 
 <!--break-->
 
-* I live in a city I barely knew of, let alone had seen a map of, seven years ago.
+* I call home a city I barely knew of, let alone had seen a map of, seven years ago.
 * With the change in locale, my closest friends are people who I've only known for roughly 19% of my life.
 * I'm over the moon for a woman I only just met at New Years eight years ago.
 * I am entirely wrapped around the pinkie finger of a little girl and boy that were unknown quantities to me just over five years ago.
@@ -37,9 +37,9 @@ Sure, he had glimpses on particularly lonely days:
 * A lot less ironing and cleaning to be performed on a semi-regular basis.
 * Someone to be the de-facto plus-one at weddings, family events, and rock concerts.
 
-You know, the kinds of things a twenty-something guy _requires_ in his life.
+You know, the kinds of things a twenty-something guy really _needs_ in his life.
 
-On the whole, though, there wasn't much forethought. He didn't sit around praying for a future wife. He didn't write her letters. To put it bluntly: this boy wanted to meet a girl, he just didn't care to sit around waiting for her. You could cross off at least half of the [previously listed adventures](/2018/05/14/part-3-a-grown-up-soul.html) from his twenties if he was going to be doing much of that.
+On the whole, though, there wasn't much forethought. That kid didn't sit around praying for a future wife. He didn't write her letters. To put it bluntly: this boy wanted to meet a girl, he just didn't care to sit around waiting for her. You could cross off at least half of the [previously listed adventures](/2018/05/14/part-3-a-grown-up-soul.html) from his twenties if he was going to be doing much of that.
 
 I suppose some would call this "having an inactive imagination". I liked to call it "having reasonable expectations".
 
