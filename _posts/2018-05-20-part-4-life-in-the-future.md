@@ -17,7 +17,7 @@ hidden: false
 ---
 
 As a young man envisioning what life would look like in the future, I don't think I could have once divined the one I'm currently living.
-<!--break-->
+<!-- break -->
 
 * I call home a city I barely knew of, let alone had seen a map of, seven years ago.
 * With the change in locale, my closest friends are people who I've only known for roughly 19% of my life.
