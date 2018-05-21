@@ -19,7 +19,7 @@ hidden: false
 As a young man envisioning what life would look like in the future, I don't think I could have once divined the one I'm currently living.
 <!-- break -->
 
-* I call home a city I barely knew of, let alone had seen a map of, seven years ago.
+* I call a city home that I barely knew of, let alone had seen a map of, seven years ago.
 * With the change in locale, my closest friends are people who I've only known for roughly 19% of my life.
 * I'm over the moon for a woman I only just met at New Years eight years ago.
 * I am entirely wrapped around the pinkie finger of a little girl and boy that were unknown quantities to me just over five years ago.
