@@ -122,6 +122,8 @@ Now, quickly, a few tips that have helped my wife and I immensely in our first f
 
 Speaking of parenthood...that's what we'll be covering next week! Tune in then.
 
+Miss a previous post?
+
 ---
 
 **A Mixtape Guide To Growing Up:**
