@@ -92,7 +92,7 @@ We work hard but we rest hard too. Buying a house together, fixing it up and inv
 
 This is what the married life of two introverts (and Enneagram 9's) looks like.
 
-![](/assets/images/Wedding-small.jpg)
+![](/assets/images/1390536_10201553215325159_392797709_n.jpg)
 
 ---
 
@@ -124,10 +124,12 @@ Now, quickly, a few tips that have helped my wife and I immensely in our first f
 Speaking of parenthood...that's what we'll be covering next week! Tune in then.
 
 Miss a previous post?
+
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html)
+
 ---
 
 **A Mixtape Guide To Growing Up:**
