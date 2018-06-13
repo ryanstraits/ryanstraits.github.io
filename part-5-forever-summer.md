@@ -45,7 +45,7 @@ Well geez, I don't think anyone would, if it also wasn't singlehandedly the most
 
 ---
 
-### Lil Squirts & Smiley Guys
+### A Little Squirt & A Smiley Guy
 
 I think I could easily say that I don't _like_ this stage of parenthood, but that I _love_ my kids. You might think that's an oxymoronic statement. But it isn't.
 
@@ -153,12 +153,14 @@ But first, a few practical tips on parenting that my wife and I have picked up o
 * **Give yourself grace.** The transition from young couple to young parents is severe. It often feels like two steps forward and then three steps back. It's easy to lose yourself in the shuffle. So cutting yourself and your partner some slack is crucial. Effective parenting is all about adapting to your kid's routine. And then learning how to adjust to a new completely new routine in another few weeks. There will be plenty of mistakes and frustrations. Plenty of down nights and plenty of up nights. Plenty of ebbs and plenty of flows. It takes some time, but eventually you'll pick up the rhythm and learn to dance.
 
 ---
+
 Miss a previous post?
 
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html)
+
 ---
 
 **A Mixtape Guide To Growing Up:**
