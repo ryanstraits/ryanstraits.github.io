@@ -45,7 +45,7 @@ Well geez, I don't think anyone would, if it also wasn't singlehandedly the most
 
 ---
 
-### A Little Squirt & A Smiley Guy
+### A 'Lil Squirt & A Smiley Guy
 
 I think I could easily say that I don't _like_ this stage of parenthood, but that I _love_ my kids. You might think that's an oxymoronic statement. But it really isn't:
 
