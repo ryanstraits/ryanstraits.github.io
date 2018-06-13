@@ -36,12 +36,12 @@ If you want to make a case for life being unfair, there it is. I'm the most tire
 
 Parenting is the hardest endeavor I've undertaken in my short 36 years of life. And maybe will be the hardest I'll ever undertake.
 
-"So why do it, then?", a completely sane and self-respecting person might be asking.
+"So why do it, then?", a completely sane and self-respecting person might ask.
 
 Well geez, I don't think anyone would, if it also wasn't singlehandedly the most rewarding endeavor a human could possibly dream up.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best way to prepare for parenthood is to get comfortable and then immediately get up</p>— David DeWeil (@daviddeweil) <a href="https://twitter.com/daviddeweil/status/980865458994925569?ref_src=twsrc%5Etfw">April 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best way to prepare for parenthood is to get comfortable and then immediately get up</p>— David DeWeil (@daviddeweil) <a href="https://twitter.com/daviddeweil/status/980865458994925569?ref_src=twsrc%5Etfw">April 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 ---
 
