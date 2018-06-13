@@ -22,17 +22,17 @@ Parenthood is the most unique experience that 89% of all humans will share with 
 
 <a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">89%</a>! How strange that something so common often feels so exclusive. Like we're the first one to go through it. Like we're on this island all alone. Sure, we might reach out. Ask for tips. Read books. Endure unwanted advice. But at the end of the day, we all think this parenting experience is ours and ours only.
 
-I think this is because, though humans have been rearing and raising younger humans for many millenia, not one of them has parented _this_ exact child of mine before. This one "<a href="https://www.youtube.com/watch?v=EP5aqAC8PPY" target="blank">beautiful and unique snowflake</a>". This is _my_ kid.
+I think this is because--though humans have been rearing and raising younger humans for thousands and thousands of years--not one of them has parented _this_ exact child of mine before. This one "<a href="https://www.youtube.com/watch?v=EP5aqAC8PPY" target="blank">beautiful and unique snowflake</a>". This is _my_ kid.
 
-So on that level, it's hard to totally fault us for thinking our own kids are one-of-a-kind. But on the other hand, it's also hard to completely relate with other parents. There are common feelings, behaviors, patterns, and rants, of course. But underneath it, there's this pervasive "Yeah, but...my kid is different" feeling bouncing around.
+So on that level, it's hard to totally fault us for thinking our own kids are one-of-a-kind. But on the other hand, it's also hard to completely relate with other parents. There are common feelings, behaviors, patterns, and rants, of course. But just underneath it, there's an always pervasive "Yeah, but...my kid is different" feeling bouncing around.
 
 I suppose it's this ignorance that keeps us pushing through. This ignorance that we're somehow forging new territory. Because I think without it, parenthood would be a tremendously defeating venture. I've already talked about how much it affects your mid-section. If you thought the "Freshmen 15" was bad, wait until you try on the "New Dad 30".
 
 Parenthood is literally a punch to your gut.
 
-Parenting should provide the best workout that ever could be possible. At least, it _feels_ like it should. It's incredibly taxing physically. You're out of breath often. There is near constant motion and very little time for rest. Lugging around a baby carrier for nearly a year per kid is a cross-fitter's dream. How is that not the recipe for being in the best shape of your life?
+Parenting should provide the best workout that ever could be possible. At least, it _feels_ like it should. It's incredibly taxing physically. You're out of breath often. There is near constant motion and very little time for rest. Lugging around a baby carrier for nearly a year per kid is a cross-fitter's dream scenario, no? How is that not the recipe for being in the best shape of your life?
 
-If you want to make a case for life being unfair, there's your proof. I'm the most tired, overworked, and physically spent that I've ever been in my life. And I also happen to be in the worst shape of my life. Something just isn't adding up here. In fact, the things that you require most to be a happy and effective parent--sleep, exercise, and healthy food--are often the complete opposite of what you wind up getting.
+If you want to make a case for life being unfair, there it is. I'm the most tired, overworked, and physically spent that I've ever been in my life. And I also happen to be in the worst shape of my life. Something just isn't adding up here. In fact, the things that you require most to be a happy and effective parent--sleep, exercise, and healthy food--are often the complete opposite of what you wind up getting.
 
 Parenting is the hardest endeavor I've undertaken in my short 36 years of life. And maybe will be the hardest I'll ever undertake.
 
