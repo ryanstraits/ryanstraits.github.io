@@ -109,7 +109,7 @@ But nothing I do will bring today back.
 
 My little girl and baby boy are never going to be as little as they were today.
 
-My God. Time is a devil.
+My God. <a href="https://open.spotify.com/track/3hC4iobCvBFG4BT7wbOET7" target="blank">Time is a devil</a>.
 
 And it just keeps clicking along.
 
