@@ -73,33 +73,6 @@ And you see your children interact and love each other and your heart just flood
 
 ---
 
-> Your children are not your children.
-> They are the sons and daughters of Life's longing for itself.
-> They come through you but not from you,
-> And though they are with you yet they belong not to you.
-
-> You may give them your love but not your thoughts,
-> For they have their own thoughts.
-> You may house their bodies but not their souls,
-> For their souls dwell in the house of tomorrow,
-> which you cannot visit, not even in your dreams.
-> You may strive to be like them,
-> but seek not to make them like you.
-> For life goes not backward nor tarries with yesterday.
-
-> You are the bows from which your children
-> as living arrows are sent forth.
-> The archer sees the mark upon the path of the infinite,
-> and He bends you with His might
-> that His arrows may go swift and far.
-> Let your bending in the archer's hand be for gladness;
-> For even as He loves the arrow that flies,
-> so He loves also the bow that is stable.
->
-> * "On Children" by Kahlil Gibran
-
----
-
 Again, I can't sugarcoat how tough parenthood is. The age old question of "Is it harder to go from one to two kids, or from two to three?" is a valid one. Having only fulfilled half of that question, I can't speak from a position of experience. However, from a purely mathematical perspective going from one to two kids is a 100% increase in children versus only a 50% jump going from two to three. So, it could be argued, having two kids is actually twice as hard as having three. Case closed? I'm sure parents of three or more kids would beg to differ.
 
 I can't imagine having three kids at this point, but thinking about it does give me profound new respect for my own parents and how they raised my two sisters and I. In general, having kids of my own has given me a better sense of reverence for my parents and the decisions they made in parenting me. I have a better understanding of the weight they felt because I now feel a similar weight.
@@ -136,7 +109,7 @@ But nothing I do will bring today back.
 
 My little girl and baby boy are never going to be as little as they were today.
 
-My God. [https://open.spotify.com/track/3hC4iobCvBFG4BT7wbOET7](https://open.spotify.com/track/3hC4iobCvBFG4BT7wbOET7)Time is a devil<>.
+My God. Time is a devil.
 
 And it just keeps clicking along.
 
@@ -146,11 +119,21 @@ and faster...
 
 ---
 
+> Your children are not your children. They are the sons and daughters of Life's longing for itself. They come through you but not from you, And though they are with you yet they belong not to you.
+>
+> You may give them your love but not your thoughts, For they have their own thoughts. You may house their bodies but not their souls, For their souls dwell in the house of tomorrow, which you cannot visit, not even in your dreams. You may strive to be like them, but seek not to make them like you. For life goes not backward nor tarries with yesterday.
+>
+> You are the bows from which your children as living arrows are sent forth. The archer sees the mark upon the path of the infinite, and He bends you with His might that His arrows may go swift and far. Let your bending in the archer's hand be for gladness; For even as He loves the arrow that flies, so He loves also the bow that is stable.
+>
+> * "On Children" by Kahlil Gibran
+
+---
+
 Next week, we'll look closer at a phenomenon that I have noticed myself and a lot of other young dads experiencing. Oh yeah, and also a few ways I've tried to slow down time during a stage of life that I don't want to end.
 
-But first, a few practical tips on parenting that my wife and I have picked up over the past five years or so:
+But first! I'll leave you with a few practical tips on parenting that my wife and I have picked up over the past five years or so:
 
-* **Take breaks from your kids_._** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
+* **Take breaks from your kids.** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
 * **Don't pass up snuggle moments.** It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out, your kids won't be small forever. Don't lightly pass up a "Daddy, hold you!" Don't quickly shrug off a "Could you snuggle me?" It won't be long and your kid won't want anything to do with you. Treasure these times.
 * **Let your kids into your world.** When I was young, I remember trying my darnedest to wake up earlier than normal just to have a slight chance of seeing my dad before he left for work. I remember working so hard to get myself up even though most days he would already be gone. Now as a dad, I'm more cognizant of those moments, when I can tell my daughter is trying to crack into my world. She takes note of my morning routine, when I get home from work she asks me how my day went. She's asking the questions because she actually wants to know more about me and get closer to me. How can I just brush that off? Teaching your kids privacy is healthy, but don't turn them away if they are curious about you and what makes you tick.
 * **Err on the soft side.** Kids need structure and they need discipline. And for God's sake, give them some boundaries. But if at all possible, err on the gracious side with them. Sometimes just that little bit of patience during a fit or meltdown proves to be the key in a big teaching moment. Sometimes my own selfishness in just wanting the fussing to be over is the biggest impediment to my children's growth. Or yeah, sometimes they just need a nap.
@@ -164,6 +147,7 @@ Miss a previous post?
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
 * [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html)
+* [**Part 4:** Life In The Future](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)
 
 ---
 
