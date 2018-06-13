@@ -16,11 +16,11 @@ categories: ''
 
 ---
 
-Parenthood is the most unique human experience that over 89% of humans will share with one another at some point in our lives.
+Parenthood is the most unique experience that 89% of all humans will share with one another at some point in their lives.
 
 <!-- break -->
 
-<a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">89%</a>! How strange that something so common often feels so exclusive. Like we're the first one to go through it. Like we're on this island all alone. Sure, you reach out. You might ask for tips. You read books. You endure unwanted advice. But at the end of the day, we all think this parenting experience is ours and ours only.
+<a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">89%</a>! How strange that something so common often feels so exclusive. Like we're the first one to go through it. Like we're on this island all alone. Sure, we might reach out. Ask for tips. Read books. Endure unwanted advice. But at the end of the day, we all think this parenting experience is ours and ours only.
 
 I think this is because, though humans have been rearing and raising younger humans for many millenia, not one of them has parented _this_ exact child of mine before. This one "<a href="https://www.youtube.com/watch?v=EP5aqAC8PPY" target="blank">beautiful and unique snowflake</a>". This is _my_ kid.
 
