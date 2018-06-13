@@ -57,6 +57,8 @@ Before we had kids, my wife saw pictures of her towheaded, buck-toothed husband 
 
 Audrey has this unshakable inner core that is such pure, guileless naiveté. As her dad, I just want to do everything I can to protect that. To encourage her curiosity and exploration of the world. And to realize that the biggest enemy of that innocence and vitality on most days, is my own selfishness.
 
+![](/assets/images/Audrey&Me-Small.jpg)
+
 My son is pure joy. His default facial position is a smile. And they're the kind of smiles that every muscle in his face participates in. There's no way it's not infectious. Who taught him how to smile like that?
 
 He also has this intensity and intention with whatever he is currently doing. I hope he takes it with him through the rest of his life. It will take him far in this world. Bennett is still young, but there are glimpses of this cheerful and effervescent personality starting to poke through. He's been such a blessing to us and a delightful surprise.
@@ -66,6 +68,8 @@ Your second child is this kind of complete new mystery. What would he even be li
 And then you meet him.
 
 And you see your children interact and love each other and your heart just floods with all the emotions. It's then you realize the reserves of your love as a parent are essentially boundless. And it's also about now when you realize that a vasectomy is a very real necessity.
+
+![](/assets/images/Benny&Me-Small.jpg)
 
 ---
 
