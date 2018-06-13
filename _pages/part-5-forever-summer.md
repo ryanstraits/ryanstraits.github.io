@@ -91,9 +91,9 @@ My kids are my favorite thing in life.
 
 They grow too fast. I know it's cliché, but you never think about just how short the time is with your young children until you're living through it yourself. It's essentially <a href="https://www.thebump.com/a/baby-milestone-chart" target="blank">mere months</a>. Within a college semester your baby is already smiling & laughing; at half a year they're mobile in some capacity and within just a year, they're walking and talking. A year!
 
-I think we see pictures of ourselves as babies and think that this first stage of life lasts forever. But when you get to mid-life and have kids of your own, you quickly realize that it truly doesn't. We think this period of life raising kids is so long because it _felt_ so long to us growing up.
+I think we see pictures of ourselves as babies and think that these early stages of life must last forever. We think this period of life raising kids is so long because it _felt_ so long to us growing up.
 
-Hear me out, my friends, this is the fastest I've felt my life fly by and no matter what I try to do to hack my time, I can't slow it down. So all that talk earlier about cherishing life right now, about slowing it down, I have to confess:
+Hear me out, my friends, this is the fastest I've felt my life flying by and no matter what I try to do to hack my time, I can't slow it down. So <a href="http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html" target="blank">all that talk earlier about cherishing life right now</a>, about slowing it down, I have to confess:
 
 It doesn't work.
 
