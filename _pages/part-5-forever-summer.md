@@ -81,7 +81,7 @@ There's an inherent déjà vu in parenting your kids. You often find yourself re
 
 I have a theory that all the best loves in life have one thing in common: you can't explain them.
 
-I can't tell you why I get excited thinking about going home to see my kids the last hour of my work day. The smell of their hair, the squishiness of their cheeks, the unmistakeability of their laughs. They're enough of me to feel familiar but enough of their own person to keep me pushing to discover them further.
+I can't tell you why I get excited thinking about going home to see my kids the last hour of my work day. The smell of their hair, the squishiness of their cheeks, the unmistakeability of their laughs. There's enough of me inside them to feel familiar but enough of their own person in there to keep me pushing further.
 
 My kids are my favorite thing in life.
 
@@ -93,19 +93,15 @@ They grow too fast. I know it's cliché, but you never think about just how shor
 
 I think we see pictures of ourselves as babies and think that these early stages of life must last forever. We think this period of life raising kids is so long because it _felt_ so long to us growing up.
 
-Hear me out, my friends, this is the fastest I've felt my life flying by and no matter what I try to do to hack my time, I can't slow it down. So <a href="http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html" target="blank">all that talk earlier about cherishing life right now</a>, about slowing it down, I have to confess:
+But hear me out, my friends: this is the fastest I've ever felt my life flying by and no matter what I try to do to hack my time, I can't slow it down. So <a href="http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html" target="blank">all that talk earlier about cherishing life right now</a>, about slowing it down, I have to confess:
 
 It doesn't work.
 
 At least not when it comes to my kids. They are growing faster than my synapses can process. And it breaks my heart.
 
-My children are still so young. But there are moments when the light hits them a certain way as they're sleeping, or the shadows stretch across their faces while they're playing and they somehow look a year or two older. And I can't help it, the future comes flooding in with a flurry of instances all at once. Like I accidentally sat on the remote and jammed the fast-forward button.
+My children are still so young, but there are moments when the light hits them a certain way as they're sleeping, or the shadows stretch across their faces while they're playing and somehow my brain projects them to be a year or two older than they are. And I can't help it, the future comes flooding in as a flurry of instances flash by me all at once. Like I accidentally sat on the remote and jammed the fast-forward button.
 
-And I can't take it, it overwhelms me.
-I know these times are fleeting.
-And I'm absolutely helpless to stop them.
-I can shout, I can grit my teeth, I can hold on to them so, so tightly.
-But nothing I do will bring today back.
+And I can't take it, it overwhelms me. I know these times are fleeting. And I'm absolutely helpless to stop them. I can shout, I can grit my teeth, I can hold on to them so, so tightly. But nothing I do will bring back today.
 
 My little girl and baby boy are never going to be as little as they were today.
 
@@ -144,14 +140,14 @@ and faster...
 > Let your bending in the archer's hand be for gladness;
 >
 > For even as He loves the arrow that flies, so He loves also the bow that is stable.
->
-> * "On Children" by Kahlil Gibran
+
+- "On Children" by Kahlil Gibran
 
 ---
 
-Next week, we'll look closer at a phenomenon that I have noticed myself and a lot of other young dads experiencing. Oh yeah, and also a few ways I've tried to slow down time during a stage of life that I don't want to end.
+Next week, I'll take a deeper dive into parenthood, and more specifically fatherhood and the strange melancholy I have noticed myself and a lot of other young dads experiencing. 
 
-But first! I'll leave you with a few practical tips on parenting that my wife and I have picked up over the past five years or so:
+But first! A few practical tips on parenting that my wife and I have picked up over the past five years or so:
 
 * **Take breaks from your kids.** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
 * **Don't pass up snuggle moments.** It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out, your kids won't be small forever. Don't lightly pass up a "Daddy, hold you!" Don't quickly shrug off a "Could you snuggle me?" It won't be long and your kid won't want anything to do with you. Treasure these times.
