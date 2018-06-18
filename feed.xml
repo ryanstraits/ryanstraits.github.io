@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ryanstraits.com/</link>
     <atom:link href="http://blog.ryanstraits.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Jun 2018 16:01:52 -0500</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 16:01:52 -0500</lastBuildDate>
+    <pubDate>Mon, 18 Jun 2018 16:04:22 -0500</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 16:04:22 -0500</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -190,6 +190,8 @@ and faster…&lt;/p&gt;
         <guid isPermaLink="true">http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html</guid>
         
         <category>tag/fambly</category>
+        
+        <category>tag/a-midlife-guide</category>
         
         <category>tag/my-body-is-a-cage</category>
         
