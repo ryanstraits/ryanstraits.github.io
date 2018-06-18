@@ -148,15 +148,15 @@ and faster...
 
 ---
 
-Next week, I'll take a deeper dive into parenthood, and more specifically fatherhood and the strange melancholy I have noticed myself and a lot of other young dads experiencing.
+Next week, I'll take a deeper dive into this strange stage of life called "parenthood", and more specifically "young fatherhood" and a strange melancholy that I have noticed starting to sink in right around this stage.
 
 But first! A few practical tips on parenting that my wife and I have picked up over the past five years or so:
 
-* **Take breaks from your kids.** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
-* **Don't pass up snuggle moments.** It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out, your kids won't be small forever. Don't lightly pass up a "Daddy, hold you!" Don't quickly shrug off a "Could you snuggle me?" It won't be long and your kid won't want anything to do with you. Treasure these times.
-* **Let your kids into your world.** When I was young, I remember trying my darnedest to wake up earlier than normal just to have a slight chance of seeing my dad before he left for work. I remember working so hard to get myself up even though most days he would already be gone. Now as a dad, I'm more cognizant of those moments, when I can tell my daughter is trying to crack into my world. She takes note of my morning routine, when I get home from work she asks me how my day went. She's asking the questions because she actually wants to know more about me and get closer to me. How can I just brush that off? Teaching your kids privacy is healthy, but don't turn them away if they are curious about you and what makes you tick.
-* **Err on the soft side.** Kids need structure and they need discipline. And for God's sake, give them some boundaries. But if at all possible, err on the gracious side with them. Sometimes just that little bit of patience during a fit or meltdown proves to be the key in a big teaching moment. Sometimes my own selfishness in just wanting the fussing to be over is the biggest impediment to my children's growth. Or yeah, sometimes they just need a nap.
-* **Give yourself grace.** The transition from young couple to young parents is severe. It often feels like two steps forward and then three steps back. It's easy to lose yourself in the shuffle. So cutting yourself and your partner some slack is crucial. Effective parenting is all about adapting to your kid's routine. And then learning how to adjust to a new completely new routine in another few weeks. There will be plenty of mistakes and frustrations. Plenty of down nights and plenty of up nights. Plenty of ebbs and plenty of flows. It takes some time, but eventually you'll pick up the rhythm and learn to dance.
+* **Take breaks from your kids.** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital for your happiness and as tolerance for the insanity that raising young humans can bring. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
+* **Don't pass up snuggle moments.** It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out: your kids won't be this small forever. Don't quickly shrug off a "Daddy, hold you!" or "Could you snuggle with me tonight?" moment. It won't be long and your kid won't want much of anything to do with you. Treasure these times.
+* **Let your kids into your world.** When I was young, I remember trying my darndest to wake up earlier than normal just to have a slight chance of seeing my dad before he left for work. I remember working so hard to get myself up and ready for the day even though most days he would already be gone. Now as a dad, I'm more cognizant of those moments, when I can tell my daughter is trying to crack into my world. When she takes note of my morning routine and questions me if it differs from my normal. When she asks me how my day went when I get home from work. It's subtle, but it can mean the world to your kid.
+* **Err on the soft side.** Kids need structure and they need discipline. And for God's sake, give them some boundaries. But if at all possible, err on the gracious side with them. Sometimes just that little bit of patience during a fit or meltdown proves to be the key in a big teaching moment. Sometimes my own selfishness in wanting the fussing to just be over is the biggest impediment to my children's growth. Or sometimes they just need a nap.
+* **Give yourself grace.** The transition from young couple to young parents is severe. It often feels like two steps forward and then three steps back. It's easy to lose yourself in the shuffle. So cutting yourself and your partner some slack is crucial. Effective parenting is all about adapting to your kid's routine. And then learning how to adjust to a completely new routine in another few weeks. There will be plenty of mistakes and frustrations. Plenty of down nights and plenty of up nights. Plenty of ebbs and plenty of flows. It takes some time, but eventually you'll pick up the rhythm and learn to dance.
 
 ---
 
@@ -164,9 +164,9 @@ Miss a previous post?
 
 * [**Intro:** The Middle Chapters](/2018/04/23/intro-the-middle-chapters.html)
 * [**Part 1:** A Grown-Up Body...](/2018/04/30/part-1-a-grown-up-body.html)
-* [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
-* [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html)
-* [**Part 4:** Life In The Future](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)
+* [**Part 2:** Middling Age](/2018/05/07/part-2-middling-age.html)
+* [**Part 3:** A Grown-Up Soul...](/2018/05/14/part-3-a-grown-up-soul.html)
+* [**Part 4:** Life In The Future](/2018/05/21/part-4-life-in-the-future.html)
 
 ---
 
