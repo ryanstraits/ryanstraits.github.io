@@ -2,11 +2,11 @@
 title: 'Part 5: Forever Summer'
 date: 2018-06-18 16:00:00 -0500
 tags:
-- tag/fambly
-- tag/a-midlife-guide
-- tag/my-body-is-a-cage
-- tag/soul-driver
-- tag/now-that-im-older
+- fambly
+- a-midlife-guide
+- my-body-is-a-cage
+- soul-driver
+- now-that-im-older
 slug: part-5-forever-summer
 layout: post
 categories: ''
