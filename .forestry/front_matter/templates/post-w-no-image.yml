@@ -29,7 +29,7 @@ fields:
   name: tags
   label: Tags
   config:
-    use_select: true
+    use_select: false
     source:
       type: pages
       section: ''
@@ -55,16 +55,53 @@ fields:
   name: slug
   label: SLUG
   default: new-post
+- type: tag_list
 pages:
+- _drafts/_pages/part-4-life-in-the-future.md
+- _drafts/_pages/part-3-a-grown-up-soul.md
+- _drafts/_pages/part-2-middling-age.md
 - secret.md
-- tag/medium/index.html
-- part-5-forever-summer.md
-- part-4-life-in-the-future.md
-- part-3-a-grown-up-soul.md
+- tag/scenic-world/index.html
+- archive/index.html
+- tag/xanga/index.html
+- tag/working-mans-blues/index.html
+- tag/wolf-am-i/index.html
+- tag/we-laugh-indoors/index.html
+- tag/travelogue/index.html
+- tag/tour-blog/index.html
+- tag/time-is-a-bird/index.html
+- tag/the-promised-land/index.html
+- tag/that-sad-and-holy-glow/index.html
+- tag/svbtle/index.html
+- tag/squarespace/index.html
+- tag/spirit-in-the-night/index.html
+- tag/soul-driver/index.html
+- tag/skinny-love/index.html
 - tag/a-midlife-guide/index.html
+- tag/ride-on-right-on/index.html
+- tag/a-simple-answer/index.html
 - tag/options/index.html
+- tag/now-that-im-older/index.html
+- tag/my-body-is-a-cage/index.html
+- tag/medium/index.html
+- tag/land-of-hope-and-dreams/index.html
+- tag/kc-accidental/index.html
+- tag/jesus-etc/index.html
+- tag/its-hard-to-find-a-friend/index.html
+- tag/futures/index.html
+- tag/fambly/index.html
+- tag/exit-music-for-a-film/index.html
+- tag/dad-rock/index.html
+- tag/churches-under-the-stairs/index.html
+- tag/bloodbuzz-ohio/index.html
+- tag/all-is-a-game/index.html
+- tag/rehearsals-for-departure/index.html
+- part-5-forever-summer.md
 - index.html
-- part-2-middling-age.md
+- _drafts/_posts/2018-01-15-new-year-new-blog-things.md
+- _drafts/_posts/2015-07-27-growing-up-getting-older-part1.md
+- _drafts/_posts/2015-07-27-growing-up-getting-older-intro.md
+- _drafts/_posts/2015-07-27-blog-3.0.md
 - _posts/2018-06-18-part-5-forever-summer.md
 - _posts/2018-04-22-a-midlife-guide-to-growing-up.md
 - _posts/2018-04-29-part-1-a-grown-up-body.md
