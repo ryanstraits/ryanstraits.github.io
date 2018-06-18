@@ -16,11 +16,11 @@ categories: ''
 
 ---
 
-Parenthood is the most unique experience that 89% of all humans will share with one another at some point in their lives.
+Parenthood is the most unique experience that 90% of all humans will share with one another at some point in their lives.
 
 <!-- break -->
 
-<a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">89%</a>! How strange that something so common often feels so exclusive. Like we're the first one to go through it. Like we're on this island all alone. Sure, we might reach out. Ask for tips. Read books. Endure unwanted advice. But at the end of the day, we all think this parenting experience is ours and ours only.
+<a href="https://www.quora.com/Children-What-percentage-of-people-become-parents" target="_blank">90%</a>! How strange that something so common often feels so exclusive. Like we're the first one to go through it. Like we're on this island all alone. Sure, we might reach out. Ask for tips. Read books. Endure unwanted advice. But at the end of the day, we all think this parenting experience is ours and ours only.
 
 I think this is because--though humans have been rearing and raising younger humans for thousands and thousands of years--not one of them has parented _this_ exact child of mine before. This one "<a href="https://www.youtube.com/watch?v=EP5aqAC8PPY" target="blank">beautiful and unique snowflake</a>". This is _my_ kid.
 
@@ -59,6 +59,8 @@ Audrey has this unshakable inner core that is such pure, guileless naiveté. As 
 
 ![](/assets/images/Audrey&Me-Small.jpg)
 
+---
+
 My son is pure joy. His default facial position is a smile. And they're the kind of smiles that every muscle in his face participates in. There's no way it's not infectious. Who taught him how to smile like that?
 
 He also has this intensity and intention with whatever he is currently doing. I hope he takes it with him through the rest of his life. It will take him far in this world. Bennett is still young, but there are glimpses of this cheerful and effervescent personality starting to poke through. He's been such a blessing to us and a delightful surprise.
@@ -67,21 +69,19 @@ Your second child is this kind of complete new mystery. What would he even be li
 
 And then you meet him.
 
-And you see your children interact and love each other and your heart just floods with all the emotions. It's then you realize the reserves of your love as a parent are essentially boundless. And it's also about now when you realize that a vasectomy is a very real necessity.
+And you see your children interact and love each other and your heart just floods with all these emotions. It's then you realize the reserves of your love as a parent are essentially boundless. And it's also about now when you realize that a vasectomy is a very real necessity.
 
 ![](/assets/images/Benny&Me-Small.jpg)
 
 ---
 
-Again, I can't sugarcoat how tough parenthood is. The age old question of "Is it harder to go from one to two kids, or from two to three?" is a valid one. Having only fulfilled half of that question, I can't speak from a position of experience. However, from a purely mathematical perspective going from one to two kids is a 100% increase in children versus only a 50% jump going from two to three. So, it could be argued, having two kids is actually twice as hard as having three. Case closed? I'm sure parents of three or more kids would beg to differ.
+Again, I can't sugarcoat how tough parenthood is. I can't imagine having even one more kid than the two we have right now. But thinking about having three children does give me profound new respect for my own parents and how they raised my two sisters and I. In general, having kids of my own has given me a better sense of reverence for my parents and the decisions they made in parenting me. I have a better understanding of the weight they felt because I now feel a similar weight.
 
-I can't imagine having three kids at this point, but thinking about it does give me profound new respect for my own parents and how they raised my two sisters and I. In general, having kids of my own has given me a better sense of reverence for my parents and the decisions they made in parenting me. I have a better understanding of the weight they felt because I now feel a similar weight.
+There's an inherent déjà vu in parenting your kids. You often find yourself repeating the same phrases your parents did. Logic that seemed flawed to you throughout your entire childhood now starts to click. "Because I said so!" no longer seems unfair, but instead, a sensible shortcut that really just saves everyone involved a lot of time and exposition.
 
-There's an inherent déjà vu in parenting your kids. You often find yourself repeating similar phrases that your parents did. Logic that seemed flawed to you your entire life now starts to click. "Because I said so!" no longer seems unfair, but instead, a sensible shortcut that really just saves everyone involved a lot of time and exposition.
+I have a theory that all the best loves in life have one thing in common: you can't explain them.
 
-All the best loves in life have one thing in common: you can't explain them.
-
-I can't tell you why I get excited thinking about going home to see my kids the last hour of my work day. The smell of their hair, the squishiness of their cheeks, the unmistakeability of their laughs. They're enough of me to feel familiar but enough of their own person to keep me pushing to discover them further.
+I can't tell you why I get excited thinking about going home to see my kids the last hour of my work day. The smell of their hair, the squishiness of their cheeks, the unmistakeability of their laughs. There's enough of me inside them to feel familiar but enough of their own person in there to keep me pushing further.
 
 My kids are my favorite thing in life.
 
@@ -89,23 +89,19 @@ My kids are my favorite thing in life.
 
 ### Slow It Down A Measure
 
-They grow too fast. I know it's cliché, but you never think about just how short the time is with your young children until you're living through it yourself. It's essentially <>https://www.thebump.com/a/baby-milestone-chart<mere months>. Within a college semester your baby is already smiling & laughing; at half a year they're mobile in some capacity and within just a year, they're walking and talking. A year!
+They grow too fast. I know it's cliché, but you never think about just how short the time is with your young children until you're living through it yourself. It's essentially <a href="https://www.thebump.com/a/baby-milestone-chart" target="blank">mere months</a>. Within a college semester your baby is already smiling & laughing; at half a year they're mobile in some capacity and within just a year, they're walking and talking. A year!
 
-I think we see pictures of ourselves as babies and think that this first stage of life lasts forever. But when you get to mid-life and have kids of your own, you quickly realize that it truly doesn't. We think this period of life raising kids is so long because it _felt_ so long to us growing up.
+I think we see pictures of ourselves as babies and think that these early stages of life must last forever. We think this period of life raising kids is so long because it _felt_ so long to us growing up.
 
-Hear me out, my friends, this is the fastest I've felt my life fly by and no matter what I try to do to hack my time, I can't slow it down. So all that talk earlier about cherishing life right now, about slowing it down, I have to confess:
+But hear me out, my friends: this is the fastest I've ever felt my life flying by and no matter what I try to do to hack my time, I can't slow it down. So <a href="http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html" target="blank">all that talk earlier about cherishing life right now</a>, about slowing it down, I have to confess:
 
 It doesn't work.
 
 At least not when it comes to my kids. They are growing faster than my synapses can process. And it breaks my heart.
 
-My children are still so young. But there are moments when the light hits them a certain way as they're sleeping, or the shadows stretch across their faces while they're playing and they somehow look a year or two older. And I can't help it, the future comes flooding in with a flurry of instances all at once. Like I accidentally sat on the remote and jammed the fast-forward button.
+My children are still so young, but there are moments when the light hits them a certain way as they're sleeping, or the shadows stretch across their faces while they're playing and somehow my brain projects them to be a year or two older than they are. And I can't help it, the future comes flooding in as a flurry of instances flash by me all at once. Like I accidentally sat on the remote and jammed the fast-forward button.
 
-And I can't take it, it overwhelms me.
-I know these times are fleeting.
-And I'm absolutely helpless to stop them.
-I can shout, I can grit my teeth, I can hold on to them so, so tightly.
-But nothing I do will bring today back.
+And I can't take it, it overwhelms me. I know these times are fleeting. And I'm absolutely helpless to stop them. I can shout, I can grit my teeth, I can hold on to them so, so tightly. But nothing I do will bring back today.
 
 My little girl and baby boy are never going to be as little as they were today.
 
@@ -119,7 +115,9 @@ and faster...
 
 ---
 
-> Your children are not your children. They are the sons and daughters of Life's longing for itself.
+> Your children are not your children.
+>
+> They are the sons and daughters of Life's longing for itself.
 >
 > They come through you but not from you,
 >
@@ -144,14 +142,14 @@ and faster...
 > Let your bending in the archer's hand be for gladness;
 >
 > For even as He loves the arrow that flies, so He loves also the bow that is stable.
->
-> * "On Children" by Kahlil Gibran
+
+* "On Children" by Kahlil Gibran
 
 ---
 
-Next week, we'll look closer at a phenomenon that I have noticed myself and a lot of other young dads experiencing. Oh yeah, and also a few ways I've tried to slow down time during a stage of life that I don't want to end.
+Next week, I'll take a deeper dive into parenthood, and more specifically fatherhood and the strange melancholy I have noticed myself and a lot of other young dads experiencing.
 
-But first! I'll leave you with a few practical tips on parenting that my wife and I have picked up over the past five years or so:
+But first! A few practical tips on parenting that my wife and I have picked up over the past five years or so:
 
 * **Take breaks from your kids.** I know this is a redundant point from the marriage section, but that's only because it's so important. Self-care is a very real need when you have kids. Time by yourself or with only your spouse is so vital to your happiness and tolerance for the insanity that raising young humans brings with it. If you want to have happy and healthy kids, you need to first be happy and healthy yourself.
 * **Don't pass up snuggle moments.** It's easy to get drained at the end of the day and want to just get the kids to bed. But hear me out, your kids won't be small forever. Don't lightly pass up a "Daddy, hold you!" Don't quickly shrug off a "Could you snuggle me?" It won't be long and your kid won't want anything to do with you. Treasure these times.
