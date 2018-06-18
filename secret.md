@@ -19,7 +19,7 @@ For Pirate Eyes Only...
 * [**Part 2:** Middling Age](http://blog.ryanstraits.com/2018/05/07/part-2-middling-age.html)
 * [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-4-a-grown-up-soul.html)
 * [**Part 4:** Life In The Future](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)
-* [**Part 5:** Forever Summer](/part-5-forever-summer)
+* [**Part 5:** Forever Summer](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html)
 * **Part 6:** The Dad Mule
 * **Part 7:** A Grown-Up Spirit...
 * **Part 8:** Title TBD
