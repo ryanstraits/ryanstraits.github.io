@@ -32,7 +32,7 @@ fields:
     use_select: true
     source:
       type: pages
-      section: pages
+      section: ''
   default: []
 - type: select
   name: categories
