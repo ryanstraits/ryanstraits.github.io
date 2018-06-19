@@ -1,6 +1,6 @@
 ---
 title: 'Part 3: A Grown Up Soul...'
-date: 2018-05-14 13:00:00 -0500
+date: 2018-05-14 18:00:00 +0000
 tags:
 - soul-driver
 - travelogue
@@ -11,6 +11,7 @@ layout: post
 comments: true
 categories: ''
 hidden: false
+undefined: []
 ---
 ![](/assets/images/Part 3 Banner-small.png)
 
@@ -190,7 +191,7 @@ We're living in _the future_.
 
 ---
 
-Next week, we'll take a look at what life in the future has been like for me as a husband and a father over the past few years. Thanks for reading!
+[Next](/2018/05/07/part-2-middling-age.html), we'll take a look at what life in the future has been like for me as a husband and a father over the past few years. Thanks for reading!
 
 ---
 
