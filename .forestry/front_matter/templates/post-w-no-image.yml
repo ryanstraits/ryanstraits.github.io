@@ -57,10 +57,10 @@ fields:
   default: new-post
 - type: tag_list
 pages:
+- secret.md
 - _drafts/_pages/part-4-life-in-the-future.md
 - _drafts/_pages/part-3-a-grown-up-soul.md
 - _drafts/_pages/part-2-middling-age.md
-- secret.md
 - tag/scenic-world/index.html
 - archive/index.html
 - tag/xanga/index.html

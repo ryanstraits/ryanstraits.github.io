@@ -7,6 +7,7 @@ categories: ''
 hidden: true
 comments: false
 slug: secret
+undefined: []
 ---
 <br><br>
 
@@ -20,8 +21,9 @@ For Pirate Eyes Only...
 * [**Part 3:** A Grown-Up Soul...](http://blog.ryanstraits.com/2018/05/14/part-4-a-grown-up-soul.html)
 * [**Part 4:** Life In The Future](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)
 * [**Part 5:** Forever Summer](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html)
-* **Part 6:** The Dad Mule
-* **Part 7:** A Grown-Up Spirit...
-* **Part 8:** Title TBD
+* **Part 6:** The Golden Age
+* **Part 7:** Present Nostalgia
+* **Part 8:** A Grown-Up Spirit...
 * **Part 9:** Title TBD
 * **Part 10:** Title TBD
+* **Part 11:** Title TBD
