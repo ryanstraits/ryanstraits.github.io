@@ -1,6 +1,6 @@
 ---
 title: 'Part 4: Life In The Future'
-date: 2018-05-21 13:00:00 -0500
+date: 2018-05-21 18:00:00 +0000
 tags:
 - a-midlife-guide
 - now-that-im-older
@@ -11,6 +11,7 @@ layout: post
 comments: true
 categories: ''
 hidden: false
+undefined: []
 ---
 ![](/assets/images/Part 4 Banner-small.png)
 
@@ -121,7 +122,7 @@ Now, quickly, a few tips that have helped my wife and I immensely in our first f
 
 ---
 
-Speaking of parenthood...that's what we'll be covering next week! Tune in then.
+Speaking of parenthood...that's what we'll be covering [next](/2018/06/18/part-5-forever-summer.html)! Tune in then.
 
 Miss a previous post?
 
