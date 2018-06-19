@@ -122,7 +122,7 @@ Now, quickly, a few tips that have helped my wife and I immensely in our first f
 
 ---
 
-Speaking of parenthood...that's what we'll be covering [next](/2018/06/18/part-5-forever-summer.html)! Tune in then.
+Speaking of parenthood...that's what we'll be covering [next](/2018/06/18/part-5-forever-summer.html)!
 
 Miss a previous post?
 
