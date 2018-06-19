@@ -191,7 +191,7 @@ We're living in _the future_.
 
 ---
 
-[Next](/2018/05/07/part-2-middling-age.html), we'll take a look at what life in the future has been like for me as a husband and a father over the past few years. Thanks for reading!
+[Next](/2018/05/21/part-4-life-in-the-future.html), we'll take a look at what life in the future has been like for me as a husband and a father over the past few years. Thanks for reading!
 
 ---
 
