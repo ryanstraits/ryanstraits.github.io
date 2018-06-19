@@ -67,8 +67,7 @@ Here's a rough road-map of where we'll be going over the next few weeks and mont
 * [**Part 5:** Forever Summer](/2018/06/18/part-5-forever-summer.html)
 * **Part 6:** The Golden Age   _(Coming June 25th)_
 * **Part 7:** Present Nostalgia   _(Coming July 2nd)_
-* **Part 7:** A Grown-Up Spirit...   _(Coming Late Summer)_
-* **Part 8:** Title TBD   _(Coming Late Summer)_
+* **Part 8:** A Grown-Up Spirit...   _(Coming Late Summer)_
 * **Part 9:** Title TBD   _(Coming Late Summer)_
 * **Part 10:** Title TBD   _(Coming Late Summer)_
 
