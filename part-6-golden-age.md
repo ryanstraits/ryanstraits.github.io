@@ -13,7 +13,6 @@ categories: ''
 hidden: true
 comments: true
 undefined: []
-published: false
 ---
 There are days I wake up and it's as if I've been startled from some strange dream.
 
