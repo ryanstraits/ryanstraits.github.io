@@ -2,12 +2,16 @@
 title: 'Part 6: Golden Age'
 date: 2018-06-25 13:00:00 -0500
 tags:
+- soul-driver
+- now-that-im-older
+- fambly
+- dad-rock
 - a-midlife-guide
-slug: new-post
+slug: part-7-golden-age
 layout: post
 categories: ''
-hidden: false
-comments: false
+hidden: true
+comments: true
 undefined: []
 published: false
 ---
