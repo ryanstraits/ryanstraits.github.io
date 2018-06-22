@@ -57,6 +57,7 @@ fields:
   default: new-post
 - type: tag_list
 pages:
+- part-6-golden-age.md
 - secret.md
 - _drafts/_pages/part-4-life-in-the-future.md
 - _drafts/_pages/part-3-a-grown-up-soul.md
