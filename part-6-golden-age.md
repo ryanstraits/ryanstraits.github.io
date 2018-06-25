@@ -28,6 +28,8 @@ But instead I'm greeted by the pitter-patter of little feet. And tiny shrieks of
 
 And all the warmth and color of the world suddenly floods back in. This is my golden age.
 
+***
+
 I'm just so unworthy of any of it.
 
 Not even eight years ago, I was just a single guy living in this one-bedroom apartment on 3rd Street in the little town of Dover, Ohio. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
@@ -59,12 +61,26 @@ And now, seven years later, this blueness plays itself out in a little phenomeno
 But first, we need to talk a little about Mary Poppins. Specifically, we need to talk about George Banks, the father figure in Mary Poppins.
 
 > **Bert:** Let's sit down. You know, begging your pardon, but the one my heart goes out to is your father. There he is, in that cold heartless bank day after day, hammed in by mounds of cold heartless money. I don't like to see any living thing caged up.
+>
+> 
 > **Jane:** Father in a cage?
+>
+> 
 > **Bert:** They makes cages of all sizes and shapes, you know. Bank-shaped, some of them, carpets and all.
+>
+> 
 > **Jane:** Father's not in trouble. We are.
+>
+> 
 > **Bert:** Oh. Sure about that, are you? Look at it this way. You've got your mother to look after you and Mary Poppins and Constable Jones and me. Who looks after your father? Tell me that. When something terrible happens, what does he do? Fends for himself, he does. Who does he tell about it? No one. Don't blab his troubles at home. He just pushes on at his job, uncomplaining and alone and silent.
+>
+> 
 > **Michael:** He's not very silent.
+>
+> 
 > **Jane:** Michael, be quiet. Bert, do you think father really needs our help?
+>
+> 
 > **Bert:** Well, it's not my place to say. I only observe that a father can always do with a bit of help. Come on, I'll take you home.
 
 I watched _Mary Poppins_ a lot as a kid. So much so, that I think I probably could've spelled supercalifragilisticexpialidocious before I was in Kindergarten. My mom was obsessed with Julie Andrews and so my sisters and I were marinated in a lot of her work early in life. I have concerned many a friend with my insanely detailed lyrical recollection of the _Sound of Music_.
@@ -73,7 +89,7 @@ Now that my daughter is deepening her Disney movie-viewing resume, Mary Poppins 
 
 There's no doubt she's my kid.
 
-Re-watching _Mary Poppins_ now as an adult with a more fully-formed brain, is quite the surreal experience. I'm amazed at some of the more abstract--and even bleak--plot points that had just gone over my head as a kid. Go back and watch it again, it's kind of a <a href="https://www.buzzfeed.com/leonoraepstein/mary-poppins-is-actually-an-extremely-messed-up-movie?utm_term=.relMK4KBG6#.au6qv1vMGZ" target=blank">messed up movie</a>. There are long stretches of itthat are strangely melancholic and gloomy. The ascetic is dominated by gray and the weather is mostly stormy for the majority of the film. I know it was the 60's, but that's still quite odd for a children-focused film. And a Disney one at that.
+Re-watching _Mary Poppins_ now as an adult with a more fully-formed brain, is quite the surreal experience. I'm amazed at some of the more abstract--and even bleak--plot points that had just gone over my head as a kid. Go back and watch it again, it's kind of a <a href="https://www.buzzfeed.com/leonoraepstein/mary-poppins-is-actually-an-extremely-messed-up-movie?utm_term=.relMK4KBG6#.au6qv1vMGZ" target="blank">messed up movie</a>. There are long stretches of itthat are strangely melancholic and gloomy. The ascetic is dominated by gray and the weather is mostly stormy for the majority of the film. I know it was the 60's, but that's still quite odd for a children-focused film. And a Disney one at that.
 
 The entire bit near the end where the kids accompany their father to the bank is particularly bleak. I remember it scaring me as a child. The bird woman. The tall arching buildings. The back alleys with Cockney's poking out here and there. The whole sequence winds up culminating in Bert's aforementioned monologue, as the children begin to see their rigid father in a whole, new light.
 
