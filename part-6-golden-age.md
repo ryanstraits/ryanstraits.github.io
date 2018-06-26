@@ -16,7 +16,9 @@ undefined: []
 ---
 ![](/assets/images/Part 6 Banner-small.png)
 
-There are days I wake up and it's as if I've been startled from some strange dream.
+***
+
+There are days I wake up as if I've been startled from some strange dream.
 
 <!-- break -->
 
@@ -28,9 +30,9 @@ Instead, I'm greeted with the pitter-patter of little feet. And tiny shrieks of 
 
 "Dada! Dada!"
 
-And all the warmth and color of the world suddenly floods back in. 
+And all the warmth and color of the world suddenly floods back in.
 
-Is this is really my life now? 
+Is this is really my life now?
 
 Because most days I feel just so unworthy of any of it.
 
