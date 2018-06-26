@@ -82,27 +82,41 @@ But first, we need to talk a little about _Mary Poppins_. Yes, you heard me righ
 >
 > **Bert:** Well, it's not my place to say. I only observe that a father can always do with a bit of help. Come on, I'll take you home.
 
+![](/assets/images/BertAndTheChildren.JPG)
+
+This bit of dialogue is of course from the scene near the end of the film, when Bert runs into the Banks children in the back alleys of London after they had fled their Father's _Fidelity Fiduciary Bank_.
+
 I watched _Mary Poppins_ a lot as a kid. Not enough that I could spell "supercalifragilisticexpialidocious", but enough that I could sing the song from memory. My mom was a pretty big Julie Andrews fan and so my sisters and I were marinated in a lot of her work early in our lives. I have concerned many a friend with my insanely detailed lyrical recollection of the _Sound of Music_.
 
 Now that my daughter is deepening her Disney movie-viewing resume, Mary Poppins was the natural next step after the animated classics. Audrey loves the "Steppin' Time" bit just about as much as I did as a kid. It was my _favorite_ part of the movie. I would've died to be a chimney sweep just so I could dance across all those London rooftops.
 
 Audrey has taken my Steppin' love to the next level, however. For her 3rd birthday, she wanted the party to be _Mary Poppins_ themed with chimney sweeps prominently featured. "Steppin' Time" played on a loop in the background. There's no doubt she's my kid.
 
-Re-watching _Mary Poppins_ now as an adult, with a more fully-formed brain, is quite the surreal experience I have to say. I'm amazed at some of the more abstract--and even bleak--plot points that went straight over my head as a kid. Go back and watch it again, it's kind of a <a href="https://www.buzzfeed.com/leonoraepstein/mary-poppins-is-actually-an-extremely-messed-up-movie?utm_term=.relMK4KBG6#.au6qv1vMGZ" target="blank">messed up movie</a>. There are long stretches of itthat are strangely melancholic and gloomy. The ascetic is dominated by gray and the weather is mostly stormy for the majority of the film. I know it was the 60's, but that's still quite odd for a children-focused film. And a Disney one at that.
+Re-watching _Mary Poppins_ now as an adult, with a more fully-formed brain, is quite the surreal experience I have to say. I'm amazed at some of the more abstract--and even bleak--plot points that went straight over my head as a kid. Go back and watch it again, it's kind of a <a href="https://www.buzzfeed.com/leonoraepstein/mary-poppins-is-actually-an-extremely-messed-up-movie?utm_term=.relMK4KBG6#.au6qv1vMGZ" target="blank">messed up movie</a>. There are long stretches of it that are strangely melancholic and gloomy. The ascetic is dominated by gray and the weather is mostly stormy for the majority of the film. I know it was the 60's, but that's still quite odd for a children-focused film. And a Disney one at that.
 
-The entire bit near the end where the kids accompany their father to the bank is particularly bleak. I remember it scaring me as a child. The bird woman. The tall arching buildings. The back alleys with Cockney's poking out here and there. The whole sequence winds up culminating in Bert's aforementioned monologue, as the children begin to see their rigid father in a whole, new light.
+The entire bit near the end where the kids accompany their father to the bank is particularly bleak. I distinctly remember it scaring me as a child. The bird woman. The tall arching buildings. The back alleys with Cockney's poking out here and there. The whole sequence winds up culminating in Bert's aforementioned monologue, as the children begin to see their rigid father in a whole, new light.
 
-I hadn't paid that much attention to the <a href="https://www.youtube.com/watch?v=bDsBFbjCewg" target="blank">little talk Bert gives in this scene</a> before. But then I learned a bit more about the back-story of Mary Poppins and it's author, P.L. Travers, and the pieces started to fall more into place.
+I hadn't paid that much attention to the <a href="https://www.youtube.com/watch?v=bDsBFbjCewg" target="blank">little talk Bert gives in that scene</a> before. But then I read up a bit more on the back-story of _Mary Poppins_ and it's author, P.L. Travers, and the stranger, gloomier elements of the film started making more sense.
 
 ***
 
 In 2013, Disney released a film called _Saving Mr. Banks_ starring Tom Hanks & Emma Thompson that loosely chronicles the making of the _Mary Poppins_ book into the beloved movie. It's not a documentary, I get it, but bare with me here. In it, Hanks' Disney is trying to win over Thompson's Travers to get the film rights to her popular Poppins book so he can turn it into one of his signature films. She's a tough nut to crack and he's understandably nonplussed as his overtures at gaining her blessing are repeatedly and roundly objected.
 
-It's an entertaining and under-appreciated film, in my view. But the crux of the plot rests on Disney trying to get to the heart of Travers' inspiration for the film, and why she is so persistent at protecting it and not letting Disney apply so many of his classic stylistic and musical touches. He had originally viewed it as a fantastical retelling of her youth growing up and thought adding song and animated creatures would fit right in with her vision.
+![](/assets/images/gallery_02.jpg)
 
-He was partially correct, he finds out, but by the end realizes that he had wrongly placed the children as the ones who needed to be saved by Mary Poppins from their father. And indeed, watching the movie as a kid, that's the way I had viewed the film as well.
+***
 
-When in actuality, she wrote the book as a means of redemption for her own father.
+It's an entertaining and under-appreciated film, but the crux of the plot rests on Disney trying to get to the heart of Travers' inspiration for the book, and why she is so persistent at protecting it by denying Disney's recreation so many of his classic stylistic and musical touches. He had originally viewed it as a fantastical retelling of her youth growing up and thought adding song and animated creatures would fit right in with her vision.
+
+He was partially correct, he finds out, but by the end realizes that he had wrongly placed the children as the central figures of the story and the reason that Mary Poppins came. And indeed, watching the movie as a kid, that was the way I interpreted the film.
+
+But to do that, I had to edit out the bleaker, more _boring_ scenes like the one above, or the one when Bert sings that duet with Mr. Banks while he's cleaning his chimney brushes. I glossed over these scenes as a kid because they weren't _for me_. They were for dads.
+
+![](/assets/images/Marypoppins-disneyscreencaps_com-13503.jpg)
+
+***
+
+Travers wrote the book as a means of redemption for her own father.
 
 > **Walt Disney:** ...It's not the children she comes to save. It's their father. It's _your_ father... Travers Goff.
 >
@@ -114,4 +128,8 @@ It's the father that needed saving, not the kids.
 
 Mr. Banks, so cold and regimented in his daily routine of tuppence and fiduciary banks, had forgotten his innocence and lost his love for life. The story is a love letter to her own father.
 
+And there's the genius of Disney.
+
 I have to be honest, this gripped me more than I was expecting.
+
+![](/assets/images/2A4285BC00000578-3150491-Mary_Poppins_series_was_turned_into_a_film_by_Walt_Disney_and_be-a-6_1436143235259.jpg)
