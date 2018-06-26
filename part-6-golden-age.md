@@ -30,7 +30,7 @@ Instead, I'm greeted with the pitter-patter of little feet. And tiny shrieks of 
 
 And all the warmth and color of the world suddenly floods back in. 
 
-This is really my life now? 
+Is this is really my life now? 
 
 Because most days I feel just so unworthy of any of it.
 
@@ -52,9 +52,9 @@ If my life had a low point, this was undeniably it.
 
 Now, I'm not naive enough to think that I had any kind of a cursed life. I was, and am still, incredibly privileged and blessed. It's not that my life was heading in some bad direction. It's that it just wasn't heading in any particular direction at all.
 
-In a life full of mostly safe and orderly choices, I needed a decision that I couldn't turn back from. So I met a girl, I moved four states away and the rest is <link>history</a>. That decision proved to be a much needed jolt to my social life. A brand new city to explore with a brand new group of friends! A girl to fall in love with and to start a new life with.
+In a life full of mostly safe and orderly choices, I needed a decision that I couldn't turn back from. So I met a girl, I moved four states away and the rest is [history](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html). That decision proved to be a much needed jolt to my social life. A brand new city to explore with a brand new group of friends! A girl to fall in love and start a new life with.
 
-It was great and I very much love my life and that girl and those friends and this new home away from home. But that freshness eventually wore off, as fresh things are wont to do.
+It was great and I very much love my life and that girl and those friends and this new home away from home. But the freshness eventually wore off, as fresh things are wont to do.
 
 And that pesky blueness somehow stuck around. Like a mental note that never quite made it from my short term to long term memory. Or a paragraph that I long since deleted, but my brain's cursor is still sitting there, blinking.
 
