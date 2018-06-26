@@ -14,6 +14,8 @@ hidden: true
 comments: true
 undefined: []
 ---
+![](/assets/images/Part 6 Banner-small.png)
+
 There are days I wake up and it's as if I've been startled from some strange dream.
 
 <!-- break -->
@@ -100,10 +102,8 @@ When in actuality, she wrote the book as a means of redemption for her own fathe
 
 > **Walt Disney:** ...It's not the children she comes to save. It's their father. It's _your_ father... Travers Goff.
 >
-> 
 > **P.L. Travers:** I don't know what you think you know about me, Walter...
 >
-> 
 > **Walt Disney:** You must have loved and admired him a lot to take his name. It's him this is all about, isn't it? All of it, everything. Forgiveness, Mrs. Travers, it's what I learned from your books.
 
 It's the father that needed saving, not the kids.
