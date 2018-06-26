@@ -56,9 +56,9 @@ In a life full of mostly safe and orderly choices, I needed a decision that I co
 
 It was great and I very much love my life and that girl and those friends and this new home away from home. But the freshness eventually wore off, as fresh things are wont to do.
 
-And that pesky blueness somehow stuck around. Like a mental note that never quite made it from my short term to long term memory. Or a paragraph that I long since deleted, but my brain's cursor is still sitting there, blinking.
+And that pesky blueness somehow stuck around. Like a mental note that never quite made it from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor is still sitting there, blinking.
 
-And now, seven years later, this blueness plays itself out in a little phenomenon I've dubbed "The Dad Mule".
+And now, years later, this blueness continues to play itself out in a little phenomenon I've dubbed "The Dad Mule".
 
 ***
 
