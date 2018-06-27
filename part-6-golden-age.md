@@ -130,7 +130,7 @@ In fact, as _Saving Mr. Banks_ would go on to reveal (spoilers!), Travers wrote 
 
 It's Mr. Banks that needed the saving, not the kids. He, so cold and regimented in his daily routine of tuppence and fiduciary banks, had lost something somewhere along the way, and Travers literally wrote a messiah character to come down out of the clouds, not to indict the father on behalf of the children, but to help him reclaim what he had lost.
 
-As a dad, I have to be honest, this gripped me more than I was expecting. Because _I get it now_. It's 
+As a dad, I have to be honest, this gripped me more than I was expecting. Because _I get it now_. Being a dad is tough.
 
 ![](/assets/images/2A4285BC00000578-3150491-Mary_Poppins_series_was_turned_into_a_film_by_Walt_Disney_and_be-a-6_1436143235259.jpg)
 
