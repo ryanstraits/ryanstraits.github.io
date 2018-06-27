@@ -120,7 +120,7 @@ But to do that, I had to edit out the bleaker, more _boring_ scenes like the one
 
 ***
 
-In fact, as Saving Mr. Banks would go on to reveal (spoilers!) Travers wrote the book in an attempt to forgive and redeem her own father.
+In fact, as _Saving Mr. Banks_ would go on to reveal (spoilers!), Travers wrote the book in an attempt to forgive and redeem her own father.
 
 > **Walt Disney:** ...It's not the children she comes to save. It's their father. It's _your_ father... Travers Goff.
 >
@@ -128,10 +128,10 @@ In fact, as Saving Mr. Banks would go on to reveal (spoilers!) Travers wrote the
 >
 > **Walt Disney:** You must have loved and admired him a lot to take his name. It's him this is all about, isn't it? All of it, everything. Forgiveness, Mrs. Travers, it's what I learned from your books.
 
-It's Mr. Banks that needed saving, not the kids. He, so cold and regimented in his daily routine of tuppence and fiduciary banks, had lost something somewhere along the way. And Mary Poppins didn't literally messiah her way down from the clouds to indict the father on behalf of the children, she came to reclaim a bit of what he lost.
+It's Mr. Banks that needed the saving, not the kids. He, so cold and regimented in his daily routine of tuppence and fiduciary banks, had lost something somewhere along the way, and Travers literally wrote a messiah character to come down out of the clouds, not to indict the father on behalf of the children, but to help him reclaim what he had lost.
+
+As a dad, I have to be honest, this gripped me more than I was expecting. Because _I get it now_. It's 
 
 ![](/assets/images/2A4285BC00000578-3150491-Mary_Poppins_series_was_turned_into_a_film_by_Walt_Disney_and_be-a-6_1436143235259.jpg)
 
 ### The Dad Mule
-
-I have to be honest, this gripped me more than I was expecting.
