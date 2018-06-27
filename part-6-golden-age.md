@@ -22,7 +22,7 @@ There are days I wake up as if I've been startled from some strange dream.
 
 <!-- break -->
 
-And all at once, I'm a single man again who somehow found himself laying in a married man's bed. I'm a father  stepping out into a bachelor's slippers. It's then this starry fog washes over me and I'm suddenly privy to the cracks in the alternate universe I've come to find myself in. I look in the mirror and don't recognize the lined, graying face staring back at me. I go about my day with the nagging guilt that I've somehow stolen this beautiful life from some other charmed version of myself.
+And all at once, I'm a single man again who somehow found himself laying in a married man's bed. I'm a father sliding my feet back into a bachelor's slippers. It's then that this starry fog washes over me and I'm suddenly privy to the cracks in the alternate universe I've come to find myself in. I look in the mirror and don't recognize the lined, graying face staring back at me. I go about my day with the nagging guilt that I've somehow stolen this beautiful life from some other charmed version of myself.
 
 I lumber through my daily routine like it's second nature to be living this peculiar man's life. Tripping over hair bows and toy trucks that have accidentally found their way to my floor. When the day is done, I come home and half expect to only hear the empty thud of the door as it latches behind me.
 
@@ -32,9 +32,9 @@ Instead, I'm greeted with the pitter-patter of little feet. And tiny shrieks of 
 
 And all the warmth and color of the world suddenly floods back in.
 
-Is this is really my life now?
+Is this is really my life?
 
-Because most days I feel just so unworthy of any of it.
+This is my golden age.
 
 ***
 
@@ -42,27 +42,27 @@ Just eight years ago, I was just a single guy living in that shabby one-bedroom 
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
-As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt. I was in a fun rock band for a few years. I had some great friends. I went to the local community college and paid as I went. I never moved too far from my hometown, so family was always close by.
+As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt. I was in a fun rock band for a few years. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. I never moved too far from my hometown, so family was always close by.
 
-These were all great things! So why then was I so profoundly unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on my couch after downing half a six-pack.
+These were all great things! So why then was I so unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on the couch after downing half a six-pack.
 
-Nights like these happened too frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered, I still don't quite know how to frame the unique sadness I felt then. I think more than anything, I was just very blue. The kind of feeling that your life should be something else but it just isn't yet.
+Nights like these happened too frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered, I still don't quite know how to frame the unique sadness I felt then. I think more than anything, I was just very blue. 
 
-A combination of friends getting married and other friends starting families ripped any of the common ground we once shared right out from under my feet. It was just a lonely time.
+The kind of feeling that your life should be something else but it just isn't yet.
 
-If my life had a low point, this was undeniably it.
+A combination of friends getting married and other friends starting families ripped any of the common ground we once shared right out from under my feet. It was just a lonely time. If my life had a low point, this was undeniably it.
 
-Now, I'm not naive enough to think that I had any kind of a cursed life. I was, and am still, incredibly privileged and blessed. It's not that my life was heading in some bad direction. It's that it just wasn't heading in any particular direction at all.
+Now, I'm not naive enough to think that I had any kind of a cursed life. I was, and am still, incredibly privileged and blessed. It's not that my life was heading in some bad direction. _It's that it just wasn't heading in any particular direction at all._
 
 In a life full of mostly safe and orderly choices, I needed a decision that I couldn't turn back from. So I met a girl, I moved four states away and the rest is [history](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html). That decision proved to be a much needed jolt to my social life. A brand new city to explore with a brand new group of friends! A girl to fall in love and start a new life with.
 
-It was great and I very much love my life and that girl and those friends and this new home away from home. That freshness eventually wore off, though, as fresh things are wont to do.
+It was great and I very much love my life and that girl and those friends and this new home away from home. But freshness eventually wore off, as fresh things are wont to do.
 
-But that pesky blueness somehow stuck around. Like a mental note that never quite made it from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor is still sitting there, blinking.
+And that pesky blueness somehow stuck around. Like a mental note that never quite made it from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor is still sitting there, blinking.
 
-And now, several years and children later, this blueness is all grown up and turned itself into something I've dubbed "The Dad Mule".
+And now, several years later, this blueness is all grown up, with responsibilities, a career, and mouths to feed. It's something that I've started to call "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
 
-But first, we need to talk a little about _Mary Poppins_. Yes, you heard me right. Specifically, we need to talk about George Banks, the father figure in _Mary Poppins_.
+We'll get to that in a minute. First, we need to talk a little about _Mary Poppins_. Yes, you heard me right. Specifically, we need to talk about George Banks, the bland, bulbous father figure in the 1964 Disney adaptation of the famous tale.
 
 ***
 
@@ -85,6 +85,8 @@ But first, we need to talk a little about _Mary Poppins_. Yes, you heard me righ
 > **Bert:** Well, it's not my place to say. I only observe that a father can always do with a bit of help. Come on, I'll take you home.
 
 ![](/assets/images/BertAndTheChildren.JPG)
+
+***
 
 This bit of dialogue is of course from the scene near the end of the film, when Bert runs into the Banks children in the back alleys of London after they had fled their Father's _Fidelity Fiduciary Bank_.
 
@@ -110,15 +112,15 @@ In 2013, Disney released a film called _Saving Mr. Banks_ starring Tom Hanks & E
 
 It's an entertaining and under-appreciated film, but the crux of the plot rests on Disney trying to get to the heart of Travers' inspiration for the book, and why she is so persistent at protecting it by denying Disney's recreation so many of his classic stylistic and musical touches. He had originally viewed it as a fantastical retelling of her youth growing up and thought adding song and animated creatures would fit right in with her vision.
 
-He was partially correct, he finds out, but by the end realizes that he had wrongly placed the children as the central figures of the story and the reason that Mary Poppins came. And indeed, watching the movie as a kid, that was the way I interpreted the film.
+He was partially correct, he finds out, but by the end realizes that he had wrongly placed the children as the central figures of the story and the reason that Mary Poppins came. And indeed, watching the movie as a kid, that was the way I interpreted it too.
 
-But to do that, I had to edit out the bleaker, more _boring_ scenes like the one above, or the one when Bert sings that duet with Mr. Banks while he's cleaning his chimney brushes. I glossed over these scenes as a kid because they weren't _for me_. They were for dads.
+But to do that, I had to edit out the bleaker, more _boring_ scenes like the one above, or the one when Bert sings that duet with Mr. Banks while he's cleaning his chimney brushes. I glossed over these scenes as a kid because they weren't _for me_. 
 
 ![](/assets/images/Marypoppins-disneyscreencaps_com-13503.jpg)
 
 ***
 
-Travers wrote the book as a means of redemption for her own father.
+In fact, as Saving Mr. Banks would go on to reveal (spoilers!) Travers wrote the book in an attempt to forgive and redeem her own father.
 
 > **Walt Disney:** ...It's not the children she comes to save. It's their father. It's _your_ father... Travers Goff.
 >
@@ -126,12 +128,14 @@ Travers wrote the book as a means of redemption for her own father.
 >
 > **Walt Disney:** You must have loved and admired him a lot to take his name. It's him this is all about, isn't it? All of it, everything. Forgiveness, Mrs. Travers, it's what I learned from your books.
 
-It's the father that needed saving, not the kids.
+It's Mr. Banks that needed saving, not the kids.
 
-Mr. Banks, so cold and regimented in his daily routine of tuppence and fiduciary banks, had forgotten his innocence and lost his love for life. The story is a love letter to her own father.
+Mr. Banks, so cold and regimented in his daily routine of tuppence and fiduciary banks, had lost the plot somewhere.. The story is a love letter to her own father.
 
 And there's the genius of Disney.
 
 I have to be honest, this gripped me more than I was expecting.
 
 ![](/assets/images/2A4285BC00000578-3150491-Mary_Poppins_series_was_turned_into_a_film_by_Walt_Disney_and_be-a-6_1436143235259.jpg)
+
+\###The Dad Mule
