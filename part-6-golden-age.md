@@ -46,7 +46,7 @@ As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grow
 
 These were all great things! So why then was I so unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on the couch after downing half a six-pack.
 
-Nights like these happened too frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered, I still don't quite know how to frame the unique sadness I felt then. I think more than anything, I was just very blue. 
+Nights like these happened too frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered, I still don't quite know how to frame the unique sadness I felt then. I think more than anything, I was just very blue.
 
 The kind of feeling that your life should be something else but it just isn't yet.
 
@@ -114,7 +114,7 @@ It's an entertaining and under-appreciated film, but the crux of the plot rests 
 
 He was partially correct, he finds out, but by the end realizes that he had wrongly placed the children as the central figures of the story and the reason that Mary Poppins came. And indeed, watching the movie as a kid, that was the way I interpreted it too.
 
-But to do that, I had to edit out the bleaker, more _boring_ scenes like the one above, or the one when Bert sings that duet with Mr. Banks while he's cleaning his chimney brushes. I glossed over these scenes as a kid because they weren't _for me_. 
+But to do that, I had to edit out the bleaker, more _boring_ scenes like the one above, or the one when Bert sings that duet with Mr. Banks while he's cleaning his chimney brushes. I glossed over these scenes as a kid because they weren't _for me_.
 
 ![](/assets/images/Marypoppins-disneyscreencaps_com-13503.jpg)
 
@@ -128,14 +128,10 @@ In fact, as Saving Mr. Banks would go on to reveal (spoilers!) Travers wrote the
 >
 > **Walt Disney:** You must have loved and admired him a lot to take his name. It's him this is all about, isn't it? All of it, everything. Forgiveness, Mrs. Travers, it's what I learned from your books.
 
-It's Mr. Banks that needed saving, not the kids.
-
-Mr. Banks, so cold and regimented in his daily routine of tuppence and fiduciary banks, had lost the plot somewhere.. The story is a love letter to her own father.
-
-And there's the genius of Disney.
-
-I have to be honest, this gripped me more than I was expecting.
+It's Mr. Banks that needed saving, not the kids. He, so cold and regimented in his daily routine of tuppence and fiduciary banks, had lost something somewhere along the way. And Mary Poppins didn't literally messiah her way down from the clouds to indict the father on behalf of the children, she came to reclaim a bit of what he lost.
 
 ![](/assets/images/2A4285BC00000578-3150491-Mary_Poppins_series_was_turned_into_a_film_by_Walt_Disney_and_be-a-6_1436143235259.jpg)
 
-###The Dad Mule
+### The Dad Mule
+
+I have to be honest, this gripped me more than I was expecting.
