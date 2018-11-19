@@ -73,15 +73,17 @@ If, as I've noted earlier, marriage is "a study in selflessness", then parenthoo
 
 There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way.
 
-And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence". And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's just that they now take a backseat to keeping this new, little human alive.
+And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
 
-Given, as I mentioned previously, so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks with parenthood, you may be surprised to learn that it doesn't happen as often as you'd think. 
+And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's just that they now take a backseat to keeping this new, little human alive.
+
+Given, as I mentioned previously, so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks with parenthood, you may be surprised to learn that it doesn't happen as often as you'd think.
 
 You might try, at first, to solicit sympathy from friends and family on social media, but I would proceed with caution as that will likely only get you a heaping pile of "thoughts and prayers". You might turn to other fathers for support--and that camaraderie can be a great thing!--but ultimately, those dads have children of their own to care for, so saddling them with your burden is rarely welcome.
 
-And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works like mine, then your wife or partner, probably bears the lion's share of the child rearing. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears. 
+And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works like mine, then your wife or partner, probably bears the lion's share of the child rearing. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
 
-So then, just who do we dads complain to when the going gets tough? Who's up the chain from us? Is this truly just a put-up and shut-up scenario? 
+So then, just who do we dads complain to when the going gets tough? Who's up the chain from us? Is this truly just a put-up and shut-up scenario?
 
 The answer is most often: yes. You grin and bear it. When you have a full day at work and then go home only to punch in for a full night of parenting, you have to be prepared to simply take the stress of it all solely on the chin. You move on, you wake up, and then you do it again. At some point, the repetition of it all works you into a groove where it requires very little higher brain function at all.
 
@@ -99,17 +101,17 @@ From baby to adult.
 
 From amateur to maturity.
 
-It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her. Sometimes in parenthood, all you are is a simple pack mule. Many nights, after getting the kids bathed, calmed down, and successfully to bed, I collapse in a heap of spent energy and frayed emotions. 
+It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her. Sometimes in parenthood, all you are is a simple pack mule. Many nights, after getting the kids bathed, calmed down, and successfully to bed, I collapse in a heap of spent energy and frayed emotions.
 
-These are the dog days of young fatherhood. 
+These are the dog days of young fatherhood.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>&mdash; Shower Thoughts (@TheWeirdWorld) <a href="[https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">November 6, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="[https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">November 6, 2018</a></blockquote>
 
 <script async src="[https://platform.twitter.com/widgets.js](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")" charset="utf-8"></script>
 
 \---
 
-We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of life and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time single, thinking about becoming a dad so soon felt like whiplash. 
+We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of life and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time single, thinking about becoming a dad so soon felt like whiplash.
 
 And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But you have to understand, I was looking forward to _years_ of it just being my wife and me. I was looking forward to trips and adventures and spending time just the two of us. A baby was barely in our five year plan.
 
@@ -121,7 +123,7 @@ As we approached my birthday, my very pregnant wife decided to plan the biggest 
 
 We gave the keys to our house to some friends and hurried to the hospital. We didn't want all the food and merriment to go to waste, so we insisted the party go on as planned. My daughter entered the world the following evening, just after my big birthday bash was getting under way across town.
 
-We came home a few days later to an empty house with trash cans full of empty beer cans and "Happy Birthday" banners. 
+We came home a few days later to an empty house with trash cans full of empty beer cans and "Happy Birthday" banners.
 
 The symbolism of it all was not lost on me. This was the universe saying very clearly, "It's time to step aside, son."
 
@@ -129,7 +131,7 @@ The symbolism of it all was not lost on me. This was the universe saying very cl
 
 So, what do we do then? Do we just let the mind-numbing repetition beat us up over and over again? Is there any hope for rising above
 
-The term Dad Mule is silly, I know. But it's the best way I know to boil down this experience into something relatable. 
+The term Dad Mule is silly, I know. But it's the best way I know to boil down this experience into something relatable.
 
 But here's the thing. All this struggle. All this mind-numbing routine. It's worth it.
 
@@ -195,6 +197,6 @@ And where we will be born anew.
 
 \---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>&mdash; Michael (@Home_Halfway) <a href="[https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">March 16, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>— Michael (@Home_Halfway) <a href="[https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">March 16, 2018</a></blockquote>
 
 <script async src="[https://platform.twitter.com/widgets.js](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")" charset="utf-8"></script>
