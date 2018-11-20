@@ -69,13 +69,13 @@ And now, several years later, this blueness is all grown up, with responsibiliti
 
 _It should be noted that much of this entire section could be applied to mothers just as well as it does to fathers. Likely even more so! Unfortunately though, I have no first-hand knowledge of being in a mom's shoes. So instead of looking like an ass and trying to speak for the struggles mom's face, I'm going to leave this bit of commiseration here solely for dads. My apologies to all you moms who go through more than we dads could ever imagine._
 
-If, as I've noted earlier, marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
+If--as I've noted earlier--marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
 
 There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way.
 
 And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
 
-And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's just that they now take a backseat to keeping this new, little human alive.
+And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or even sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's just that they now take a backseat to keeping this new, little human alive.
 
 Given, as I mentioned previously, so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks with parenthood, you may be surprised to learn that it doesn't happen as often as you'd think.
 
