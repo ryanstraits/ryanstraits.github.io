@@ -105,11 +105,7 @@ It's moving this car seat to that car, then back again, then forgetting that you
 
 These are the dog days of young fatherhood.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="[https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">November 6, 2018</a></blockquote>
-
-<script async src="[https://platform.twitter.com/widgets.js](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")" charset="utf-8"></script>
-
-\---
+***
 
 We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of life and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time single, thinking about becoming a dad so soon felt like whiplash.
 
@@ -136,6 +132,12 @@ The term Dad Mule is silly, I know. But it's the best way I know to boil down th
 But here's the thing. All this struggle. All this mind-numbing routine. It's worth it.
 
 It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep. My God, young dad, it's so worth it.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="[https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">November 6, 2018</a></blockquote>
+
+<script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+
+\---
 
 \---
 
