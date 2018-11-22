@@ -127,7 +127,7 @@ We came home a few days later to an empty house with trash cans full of empty be
 
 The symbolism of it all was not lost on me. This was the universe saying very clearly, "It's time to step aside, son."
 
-\---
+---
 
 So, what do we do then? Do we just let the mind-numbing repetition beat us up over and over again? Is there any hope for rising above
 
@@ -137,9 +137,13 @@ But here's the thing. All this struggle. All this mind-numbing routine. It's wor
 
 It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep. My God, young dad, it's so worth it.
 
-\---
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>— Michael (@Home_Halfway) <a href="https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw">March 16, 2018</a></blockquote>
 
-\## Present Nostalgia
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+## Present Nostalgia
 
 On particularly taxing days, I find my mind drifting back to those bachelor days of mine. Yeah, you know, the time when I was probably depressed. Those are the times that I fantasize about now as a dad. Sure, that was maybe the bleakest time in my life, seemingly waiting forever for something to break in my favor.
 
@@ -161,7 +165,7 @@ And I'll tell him, "I did it by savoring every moment that I could..."
 
 "Because the whole thing is a gift."
 
-\---
+---
 
 We once were babies born of fresh winter snows
 
@@ -195,8 +199,4 @@ Winter. Our hearth, our home
 
 And where we will be born anew.
 
-\---
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>— Michael (@Home_Halfway) <a href="[https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">March 16, 2018</a></blockquote>
-
-<script async src="[https://platform.twitter.com/widgets.js](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")" charset="utf-8"></script>
+---
