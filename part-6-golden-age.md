@@ -7,7 +7,7 @@ tags:
 - fambly
 - dad-rock
 - a-midlife-guide
-slug: part-7-golden-age
+slug: part-6-golden-age
 layout: post
 categories: ''
 hidden: true
@@ -77,7 +77,7 @@ And, I have to be honest, I understand now why some dads can't handle the weight
 
 And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or even sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's just that they now take a backseat to keeping this new, little human alive.
 
-Given, as I [mentioned previously](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html), so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks with parenthood, you may be surprised to learn that it doesn't happen as often as you'd think.
+Given, as I mentioned in my [last post](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html), so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks with parenthood, you may be surprised to learn that it doesn't happen as often as you'd think.
 
 You might try, at first, to solicit sympathy from friends and family on social media. This is always the first instinct. But I would proceed with caution as this will likely only reward you a heaping pile of "thoughts and prayers". You might turn to other fathers for support--and that camaraderie can be a great thing!--but ultimately, those dads have children of their own to care for, so saddling them with your burden is rarely welcome.
 
@@ -104,6 +104,10 @@ From amateur to maturity.
 It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her. Sometimes in parenthood, all you are is a simple pack mule. Many nights, after getting the kids bathed, calmed down, and successfully to bed, I collapse in a heap of spent energy and frayed emotions.
 
 These are the dog days of young fatherhood.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
 
@@ -132,12 +136,6 @@ The term Dad Mule is silly, I know. But it's the best way I know to boil down th
 But here's the thing. All this struggle. All this mind-numbing routine. It's worth it.
 
 It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep. My God, young dad, it's so worth it.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="[https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw](https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw "https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw")">November 6, 2018</a></blockquote>
-
-<script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
-
-\---
 
 \---
 
