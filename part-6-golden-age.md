@@ -35,9 +35,13 @@ Instead, I'm greeted with the pitter-patter of little feet. And tiny shrieks of 
 
 And all the warmth and color of the world suddenly floods back in.
 
-Is this is really my life?
+Can this really be my life?
 
-There's no denying that this is my golden age.
+This is my golden age.
+
+> “I wish there was a way to know you're in the good old days before you've actually left them.”
+>
+> ― Andy Bernard
 
 ***
 
@@ -127,7 +131,7 @@ We came home a few days later to an empty house with trash cans full of empty be
 
 The symbolism of it all was not lost on me. This was the universe saying very clearly, "It's time to step aside, son."
 
----
+***
 
 So, what do we do then? Do we just let the mind-numbing repetition beat us up over and over again? Is there any hope for rising above
 
@@ -141,7 +145,7 @@ It's worth it for the tickle fights. The nights you squeal with glee with your k
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
+***
 
 ## Present Nostalgia
 
@@ -165,7 +169,7 @@ And I'll tell him, "I did it by savoring every moment that I could..."
 
 "Because the whole thing is a gift."
 
----
+***
 
 We once were babies born of fresh winter snows
 
@@ -199,4 +203,4 @@ Winter. Our hearth, our home
 
 And where we will be born anew.
 
----
+***
