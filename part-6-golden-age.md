@@ -45,7 +45,7 @@ This is my golden age.
 
 ***
 
-Just eight years ago, I was just a kid living solo in a shabby one-bedroom apartment on 3rd Street in Dover, Ohio. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
+Just eight years ago, I was a kid living solo in a shabby one-bedroom apartment on 3rd Street in Dover, Ohio. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
