@@ -23,21 +23,21 @@ There are days I wake up as if I've been startled from some strange dream.
 
 <!-- break -->
 
-And all at once, I'm a single man again who's startled to find himself lying in a married man's bed. I'm a father sliding my feet back into a bachelor's slippers. I look in the mirror and find the lined, graying face staring back at me unrecognizable. It's then that this starry fog washes over me and I'm suddenly privy to the cracks in the alternate universe I've come to find myself in.
+And all at once, I'm a single man again who's somehow found himself lying in a married man's bed. I'm a father sliding my feet back into a bachelor's shoes. I look in the mirror and find the lined, graying face staring back at me unrecognizable. It's then that this starry fog washes over me and I'm suddenly privy to the cracks in the alternate universe I've come to find myself in.
 
-I go about my day with the nagging guilt that I've somehow stolen this beautiful life from some other charmed version of myself. I lumber through my daily routine like it's second nature to be living this peculiar man's life. Tripping over hair bows and toy trucks that have accidentally found their way to my floor.
+I go about my day with the nagging guilt that I've somehow stolen this beautiful life from some other charmed version of myself. I lumber through my daily routine like it's second nature to be living this peculiar man's life. Tripping over hair bows and toy trucks that have mysteriously found their way to my floor.
 
-When the day is done, I come home and half expect to only hear the empty thud of the door as it latches behind me.
+When the day is done, I come home and expect to only hear the empty thud of the door as it latches behind me.
 
-Instead, I'm greeted with the pitter-patter of little feet. And tiny shrieks of joy.
+Instead, I'm greeted by the pitter-patter of little feet. And tiny shrieks of joy.
 
 "Dada! Dada!"
 
 And all the warmth and color of the world suddenly floods back in.
 
-Can this really be my life?
+This is my life. 
 
-This is my golden age.
+And this is undeniably my golden age.
 
 > “I wish there was a way to know you're in the good old days before you've actually left them.”
 >
@@ -45,23 +45,23 @@ This is my golden age.
 
 ***
 
-Just eight years ago, I was a kid living solo in a shabby one-bedroom apartment on 3rd Street in Dover, Ohio. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
+Eight years ago, I was just a kid living solo in a shabby one-bedroom apartment. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
-As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt. I was in a fun rock band for a few years. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. I never moved too far from my hometown, so family was always close by.
+As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt during that period of my life. I was in a fun indie-rock band for a few years. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. I never moved too far from my hometown, so family was always close by.
 
-These were all great things! So why then was I so unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on the couch after downing half a six-pack.
+These were all great things! So why then was I so profoundly unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on the couch after downing half a six-pack?
 
-Nights like these happened too frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered back then, I still don't quite know how to frame the unique sadness I felt. I think more than anything, I was just very blue.
+Nights like these happened frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered then, I still don't quite know how to frame the unique sadness I felt. I think more than anything, I was just very blue.
 
 The kind of feeling that your life should be something else but it just isn't yet.
 
-A combination of friends getting married and other friends starting families ripped any of the common ground we once shared right out from under my feet. It was just a lonely time. If my life had a low point, this was undeniably it.
+A combination of friends getting married and starting families ripped any of the common ground I once shared with them right out from under my feet. It was just a lonely time. I guess if my life had a low point, this was undeniably it.
 
-Now, I'm not naive enough to think that I had any kind of a cursed life. I was, and am still, incredibly privileged and blessed. It's not that my life was heading in some bad direction. _It's that it just wasn't heading in any particular direction at all._
+Now, I'm not naive enough to think that I have had any kind of a cursed life. I was, and am still, incredibly privileged and blessed. It's not that my life was heading in some bad direction. _It's that it just wasn't heading in any particular direction at all._
 
-In a life full of mostly safe and orderly choices, I needed a decision that I couldn't turn back from. So I met a girl, I moved four states away and the rest is [history](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html). That decision proved to be a much needed jolt to my social life. A brand new city to explore with a brand new group of friends! A girl to fall in love and start a new life with.
+In a life full of mostly safe and orderly choices, I came to a fork in the road ahead. I needed a decision that I couldn't turn back from. So I moved four states away, met a girl, and the rest is [history](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html). That decision proved to be a much needed jolt to my social life. A brand new city to explore with a brand new group of friends! A girl to fall in love and start a new life with.
 
 It was great and I very much love my life and that girl and those friends and this new home away from home. But that freshness eventually wore off, as fresh things are wont to do. And that pesky blueness somehow stuck around. Like a mental note that never quite made it from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor kept sitting there, blinking.
 
