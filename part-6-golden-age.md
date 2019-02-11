@@ -23,7 +23,7 @@ There are days I wake up as if I've been startled from some strange dream.
 
 <!-- break -->
 
-And all at once, I'm a single man again who's somehow found himself lying in a married man's bed. I'm a father sliding my feet back into a bachelor's shoes. I look in the mirror and find the lined, graying face staring back at me unrecognizable. It's then that this starry fog washes over me and I'm suddenly privy to the cracks in the alternate universe I've come to find myself in.
+And all at once, I'm a single man again who's somehow found himself lying in a married man's bed. I'm a father sliding my feet back into a bachelor's shoes. I look in the mirror and find the lined, graying face staring back at me unrecognizable. A starry fog washes over me and I'm suddenly privy to the cracks in the alternate universe I've come to find myself in.
 
 I go about my day with the nagging guilt that I've somehow stolen this beautiful life from some other charmed version of myself. I lumber through my daily routine like it's second nature to be living this peculiar man's life. Tripping over hair bows and toy trucks that have mysteriously found their way to my floor.
 
@@ -35,7 +35,7 @@ Instead, I'm greeted by the pitter-patter of little feet. And tiny shrieks of jo
 
 And all the warmth and color of the world suddenly floods back in.
 
-This is my life. 
+This is my life.
 
 And this is undeniably my golden age.
 
@@ -45,11 +45,11 @@ And this is undeniably my golden age.
 
 ***
 
-Eight years ago, I was just a kid living solo in a shabby one-bedroom apartment. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
+Eight years ago, I was just a kid living solo in a one-bedroom apartment 10 miles from my childhood home. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
-As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt during that period of my life. I was in a fun indie-rock band for a few years. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. I never moved too far from my hometown, so family was always close by.
+As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt during that period of my life. I was in a fun indie-rock band for a few years and on the praise band at church. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. Since I never moved too far from my hometown, family was always close by.
 
 These were all great things! So why then was I so profoundly unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on the couch after downing half a six-pack?
 
