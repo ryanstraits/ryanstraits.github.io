@@ -35,9 +35,9 @@ Instead, I'm greeted by the pitter-patter of little feet. And tiny shrieks of jo
 
 And all the warmth and color of the world suddenly floods back in.
 
-This is my life.
+_This is my life._
 
-And this is undeniably my golden age.
+And you could undeniably label this period of my life as my golden age.
 
 > “I wish there was a way to know you're in the good old days before you've actually left them.”
 >
@@ -45,13 +45,13 @@ And this is undeniably my golden age.
 
 ***
 
-Eight years ago, I was just a kid living solo in a one-bedroom apartment 10 miles from my childhood home. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
+Eight years ago, I was a kid living solo in a one-bedroom apartment 10 miles from my childhood home. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
 As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt during that period of my life. I was in a fun indie-rock band for a few years and on the praise band at church. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. Since I never moved too far from my hometown, family was always close by.
 
-These were all great things! So why then was I so profoundly unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09, and falling asleep on the couch after downing half a six-pack?
+These were all great things! So why then was I so profoundly unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09 on an original Xbox, and falling asleep on the couch after downing half a six-pack?
 
 Nights like these happened frequently in my later twenties. And as proud of that time of life as I am, and the growth and independence I fostered then, I still don't quite know how to frame the unique sadness I felt. I think more than anything, I was just very blue.
 
@@ -65,7 +65,7 @@ In a life full of mostly safe and orderly choices, I came to a fork in the road 
 
 It was great and I very much love my life and that girl and those friends and this new-ish home away from home. But that freshness eventually wore off, as fresh things are wont to do. And that pesky blueness somehow stuck around. Like a mental note that never quite made the leap from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor kept sitting there, blinking.
 
-And now, several years later, this blueness is all grown up, with responsibilities, a career, and mouths to feed. And it's turned itself into something I've named "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
+And now, several years later, this blueness is all grown up in a tucked in shirt, with responsibilities, a career, and mouths to feed. And it's turned itself into something I've named "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
 
 ***
 
@@ -75,17 +75,15 @@ _It should be noted that much of this entire section could be applied to mothers
 
 If--as I've noted earlier--marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
 
-There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way.
+There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way. And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
 
-And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
+And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or even sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's that they now take a backseat to keeping this new, little human alive.
 
-And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or even sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's just that they now take a backseat to keeping this new, little human alive.
-
-Given, as I mentioned in my [last post](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html), so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks with parenthood, you may be surprised to learn that it doesn't happen as often as you'd think.
+Given, as I mentioned in my [last post](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html), that so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks inherent to young parenthood, you learn quickly that it doesn't happen as often as you'd think.
 
 You might try, at first, to solicit sympathy from friends and family on social media. This is always the first instinct. But I would proceed with caution as this will likely only reward you a heaping pile of "thoughts and prayers". You might turn to other fathers for support--and that camaraderie can be a great thing!--but ultimately, those dads have children of their own to care for, so saddling them with your burden is rarely welcome.
 
-And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works like mine, then your wife or partner, probably bears the lion's share of the child rearing. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
+And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works close to mine, then your wife or partner, likely bears the lion's share of the child rearing already. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
 
 So then, just who do we dads complain to when the going gets tough? Who's up the chain from us? Is this truly just a put-up and shut-up scenario?
 
@@ -115,21 +113,21 @@ These are the dog days of young fatherhood.
 
 ***
 
-We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of life and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time single, thinking about becoming a dad so soon felt like whiplash.
+We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of my life to commence and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time as a single man, thinking about becoming a dad so soon felt like whiplash.
 
-And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But you have to understand, I was looking forward to _years_ of it just being my wife and me. I was looking forward to trips and adventures and spending time just the two of us. A baby was barely in our five year plan.
+And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But you have to understand, I was looking forward to _years_ of it just being my wife and I. I was looking forward to trips, and planning, and adventures, and more planning, and spending time together, just the two of us. A baby was barely in our five year plan.
 
-But here we were, picking out cribs and bouncers and breast pumps. It was all just so much. And it was all just so soon. It's then I realized that the good Lord knew I needed those nine months to prepare for the baby more than the baby needed nine months to prepare for the world.
+But here we were, picking out cribs, and bouncers, and breast pumps. It was all just so much. And it was all just so soon. It's then I realized that the good Lord knew I needed those nine months to prepare for the baby more than the baby needed nine months to prepare for the world.
 
 Nine months to prepare and nine months to grieve. I'm not the best at math, but I was able to add up fairly quickly where this new baby's due date was about to put me: squarely in the realm of obsolescence. You might think that's a bit of an over exaggeration, but this new little bouncing bundle of joy was due to be born within striking distance of my _own_ birthday. It was one of those coincidences of fate that just felt divinely comedic. This thing wasn't only going to take away the honeymoon period of my marriage, it was going to take away the one day _dedicated_ to me.
 
-As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all my friends, streamers all over my house, spiked punch, and a bonfire out back. I think you can see where this story is heading. She was a few weeks out from her due date, so we thought we were in the clear. But sure enough, the night before the big party, as she was putting the final touches on the food and decorations, her water broke.
+As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all our friends, streamers all over the house, spiked punch, and a bonfire out back. I think you can see where this story is heading. She was a few weeks out from her due date, so we thought we were in the clear. But wouldn't you know, the night before the big party, just as she was putting the final touches on the food and decorations, her water broke.
 
-We gave the keys to our house to some friends and hurried to the hospital. We didn't want all the food and merriment to go to waste, so we insisted the party go on as planned. My daughter entered the world the following evening, just after my big birthday bash was getting under way across town.
+We gave the keys to our house to some friends and hurried to the hospital. We didn't want all the food and merriment to go to waste, so we insisted the party go on as planned. My daughter entered the world the following evening, just after my big birthday bash was getting underway across town.
 
 We came home a few days later to an empty house with trash cans full of empty beer cans and "Happy Birthday" banners.
 
-The symbolism of it all was not lost on me. This was the universe saying very clearly, "It's time to step aside, son."
+The symbolism of it all was not lost on me. The universe was very clearly telling me, "It's time to step aside, son."
 
 ***
 
@@ -139,11 +137,9 @@ The term Dad Mule is silly, I know. But it's the best way I know to boil down th
 
 But here's the thing. All this struggle. All this mind-numbing routine. It's worth it.
 
-It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep. My God, young dad, it's so worth it.
+It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>— Michael (@Home_Halfway) <a href="https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw">March 16, 2018</a></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+My God, young dad, it's so worth it.
 
 ***
 
@@ -173,23 +169,23 @@ And I'll tell him, "I did it by savoring every moment that I could..."
 
 We once were babies born of fresh winter snows
 
-Coming of age in the cool rains of spring
+Coming of age in the cool spring rain
 
-And baked to form in July's sweltering glaze.
+And baking to form in July's sweltering glaze.
 
 But oh how we long for the summer to stay
 
 And keep our minds from the seasons to come!
 
-That is, until our sun-swept brows grow weary
+Until our sun-swept brows can stand no more
 
-And our lungs stifled with thick morning haze
+And the thick morning haze stifles our lungs
 
 It's only then we shift our gaze
 
 To the bare breezes of autumn
 
-When the sun slowly loses it's luster
+When the lowly sun loses its luster
 
 And our breath finds its just relief.
 
@@ -204,3 +200,7 @@ Winter. Our hearth, our home
 And where we will be born anew.
 
 ***
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>— Michael (@Home_Halfway) <a href="[https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw](https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw "https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw")">March 16, 2018</a></blockquote>
+
+<script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>

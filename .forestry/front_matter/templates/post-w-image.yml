@@ -1,7 +1,6 @@
 ---
 label: Post w/ Image
 hide_body: false
-is_partial: false
 fields:
 - name: title
   default: Jan 19, 2003
@@ -71,6 +70,6 @@ fields:
   hidden: false
 pages:
 - _posts/2015-03-19-the-50-states-of-grief-project.md
-- about.md
-- _posts/2018-01-22-a-grey-christmas.md
 - _posts/2018-01-22-energy-creates-energy.md
+- _posts/2018-01-22-a-grey-christmas.md
+- about.md
