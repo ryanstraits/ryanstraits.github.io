@@ -37,7 +37,7 @@ And all the warmth and color of the world suddenly floods back in.
 
 _This is my life._
 
-And this is undeniably my golden age.
+And this is my golden age.
 
 ***
 
