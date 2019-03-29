@@ -37,7 +37,9 @@ And all the warmth and color of the world suddenly floods back in.
 
 _This is my life._
 
-And you could undeniably label this period of my life as my golden age.
+And this is undeniably my golden age.
+
+***
 
 > “I wish there was a way to know you're in the good old days before you've actually left them.”
 >
