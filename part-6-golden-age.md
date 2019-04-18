@@ -37,7 +37,7 @@ And all the warmth and color of the world suddenly floods back in.
 
 _This is my life._
 
-And this is my golden age.
+And this is undoubtedly my golden age.
 
 ***
 
@@ -47,7 +47,7 @@ And this is my golden age.
 
 ***
 
-Eight years ago, I was a kid living solo in a one-bedroom apartment 10 miles from my childhood home. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
+Nine years ago, I was just a _kid_ living solo in a one-bedroom apartment only 10 miles from my childhood home. I was working an entry-level drafting job at the local window factory. I had no forward momentum and no prospects for gaining any steam.
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
@@ -59,7 +59,7 @@ Nights like these happened frequently in my later twenties. And as proud of that
 
 The kind of feeling that your life should be something else but it just isn't yet.
 
-A combination of friends getting married and starting families ripped any of the common ground I once shared with them right out from under my feet. It was just a lonely time. I guess if my life had a low point, this was undeniably it.
+A combination of friends moving away, or getting married and starting families ripped any of the common ground I once shared with them right out from under my feet. It was just a lonely time. I guess if my life had a low point, this was undeniably it.
 
 Now, I'm not naive enough to think that I have had any kind of a cursed life. I was, and am still, incredibly privileged and blessed. It's not that my life was heading in some bad direction. _It's that it just wasn't heading in any particular direction at all._
 
@@ -67,7 +67,7 @@ In a life full of mostly safe and orderly choices, I came to a fork in the road 
 
 It was great and I very much love my life and that girl and those friends and this new-ish home away from home. But that freshness eventually wore off, as fresh things are wont to do. And that pesky blueness somehow stuck around. Like a mental note that never quite made the leap from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor kept sitting there, blinking.
 
-And now, several years later, this blueness is all grown up in a tucked in shirt, with responsibilities, a career, and mouths to feed. And it's turned itself into something I've named "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
+And now, several years later, this blueness is all grown up in a tucked in shirt, with responsibilities, a career, and mouths to feed. And it's turned itself into something I've dubbed "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
 
 ***
 
