@@ -87,11 +87,11 @@ You might try, at first, to solicit sympathy from friends and family on social m
 
 And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works close to how mine does, then your wife or partner, likely bares the lion's share of the child rearing already. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
 
-So then, just who do we dads complain to when the going gets tough? Who's up the chain from us? Is this truly just a put-up and shut-up scenario?
+So then, just who do we dads complain to in these dog days of young fatherhood? Who's up the chain from us? Is this truly just a put-up and shut-up scenario?
 
-The answer is most often: yes. You grin and bear it. When you have a full day at work and then go home only to punch in for a full night of parenting, you have to be prepared to simply take the stress of it all solely on the chin. You move on, you wake up, and then you do it again. At some point, the repetition of it all works you into a groove where it requires very little higher brain function at all.
+The answer, most often, is yes. You grin and bear it. There isn't much time for anything else. When you have a full day at work and then go home only to punch in for a full night of parenting, you have to be prepared to simply take the stress of it all solely on the chin. You move on, you go to bed, and then you wake up and do it again. At some point, the repetition of it all works you into a groove where it requires very little higher brain function at all.
 
-This is the essence of what I've come to call: "The Dad Mule". You're simply a courier now. And sometimes, that's all you are. Your chief function as a dad is to get your kids from point A to point B successfully. It's not always about getting them there in the most elegant or efficient manner, it's just about getting them there.
+This is the essence of the Dad Mule. You're simply a courier now. A provider, a mess cleaner, a pain manager, a mistake inhibitor, a rule enforcer. And some days, these things are all you are. Your chief function now as a father is to get your kid(s) successfully from point A to point B successfully. It's not always about getting them there in the most elegant or efficient manner, it's just about _getting_ them there.
 
 From hungry to full.
 
@@ -105,9 +105,9 @@ From baby to adult.
 
 From amateur to maturity.
 
-It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her. Sometimes in parenthood, all you are is a pack mule. 
+It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her.
 
-These are the dog days of young fatherhood.
+Some days, you literally are just a pack mule.
 
 <center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote></center>
 
@@ -117,25 +117,45 @@ These are the dog days of young fatherhood.
 
 We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of my life to commence and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time as a single man, thinking about becoming a dad so soon felt like whiplash.
 
-And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But you have to understand, I was looking forward to _years_ of it just being my wife and I. I was looking forward to trips, and planning, and adventures, and more planning, and spending time together, just the two of us. A baby was barely in our five year plan.
+And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But you have to understand, I was looking forward to _years_ of it just being my wife and I. I was looking forward to trips, and planning, and adventures, and more planning, and spending time together, just the two of us. A baby was barely in my five year plan.
 
 But here we were, picking out cribs, and bouncers, and breast pumps. It was all just so much. And it was all just so soon. It's then I realized that the good Lord knew I needed those nine months to prepare for the baby more than the baby needed nine months to prepare for the world.
 
-Nine months to prepare and nine months to grieve. I'm not the best at math, but I was able to add up fairly quickly where this new baby's due date was about to put me: squarely in the realm of obsolescence. You might think that's a bit of an over exaggeration, but this new little bouncing bundle of joy was due to be born within striking distance of my _own_ birthday. It was one of those coincidences of fate that just felt divinely comedic. This thing wasn't only going to take away the honeymoon period of my marriage, it was going to take away the one day _dedicated_ to me.
+Nine months to prepare and nine months to grieve. I'm not the best at math, but I was able to add up fairly quickly where this new baby's due date was about to put me: squarely in the realm of obsolescence.
+
+You might think that's a bit of an over exaggeration, but this new little bouncing bundle of joy was due to be born within striking distance of my _own_ birthday. It was one of those coincidences of fate that just felt divinely comedic. This thing wasn't only going to take away the honeymoon period of my marriage, it was going to take away the one day _dedicated_ to me.
 
 As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all our friends, streamers all over the house, spiked punch, and a bonfire out back. I think you can see where this story is heading. She was a few weeks out from her due date, so we thought we were in the clear. But wouldn't you know, the night before the big party, just as she was putting the final touches on the food and decorations, her water broke.
 
-We gave the keys to our house to some friends and hurried to the hospital. We didn't want all the food and merriment to go to waste, so we insisted the party go on as planned. My daughter entered the world the following evening, just after my big birthday bash was getting underway across town.
+We gave our house keys to some friends and hurried to the hospital. We didn't want all the food and merriment to go to waste, so we insisted the party go on as planned. My daughter entered the world the following evening, just after my big birthday bash was getting underway across town.
 
 We came home a few days later to an empty house with trash cans full of empty beer cans and "Happy Birthday" banners.
 
-The symbolism of it all was not lost on me. The universe was very clearly telling me, "It's time to step aside, son."
+The symbolism of it all wasn't lost on me. This was the universe very clearly telling me that it was time to step aside. 
 
 ***
 
-So, what do we do then? Do we just let the mind-numbing repetition beat us up over and over again? Is there any hope for rising above
+The term Dad Mule is silly, I know. But it's the best way I know to boil down this experience into something relatable. The mind-numbing daily repetition and the sneaking suspicion that you're being passed over. Fatherhood _really_ is tough and it seems like no one really cares to listen.
 
-The term Dad Mule is silly, I know. But it's the best way I know to boil down this experience into something relatable.
+Except, that's not _entirely_ true. Is it?
+
+Deep down we know our families and friends _do_ care. They just don't have time to always listen. And so that got me thinking. What if I just paid someone to listen to me?
+
+It turns out, there are people who do actually perform this function. They're called licensed therapists and in the Fall of 2017, I found myself staring across from one for the very first time.
+
+I've been seeing a licensed therapist for the better part of the past year and it was one of the best decisions I've ever made.
+
+My reasons for seeking out mental health therapy aren't that complex: I am in the middle of one of the most stressful and anxious periods of my life. Career, kids, marriage, family. And I honestly just needed someone to work through all of it with.
+
+I needed someone completely outside my world to listen to me and tell me that what I was feeling is valid. An unbiased third party who could take an honest look at me and tell me I wasn't crazy. Side note: If you've never had another human being look at you and honestly tell you that you're not crazy for what you're feeling, you really need to try it some time. It may be one of the most healing things we can hear.
+
+Now, I know that the state of healthcare in this country means that cost is often a factor in making these kinds of decisions (and it was for me too), but I would encourage anyone considering therapy to do what you can to make it happen. If not for you, then for your family. Because I view my family as the biggest beneficiaries of me getting therapy. As a spouse and a parent, there's a relief that comes with getting your own mental baggage figured out so that it doesn't weigh on those around you. Help yourself so that you can help others.
+
+I would also encourage you, if you've thought about getting therapy, to seek out a licensed professional. Pastors and friends are really great and each can provide wise counsel & comfort. But there really is no substitute for someone who is trained & does this work for a living.
+
+I'll be honest, talking about my mental health is normally the type of thing I very much like to keep private. But there's still a certain stigma associated with therapy that keeps many of us away. So my hope is that by sharing this publicly, it may help lessen that stigma even a little for someone else.
+
+I've been surprised at how many dads and husbands I've talked to this past year that are having their own private struggles with anxiety as well. So if that's you too, you can be sure you're not alone, and it's OK to reach out. I know it can be awkward and scary at first but I promise you, it's worth the effort.
 
 But here's the thing. All this struggle. All this mind-numbing routine. It's worth it.
 
@@ -200,9 +220,3 @@ And it's Sister on it's heels.
 Winter. Our hearth, our home
 
 And where we will be born anew.
-
-***
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">90% of getting older is talking about how nice the person was at the store you were just at</p>— Michael (@Home_Halfway) <a href="[https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw](https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw "https://twitter.com/Home_Halfway/status/974792105011941376?ref_src=twsrc%5Etfw")">March 16, 2018</a></blockquote>
-
-<script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
