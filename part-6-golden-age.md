@@ -189,34 +189,16 @@ And I'll tell him, "I did it by savoring every moment that I could..."
 
 ***
 
-We once were babies born of fresh winter snows
+We once were babies born of fresh winter snows, coming of age in the cool spring rain, and baking to form in July's sweltering glaze.
 
-Coming of age in the cool spring rain
+But oh how we long for the summer to stay, and keep our minds from the seasons to come!
 
-And baking to form in July's sweltering glaze.
+Until our sun-swept brows can stand no more and the thick morning haze stifles our clean pink lungs.
 
-But oh how we long for the summer to stay
-
-And keep our minds from the seasons to come!
-
-Until our sun-swept brows can stand no more
-
-And the thick morning haze stifles our lungs
-
-It's only then we shift our gaze
-
-To the bare breezes of autumn
-
-When the lowly sun loses its luster
-
-And our breath finds its just relief.
+It's only then we shift our gaze to the bare breezes of autumn, when the lowly sun loses its luster, nd our breath finds its just relief.
 
 "To everything there is a season."
 
-Fall will come
+Fall will come and with her, a Sister fresh on her heels.
 
-And it's Sister on it's heels.
-
-Winter. Our hearth, our home
-
-And where we will be born anew.
+Winter. Our hearth, our home, and where we will be born anew.
