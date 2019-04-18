@@ -75,7 +75,7 @@ And now, several years later, this blueness is all grown up in a tucked in shirt
 
 ###### _It should be noted that much of this entire next section could be applied to mothers just as well as it does to fathers. Likely even more so! Unfortunately though, I have no first-hand knowledge of being in a mom's shoes. So instead of looking like an ass and trying to speak for the struggles mom's face, I'm going to leave this bit of commiseration here solely for dads. My apologies to all you moms who go through more than we dads could ever imagine._
 
-If--as I've noted earlier--marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
+If--[as I've noted earlier](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)--marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
 
 There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way. And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
 
@@ -83,15 +83,15 @@ And for some people, that's just too much. Taking on the role of caregiver, guid
 
 Given, as I mentioned in my [last post](http://blog.ryanstraits.com/2018/06/18/part-5-forever-summer.html), that so many other humans are sharing in this same parenting experience, you might think that commiseration amongst the ranks is a free and frequent occurrence. But like so many quirks inherent to young parenthood, you learn quickly that it doesn't happen as often as you'd think.
 
-You might try, at first, to solicit sympathy from friends and family on social media. This is always the first instinct. But I would proceed with caution as this will likely only reward you a heaping pile of "thoughts and prayers". You might turn to other fathers for support--and that camaraderie can be a great thing!--but ultimately, those dads have children of their own to care for, so saddling them with your burden is rarely welcome.
+You might try, at first, to solicit sympathy from friends and family on social media. This is always the first instinct. But I would proceed with caution as this will likely only reward you a heaping pile of "thoughts and prayers". You might turn to other fathers for support--and that camaraderie can be great!--but ultimately, those dads have children of their own to care for, so saddling them with your additional burden is rarely welcome.
 
-And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works close to mine, then your wife or partner, likely bears the lion's share of the child rearing already. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
+And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works close to how mine does, then your wife or partner, likely bares the lion's share of the child rearing already. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
 
 So then, just who do we dads complain to when the going gets tough? Who's up the chain from us? Is this truly just a put-up and shut-up scenario?
 
 The answer is most often: yes. You grin and bear it. When you have a full day at work and then go home only to punch in for a full night of parenting, you have to be prepared to simply take the stress of it all solely on the chin. You move on, you wake up, and then you do it again. At some point, the repetition of it all works you into a groove where it requires very little higher brain function at all.
 
-This is the essence of what I've come to call: "The Dad Mule". I'm simply a courier now. And sometimes, that's all I am. My chief function as a dad is to get my kids from point A to point B successfully. It's not always about getting them there in the most elegant or efficient manner, it's just about getting them there.
+This is the essence of what I've come to call: "The Dad Mule". You're simply a courier now. And sometimes, that's all you are. Your chief function as a dad is to get your kids from point A to point B successfully. It's not always about getting them there in the most elegant or efficient manner, it's just about getting them there.
 
 From hungry to full.
 
@@ -105,7 +105,7 @@ From baby to adult.
 
 From amateur to maturity.
 
-It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her. Sometimes in parenthood, all you are is a simple pack mule. Many nights, after getting the kids bathed, calmed down, and successfully to bed, I collapse in a heap of spent energy and frayed emotions.
+It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her. Sometimes in parenthood, all you are is a pack mule. 
 
 These are the dog days of young fatherhood.
 
