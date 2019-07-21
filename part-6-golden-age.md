@@ -1,6 +1,6 @@
 ---
 title: 'Part 6: Golden Age'
-date: 2018-06-25 18:00:00 +0000
+date: 2018-06-25T18:00:00.000+00:00
 tags:
 - soul-driver
 - now-that-im-older
@@ -131,7 +131,7 @@ We gave our house keys to some friends and hurried to the hospital. We didn't wa
 
 We came home a few days later to an empty house with trash cans full of empty beer cans and "Happy Birthday" banners.
 
-The symbolism of it all wasn't lost on me. This was the universe very clearly telling me that it was time to step aside. 
+The symbolism of it all wasn't lost on me. This was the universe very clearly telling me that it was time to step aside.
 
 ***
 
@@ -163,24 +163,6 @@ It's worth it for the tickle fights. The nights you squeal with glee with your k
 
 My God, young dad, it's so worth it.
 
-***
-
-## Present Nostalgia
-
-On particularly taxing days, I find my mind drifting back to those bachelor days of mine. Yeah, you know, the time when I was probably depressed. Those are the times that I fantasize about now as a dad. Sure, that was maybe the bleakest time in my life, seemingly waiting forever for something to break in my favor.
-
-But man that kid had so much free time. He had so much time to dream about possibilities. To sit around and stoop in his sadness. What a gift.
-
-I keep coming back to time because I believe parenthood is the first instance when you truly begin to realize it's worth. That gift of time that I had as a younger man has been cashed in for short, frenetic days of screaming kids and leaking diapers. For first year molars and gymnastics classes.
-
-You barely have enough time to think, let alone dream.
-
-I'm nostalgic for that period of my life. I know I'll be nostalgic for this period of life right now. Try to live with a present nostalgia. Realizing that I'm going to miss these days immensely, so I need to make sure I live in them fully present.
-
-Ending: "present" nostalgia. Look at the things I know I'll look back on from this time and feel that presence now. House we live in, way the light comes through the trees, children young, etc.
-
-I've got a front row seat right now to what I will likely later consider to be the best times of my life.
-
 Because before I know it, I'll be sitting across the table from a young father asking me "How did you do it? Raise your kids, stay married, keep your sanity?"
 
 And I'll tell him, "I did it by savoring every moment that I could..."
@@ -189,16 +171,30 @@ And I'll tell him, "I did it by savoring every moment that I could..."
 
 ***
 
-We once were babies born of fresh winter snows, coming of age in the cool spring rain, and baking to form in July's sweltering glaze.
+We were once babies born of fresh winter snows,
 
-But oh how we long for the summer to stay, and keep our minds from the seasons to come!
+coming of age in the cool spring rain,
 
-Until our sun-swept brows can stand no more and the thick morning haze stifles our clean pink lungs.
+and baking in to form with July's sweltering glaze.
 
-It's only then we shift our gaze to the bare breezes of autumn, when the lowly sun loses its luster, nd our breath finds its just relief.
+But oh how we long for the summer to stay,
+
+and keep our minds from the dreaded seasons to come!
+
+Until our sun-swept brows can stand no more
+
+and the thick morning haze stifles our clean pink lungs.
+
+It's only then we shift our gaze to the bare breezes of autumn,
+
+when the lowly sun loses its luster, and our breath finds its just relief.
 
 "To everything there is a season."
 
 Fall will come and with her, a Sister fresh on her heels.
 
-Winter. Our hearth, our home, and where we will be born anew.
+Winter. 
+
+Our hearth, our home,
+
+and where we will be born anew.
