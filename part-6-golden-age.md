@@ -33,7 +33,7 @@ Instead, I'm greeted by the pitter-patter of little feet. And tiny shrieks of jo
 
 "Dada! Dada!"
 
-And all the warmth and color of the world suddenly floods back in.
+And all the warmth and color of the world floods back in.
 
 _This is my life._
 
@@ -51,7 +51,7 @@ Nine years ago, I was just a _kid_ living solo in a one-bedroom apartment only 1
 
 I wasn't a dad yet, but I was nearing deadbeat status.
 
-As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt during that period of my life. I was in a fun indie-rock band for a few years and on the praise band at church. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. Since I never moved too far from my hometown, family was always close by.
+As I [previously mentioned](http://blog.ryanstraits.com/2018/05/14/part-3-a-grown-up-soul.html), I had got some traveling under my belt during that period of my life. I was in a fun indie-rock band for a few years and on the praise band at church. I had some great friends. I went to the local community college, paid as I went, and wound up saving myself a lot of debt in the process. And since I had never moved too far from my hometown, family was always close by.
 
 These were all great things! So why then was I so profoundly unhappy during that period of my life? Why was I spending my Friday nights at home in my apartment alone, strumming my guitar, playing Madden '09 on an original Xbox, and falling asleep on the couch after downing half a six-pack?
 
@@ -193,7 +193,7 @@ when the lowly sun loses its luster, and our breath finds its just relief.
 
 Fall will come and with her, a Sister fresh on her heels.
 
-Winter. 
+Winter.
 
 Our hearth, our home,
 
