@@ -65,9 +65,9 @@ Now, I'm not naive enough to think that I have had any kind of a cursed life. I 
 
 In a life full of mostly safe and orderly choices, I came to a fork in the road ahead. I needed a decision that I couldn't turn back from. So I moved four states away, married a cute girl, and the rest is [history](http://blog.ryanstraits.com/2010/07/05/choose-your-own-adventure.html). That decision proved to be a much needed jolt to my social life. A brand new city to explore with a brand new group of friends! A girl to fall in love and start a new life with.
 
-It was great and I very much love my life and that girl and those friends and this new-ish home away from home. But that freshness eventually wore off, as fresh things are wont to do. And that pesky blueness somehow stuck around. Like a mental note that never quite made the leap from my short term to long term memory. Or a paragraph that I long since deleted, but the cursor kept sitting there, blinking.
+It was great and I very much love my life and that girl and those friends and this new-ish home away from home. But that freshness eventually wore off, as fresh things are wont to do. And that pesky blueness somehow stuck around. Like a mental note that never quite made the leap from my short term to long term memory and slipped away. Or a paragraph that I've long since deleted, but left a blinking cursor in its place.
 
-And now, several years later, this blueness is all grown up in a tucked in shirt, with responsibilities, a career, and mouths to feed. And it's turned itself into something I've dubbed "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
+And now, several years later, this blueness is all grown up in a tucked in shirt, with responsibilities, a career, and mouths to feed. And it's morphed itself into something I've come to call "[The Dad Mule](https://www.urbandictionary.com/define.php?term=pack%20mule)".
 
 ***
 
