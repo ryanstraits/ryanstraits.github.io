@@ -91,7 +91,7 @@ So then, just who do we dads complain to in these dog days of young fatherhood? 
 
 The answer, most often, is yes. You grin and bear it. There isn't much time for anything else. When you have a full day at work and then go home only to punch in for a full night of parenting, you have to be prepared to simply take the stress of it all solely on the chin. You move on, you go to bed, and then you wake up and do it again. At some point, the repetition of it all works you into a groove where it requires very little higher brain function at all.
 
-This is the essence of the Dad Mule. You're simply a courier now. A provider, a mess cleaner, a pain manager, a mistake inhibitor, a rule enforcer. And some days, these things are all you are. Your chief function now as a father is to get your kid(s) successfully from point A to point B successfully. It's not always about getting them there in the most elegant or efficient manner, it's just about _getting_ them there.
+This is the essence of the Dad Mule. You're just a courier now. A provider, a mess cleaner, a pain manager, a mistake inhibitor, a rule enforcer. And some days, these things are all you are. Your chief function now as a father is to get your kid(s) successfully from point A to point B successfully. It's not always about getting them there in the most elegant or efficient manner, it's simply about _getting_ them there.
 
 From hungry to full.
 
@@ -108,10 +108,6 @@ From amateur to maturity.
 It's moving this car seat to that car, then back again, then forgetting that your wife needs the car seat in her van so you turn around and take it back to her.
 
 Some days, you literally are just a pack mule.
-
-<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Parenting is recognizing your kid doing all of the things you used to do and deciding whether or not to let them get away with it.</p>— Shower Thoughts (@TheWeirdWorld) <a href="https://twitter.com/TheWeirdWorld/status/1059923630442930176?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote></center>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
 
@@ -139,11 +135,11 @@ The term Dad Mule is silly, I know. But it's the best way I know to boil down th
 
 Except, that's not _entirely_ true. Is it?
 
-Deep down we know our families and friends _do_ care. They just don't have time to always listen. And so that got me thinking. What if I just paid someone to listen to me?
+Deep down we know our families and friends _do_ care. They just don't have time to always listen. And so that got me thinking: what if I just paid someone to listen to me?
 
-It turns out, there are people who do actually perform this function. They're called licensed therapists and in the Fall of 2017, I found myself staring across from one for the very first time.
+It turns out, there are people who do actually perform this function in society. They're called licensed therapists and in the Fall of 2017, I found myself staring across from one for the very first time.
 
-I've been seeing a licensed therapist for the better part of the past year and it was one of the best decisions I've ever made.
+I wound up seeing a licensed therapist for the better part of a year and it was hands down one of the best decisions I've ever made.
 
 My reasons for seeking out mental health therapy aren't that complex: I am in the middle of one of the most stressful and anxious periods of my life. Career, kids, marriage, family. And I honestly just needed someone to work through all of it with.
 
@@ -155,46 +151,18 @@ I would also encourage you, if you've thought about getting therapy, to seek out
 
 I'll be honest, talking about my mental health is normally the type of thing I very much like to keep private. But there's still a certain stigma associated with therapy that keeps many of us away. So my hope is that by sharing this publicly, it may help lessen that stigma even a little for someone else.
 
-I've been surprised at how many dads and husbands I've talked to this past year that are having their own private struggles with anxiety as well. So if that's you too, you can be sure you're not alone, and it's OK to reach out. I know it can be awkward and scary at first but I promise you, it's worth the effort.
-
-But here's the thing. All this struggle. All this mind-numbing routine. It's worth it.
-
-It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep.
-
-My God, young dad, it's so worth it.
-
-Because before I know it, I'll be sitting across the table from a young father asking me "How did you do it? Raise your kids, stay married, keep your sanity?"
-
-And I'll tell him, "I did it by savoring every moment that I could..."
-
-"Because the whole thing is a gift."
+I've been surprised at how many dads and husbands I've talked to since I started this journey that are having their own private struggles with anxiety as well. So if that's you too, you can be sure you're not alone, and it's OK to reach out. I know it can be awkward and scary at first but I promise you, it's worth the effort.
 
 ***
 
-We were once babies born of fresh winter snows,
+So yes, the Dad Mule is silly but the struggle is definitely still real.
 
-coming of age in the cool spring rain,
+But all this struggle. All this mind-numbing routine. I promise that it's so worth it.
 
-and baking in to form with July's sweltering glaze.
+It's worth it for the tickle fights. The nights you squeal with glee with your kids in a way you haven't since _you_ were a kid. It's worth it when your daughter snuggles up under the crook of your arm and falls asleep. When your son asks you to play Spiderman vs. Hulk for the 15th time.
 
-But oh how we long for the summer to stay,
+My God, young dad, it's so worth it.
 
-and keep our minds from the dreaded seasons to come!
+So deal with what you need to so that you can be fully present and fully alive for your family. There's no amount of money 
 
-Until our sun-swept brows can stand no more
-
-and the thick morning haze stifles our clean pink lungs.
-
-It's only then we shift our gaze to the bare breezes of autumn,
-
-when the lowly sun loses its luster, and our breath finds its just relief.
-
-"To everything there is a season."
-
-Fall will come and with her, a Sister fresh on her heels.
-
-Winter.
-
-Our hearth, our home,
-
-and where we will be born anew.
+***
