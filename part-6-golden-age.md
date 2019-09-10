@@ -135,9 +135,11 @@ The term Dad Mule is silly, I know. But it's the best way I know to boil down th
 
 Except, that's not _entirely_ true. Is it?
 
-Deep down we know our families and friends _do_ care. They just don't have time to always listen. And so that got me thinking: what if I just paid someone to listen to me?
+Deep down we know our families and friends _do_ care. They just don't have the time or understanding to always listen. And so that got me thinking: what if I just paid someone to listen to me?
 
 It turns out, there are people who do actually perform this function in society. They're called licensed therapists and in the Fall of 2017, I found myself staring across from one for the very first time.
+
+I have to admit, I felt like an idiot seeking out a counsellor for my miniscule problems.
 
 I wound up seeing a licensed therapist for the better part of a year and it was hands down one of the best decisions I've ever made.
 
