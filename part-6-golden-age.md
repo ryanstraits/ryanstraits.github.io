@@ -71,7 +71,7 @@ And now, several years later, this blueness is all grown up in a tucked in shirt
 
 ***
 
-[sYlbA9ukTgM](https://unsplash.com/photos/sYlbA9ukTgM "sYlbA9ukTgM")
+![](/assets/images/ron-hansen-sYlbA9ukTgM-unsplash.jpg)
 
 ### The Dad Mule
 
