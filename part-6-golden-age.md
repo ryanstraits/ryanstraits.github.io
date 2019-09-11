@@ -71,6 +71,8 @@ And now, several years later, this blueness is all grown up in a tucked in shirt
 
 ***
 
+[sYlbA9ukTgM](https://unsplash.com/photos/sYlbA9ukTgM "sYlbA9ukTgM")
+
 ### The Dad Mule
 
 ###### _It should be noted that much of this entire next section could be applied to mothers just as well as it does to fathers. Likely even more so! Unfortunately though, I have no first-hand knowledge of being in a mom's shoes. So instead of looking like an ass and trying to speak for the struggles mom's face, I'm going to leave this bit of commiseration here solely for dads. My apologies to all you moms who go through more than we dads could ever imagine._
@@ -139,7 +141,7 @@ Deep down we know our families and friends _do_ care. They just don't have the t
 
 It turns out, there are people who do actually perform this function in society. They're called licensed therapists and in the Fall of 2017, I found myself staring across from one for the very first time.
 
-I have to admit, I felt like an idiot seeking out a counsellor for my miniscule problems.
+I have to admit, I felt a little strange seeking out a counsellor for my miniscule problems.
 
 I wound up seeing a licensed therapist for the better part of a year and it was hands down one of the best decisions I've ever made.
 
@@ -165,6 +167,6 @@ It's worth it for the tickle fights. The nights you squeal with glee with your k
 
 My God, young dad, it's so worth it.
 
-So deal with what you need to so that you can be fully present and fully alive for your family. There's no amount of money 
+So deal with what you need to so that you can be fully present and fully alive for your family. There's no amount of money
 
 ***
