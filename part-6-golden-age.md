@@ -170,3 +170,9 @@ My God, young dad, it's so worth it.
 So deal with what you need to so that you can be fully present and fully alive for your family. There's no amount of money
 
 ***
+
+Dad mule end: the superpowers that are inherited; uncanny ability to put up with bullshit, drown out crying or whining children; ups your tolerance for things that annoy you to a whole other level
+
+***
+
+Parenthood is tough, but it is very simple. Itʼs mostly learning to get out of your kids way. You donʼt have the power to make them into rousing success stories. But you do have the power to wreck them. The sooner you learn that you are more a guardrail than a backseat driver, the better off youʼll be.
