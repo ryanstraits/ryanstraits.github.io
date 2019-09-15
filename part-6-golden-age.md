@@ -157,6 +157,8 @@ I'll be honest, talking about my mental health is normally the type of thing I v
 
 I've been surprised at how many dads and husbands I've talked to since I started this journey that are having their own private struggles with anxiety as well. So if that's you too, you can be sure you're not alone, and it's OK to reach out. I know it can be awkward and scary at first but I promise you, it's worth the effort.
 
+Therapy is like reading a book as opposed to reading about a book. You know what itʼs going to say, but thereʼs still a journey in the reading. In the slow methodical mouthing of the words.
+
 ***
 
 So yes, the Dad Mule is silly but the struggle is definitely still real.
