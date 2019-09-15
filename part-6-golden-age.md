@@ -111,7 +111,7 @@ It's moving this car seat to that car, then back again, then forgetting that you
 
 Some days, you literally are just a pack mule.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, my 3 year old son woke up from his nap saying “Daddy, I have poop on my hands!”<br><br>And he did.<br><br>Last night, my 6 year old daughter came to our bedside at 3am saying that she pooped her bed.<br><br>And she did.<br><br>Happy Father’s Day to me!</p>&mdash; Ryan Straits (@ryanstraits) <a href="https://twitter.com/ryanstraits/status/1140663116298145793?ref_src=twsrc%5Etfw">June 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, my 3 year old son woke up from his nap saying “Daddy, I have poop on my hands!”<br><br>And he did.<br><br>Last night, my 6 year old daughter came to our bedside at 3am saying that she pooped her bed.<br><br>And she did.<br><br>Happy Father’s Day to me!</p>— Ryan Straits (@ryanstraits) <a href="https://twitter.com/ryanstraits/status/1140663116298145793?ref_src=twsrc%5Etfw">June 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 ***
 
