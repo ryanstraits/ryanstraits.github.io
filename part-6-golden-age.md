@@ -111,6 +111,8 @@ It's moving this car seat to that car, then back again, then forgetting that you
 
 Some days, you literally are just a pack mule.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, my 3 year old son woke up from his nap saying “Daddy, I have poop on my hands!”<br><br>And he did.<br><br>Last night, my 6 year old daughter came to our bedside at 3am saying that she pooped her bed.<br><br>And she did.<br><br>Happy Father’s Day to me!</p>&mdash; Ryan Straits (@ryanstraits) <a href="https://twitter.com/ryanstraits/status/1140663116298145793?ref_src=twsrc%5Etfw">June 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ***
 
 We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of my life to commence and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time as a single man, thinking about becoming a dad so soon felt like whiplash.
