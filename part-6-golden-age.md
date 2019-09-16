@@ -117,15 +117,17 @@ Some days, you literally are just a pack mule.
 
 We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of my life to commence and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time as a single man, thinking about becoming a dad so soon felt like whiplash.
 
-And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But you have to understand, I was looking forward to _years_ of it just being my wife and I. I was looking forward to trips, and planning, and adventures, and more planning, and spending time together, just the two of us. A baby was barely in my five year plan.
+And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But as I mentioned, I was looking forward to _years_ of it just being my wife and I. I was looking forward to trips, and planning, and adventures, and more planning, and spending time together, just the two of us. A baby was barely in my five year plan, let alone my five _month_ plan.
 
 But here we were, picking out cribs, and bouncers, and breast pumps. It was all just so much. And it was all just so soon. It's then I realized that the good Lord knew I needed those nine months to prepare for the baby more than the baby needed nine months to prepare for the world.
 
 Nine months to prepare and nine months to grieve. I'm not the best at math, but I was able to add up fairly quickly where this new baby's due date was about to put me: squarely in the realm of obsolescence.
 
-You might think that's a bit of an over exaggeration, but this new little bouncing bundle of joy was due to be born within striking distance of my _own_ birthday. It was one of those coincidences of fate that just felt divinely comedic. This thing wasn't only going to take away the honeymoon period of my marriage, it was going to take away the one day _dedicated_ to me.
+You might think that's a bit of an over exaggeration, but this new little bouncing bundle of joy was due to be born within striking distance of my _own_ birthday. It was one of those coincidences of fate that felt divinely comedic. This thing wasn't only going to take away the honeymoon period of my marriage, it was going to take away the one day _dedicated_ to me.
 
-As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all our friends, streamers all over the house, spiked punch, and a bonfire out back. I think you can see where this story is heading. She was a few weeks out from her due date, so we thought we were in the clear. But wouldn't you know, the night before the big party, just as she was putting the final touches on the food and decorations, her water broke.
+As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all our friends, streamers all over the house, spiked punch, and a bonfire out back. _I think you can see where this story is heading._ It's like she knew that this was likely my last hurrah, so 
+
+She was a few weeks out from her due date, so we thought we were in the clear. But wouldn't you know, the night before the big party, just as she was putting the final touches on the food and decorations, her water broke.
 
 We gave our house keys to some friends and hurried to the hospital. We didn't want all the food and merriment to go to waste, so we insisted the party go on as planned. My daughter entered the world the following evening, just after my big birthday bash was getting underway across town.
 
