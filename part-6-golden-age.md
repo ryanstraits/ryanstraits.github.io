@@ -75,7 +75,7 @@ And now, several years later, this blueness is all grown up in a tucked in shirt
 
 ### The Dad Mule
 
-###### _It should be noted that much of this entire next section could be applied to mothers just as well as it does to fathers. Likely even more so! Unfortunately though, I have no first-hand knowledge of being in a mom's shoes. So instead of looking like an ass and trying to speak for the struggles mom's face, I'm going to leave this bit of commiseration here solely for dads. My apologies to all you moms who go through more than we dads could ever imagine._
+###### _It should be noted that much of this entire next section could be applied to mothers just as well as it does to fathers. Likely even more so! Unfortunately though, I have no first-hand knowledge of being in a mom's shoes. So instead of looking like an ass (pun intended!) and trying to speak for the struggles mom's face, I'm going to leave this bit of commiseration here solely for dads. My apologies to all you moms who go through more than we dads could ever imagine._
 
 If--[as I've noted earlier](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)--marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
 
