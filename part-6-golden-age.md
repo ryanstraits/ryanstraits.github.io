@@ -115,6 +115,8 @@ Some days, you literally are just a pack mule.
 
 ***
 
+## Happy Birthday, You're A Dad
+
 We got the surprise news that we were pregnant with my daughter just five months into our new marriage. Five months! To say that my world was turned upside down was a bit of an understatement. I had waited nearly _30 years_ for this married stage of my life to commence and now I was already staring down the barrel of another completely new and unknown chapter. After spending so much time as a single man, thinking about becoming a dad so soon felt like whiplash.
 
 And so when we first saw the positive pregnancy test, I have to be honest, my initial reaction wasn't elation. It was disappointment. Don't get me wrong, the excitement came later. But as I mentioned, I was looking forward to _years_ of it just being my wife and I. I was looking forward to trips, and planning, and adventures, and more planning, and spending time together, just the two of us. A baby was barely in my five year plan, let alone my five _month_ plan.
