@@ -79,7 +79,7 @@ And now, several years later, this blueness is all grown up in a tucked in shirt
 
 If--[as I've noted earlier](http://blog.ryanstraits.com/2018/05/21/part-4-life-in-the-future.html)--marriage is "a study in selflessness", then parenthood is more like "selflessness being forced upon you". Whether you like it or not.
 
-There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way. And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable, mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
+There's just no getting around it. "Your needs" as a priority in your own life have been bumped down the list several notches when you become a dad. This is inescapable. That is, unless, you turn tail and run the other way. And, I have to be honest, I understand now why some dads can't handle the weight of fatherhood. It's wholly unforgivable and completely inexcusable mind you, but for the first time in my life, I get it. As a friend said recently about his own reckoning with encroaching fatherhood, "There's just so much...consequence".
 
 And for some people, that's just too much. Taking on the role of caregiver, guide, and co-provider--or even sole provider--of such young, fragile lives is a uniquely immense burden. And that burden can be soul crushing. It's not so much that your dreams die or go away, it's that they now take a backseat to keeping this new, little human alive.
 
@@ -87,7 +87,7 @@ Given, as I mentioned in my [last post](http://blog.ryanstraits.com/2018/06/18/p
 
 You might try, at first, to solicit sympathy from friends and family on social media. This is always the first instinct. But I would proceed with caution as this will likely only reward you a heaping pile of "thoughts and prayers". You might turn to other fathers for support--and that camaraderie can be great!--but ultimately, those dads have children of their own to care for, so saddling them with your additional burden is rarely welcome.
 
-And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works close to how mine does, then your wife or partner, likely bares the lion's share of the child rearing already. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears.
+And then there is your spouse. Open and frequent communication about your struggles in "dadding" is encouraged, but if your family works close to how mine does, then your wife or partner, likely bares the lion's share of the child rearing already. So more often than not, a verbal download of all the physical and mental stress that you're experiencing will fall on less-than-understanding ears. And that obviously isn't their fault.
 
 So then, just who do we dads complain to in these dog days of young fatherhood? Who's up the chain from us? Is this truly just a put-up and shut-up scenario?
 
