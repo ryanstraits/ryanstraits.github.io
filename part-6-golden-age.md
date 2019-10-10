@@ -127,7 +127,7 @@ Nine months to prepare and nine months to grieve. I'm not the best at math, but 
 
 You might think that's a bit of an over exaggeration, but this new little bouncing bundle of joy was due to be born within striking distance of my _own_ birthday. It was one of those coincidences of fate that felt divinely comedic. This thing wasn't only going to take away the honeymoon period of my marriage, it was going to take away the one day _dedicated_ to me.
 
-As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all our friends, streamers all over the house, spiked punch, and a bonfire out back. _I think you can see where this story is heading._ It's like she knew that this was likely my last hurrah, so 
+As we approached my birthday, my very pregnant wife decided to plan the biggest birthday celebration that has ever been thrown in my honor. I'm talking invites sent to nearly all our friends, streamers all over the house, spiked punch, and a bonfire out back. _I think you can see where this story is heading._ It's like she knew that this was likely my last hurrah, so
 
 She was a few weeks out from her due date, so we thought we were in the clear. But wouldn't you know, the night before the big party, just as she was putting the final touches on the food and decorations, her water broke.
 
@@ -143,29 +143,31 @@ The term Dad Mule is silly, I know. But it's the best way I know to boil down th
 
 Except, that's not _entirely_ true. Is it?
 
-Deep down we know our families and friends _do_ care. They just don't have the time or understanding to always listen. And so that got me thinking: what if I just paid someone to listen to me?
+Deep down we know our families and friends _do_ care. They just don't have the time, awareness, or capacity to always listen. And so that got me thinking: what if I just paid someone to listen to me?
 
 It turns out, there are people who do actually perform this function in society. They're called licensed therapists and in the Fall of 2017, I found myself staring across from one for the very first time.
 
-I have to admit, I felt a little strange seeking out a counsellor for my miniscule problems.
+I have to admit, I felt a little strange seeking out a counsellor for my seemingly "miniscule" problems.
 
 I wound up seeing a licensed therapist for the better part of a year and it was hands down one of the best decisions I've ever made.
 
 My reasons for seeking out mental health therapy aren't that complex: I am in the middle of one of the most stressful and anxious periods of my life. Career, kids, marriage, family. And I honestly just needed someone to work through all of it with.
 
-I needed someone completely outside my world to listen to me and tell me that what I was feeling is valid. An unbiased third party who could take an honest look at me and tell me I wasn't crazy. Side note: If you've never had another human being look at you and honestly tell you that you're not crazy for what you're feeling, you really need to try it some time. It may be one of the most healing things we can hear.
+I needed someone completely outside my world to listen to me and tell me that what I was feeling is valid. An unbiased third party who could take an honest look at me and tell me I wasn't crazy.
+
+(Side note: If you've never had another human being look at you and honestly tell you that you're not crazy for what you're feeling, you really need to try it sometime. It may be one of the most healing things we can hear.)
 
 Now, I know that the state of healthcare in this country means that cost is often a factor in making these kinds of decisions (and it was for me too), but I would encourage anyone considering therapy to do what you can to make it happen. If not for you, then for your family. Because I view my family as the biggest beneficiaries of me getting therapy. As a spouse and a parent, there's a relief that comes with getting your own mental baggage figured out so that it doesn't weigh on those around you. Help yourself so that you can help others.
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey. If you need to hear this, I hope you're ready to listen:<br><br>You do not have to wait until you hit rock bottom or reach the end of your rope before asking for help.<br><br>You do not have to wait "because it might get worse" or "because it might get better". You can ask for help now.</p>— gin. (@showupforthis) <a href="https://twitter.com/showupforthis/status/1102770920047824896?ref_src=twsrc%5Etfw">March 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-I would also encourage you, if you've thought about getting therapy, to seek out a licensed professional. Pastors and friends are really great and each can provide wise counsel & comfort. But there really is no substitute for someone who is trained & does this work for a living.
+I would also encourage you, if you've thought about getting therapy, to seek out a licensed professional. Pastors and friends are really great and each can provide wise counsel and comfort. But there really is no substitute for someone who is trained & does this work for a living.
 
 I'll be honest, talking about my mental health is normally the type of thing I very much like to keep private. But there's still a certain stigma associated with therapy that keeps many of us away. So my hope is that by sharing this publicly, it may help lessen that stigma even a little for someone else.
 
 I've been surprised at how many dads and husbands I've talked to since I started this journey that are having their own private struggles with anxiety as well. So if that's you too, you can be sure you're not alone, and it's OK to reach out. I know it can be awkward and scary at first but I promise you, it's worth the effort.
 
-Therapy is like reading a book as opposed to reading about a book. You know what itʼs going to say, but thereʼs still a journey in the reading. In the slow methodical mouthing of the words.
+Therapy is like reading a book as opposed to reading about a book. You know what itʼs going to say, but thereʼs still this journey in the reading. In the slow methodical mouthing of the words.
 
 ***
 
