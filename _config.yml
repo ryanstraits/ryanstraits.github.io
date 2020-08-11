@@ -42,7 +42,7 @@ encoding: utf-8
 
 # social icons and sharing options
 social:
-  - icon: list
+  - icon: tree
     url: http://www.ryanstraits.com
     desc: ryanstraits.com
 
