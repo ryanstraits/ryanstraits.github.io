@@ -42,7 +42,7 @@ encoding: utf-8
 
 # social icons and sharing options
 social:
-  - icon: sitemap
+  - icon: list
     url: http://www.ryanstraits.com
     desc: ryanstraits.com
 
@@ -68,9 +68,9 @@ social:
     url: http://www.sixthdegreepod.com
     desc: Check out my podcast
   
-  - icon: spotify
-    url: https://open.spotify.com/user/ryanstraits/playlist/5cZUMgliJdvmWurhudO2jK?si=l1zBGGn_QhGU3odAKZielA
-    desc: I made you a mixtape
+  - icon: headphones
+    url: http://www.myoldmixtapes.com
+    desc: My old mixtapes meet Spotify
     
 # - icon: medium
 #    url: https://medium.com/@ryanstraits
